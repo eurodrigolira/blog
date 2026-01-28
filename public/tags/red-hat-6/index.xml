@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red-Hat-6 on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/red-hat-6/</link>
+    <description>Recent content in Red-Hat-6 on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/red-hat-6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agregação de Interfaces no CentOS 6/Red Hat 6/Oracle Linux 6 e derivados</title>
+      <link>http://rodrigolira.eti.br:80/agrega%C3%A7%C3%A3o-de-interfaces-no-centos-6/red-hat-6/oracle-linux-6-e-derivados/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/agrega%C3%A7%C3%A3o-de-interfaces-no-centos-6/red-hat-6/oracle-linux-6-e-derivados/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Faz tempo que queria falar sobre agregação de interfaces no Linux, para começar vamos falar da agregação nas versões do Linux CentOS 6, Red Hat 6, Oracle Linux 6 e derivados, as configurações são as mesmas visto que todos usam a mesma estrutura de diretórios, arquivos e configurações.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

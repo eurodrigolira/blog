@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedora on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/fedora/</link>
+    <description>Recent content in Fedora on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bloqueando dispositivos USB no Linux com USBGuard</title>
+      <link>http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;962&#34;&#xA;    height=&#34;193&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_22b293d8c68ba99a.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_22b293d8c68ba99a.png 800w, http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como podemos bloquear ou liberar dispositivos do tipo &lt;strong&gt;USB&lt;/strong&gt; no Linux com &lt;strong&gt;USBGuard&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Windows 10 &#43; WSL2 &#43; Fedora Remix &#43; KDE &#43; X410</title>
+      <link>http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1350&#34;&#xA;    height=&#34;688&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_db29fd3325e9e145.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_db29fd3325e9e145.png 800w, http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_8ec9ceb3c4886558.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou mostrar como podemos executar o nosso querido fedora usando o &lt;strong&gt;WSL2&lt;/strong&gt; do &lt;strong&gt;Windows&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o WSL do Windows ele permite que executemos um Linux diretamente no Windows.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o Minikube e Kubectl no Fedora 31</title>
+      <link>http://rodrigolira.eti.br:80/instalando-o-minikube-e-kubectl-no-fedora-31/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instalando-o-minikube-e-kubectl-no-fedora-31/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/instalando-o-minikube-e-kubectl-no-fedora-31/images/minikube.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;731&#34;&#xA;    height=&#34;207&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instalando-o-minikube-e-kubectl-no-fedora-31/images/minikube.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instalando-o-minikube-e-kubectl-no-fedora-31/images/minikube.jpg 800w, http://rodrigolira.eti.br:80/instalando-o-minikube-e-kubectl-no-fedora-31/images/minikube.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instalando-o-minikube-e-kubectl-no-fedora-31/images/minikube.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como podemos fazer a instalação do &lt;strong&gt;Minikube&lt;/strong&gt; e do &lt;strong&gt;Kubectl&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não sabe o que é o Mikikube é uma ferramenta que facilita a criação e execução &lt;strong&gt;Kubernetes&lt;/strong&gt;, ele executa um cluster Kubernetes em uma única maquina virtual, ele é essencial para as pessoas que estão aprendendo Kubernetes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o Docker e Docker Compose no Fedora 29</title>
+      <link>http://rodrigolira.eti.br:80/instalando-o-docker-e-docker-compose-no-fedora-29/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instalando-o-docker-e-docker-compose-no-fedora-29/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos realizar a instalação do &lt;strong&gt;Docker&lt;/strong&gt; e do &lt;strong&gt;Docker Compose&lt;/strong&gt; no &lt;strong&gt;Fedora 29&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;Docker&lt;/strong&gt; já está disponível por padrão nos repositórios do Fedora, ou seja, não precisamos adicionar nenhum repositório de terceiros para realizar a sua instalação.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o VMware Workstation 15 no Fedora 29</title>
+      <link>http://rodrigolira.eti.br:80/instalando-o-vmware-workstation-15-no-fedora-29/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instalando-o-vmware-workstation-15-no-fedora-29/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como instalar o VMware Workstation 15 no Fedora 29.&lt;/p&gt;&#xA;&lt;p&gt;O processo de instalação do VMware Workstation é bem simples, apesar de ter pessoas que sempre passam por problemas, normalmente porque não instalam as dependências necessárias.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Utilizando o YUM – Parte 03</title>
+      <link>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-03/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-03/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o &lt;strong&gt;YUM&lt;/strong&gt;, hoje vamos falar sobre o &lt;strong&gt;yum&lt;/strong&gt; &lt;strong&gt;history&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não leu os outros posts, aconselho que façam isso, vocês podem ler os outros posts nos links abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

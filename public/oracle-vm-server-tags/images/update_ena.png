@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Oracle® VM Manager Getting Started Guide for Release 3.4 - Oracle® VM  Manager Getting Started Guide for Release 3.4</title>
+<meta content="Oracle® VM Manager Getting Started Guide for Release 3.4" name="application-name">
+<meta content="Oracle Help Center" property="og:site_name">
+<meta content="Oracle® VM Manager Getting Started Guide for Release 3.4" property="og:title">
+<style type="text/css">
+
+/********************************/
+/* start of styles in block.xsl */
+
+.formalpara-title {
+  font-weight: bold;
+}
+
+div.blockquote-title {
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+span.msgmain-title {
+  font-weight: bold;
+}
+
+span.msgsub-title {
+  font-weight: bold;
+}
+
+span.msgrel-title {
+  font-weight: bold;
+}
+
+div.msglevel, div.msgorig, div.msgaud {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+span.msglevel-title, span.msgorig-title, span.msgaud-title {
+  font-weight: bold;
+}
+
+div.msgexplan {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+span.msgexplan-title {
+  font-weight: bold;
+}
+
+/********************************/
+/* start of styles in formal.xsl */
+
+div.figure-title {
+  font-weight: bold;
+}
+
+div.example-title {
+  font-weight: bold;
+}
+
+div.equation-title {
+  font-weight: bold;
+}
+
+div.table-title {
+  font-weight: bold;
+}
+
+div.sidebar-title {
+  font-weight: bold;
+}
+
+
+/* end of styles in formal.xsl */
+/********************************/
+
+/********************************/
+/* start of styles in verbatim.xsl */
+
+div.programlisting {
+  white-space: pre;
+  font-family: monospace;
+}
+
+div.screen {
+  white-space: pre;
+  font-family: monospace;
+}
+
+div.synopsis {
+  white-space: pre;
+  font-family: monospace;
+}
+
+/* end of styles in verbatim.xsl */
+/********************************/
+
+/* footnote rule */
+hr.footnote-hr {
+  width: 100;
+}
+
+
+/* Additional styling on top of standard docbook.css */
+/*****************************************************/
+
+/* Increase the size of the 'letter' headings in indexes and color them */
+
+div.index div.index div.indexdiv h3
+{
+  font-size: 200%;
+  color: #026789;
+}
+
+div A.firstterm:link {text-decoration:none;}
+div A.firstterm:visited {text-decoration:none;}
+div A.firstterm:hover {text-decoration:underline;}
+div A.firstterm:active {text-decoration:underline;}
+
+em.glossterm, em.firstterm {
+          color: black;
+          font-style: normal;
+          text-decoration: none;
+          border-bottom: 1px green dotted;
+}
+
+/*
+   These are inline elements for corresponding inline
+   elements, such as errorcode and errorname.
+   */
+.errorcode, .errortext, .errorname, .errortype
+{
+  font-family: "Courier New", Courier, fixed, monospace;
+  color: #7b3d23;
+  }
+
+.errorname
+{
+  font-weight: bold;
+  }
+
+.errortype
+{
+  font-style: italic;
+  }
+
+  
+/*  GUI items are formatted black and bold */
+  .guibutton, .guiicon, .guilabel, .guimenu, .guimenuitem, .guisubmenu
+{
+  color: black;
+  font-weight: bold;
+  }
+
+
+/* Italic and bold for emphasis role="bold" */
+span.bold strong
+{
+  font-style: italic;
+  font-weight: bold;
+  }
+
+/* Italic for standard emphasis */
+span.emphasis em
+{
+  font-style: italic;
+  font-weight: normal;
+  }
+
+/* Monospace bold for emphasis role="bold" within top-level sections */
+.command
+{
+  font-family: "Courier New", Courier, fixed, monospace;
+  }
+
+/* replaceable element sets replaceable text to bold */
+.replaceable
+{
+  color: inherit;
+  font-weight: bold;
+  background-color: inherit;
+  padding: 1px;
+  }
+
+/* userinput element sets user input text to bold */
+.userinput
+{
+  color: inherit;
+  font-weight: bold;
+  background-color: inherit;
+  padding: 1px;
+  }
+
+/* filename element sets different color */
+.filename
+{
+  color: #990000;
+  }
+
+
+/*  Some title formatting */
+.table-title, .orderedlist-title, .itemizedlist-title, .figure-title {
+    font-weight:bold;
+}
+
+
+/* Beta draft header and Oracle confidential footer */
+.alert
+{
+    font-weight: bold;
+    color: #e00;
+}
+
+/* Beta and Private Beta is colored red */
+.beta, .private-beta
+{
+  color: #e00;
+}
+
+/* Terms in a Glossary list are bold */
+.term
+{
+  font-weight: bold;
+}
+</style>
+<meta content="DocBook XSL Stylesheets V1.79.1" name="generator">
+<meta content="Document generated on: 2021-04-13 (revision: 7587)" name="description">
+<link href="vmgsg-preface.html" rel="next" title="Preface">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link href="index.html#oracle-legal-notices" rel="copyright" title="Copyright">
+<!-- Oracle metadata start -->
+<meta content="2021-04-13" name="date">
+<meta content="7587" name="revision">
+<meta content="VMGSG" name="docid">
+<meta content="Oracle® VM Manager Getting Started Guide for Release 3.4" name="doctitle">
+<meta content="E64080-06" name="partno">
+<meta content="Q4455" name="qpart">
+<meta content="3.4" name="relnum">
+<meta content="all" name="robots" scheme="http://www.robotstxt.org">
+<!-- Oracle metadata end -->
+<link href="/sp_common/book-template/ohc-book-template/css/book.css" rel="stylesheet">
+<link href="/sp_common/book-template/ohc-common/img/favicon.ico" rel="shortcut icon">
+<script data-main="/sp_common/book-template/ohc-book-template/js/book-config" src="/sp_common/book-template/requirejs/require.js"></script>
+<script src="sp_common/base.js"></script>
+<link href="E64080.pdf" rel="alternate" title="PDF File" type="application/pdf">
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+    <meta name="dcterms.created" content="2021-04-13T23:23:19+00:00">
+    <meta name="dcterms.title" content="Oracle VM Manager Getting Started Guide for Release 3.4">
+    <meta name="dcterms.category" content="virtualization">
+    <meta name="dcterms.isVersionOf" content="START">
+    <meta name="dcterms.product" content="en/virtualization/oracle-vm/3.4">
+    <meta name="dcterms.identifier" content="E64080-06">
+    <meta name="dcterms.release" content="3.4">
+  <script id="ssot-metadata" type="application/json"> {"primary":{"category":{"short_name":"virtualization","element_name":"Virtualization","display_in_url":true},"suite":{"short_name":"oracle-vm","element_name":"Oracle VM","display_in_url":false},"product_group":{"short_name":"not-applicable","element_name":"Not Applicable","display_in_url":false},"product":{"short_name":"oracle-vm","element_name":"Oracle VM","display_in_url":true},"release":{"short_name":"3.4","element_name":"3.4","display_in_url":true}}} </script>
+    <script>window.ohcglobal || document.write('<script src="/en/dcommon/js/global.js">\x3C/script>')</script></head>
+<body>
+<article>
+<noscript>
+<div class="noscript alert alert-danger text-center" role="alert"><span aria-hidden="true" class="fa fa-exclamation-triangle"></span> JavaScript must be enabled to correctly display this content
+    </div>
+</noscript>
+<div class="book" id="VMGSG">
+<div class="titlepage">
+<div>
+<div>
+<h1 class="title"><span class="trademark">Oracle</span>® VM</h1>
+</div>
+<div>
+<h2 class="subtitle">Manager Getting Started Guide for Release 3.4</h2>
+</div>
+<div>
+<div aria-expanded="false" class="collapse" id="oracle-legal-notices">
+<h3>Oracle Legal Notices</h3>
+<p>
+        Copyright © 2011,  2021 Oracle and/or its affiliates. All
+        rights reserved.
+      </p>
+<p>
+    This software and related documentation are provided under a license
+    agreement containing restrictions on use and disclosure and are
+    protected by intellectual property laws. Except as expressly
+    permitted in your license agreement or allowed by law, you may not
+    use, copy, reproduce, translate, broadcast, modify, license,
+    transmit, distribute, exhibit, perform, publish, or display any
+    part, in any form, or by any means. Reverse engineering,
+    disassembly, or decompilation of this software, unless required by
+    law for interoperability, is prohibited.
+  </p>
+<p>
+    The information contained herein is subject to change without notice
+    and is not warranted to be error-free. If you find any errors,
+    please report them to us in writing.
+  </p>
+<p>
+    If this is software or related documentation that is delivered to
+    the U.S. Government or anyone licensing it on behalf of the U.S.
+    Government, then the following notice is applicable:
+  </p>
+<p>
+    U.S. GOVERNMENT END USERS: Oracle programs (including any operating
+    system, integrated software, any programs embedded, installed or
+    activated on delivered hardware, and modifications of such programs)
+    and Oracle computer documentation or other Oracle data delivered to
+    or accessed by U.S. Government end users are "commercial computer
+    software" or "commercial computer software documentation" pursuant
+    to the applicable Federal Acquisition Regulation and agency-specific
+    supplemental regulations. As such, the use, reproduction,
+    duplication, release, display, disclosure, modification, preparation
+    of derivative works, and/or adaptation of i) Oracle programs
+    (including any operating system, integrated software, any programs
+    embedded, installed or activated on delivered hardware, and
+    modifications of such programs), ii) Oracle computer documentation
+    and/or iii) other Oracle data, is subject to the rights and
+    limitations specified in the license contained in the applicable
+    contract. The terms governing the U.S. Government's use of Oracle
+    cloud services are defined by the applicable contract for such
+    services. No other rights are granted to the U.S. Government.
+  </p>
+<p>
+    This software or hardware is developed for general use in a variety
+    of information management applications. It is not developed or
+    intended for use in any inherently dangerous applications, including
+    applications that may create a risk of personal injury. If you use
+    this software or hardware in dangerous applications, then you shall
+    be responsible to take all appropriate fail-safe, backup,
+    redundancy, and other measures to ensure its safe use. Oracle
+    Corporation and its affiliates disclaim any liability for any
+    damages caused by use of this software or hardware in dangerous
+    applications.
+  </p>
+<p>
+    Oracle and Java are registered trademarks of Oracle and/or its
+    affiliates. Other names may be trademarks of their respective
+    owners.
+  </p>
+<p>
+    Intel and Intel Inside are trademarks or registered trademarks of
+    Intel Corporation. All SPARC trademarks are used under license and
+    are trademarks or registered trademarks of SPARC International, Inc.
+    AMD, Epyc, and the AMD logo are trademarks or registered trademarks
+    of Advanced Micro Devices. UNIX is a registered trademark of The
+    Open Group.
+  </p>
+<p>
+    This software or hardware and documentation may provide access to or
+    information about content, products, and services from third
+    parties. Oracle Corporation and its affiliates are not responsible
+    for and expressly disclaim all warranties of any kind with respect
+    to third-party content, products, and services unless otherwise set
+    forth in an applicable agreement between you and Oracle. Oracle
+    Corporation and its affiliates will not be responsible for any loss,
+    costs, or damages incurred due to your access to or use of
+    third-party content, products, or services, except as set forth in
+    an applicable agreement between you and Oracle.
+  </p>
+</div>
+</div>
+<div>
+<div aria-expanded="false" class="collapse" id="oracle-legal-docbook">
+<h3>Oracle Documentation License</h3>
+<p>
+    This document uses the Web-based Help format from DocBook XML. The
+    following license information applies to this format.
+  </p>
+<p>
+    Copyright © 1999-2007 Norman Walsh
+  </p>
+<p>
+    Copyright © 2003 Jiri Kosek
+  </p>
+<p>
+    Copyright © 2004-2007 Steve Ball
+  </p>
+<p>
+    Copyright © 2005-2008 The DocBook Project
+  </p>
+<p>
+    Copyright © 2011-2012 O'Reilly Media
+  </p>
+<p>
+    Permission is hereby granted, free of charge, to any person
+    obtaining a copy of this software and associated documentation files
+    (the ``Software''), to deal in the Software without restriction,
+    including without limitation the rights to use, copy, modify, merge,
+    publish, distribute, sublicense, and/or sell copies of the Software,
+    and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+  </p>
+<p>
+    The above copyright notice and this permission notice shall be
+    included in all copies or substantial portions of the Software.
+  </p>
+<p>
+    Except as contained in this notice, the names of individuals
+    credited with contribution to this software shall not be used in
+    advertising or otherwise to promote the sale, use or other dealings
+    in this Software without prior written authorization from the
+    individuals in question.
+  </p>
+<p>
+    Any stylesheet derived from this Software that is publicly
+    distributed will be identified with a different name and the version
+    strings in any derived Software will be changed so that no
+    possibility of confusion between the derived package and this
+    Software will exist.
+  </p>
+<p class="legal-subhead">
+    Warranty
+  </p>
+<p>
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    NONINFRINGEMENT. IN NO EVENT SHALL NORMAN WALSH OR ANY OTHER
+    CONTRIBUTOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+    WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+    DEALINGS IN THE SOFTWARE.
+  </p>
+<p class="legal-head">
+    Web-based Help from DocBook XML
+  </p>
+<p>
+    Copyright © 2008-2012 Kasun Gajasinghe, David Cramer
+  </p>
+<p>
+    Permission is hereby granted, free of charge, to any person
+    obtaining a copy of this software and associated documentation files
+    (the “Software”), to deal in the Software without restriction,
+    including without limitation the rights to use, copy, modify, merge,
+    publish, distribute, sublicense, and/or sell copies of the Software,
+    and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+  </p>
+<div class="itemizedlist">
+<ul class="itemizedlist" style="list-style-type: disc; ">
+<li class="listitem">
+<p>
+        The above copyright notice and this permission notice shall be
+        included in all copies or substantial portions of the Software.
+      </p>
+</li>
+<li class="listitem">
+<p>
+        Except as contained in this notice, the names of individuals
+        credited with contribution to this software shall not be used in
+        advertising or otherwise to promote the sale, use or other
+        dealings in this Software without prior written authorization
+        from the individuals in question.
+      </p>
+</li>
+<li class="listitem">
+<p>
+        Any stylesheet derived from this Software that is publicly
+        distributed will be identified with a different name and the
+        version strings in any derived Software will be changed so that
+        no possibility of confusion between the derived package and this
+        Software will exist.
+      </p>
+</li>
+</ul>
+</div>
+<p>
+<span class="strong"><strong>Warranty:</strong></span> THE SOFTWARE IS
+    PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+    INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+    SHALL DAVID CRAMER, KASUN GAJASINGHE, OR ANY OTHER CONTRIBUTOR BE
+    LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+  </p>
+<p>
+    Certain search characteristics associated with the DocBook XSL
+    webhelp stylesheets are provided as javascript files generated using
+    Apache Lucene and other fourth party technologies, which are
+    licensed under the Apache License reproduced below.
+  </p>
+<pre class="programlisting nocopybutton">                                Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use,
+      reproduction, and distribution as defined by Sections 1 through
+      9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized
+      by the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under
+      common control with that entity. For the purposes of this
+      definition, "control" means (i) the power, direct or indirect,
+      to cause the direction or management of such entity, whether by
+      contract or otherwise, or (ii) ownership of fifty percent (50%)
+      or more of the outstanding shares, or (iii) beneficial ownership
+      of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making
+      modifications, including but not limited to software source code,
+      documentation source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or
+      Object form, that is based on (or derived from) the Work and
+      for which the editorial revisions, annotations, elaborations,
+      or other modifications represent, as a whole, an original work
+      of authorship. For the purposes of this License, Derivative
+      Works shall not include works that remain separable from, or
+      merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or
+      additions to that Work or Derivative Works thereof, that is
+      intentionally submitted to Licensor for inclusion in the Work
+      by the copyright owner or by an individual or Legal Entity
+      authorized to submit on behalf of the copyright owner.
+      For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication
+      sent to the Licensor or its representatives, including but not
+      limited to communication on electronic mailing lists, source
+      code control systems, and issue tracking systems that are
+      managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work,
+      but excluding communication that is conspicuously marked or
+      otherwise designated in writing by the copyright owner as
+      "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal
+      Entity on behalf of whom a Contribution has been received by
+      Licensor and subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions
+      of this License, each Contributor hereby grants to You a
+      perpetual, worldwide, non-exclusive, no-charge, royalty-free,
+      irrevocable copyright license to reproduce, prepare Derivative
+      Works of, publicly display, publicly perform, sublicense, and
+      distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have
+      made, use, offer to sell, sell, import, and otherwise transfer
+      the Work, where such license applies only to those patent claims
+      licensable by such Contributor that are necessarily infringed
+      by their Contribution(s) alone or by combination of their
+      Contribution(s) with the Work to which such Contribution(s) was
+      submitted. If You institute patent litigation against any entity
+      (including a cross-claim or counterclaim in a lawsuit) alleging
+      that the Work or a Contribution incorporated within the Work
+      constitutes direct or contributory patent infringement, then any
+      patent licenses granted to You under this License for that Work
+      shall terminate as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute
+          must include a readable copy of the attribution notices
+          contained within such NOTICE file, excluding those notices
+          that do not pertain to any part of the Derivative Works, in
+          at least one of the following places: within a NOTICE text
+          file distributed as part of the Derivative Works; within
+          the Source form or documentation, if provided along with
+          the Derivative Works; or, within a display generated by the
+          Derivative Works, if and wherever such third-party notices
+          normally appear. The contents of the NOTICE file are for
+          informational purposes only and do not modify the License.
+          You may add Your own attribution notices within Derivative
+          Works that You distribute, alongside or as an addendum to
+          the NOTICE text from the Work, provided that such additional
+          attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications
+      and may provide additional or different license terms and
+      conditions for use, reproduction, or distribution of Your
+      modifications, or for any such Derivative Works as a whole,
+      provided Your use, reproduction, and distribution of the Work
+      otherwise complies with the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state
+      otherwise, any Contribution intentionally submitted for
+      inclusion in the Work by You to the Licensor shall be under the
+      terms and conditions of this License, without any additional
+      terms or conditions. Notwithstanding the above, nothing herein
+      shall supersede or modify the terms of any separate license
+      agreement you may have executed with Licensor regarding such
+      Contributions.
+
+   6. Trademarks. This License does not grant permission to use the
+      trade names, trademarks, service marks, or product names of the
+      Licensor, except as required for reasonable and customary use in
+      describing the origin of the Work and reproducing the content of
+      the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or
+      conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or
+      FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible
+      for determining the appropriateness of using or redistributing
+      the Work and assume any risks associated with Your exercise of
+      permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and
+      grossly negligent acts) or agreed to in writing, shall any
+      Contributor be liable to You for damages, including any direct,
+      indirect, special, incidental, or consequential damages of any
+      character arising as a result of this License or out of the use
+      or inability to use the Work (including but not limited to
+      damages for loss of goodwill, work stoppage, computer failure
+      or malfunction, or any and all other commercial damages or
+      losses), even if such Contributor has been advised of the
+      possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty,
+      indemnity, or other liability obligations and/or rights
+      consistent with this License. However, in accepting such
+      obligations, You may act only on Your own behalf and on Your
+      sole responsibility, not on behalf of any other Contributor,
+      and only if You agree to indemnify, defend, and hold each
+      Contributor harmless for any liability incurred by, or claims
+      asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+   implied. See the License for the specific language governing
+   permissions and limitations under the License.
+</pre>
+</div>
+<div>
+<a aria-controls="oracle-legal-notices" aria-expanded="false" class="collapsed" data-toggle="collapse" href="#oracle-legal-notices" id="copyright-information-btn" role="button">
+          Legal Notice and Copyright Information
+        </a>
+</div>
+</div>
+<div>
+<p class="pubdate">E64080-06</p>
+</div>
+<div>
+<p class="pubdate">April 2021</p>
+</div>
+<div>
+<div class="abstract">
+<div class="abstract-title">Abstract</div>
+<p>
+        Document generated on:
+
+        2021-04-13
+
+
+
+        (revision: 7587)
+      </p>
+</div>
+</div>
+<div>
+<div class="abstract">
+<div class="abstract-title">Abstract</div>
+<p>
+        This tutorial describes how to get started with Oracle VM,
+        and walks you through discovering Oracle VM Servers, registering
+        storage, setting up networking, setting up a storage repository
+        and importing resources into it, creating a server pool and
+        creating virtual machines.
+      </p>
+<p>
+        You should read and follow this tutorial if you are new to
+        Oracle VM and want to quickly get up and running.
+      </p>
+</div>
+</div>
+</div>
+<hr>
+</div>
+<div class="toc">
+<div class="toc-title">Table of Contents</div>
+<ul class="toc">
+<li>
+<span class="preface">
+<a href="vmgsg-preface.html">Preface</a>
+</span>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-getting-started.html">1 Getting Started with Oracle VM</a>
+</span>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-servers.html">2 Discover Oracle VM Servers</a>
+</span>
+<ul>
+<li>
+<span class="section">
+<a href="vmgsg-servers.html#vmgsg-servers-discover">2.1 Discovering Oracle VM Servers</a>
+</span>
+</li>
+</ul>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-storage.html">3 Discover Storage</a>
+</span>
+<ul>
+<li>
+<span class="section">
+<a href="vmgsg-storage.html#vmgsg-storage-fs-discover">3.1 Discovering a file server</a>
+</span>
+</li>
+<li>
+<span class="section">
+<a href="vmgsg-storage.html#vmgsg-storage-san-discover">3.2 Discovering a SAN server (storage array)</a>
+</span>
+</li>
+</ul>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-network.html">4 Create a Virtual Machine Network</a>
+</span>
+<ul>
+<li>
+<span class="section">
+<a href="vmgsg-network.html#vmgsg-network-create">4.1 Creating a virtual machine network</a>
+</span>
+</li>
+</ul>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-svrpool.html">5 Create a Server Pool</a>
+</span>
+<ul>
+<li>
+<span class="section">
+<a href="vmgsg-svrpool.html#vmgsg-svrpool-create">5.1 Creating a server pool</a>
+</span>
+</li>
+</ul>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-repo.html">6 Create a Storage Repository</a>
+</span>
+<ul>
+<li>
+<span class="section">
+<a href="vmgsg-repo.html#vmgsg-repo-create">6.1 Creating a storage repository</a>
+</span>
+</li>
+</ul>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-resources.html">7 Add Resources to Storage Repository</a>
+</span>
+<ul>
+<li>
+<span class="section">
+<a href="vmgsg-resources.html#vmgsg-resources-assembly">7.1 Importing a virtual appliance</a>
+</span>
+</li>
+<li>
+<span class="section">
+<a href="vmgsg-resources.html#vmgsg-resources-template">7.2 Importing a virtual machine template</a>
+</span>
+</li>
+<li>
+<span class="section">
+<a href="vmgsg-resources.html#vmgsg-resources-iso">7.3 Importing an ISO file</a>
+</span>
+</li>
+</ul>
+</li>
+<li>
+<span class="chapter">
+<a href="vmgsg-vms.html">8 Create Virtual Machines</a>
+</span>
+<ul>
+<li>
+<span class="section">
+<a href="vmgsg-vms.html#vmgsg-vms-create-template">8.1 Creating a virtual machine from a template</a>
+</span>
+</li>
+<li>
+<span class="section">
+<a href="vmgsg-vms.html#vmgsg-vms-create-assembly">8.2 Creating a virtual machine from a virtual appliance</a>
+</span>
+</li>
+<li>
+<span class="section">
+<a href="vmgsg-vms.html#vmgsg-vms-create-iso">8.3 Creating a virtual machine from an ISO file</a>
+</span>
+</li>
+<li>
+<span class="section">
+<a href="vmgsg-vms.html#vmgsg-vms-start">8.4 Starting a virtual machine and connecting to the console</a>
+</span>
+</li>
+</ul>
+</li>
+<li>
+<span class="glossary">
+<a href="go01.html">Glossary</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="copyright-footer">
+<p>
+        Copyright © 2011,  2021 Oracle and/or its affiliates. All
+        rights reserved.
+      <a href="index.html#oracle-legal-notices">Legal Notices</a></p>
+</div>
+</article>
+</body>
+</html>

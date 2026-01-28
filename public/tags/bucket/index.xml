@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bucket on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/bucket/</link>
+    <description>Recent content in Bucket on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/bucket/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instalação e Configuração do MinIO (Parte 02 - SSL/TLS)</title>
+      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio-parte-02-ssl/tls/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio-parte-02-ssl/tls/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/MINIO_wordmark.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;154&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio-parte-02-ssl/tls/images/MINIO_wordmark-1024x154_hu_397485e00be35d88.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio-parte-02-ssl/tls/images/MINIO_wordmark-1024x154_hu_397485e00be35d88.png 800w, http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio-parte-02-ssl/tls/images/MINIO_wordmark-1024x154.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio-parte-02-ssl/tls/images/MINIO_wordmark-1024x154.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos configurar o acesso através de &lt;strong&gt;SSL/TLS&lt;/strong&gt; no &lt;strong&gt;MinIO&lt;/strong&gt;, o processo é bastante simples.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalação e Configuração do MinIO</title>
+      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio/images/MINIO_wordmark.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;154&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio/images/MINIO_wordmark-1024x154_hu_397485e00be35d88.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio/images/MINIO_wordmark-1024x154_hu_397485e00be35d88.png 800w, http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio/images/MINIO_wordmark-1024x154.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-do-minio/images/MINIO_wordmark-1024x154.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vamos ver como podemos instalar e configurar o &lt;strong&gt;MinIO&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;MinIO&lt;/strong&gt; é um sistema de armazenamento do tipo &lt;strong&gt;object storage&lt;/strong&gt;, compatível com as features de &lt;strong&gt;API&lt;/strong&gt; do &lt;strong&gt;S3&lt;/strong&gt; da &lt;strong&gt;AWS&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

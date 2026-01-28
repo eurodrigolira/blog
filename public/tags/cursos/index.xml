@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/cursos/</link>
+    <description>Recent content in Cursos on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/cursos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Treinamento gratuito em Oracle Linux Cloud Native</title>
+      <link>http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg 800w, http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A Oracle disponibilizou um treinamento gratuito em Cloud Native.&lt;/p&gt;&#xA;&lt;p&gt;É uma serie de vídeos gratuitos para ajudar quem está começando nesse mundo ainda pouco explorado por alguns.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cursos Gratuitos VMware</title>
+      <link>http://rodrigolira.eti.br:80/cursos-gratuitos-vmware/</link>
+      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/cursos-gratuitos-vmware/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/07/unnamed.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;unnamed&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/cursos-gratuitos-vmware/images/unnamed.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/cursos-gratuitos-vmware/images/unnamed.png 800w, http://rodrigolira.eti.br:80/cursos-gratuitos-vmware/images/unnamed.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/cursos-gratuitos-vmware/images/unnamed.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo sem postar nada, venho postar aqui alguns cursos da VMware que são gratuitos, esses cursos dão uma boa base das suas tecnologias e ajudam a decidir qual caminho seguir, segue a lista abaixo:&lt;/p&gt;&#xA;&lt;p&gt;VSAN - Virtual SAN Fundamentals&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;amp;a=one&amp;amp;id_subject=55806&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;amp;a=one&amp;amp;id_subject=55806&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;NSX - VMware Network Virtualization Fundamentals&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&amp;amp;a=det&amp;amp;id_course=240782&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&amp;amp;a=det&amp;amp;id_course=240782&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data Center Virtualization Fundamentals - vSphere 6&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Curso - Linux Introdução e Administração de Servidores</title>
+      <link>http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/</link>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/</guid>
+      <description>&lt;p&gt;S&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/01/linux.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;linux&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg 800w, http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;alve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Tenho o prazer de anunciar que estarei dando aulas no curso &amp;ldquo;Linux Introdução e Administração de Servidores&amp;rdquo; na Linuxfi, segue abaixo uma descrição detalhada do curso:&lt;/p&gt;&#xA;&lt;p&gt;As matriculas já estão abertas para o curso de Linux Introdução e Administração de Servidores Início das aulas: 24/fevereiro/2015 Terças e quintas das 19h às 22h&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>MSP TechDay (Último Dia)</title>
+      <link>http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/</link>
+      <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/msp.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;msp&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;216&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png 800w, http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Amanhã acontece o último dia do MSP TachDay, e tem várias palestras interessantes (show de bola), então para quem ainda não se inscreveu, se inscreva e desfrute de todo esse conhecimento compartilhado!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Curso de IPv6</title>
+      <link>http://rodrigolira.eti.br:80/curso-de-ipv6/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/curso-de-ipv6/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Nas andanças pela net, acabei descobrindo um curso gratuito de IPv6, o curso é em formato e-learning ou você pode baixa-lo para assistir depois, o curso é bastante interessante e bom para quem quer aprender um pouco mais sobre IPv6, segue o link para o curso.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

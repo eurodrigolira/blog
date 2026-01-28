@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ntfs on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/ntfs/</link>
+    <description>Recent content in Ntfs on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/ntfs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Como montar partições NTFS com Bitlocker usando Cryptsetup no Slackware</title>
+      <link>http://rodrigolira.eti.br:80/como-montar-parti%C3%A7%C3%B5es-ntfs-com-bitlocker-usando-cryptsetup-no-slackware/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/como-montar-parti%C3%A7%C3%B5es-ntfs-com-bitlocker-usando-cryptsetup-no-slackware/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post, vou mostrar como montar partições &lt;strong&gt;NTFS&lt;/strong&gt; com &lt;strong&gt;BitLocker&lt;/strong&gt; ativado no &lt;strong&gt;Linux&lt;/strong&gt;, utilizando apenas o &lt;strong&gt;cryptsetup&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para dar um pouco de contexto, atualmente, meu notebook pessoal está equipado com um disco &lt;strong&gt;NVMe&lt;/strong&gt; de &lt;strong&gt;4TB&lt;/strong&gt;, que eu dividi da seguinte forma: aproximadamente &lt;strong&gt;3TB&lt;/strong&gt; para uma partição de dados, &lt;strong&gt;360GB&lt;/strong&gt; para o &lt;strong&gt;Windows&lt;/strong&gt; e &lt;strong&gt;360GB&lt;/strong&gt; para o &lt;strong&gt;Slackware&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

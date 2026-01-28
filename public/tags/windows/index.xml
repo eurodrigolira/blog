@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/windows/</link>
+    <description>Recent content in Windows on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Como montar partições NTFS com Bitlocker usando Cryptsetup no Slackware</title>
+      <link>http://rodrigolira.eti.br:80/como-montar-parti%C3%A7%C3%B5es-ntfs-com-bitlocker-usando-cryptsetup-no-slackware/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/como-montar-parti%C3%A7%C3%B5es-ntfs-com-bitlocker-usando-cryptsetup-no-slackware/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post, vou mostrar como montar partições &lt;strong&gt;NTFS&lt;/strong&gt; com &lt;strong&gt;BitLocker&lt;/strong&gt; ativado no &lt;strong&gt;Linux&lt;/strong&gt;, utilizando apenas o &lt;strong&gt;cryptsetup&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para dar um pouco de contexto, atualmente, meu notebook pessoal está equipado com um disco &lt;strong&gt;NVMe&lt;/strong&gt; de &lt;strong&gt;4TB&lt;/strong&gt;, que eu dividi da seguinte forma: aproximadamente &lt;strong&gt;3TB&lt;/strong&gt; para uma partição de dados, &lt;strong&gt;360GB&lt;/strong&gt; para o &lt;strong&gt;Windows&lt;/strong&gt; e &lt;strong&gt;360GB&lt;/strong&gt; para o &lt;strong&gt;Slackware&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Criar o menu do KDE Fedora Remix na barra de tarefa do Windows</title>
+      <link>http://rodrigolira.eti.br:80/criar-o-menu-do-kde-fedora-remix-na-barra-de-tarefa-do-windows/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/criar-o-menu-do-kde-fedora-remix-na-barra-de-tarefa-do-windows/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos criar o menu do &lt;strong&gt;KDE&lt;/strong&gt; do nosso &lt;strong&gt;Fedora Remix&lt;/strong&gt; na barra de tarefas do Windows.&lt;/p&gt;&#xA;&lt;p&gt;Se você não leu o meu post sobre &lt;strong&gt;Windows 10 + WSL2 + Fedora Remix + KDE + X410&lt;/strong&gt; eu sugiro que leia, pois esse post é basicamente uma continuação dele.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Windows 10 &#43; WSL2 &#43; Fedora Remix &#43; KDE &#43; X410</title>
+      <link>http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1350&#34;&#xA;    height=&#34;688&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_db29fd3325e9e145.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_db29fd3325e9e145.png 800w, http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_8ec9ceb3c4886558.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou mostrar como podemos executar o nosso querido fedora usando o &lt;strong&gt;WSL2&lt;/strong&gt; do &lt;strong&gt;Windows&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o WSL do Windows ele permite que executemos um Linux diretamente no Windows.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 03 (Instalando o VMware Tools no Windows)</title>
+      <link>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;, vamos ver o que é e como instalar o &lt;strong&gt;VMware Tools&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Vídeo pfSense com Captive Portal autenticando usuários via radius no Active Directory</title>
+      <link>http://rodrigolira.eti.br:80/v%C3%ADdeo-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/v%C3%ADdeo-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;hangout&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg 800w, http://rodrigolira.eti.br:80/v%C3%ADdeo-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo o vídeo sobre a aula que eu dei sobre pfSense com Captive Portal autenticando usuários via radius no Active Directory, espero que gostem e participem dos próximos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Hangout - pfSense com Captive Portal autenticando usuários via radius no Active Directory</title>
+      <link>http://rodrigolira.eti.br:80/hangout-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/hangout-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;hangout&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/hangout-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/hangout-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg 800w, http://rodrigolira.eti.br:80/hangout-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/hangout-pfsense-com-captive-portal-autenticando-usu%C3%A1rios-via-radius-no-active-directory/images/hangout.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Seguinte, eu tava pensando em fazer uma vídeo aula mostrando como configurar o Captive Portal do pfSense para autenticar os usuários do Active Directory via Radius.&lt;/p&gt;&#xA;&lt;p&gt;Dai me veio a ideia de fazer um hangout, dessa forma a coisa pode ser ao vivo e vocês podem fazer perguntas, tirar dúvidas e etc.&lt;/p&gt;&#xA;&lt;p&gt;Será uma boa experiência para mim que pretendo realizar outros vídeos ou até mesmo hangouts, vai que da certo :)&lt;/p&gt;&#xA;&lt;p&gt;Neste hangout não vou mostrar como instalar os Sistemas Operacionais, na internet já existe diversos vídeos mostrando como fazer.&lt;/p&gt;&#xA;&lt;p&gt;Porém vou mostrar todos os passos de como habilitar ou instalar os serviços tanto no Windows quanto no pfSense.&lt;/p&gt;&#xA;&lt;p&gt;A imagem abaixo exemplifica um pouco o que vamos fazer:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Passei na Certificação em Hyper-V (Prova 74-409 – Server Virtualization with Windows Server Hyper-V and System Center)</title>
+      <link>http://rodrigolira.eti.br:80/passei-na-certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</link>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/passei-na-certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/04/70409.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;70409&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/passei-na-certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/passei-na-certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 800w, http://rodrigolira.eti.br:80/passei-na-certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/passei-na-certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou postando aqui com muita felicidade mais uma certificação conquistada, a batalha foi dura, mas a vitoria foi certa.&lt;/p&gt;&#xA;&lt;p&gt;Como postei no post anterior essa certificação está gratuita até o final do mês de junho, quem tiver a oportunidade de estudar para tirar a mesma estude pois o nível da prova está muito bom, em uma escala de 0 a 100 diria que a prova tem o nível 80, segue abaixo o link para o simulado que usei como base de estudos para a prova.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Certificação em Hyper-V (Prova 74-409 - Server Virtualization with Windows Server Hyper-V and System Center)</title>
+      <link>http://rodrigolira.eti.br:80/certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/04/70409.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;70409&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 800w, http://rodrigolira.eti.br:80/certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/certifica%C3%A7%C3%A3o-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Esses últimos dias venho reunindo material para realizar a Prova 74-409 - Server Virtualization with Windows Server Hyper-V and System Center, e sem querer acabei descobrindo que a Microsoft está disponibilizando Vouchers gratuitos para a realização da prova até Junho de 2014. Abaixo estou colocando um passo-a-passo de como obter o voucher e links para downloads dos materiais que já baixei:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ebook gratuito - Windows 7 Power Users Guide</title>
+      <link>http://rodrigolira.eti.br:80/ebook-gratuito-windows-7-power-users-guide/</link>
+      <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/ebook-gratuito-windows-7-power-users-guide/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/06/win7.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;win7&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;154&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/ebook-gratuito-windows-7-power-users-guide/images/win7-300x154.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/ebook-gratuito-windows-7-power-users-guide/images/win7-300x154.png 800w, http://rodrigolira.eti.br:80/ebook-gratuito-windows-7-power-users-guide/images/win7-300x154.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/ebook-gratuito-windows-7-power-users-guide/images/win7-300x154.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Mais um ebook gratuito para download sobre Windows 7 disponível para download. O diferencial desse ebook é que ele é muito didático e bem ilustrativo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ebooks Microsoft para download</title>
+      <link>http://rodrigolira.eti.br:80/ebooks-microsoft-para-download/</link>
+      <pubDate>Thu, 20 Jun 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/ebooks-microsoft-para-download/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/06/free-microsoft-ebooks.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;free-microsoft-ebooks&#34;&#xA;    width=&#34;285&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/ebooks-microsoft-para-download/images/free-microsoft-ebooks-285x300.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/ebooks-microsoft-para-download/images/free-microsoft-ebooks-285x300.jpg 800w, http://rodrigolira.eti.br:80/ebooks-microsoft-para-download/images/free-microsoft-ebooks-285x300.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/ebooks-microsoft-para-download/images/free-microsoft-ebooks-285x300.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A Microsoft disponibilizou para download vários ebooks sobre as suas tecnologias.&lt;/p&gt;&#xA;&lt;p&gt;Entre eles estão:&lt;/p&gt;&#xA;&lt;p&gt;Office &amp;amp; Office 365&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Pocket Book Microsoft Windows Server 2012 - Grátis</title>
+      <link>http://rodrigolira.eti.br:80/pocket-book-microsoft-windows-server-2012-gr%C3%A1tis/</link>
+      <pubDate>Tue, 21 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/pocket-book-microsoft-windows-server-2012-gr%C3%A1tis/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/050713_2006_PocketBookM1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;050713_2006_PocketBookM1&#34;&#xA;    width=&#34;171&#34;&#xA;    height=&#34;227&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/pocket-book-microsoft-windows-server-2012-gr%C3%A1tis/images/050713_2006_PocketBookM1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/pocket-book-microsoft-windows-server-2012-gr%C3%A1tis/images/050713_2006_PocketBookM1.png 800w, http://rodrigolira.eti.br:80/pocket-book-microsoft-windows-server-2012-gr%C3%A1tis/images/050713_2006_PocketBookM1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/pocket-book-microsoft-windows-server-2012-gr%C3%A1tis/images/050713_2006_PocketBookM1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Olha ai mais um book sobre as tecnologias Microsoft, e o melhor de tudo é gratuito.&lt;/p&gt;&#xA;&lt;p&gt;Segue o link abaixo para o download.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>MSP TechDay (Último Dia)</title>
+      <link>http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/</link>
+      <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/msp.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;msp&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;216&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png 800w, http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/msp-techday-%C3%BAltimo-dia/images/msp-300x216.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Amanhã acontece o último dia do MSP TachDay, e tem várias palestras interessantes (show de bola), então para quem ainda não se inscreveu, se inscreva e desfrute de todo esse conhecimento compartilhado!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft lança disco de recuperação para o KB2823324 e KB2782476 (KB2840165)</title>
+      <link>http://rodrigolira.eti.br:80/microsoft-lan%C3%A7a-disco-de-recupera%C3%A7%C3%A3o-para-o-kb2823324-e-kb2782476-kb2840165/</link>
+      <pubDate>Thu, 18 Apr 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/microsoft-lan%C3%A7a-disco-de-recupera%C3%A7%C3%A3o-para-o-kb2823324-e-kb2782476-kb2840165/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/04/Microsoft-Logo-2012.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Microsoft-Logo-2012&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;168&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/microsoft-lan%C3%A7a-disco-de-recupera%C3%A7%C3%A3o-para-o-kb2823324-e-kb2782476-kb2840165/images/Microsoft-Logo-2012-300x168.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/microsoft-lan%C3%A7a-disco-de-recupera%C3%A7%C3%A3o-para-o-kb2823324-e-kb2782476-kb2840165/images/Microsoft-Logo-2012-300x168.jpg 800w, http://rodrigolira.eti.br:80/microsoft-lan%C3%A7a-disco-de-recupera%C3%A7%C3%A3o-para-o-kb2823324-e-kb2782476-kb2840165/images/Microsoft-Logo-2012-300x168.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/microsoft-lan%C3%A7a-disco-de-recupera%C3%A7%C3%A3o-para-o-kb2823324-e-kb2782476-kb2840165/images/Microsoft-Logo-2012-300x168.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt; A Microsoft acaba de lançar um disco de recuperação para corrigir os seus erros com as ultimas atualizações, segue abaixo um link para o mesmo e maiores informações dadas pela própria Microsoft.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Livro Windows Server 2012</title>
+      <link>http://rodrigolira.eti.br:80/livro-windows-server-2012/</link>
+      <pubDate>Tue, 16 Apr 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/livro-windows-server-2012/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/04/win20121.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;win20121&#34;&#xA;    width=&#34;244&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/livro-windows-server-2012/images/win20121-244x300.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/livro-windows-server-2012/images/win20121-244x300.png 800w, http://rodrigolira.eti.br:80/livro-windows-server-2012/images/win20121-244x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/livro-windows-server-2012/images/win20121-244x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;A Microsoft disponibilizou  para download um livro sobre windows server 2012 gratuitamente, pena que o livro está disponível apenas em inglês.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Adicionar botões Shutdown/Restart/Logoff no Windows 8 via Power Shell</title>
+      <link>http://rodrigolira.eti.br:80/adicionar-bot%C3%B5es-shutdown/restart/logoff-no-windows-8-via-power-shell/</link>
+      <pubDate>Sun, 07 Apr 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/adicionar-bot%C3%B5es-shutdown/restart/logoff-no-windows-8-via-power-shell/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/04/shutdown.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;shutdown&#34;&#xA;    width=&#34;295&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/adicionar-bot%C3%B5es-shutdown/restart/logoff-no-windows-8-via-power-shell/images/shutdown-295x300.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/adicionar-bot%C3%B5es-shutdown/restart/logoff-no-windows-8-via-power-shell/images/shutdown-295x300.png 800w, http://rodrigolira.eti.br:80/adicionar-bot%C3%B5es-shutdown/restart/logoff-no-windows-8-via-power-shell/images/shutdown-295x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/adicionar-bot%C3%B5es-shutdown/restart/logoff-no-windows-8-via-power-shell/images/shutdown-295x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou mostrar a você como adicionar os botões de deligar, reiniciar e fazer logoff no windows 8 via power shelll.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>E-book gratuito de PowerShell</title>
+      <link>http://rodrigolira.eti.br:80/e-book-gratuito-de-powershell/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/e-book-gratuito-de-powershell/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/04/PowerShell-3.0-Ebook.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;PowerShell-3.0-Ebook&#34;&#xA;    width=&#34;212&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/e-book-gratuito-de-powershell/images/PowerShell-3.0-Ebook-212x300.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/e-book-gratuito-de-powershell/images/PowerShell-3.0-Ebook-212x300.png 800w, http://rodrigolira.eti.br:80/e-book-gratuito-de-powershell/images/PowerShell-3.0-Ebook-212x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/e-book-gratuito-de-powershell/images/PowerShell-3.0-Ebook-212x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Achei em um dos blogs o qual costumo visitar frequentemente esse e-book sobre Windows Power Shell, ele é desenvolvido especialmente para profissionais de infraestrutura, segue abaixo o link para o download do e-book e site do desenvolvedor:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Webcast: Ferramentas de suporte para o seu dia-a-dia</title>
+      <link>http://rodrigolira.eti.br:80/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/</link>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/03/webcast2.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;webcast2&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;111&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/images/webcast2-300x111.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/images/webcast2-300x111.png 800w, http://rodrigolira.eti.br:80/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/images/webcast2-300x111.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/images/webcast2-300x111.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Olha ai mais um webcast da Microsoft sobre ferramentas para o dia-a-dia, houve um outro desses faz pouco tempo mais não teve como eu participar, mas esse com certeza não perco por nada. Segue o link para o webcast:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Webcast: Certificação Microsoft - Visão Geral</title>
+      <link>http://rodrigolira.eti.br:80/webcast-certifica%C3%A7%C3%A3o-microsoft-vis%C3%A3o-geral/</link>
+      <pubDate>Fri, 22 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/webcast-certifica%C3%A7%C3%A3o-microsoft-vis%C3%A3o-geral/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/03/webcast.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;webcast&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;154&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/webcast-certifica%C3%A7%C3%A3o-microsoft-vis%C3%A3o-geral/images/webcast-300x154.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/webcast-certifica%C3%A7%C3%A3o-microsoft-vis%C3%A3o-geral/images/webcast-300x154.png 800w, http://rodrigolira.eti.br:80/webcast-certifica%C3%A7%C3%A3o-microsoft-vis%C3%A3o-geral/images/webcast-300x154.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/webcast-certifica%C3%A7%C3%A3o-microsoft-vis%C3%A3o-geral/images/webcast-300x154.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Como mostrado no post anterior sobre WWE, aqui vai o primeiro de vários posts que vou colocar aqui no blog sobre os webcasts da Microsoft, e como não poderia deixar de ser o primeiro é sobre Certificações Microsoft, uma visão geral sobre as certificações oferecidas pela Microsoft. Segue o link para inscrição:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Word Wide Events</title>
+      <link>http://rodrigolira.eti.br:80/microsoft-word-wide-events/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/microsoft-word-wide-events/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/03/microsoft.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;microsoft&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;122&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/microsoft-word-wide-events/images/microsoft-300x122.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/microsoft-word-wide-events/images/microsoft-300x122.png 800w, http://rodrigolira.eti.br:80/microsoft-word-wide-events/images/microsoft-300x122.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/microsoft-word-wide-events/images/microsoft-300x122.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Microsoft Word Wide Events (WWE) é nada mais nada menos do que um site da Microsoft dedicado a eventos. Nele você vai ficar por dentro de eventos presenciais, eventos virtuais, webcasts, podcasts, laboratórios virtuais, e muito mais. Sem contar que isso tudo de graça, ou seja mais uma fonte de estudos pra você que deseja algo mais da Microsoft sem custo algum, corra e faça sua inscrição para ficar por dentro das novidades, segue o link abaixo para o site:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Criando um botão de desligar no Windows 8</title>
+      <link>http://rodrigolira.eti.br:80/criando-um-bot%C3%A3o-de-desligar-no-windows-8/</link>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/criando-um-bot%C3%A3o-de-desligar-no-windows-8/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Seguinte, to colando um vídeo bem simples que mostra como criar um botão de desligar para Windows 8, o vídeo não tem áudio mais é muito claro sobre como realizar o procedimentos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mudando a inicialização do Windows</title>
+      <link>http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/</link>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como alterar a forma de inicialização do windows, ou seja, ao invés de iniciar normalmente com o &amp;ldquo;explorer.exe&amp;rdquo;, iniciar com um programa especifico como por exemplo o internet explore.&lt;/p&gt;&#xA;&lt;p&gt;Seguinte primeiro de tudo abra o regedit:&lt;/p&gt;&#xA;&lt;p&gt;Aperte a tecla do Windows + R para abrir o executar do windows, digite regedit e click em ok.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/02/regedit.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;151&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/regedit-300x151.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/regedit-300x151.png 800w, http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/regedit-300x151.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/regedit-300x151.png&#34;&gt;&lt;figcaption&gt;regedit&lt;/figcaption&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vai abrir o editor de registro do windows:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/02/editor-de-registro.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;177&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/editor-de-registro-300x177.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/editor-de-registro-300x177.png 800w, http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/editor-de-registro-300x177.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/mudando-a-inicializa%C3%A7%C3%A3o-do-windows/images/editor-de-registro-300x177.png&#34;&gt;&lt;figcaption&gt;editor de registro&lt;/figcaption&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Com o editor aberto você vai executar o seguinte passo-a-passo:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Três maneiras de ativar o Hyper-V no windows 8</title>
+      <link>http://rodrigolira.eti.br:80/tr%C3%AAs-maneiras-de-ativar-o-hyper-v-no-windows-8/</link>
+      <pubDate>Thu, 21 Feb 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/tr%C3%AAs-maneiras-de-ativar-o-hyper-v-no-windows-8/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Vou mostrar pra vocês três maneira de ativar o Hyper-V no windows 8.&lt;/p&gt;&#xA;&lt;p&gt;São elas:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1º Prompt de Comando&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2º Power Shell&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3º Modo Gráfico&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Na primeira opção você deve executar o prompt de comando como administrador, ou seja, botão direito do mouse em cima do ícone e executar como administrador, com o prompt de comando aberto basta executar a seguinte linha de comando:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ebook Gratuito - Introdução ao Windows 8 para profissionais em TI</title>
+      <link>http://rodrigolira.eti.br:80/ebook-gratuito-introdu%C3%A7%C3%A3o-ao-windows-8-para-profissionais-em-ti/</link>
+      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/ebook-gratuito-introdu%C3%A7%C3%A3o-ao-windows-8-para-profissionais-em-ti/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;&#34;&#xA;    src=&#34;images/0160.image_5F00_5186E8A3.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Passando só para mostrar esse ebook free que a microsoft disponibilizou para download. Segue o link para download.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/microsoft_press/archive/2012/11/13/free-ebook-introducing-windows-8-an-overview-for-it-professionals-final-edition.aspx?goback=%2Egde_3722785_member_205826704&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://blogs.msdn.com/b/microsoft_press/archive/2012/11/13/free-ebook-introducing-windows-8-an-overview-for-it-professionals-final-edition.aspx?goback=%2Egde_3722785_member_205826704&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

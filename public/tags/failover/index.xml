@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Failover on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/failover/</link>
+    <description>Recent content in Failover on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/failover/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LACP, Roundrobin e Failover no OpenBSD 6.0</title>
+      <link>http://rodrigolira.eti.br:80/lacp-roundrobin-e-failover-no-openbsd-6.0/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lacp-roundrobin-e-failover-no-openbsd-6.0/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como configurar uma interface trunk no OpenBSD. Ops, Trunk??? Sim, trunk!&lt;/p&gt;&#xA;&lt;p&gt;Trunk é o nome usado para interface virtual que é criada no OpenBSD, então não se confundam com &amp;ldquo;VLAN Trunk&amp;rdquo; e etc. ;)&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

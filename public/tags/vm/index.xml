@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vm on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/vm/</link>
+    <description>Recent content in Vm on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/vm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Removendo VMs com status Invalid no ESXi</title>
+      <link>http://rodrigolira.eti.br:80/removendo-vms-com-status-invalid-no-esxi/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/removendo-vms-com-status-invalid-no-esxi/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Hoje um dos meus clientes perdeu um dos discos do seu servidor.&lt;/p&gt;&#xA;&lt;p&gt;Existiam máquinas virtuais rodando em produção nesse disco. :(&lt;/p&gt;&#xA;&lt;p&gt;Como ESXi perdeu referência com essas máquinas virtuais ficou apresentando um &lt;strong&gt;Status&lt;/strong&gt; de &lt;strong&gt;Invalid&lt;/strong&gt; para essas máquinas virtuais.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

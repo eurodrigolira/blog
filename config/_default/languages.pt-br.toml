@@ -1,0 +1,27 @@
+languageCode = "pt-br"
+languageName = "Português"
+weight = 1
+title = "Rodrigo Lira"
+
+[params]
+displayName = "Português"
+isoCode = "pb-br"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Rodrigo Lira | Linux/BSD SysAdmin"
+
+["params.author"]
+  name = "Rodrigo Lira"
+  email = "eurodrigolira@gmail.com"
+  bio = "Linux/BSD SysAdmin"
+  headline = "Linux/BSD SysAdmin"
+  subtitle = "🧠 Builder · AI, agents, infra · OSS · Mentor & startup advisor"
+  image = "perfil.jpeg"
+  links = [
+    { email = "mailto:eurodrigolira@gmail.com" },
+    { github = "https://github.com/eurodrigolira" },
+    { linkedin = "https://linkedin.com/in/eurodrigolira" },
+    { x-twitter = "https://x.com/eurodrigolira" },
+    { youtube = "https://youtube.com/@eurodrigolira" },
+    { rss = "https://rodrigolira.eti.br/index.xml" }, 
+  ]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Include on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/include/</link>
+    <description>Recent content in Include on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/include/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ansible - Import vs Include</title>
+      <link>http://rodrigolira.eti.br:80/ansible-import-vs-include/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/ansible-import-vs-include/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;512&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png 800w, http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Acho que é a primeira vez que escrevo algo sobre &lt;strong&gt;Ansible&lt;/strong&gt; aqui no blog. Então para começar vou escrever sobre uma dúvida comum do pessoal.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

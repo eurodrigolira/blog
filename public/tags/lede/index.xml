@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lede on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/lede/</link>
+    <description>Recent content in Lede on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/lede/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenWrt - Criando um servidor de torrent com Transmission</title>
+      <link>http://rodrigolira.eti.br:80/openwrt-criando-um-servidor-de-torrent-com-transmission/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/openwrt-criando-um-servidor-de-torrent-com-transmission/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/openwrt-criando-um-servidor-de-torrent-com-transmission/images/openwrt.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;180&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/openwrt-criando-um-servidor-de-torrent-com-transmission/images/openwrt-300x180.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/openwrt-criando-um-servidor-de-torrent-com-transmission/images/openwrt-300x180.png 800w, http://rodrigolira.eti.br:80/openwrt-criando-um-servidor-de-torrent-com-transmission/images/openwrt-300x180.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/openwrt-criando-um-servidor-de-torrent-com-transmission/images/openwrt-300x180.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;As vezes fazemos o download de arquivos via torrent, como por exemplo alguma imagem de sistema operacional e queremos deixar o torrent ativo para compartilhamento a mesma com a comunidade, porém as vezes o custo com energia fica caro para deixarmos o computador ligado 24 horas por dia.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

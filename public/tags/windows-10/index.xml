@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows-10 on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/windows-10/</link>
+    <description>Recent content in Windows-10 on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/windows-10/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Criar o menu do KDE Fedora Remix na barra de tarefa do Windows</title>
+      <link>http://rodrigolira.eti.br:80/criar-o-menu-do-kde-fedora-remix-na-barra-de-tarefa-do-windows/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/criar-o-menu-do-kde-fedora-remix-na-barra-de-tarefa-do-windows/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos criar o menu do &lt;strong&gt;KDE&lt;/strong&gt; do nosso &lt;strong&gt;Fedora Remix&lt;/strong&gt; na barra de tarefas do Windows.&lt;/p&gt;&#xA;&lt;p&gt;Se você não leu o meu post sobre &lt;strong&gt;Windows 10 + WSL2 + Fedora Remix + KDE + X410&lt;/strong&gt; eu sugiro que leia, pois esse post é basicamente uma continuação dele.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Windows 10 &#43; WSL2 &#43; Fedora Remix &#43; KDE &#43; X410</title>
+      <link>http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1350&#34;&#xA;    height=&#34;688&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_db29fd3325e9e145.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_db29fd3325e9e145.png 800w, http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410_hu_8ec9ceb3c4886558.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/windows-10--wsl2--fedora-remix--kde--x410/images/fedora-x410.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou mostrar como podemos executar o nosso querido fedora usando o &lt;strong&gt;WSL2&lt;/strong&gt; do &lt;strong&gt;Windows&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o WSL do Windows ele permite que executemos um Linux diretamente no Windows.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

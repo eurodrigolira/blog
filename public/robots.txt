@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: http://rodrigolira.eti.br:80/sitemap.xml

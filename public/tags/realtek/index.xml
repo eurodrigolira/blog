@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Realtek on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/realtek/</link>
+    <description>Recent content in Realtek on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/realtek/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adaptadores USB para Ethernet no ESXi 7</title>
+      <link>http://rodrigolira.eti.br:80/adaptadores-usb-para-ethernet-no-esxi-7/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muita gente sabe que com o &lt;strong&gt;ESXi 7&lt;/strong&gt; não podemos mais usar placas de rede do tipo PCI não homologadas pela VMware, normalmente essas placas de rede vem com chipsets &lt;strong&gt;Realtek&lt;/strong&gt;, precisamos instalar os drivers manualmente e eram usadas em labs ou pequenos ambientes, particularmente tenho vários clientes usando.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ISOs ESXi Customizadas (Update 06/2019)</title>
+      <link>http://rodrigolira.eti.br:80/isos-esxi-customizadas-update-06/2019/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/isos-esxi-customizadas-update-06/2019/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de uma boa reformulada no blog, venho com mais uma boa notícia.&lt;/p&gt;&#xA;&lt;p&gt;Criei uma área dedicada as ISOs customizadas do ESXI.&lt;/p&gt;&#xA;&lt;p&gt;Alem disso, também inclui os drivers em diversas imagens da Lenovo e HP, dessa forma você pode baixar a ISO com os drivers da HP e Lenovo e já com os drivers da Realtek e etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ISOs do ESXi com drivers Realtek (Update ESXi 6.7)</title>
+      <link>http://rodrigolira.eti.br:80/isos-do-esxi-com-drivers-realtek-update-esxi-6.7/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/isos-do-esxi-com-drivers-realtek-update-esxi-6.7/</guid>
+      <description>&lt;p&gt;Para imagens atualizadas visite a página abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rodrigolira.eti.br/isos-esxi-customizadas/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://rodrigolira.eti.br/isos-esxi-customizadas/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Algum tempo atrás criei ISOs personalizadas do ESXi com os drivers Realtek e disponibilizei para download, acessem o post pelo link abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

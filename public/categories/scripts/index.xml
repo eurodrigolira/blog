@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scripts on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/categories/scripts/</link>
+    <description>Recent content in Scripts on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/categories/scripts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>nchat - Um cliente terminal para WhatsApp e Telegram</title>
+      <link>http://rodrigolira.eti.br:80/nchat-um-cliente-terminal-para-whatsapp-e-telegram/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/nchat-um-cliente-terminal-para-whatsapp-e-telegram/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;922&#34;&#xA;    height=&#34;650&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat_hu_471b5c7124c3e9a1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat_hu_471b5c7124c3e9a1.png 800w, http://rodrigolira.eti.br:80/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Como a maioria do pessoal sabe o &lt;strong&gt;WhatsApp&lt;/strong&gt; não tem um app oficial para &lt;strong&gt;Linux&lt;/strong&gt;, e os apps alternativos que vemos por ai normalmente são baseados em Electron, particularmente eu nunca gostei de nenhum.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Montando disco USB no VMware ESXi</title>
+      <link>http://rodrigolira.eti.br:80/montando-disco-usb-no-vmware-esxi/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/montando-disco-usb-no-vmware-esxi/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Sempre recebo o contato de pessoas me perguntando como podemos montar um disco USB no VMware ESXi.&lt;/p&gt;&#xA;&lt;p&gt;Mas porque eu usária um disco USB no meu ESXi Rodrigo?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Zabbix 5.2 no Slackware Current</title>
+      <link>http://rodrigolira.eti.br:80/zabbix-5.2-no-slackware-current/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/zabbix-5.2-no-slackware-current/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/zabbix-5.2-no-slackware-current/images/slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;329&#34;&#xA;    height=&#34;87&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/zabbix-5.2-no-slackware-current/images/slackware.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/zabbix-5.2-no-slackware-current/images/slackware.png 800w, http://rodrigolira.eti.br:80/zabbix-5.2-no-slackware-current/images/slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/zabbix-5.2-no-slackware-current/images/slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui bem rapidinho só para informar que fiz as atualizações dos scripts de instalação do &lt;strong&gt;Zabbix&lt;/strong&gt; no &lt;strong&gt;Slackware Current&lt;/strong&gt; para a versão &lt;strong&gt;5.2&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Zabbix 5 no Slackware Current</title>
+      <link>http://rodrigolira.eti.br:80/zabbix-5-no-slackware-current/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/zabbix-5-no-slackware-current/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/zabbix-5-no-slackware-current/images/zabbix-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1048&#34;&#xA;    height=&#34;683&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/zabbix-5-no-slackware-current/images/zabbix-slackware_hu_c92049802cca1db1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/zabbix-5-no-slackware-current/images/zabbix-slackware_hu_c92049802cca1db1.png 800w, http://rodrigolira.eti.br:80/zabbix-5-no-slackware-current/images/zabbix-slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/zabbix-5-no-slackware-current/images/zabbix-slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Faz algum tempo que deveria ter feito esse post e sempre venho adiando querendo melhorar um pouco mais os &lt;strong&gt;scripts&lt;/strong&gt;. :D&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Script para instalação do Zabbix Server 3.4.X no Slackware 14.2</title>
+      <link>http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-zabbix-server-3.4.x-no-slackware-14.2/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-zabbix-server-3.4.x-no-slackware-14.2/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Alguns meses atrás, fiz um post mostrando como fazer a instalação do Zabbix Server no Slackware 14.2, para maiores detalhes sobre o post acessem o link abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Configurando o Postfix para o usar o Gmail ou Outlook como Relay no CentOS 7/Red Hat 7/Oracle Linux 7</title>
+      <link>http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1023&#34;&#xA;    height=&#34;319&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix_hu_80b699d2125e9d40.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix_hu_80b699d2125e9d40.png 800w, http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É comum quando criamos scripts de backup ou outros, querermos receber alertas se eles foram bem executados ou não, normalmente agendamos scripts de backup para serem executados a noite ou de madrugada, apesar de podermos enviar um e-mail diretamente do nosso servidor, esbarramos no problema desse e-mail normalmente ser colocado na caixa de spam, assim as vezes acabamos nem vendo que o e-mail chegou.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Script para clonar VM no ESXi - Versão 1.1</title>
+      <link>http://rodrigolira.eti.br:80/script-para-clonar-vm-no-esxi-vers%C3%A3o-1.1/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/script-para-clonar-vm-no-esxi-vers%C3%A3o-1.1/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Algum tempo atrás fiz um script para clonar máquinas virtuais no ESXi Free, segue o link abaixo para o post sobre o mesmo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rodrigolira.eti.br/script-para-clonar-vm-no-esxi-versao-1-0/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://rodrigolira.eti.br/script-para-clonar-vm-no-esxi-versao-1-0/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fiz algumas pequenas alterações nele para ficar um pouco mais amigável.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o Grafana 5 no Slackware 14.2</title>
+      <link>http://rodrigolira.eti.br:80/instalando-o-grafana-5-no-slackware-14.2/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instalando-o-grafana-5-no-slackware-14.2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/instalando-o-grafana-5-no-slackware-14.2/images/grafana.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;503&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instalando-o-grafana-5-no-slackware-14.2/images/grafana-1024x503_hu_f67eace1d57798fa.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instalando-o-grafana-5-no-slackware-14.2/images/grafana-1024x503_hu_f67eace1d57798fa.png 800w, http://rodrigolira.eti.br:80/instalando-o-grafana-5-no-slackware-14.2/images/grafana-1024x503.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instalando-o-grafana-5-no-slackware-14.2/images/grafana-1024x503.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou mostrar como fazer a instalação do &lt;strong&gt;Grafana no Slackware 14.2&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o Grafana, é uma ferramenta para exibir e criar gráficos muito flexível, uma das grandes diferenças sobre essa ferramenta é que ela open source, ela trabalha integrada com diversas ferramentas, inclusive com o Zabbix.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Script para clonar VM no ESXi - Versão 1.0</title>
+      <link>http://rodrigolira.eti.br:80/script-para-clonar-vm-no-esxi-vers%C3%A3o-1.0/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/script-para-clonar-vm-no-esxi-vers%C3%A3o-1.0/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo, enfim terminei meu script para clonar vms no ESXi :D&lt;/p&gt;&#xA;&lt;p&gt;Segue o link do mesmo no GitHub - &lt;a href=&#34;https://github.com/eurodrigolira/esxi&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/eurodrigolira/esxi&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tenho vários clientes que utilizam a solução gratuita da VMware como solução de virtualização, normalmente empresas de pequeno porte, como no ESXi Hypervisor(free) não utilizamos o vCenter Server, não temos a opção nativa de clonar uma VM, dessa forma é necessário fazermos esse processo manual, seja através de scripts, ou através de &lt;strong&gt;Ctrl+c&lt;/strong&gt; e &lt;strong&gt;Ctrl+v&lt;/strong&gt;, sendo que dessa forma gera uma mão de obra desnecessária.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Transformando o CentOS em Oracle Linux</title>
+      <link>http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/04/oraclelinux.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;256&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 800w, http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Já imaginou poder transformar seu servidor &lt;strong&gt;CentOS&lt;/strong&gt; em um &lt;strong&gt;Oracle Linux&lt;/strong&gt; rodando apenas um script, sem precisar reinstalar todo o sistema novamente.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Script para backup do OpenWrt</title>
+      <link>http://rodrigolira.eti.br:80/script-para-backup-do-openwrt/</link>
+      <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/script-para-backup-do-openwrt/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou adicionar aqui, um simples script que criei para realizar backup das configurações do OpenWrt.&lt;/p&gt;&#xA;&lt;p&gt;Segue o Script abaixo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#!/bin/sh&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Rodrigo Lira&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# E-mail - eurodrigolira@gmail.com&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Script para backup do OpenWrt&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# VARIAVEIS&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;DATA=`date +%d_%m_%Y`&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;NOME=backup-openwrt-$DATA.tar.gz&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# CRIANDO O BACKUP DENTRO DO /tmp&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sysupgrade --create-backup /tmp/$NOME&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# ENVIA O ARQUIVO VIA SCP PARA SERVIDOR DE BACKUP&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;scp /tmp/$NOME root@IP_DE_DESTINO:/PASTA_DE_DESTINO&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# APAGA O ARQUIVO DE BACKUP&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rm /tmp/$NOME&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Este script faz o backup utilizando autenticação sem senha, instale o pacote openssh-client-utils para poder gerar as chaves para autenticação sem senha:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

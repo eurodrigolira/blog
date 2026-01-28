@@ -1,0 +1,47 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Ínicio"
+pageRef = "/"
+identifier = "r1o0NT52zu"
+weight = 10
+
+[[main]]
+name = "Posts"
+pageRef = "/posts"
+identifier = "ELpNGOazZR"
+weight = 20
+
+[[main]]
+name = "SlackBuilds"
+url = "https://github.com/eurodrigolira/slackbuilds"
+identifier = "PsCQ91j983"
+weight = 30
+
+[[main]]
+name = "Isos"
+url = "https://rodrigolira.eti.br"
+identifier = "mOx4trG62W"
+weight = 40
+
+[[main]]
+name = "Categorias"
+pageRef = "/categories"
+identifier = "XLK78KBSzH"
+weight = 50
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categorias"
+  pageRef = "categories"
+  weight = 20
+
+[[footer]]
+  name = "Autores"
+  pageRef = "authors"
+  weight = 30

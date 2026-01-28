@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software-Livre on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/software-livre/</link>
+    <description>Recent content in Software-Livre on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Fri, 30 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/software-livre/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Curso - Linux Introdução e Administração de Servidores</title>
+      <link>http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/</link>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/</guid>
+      <description>&lt;p&gt;S&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/01/linux.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;linux&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg 800w, http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/curso-linux-introdu%C3%A7%C3%A3o-e-administra%C3%A7%C3%A3o-de-servidores/images/linux.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;alve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Tenho o prazer de anunciar que estarei dando aulas no curso &amp;ldquo;Linux Introdução e Administração de Servidores&amp;rdquo; na Linuxfi, segue abaixo uma descrição detalhada do curso:&lt;/p&gt;&#xA;&lt;p&gt;As matriculas já estão abertas para o curso de Linux Introdução e Administração de Servidores Início das aulas: 24/fevereiro/2015 Terças e quintas das 19h às 22h&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Passei na LPIC-3 (Exame 303 - Security)</title>
+      <link>http://rodrigolira.eti.br:80/passei-na-lpic-3-exame-303-security/</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/passei-na-lpic-3-exame-303-security/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/12/lpi-blog.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;lpi-blog&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/passei-na-lpic-3-exame-303-security/images/lpi-blog.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/passei-na-lpic-3-exame-303-security/images/lpi-blog.png 800w, http://rodrigolira.eti.br:80/passei-na-lpic-3-exame-303-security/images/lpi-blog.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/passei-na-lpic-3-exame-303-security/images/lpi-blog.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muita alegria que venho informar que passei na LPIC-3 (exame 303 - Security).&lt;/p&gt;&#xA;&lt;p&gt;Mais para frente vou postar todo o material que usei para passar na mesma.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>OpenBSD 5.6</title>
+      <link>http://rodrigolira.eti.br:80/openbsd-5.6/</link>
+      <pubDate>Wed, 05 Nov 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/openbsd-5.6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/11/openbsd5.6.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;openbsd5.6&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png 800w, http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Lançada a versão 5.6 do OpenBSD.&lt;/p&gt;&#xA;&lt;p&gt;Para maiores detalhes acesse o link: &lt;a href=&#34;http://www.openbsd.org/56.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.openbsd.org/56.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Para download: &lt;a href=&#34;http://www.openbsd.org/ftp.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.openbsd.org/ftp.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo um vídeo de instalação da nova versão feito por &lt;a href=&#34;http://br.linkedin.com/in/teebsd&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Antonio Feitosa&lt;/a&gt; do &lt;a href=&#34;https://twitter.com/openbsd_br&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;@openbsd_br&lt;/a&gt; .&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Script para instalação do multilib no Slackware 64Bits</title>
+      <link>http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-multilib-no-slackware-64bits/</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-multilib-no-slackware-64bits/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/06/slackware.linux_multilib.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;slackware.linux_multilib&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-multilib-no-slackware-64bits/images/slackware.linux_multilib.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-multilib-no-slackware-64bits/images/slackware.linux_multilib.png 800w, http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-multilib-no-slackware-64bits/images/slackware.linux_multilib.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/script-para-instala%C3%A7%C3%A3o-do-multilib-no-slackware-64bits/images/slackware.linux_multilib.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje precisei instalar o multilib para compatibilidade de alguns softwares 32bits no meu Slackware 64bits.  Para que não sabe o Slackware 64bits é um SO puro, ou seja, não contém pacotes 32bits. Para maiores detalhes click &lt;a href=&#34;http://www.slackware.com/~alien/multilib/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;AQUI&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Dessa forma resolvi elaborar um script para automatizar essa tarefa, mas resolvi pesquisar antes para saber se alguém já tinha elaborado algum, e descobri um, porém não serviria para minha versão atual, dessa forma fiz algumas modificações para a minha realidade, e imagino que para de vocês também, esse script serve para qualquer versão do slackware desde que não seja para a versão current.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Vídeo Instalação OpenBSD 5.5</title>
+      <link>http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/</link>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/05/puffy55.jpeg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;puffy55&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg 800w, http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue um vídeo sensacional sobre a instalação e primeiras configurações do OpenBSD, esse é a sua porta de entrada para quem está pensando em utilizar esse sistema operacional fantástico, esse será o primeiro de uma serie de vídeos, fiquem a vontade assistam e compartilhem o mesmo com toda a comunidade, abraços!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Slackware 14.1 released!</title>
+      <link>http://rodrigolira.eti.br:80/slackware-14.1-released/</link>
+      <pubDate>Fri, 08 Nov 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/slackware-14.1-released/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/02/slackao-18082008.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;slackao-18082008&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;200&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/slackware-14.1-released/images/slackao-18082008-300x200.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/slackware-14.1-released/images/slackao-18082008-300x200.jpg 800w, http://rodrigolira.eti.br:80/slackware-14.1-released/images/slackao-18082008-300x200.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/slackware-14.1-released/images/slackao-18082008-300x200.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt; Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando por aqui apenas para deixar uma bela notícia, saiu a versão oficial do Slackware 14.1, para aqueles que ão loucos pelo Slackware assim como eu, fiquem a vontade para baixar ou atualizar a mais nova versão.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o Zabbix 2 no Slackware 14.0</title>
+      <link>http://rodrigolira.eti.br:80/instalando-o-zabbix-2-no-slackware-14.0/</link>
+      <pubDate>Wed, 21 Aug 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instalando-o-zabbix-2-no-slackware-14.0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/08/zabbix2.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;zabbix&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instalando-o-zabbix-2-no-slackware-14.0/images/zabbix2.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instalando-o-zabbix-2-no-slackware-14.0/images/zabbix2.png 800w, http://rodrigolira.eti.br:80/instalando-o-zabbix-2-no-slackware-14.0/images/zabbix2.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instalando-o-zabbix-2-no-slackware-14.0/images/zabbix2.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Essa semana tive a necessidade de instalar um servidor de monitoramento na empresa, nunca tive essa necessidade até essa semana. Acabei escolhendo o Zabbix por conselho de amigos, por sua vasta compatibilidade com diversos equipamento e por sua versatilidade, ent&amp;quot;ao vamos para de conversa e meter a mão na massa:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Resolvendo problema na inicialização do Teamviewer 8 no Slackware</title>
+      <link>http://rodrigolira.eti.br:80/resolvendo-problema-na-inicializa%C3%A7%C3%A3o-do-teamviewer-8-no-slackware/</link>
+      <pubDate>Sun, 18 Aug 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/resolvendo-problema-na-inicializa%C3%A7%C3%A3o-do-teamviewer-8-no-slackware/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/08/team-viewer-8-download.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;team-viewer-8-download&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/resolvendo-problema-na-inicializa%C3%A7%C3%A3o-do-teamviewer-8-no-slackware/images/team-viewer-8-download.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/resolvendo-problema-na-inicializa%C3%A7%C3%A3o-do-teamviewer-8-no-slackware/images/team-viewer-8-download.jpg 800w, http://rodrigolira.eti.br:80/resolvendo-problema-na-inicializa%C3%A7%C3%A3o-do-teamviewer-8-no-slackware/images/team-viewer-8-download.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/resolvendo-problema-na-inicializa%C3%A7%C3%A3o-do-teamviewer-8-no-slackware/images/team-viewer-8-download.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Essa semana precisei utilizar o teamviewer para atender um cliente, fiz a instalação tudo bem certinho pelo sbopkg.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Documentação sobre o Slackware</title>
+      <link>http://rodrigolira.eti.br:80/documenta%C3%A7%C3%A3o-sobre-o-slackware/</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/documenta%C3%A7%C3%A3o-sobre-o-slackware/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/08/slackbook1.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;slackbook&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/documenta%C3%A7%C3%A3o-sobre-o-slackware/images/slackbook1.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/documenta%C3%A7%C3%A3o-sobre-o-slackware/images/slackbook1.jpg 800w, http://rodrigolira.eti.br:80/documenta%C3%A7%C3%A3o-sobre-o-slackware/images/slackbook1.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/documenta%C3%A7%C3%A3o-sobre-o-slackware/images/slackbook1.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vim aqui para falar um pouco sobre a documentação do Slackware, ao contrario do que todo mundo pensa e fala o Slackware não é um Sistema Operacional difícil de utilizar, eu particularmente considero fácil, o problema é que grande parte das pessoas que começam a utilizar o sistema não tem a coragem de ler a documentação, isso não é exclusividade do Slackware e sim de todas as distros Linux que temos no mercado hoje, ler a documentação da sua distribuição deveria ser a primeira coisa a ser feita antes de utiliza-la.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mudando o idioma padrão do Slackware</title>
+      <link>http://rodrigolira.eti.br:80/mudando-o-idioma-padr%C3%A3o-do-slackware/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/mudando-o-idioma-padr%C3%A3o-do-slackware/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/08/lang.sh_.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;lang.sh&#34;&#xA;    width=&#34;150&#34;&#xA;    height=&#34;150&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/mudando-o-idioma-padr%C3%A3o-do-slackware/images/lang.sh_-150x150.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/mudando-o-idioma-padr%C3%A3o-do-slackware/images/lang.sh_-150x150.png 800w, http://rodrigolira.eti.br:80/mudando-o-idioma-padr%C3%A3o-do-slackware/images/lang.sh_-150x150.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/mudando-o-idioma-padr%C3%A3o-do-slackware/images/lang.sh_-150x150.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Várias pessoas tem dificuldade de configurar o idioma no Slackware, grande maioria configura no KDE pensando que está configurando no  Slackware.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lançada edição n.52 da Revista Espírito Livre</title>
+      <link>http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.52-da-revista-esp%C3%ADrito-livre/</link>
+      <pubDate>Fri, 02 Aug 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.52-da-revista-esp%C3%ADrito-livre/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/08/REL052_Capa.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;REL052_Capa&#34;&#xA;    width=&#34;224&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.52-da-revista-esp%C3%ADrito-livre/images/REL052_Capa-224x300.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.52-da-revista-esp%C3%ADrito-livre/images/REL052_Capa-224x300.jpg 800w, http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.52-da-revista-esp%C3%ADrito-livre/images/REL052_Capa-224x300.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.52-da-revista-esp%C3%ADrito-livre/images/REL052_Capa-224x300.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Link para download: &lt;a href=&#34;http://revista.espiritolivre.org/pdf/Revista_EspiritoLivre__052_junho2013.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://revista.espiritolivre.org/pdf/Revista_EspiritoLivre__052_junho2013.pdf&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>GNU/Linux Distribution Timeline</title>
+      <link>http://rodrigolira.eti.br:80/gnu/linux-distribution-timeline/</link>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/gnu/linux-distribution-timeline/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/07/gldt1210.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;gldt1210&#34;&#xA;    width=&#34;2220&#34;&#xA;    height=&#34;10114&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/gnu/linux-distribution-timeline/images/gldt1210_hu_2bdacd7a15332e90.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/gnu/linux-distribution-timeline/images/gldt1210_hu_2bdacd7a15332e90.png 800w, http://rodrigolira.eti.br:80/gnu/linux-distribution-timeline/images/gldt1210_hu_356a7f1ccbd56173.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/gnu/linux-distribution-timeline/images/gldt1210.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fonte: &lt;a href=&#34;http://futurist.se/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://futurist.se&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Prova - LPI 2</title>
+      <link>http://rodrigolira.eti.br:80/prova-lpi-2/</link>
+      <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/prova-lpi-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/06/icon-lpic2.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;icon-lpic2&#34;&#xA;    width=&#34;264&#34;&#xA;    height=&#34;264&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/prova-lpi-2/images/icon-lpic2.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/prova-lpi-2/images/icon-lpic2.png 800w, http://rodrigolira.eti.br:80/prova-lpi-2/images/icon-lpic2.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/prova-lpi-2/images/icon-lpic2.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Amanhã estarei fazendo as duas provas (201, 202) para tentar tirar a Certificação LPI-2, espero que eu possa mim dar bem e que eu obtenha mais esse sucesso. Postarei aqui o resultado assim que eu receber e espero que seja bom. Fui e até a próxima.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Nginx HTTP Server 1.3.9-1.4.0 Chuncked Encoding Stack Buffer Overflow</title>
+      <link>http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/</link>
+      <pubDate>Tue, 28 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/nginx.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;nginx&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;153&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png 800w, http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hoje foi postado no site &lt;a href=&#34;http://www.exploit-db.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;EXPLOITS DATABASE&lt;/a&gt;  uma vulnerabilidade no Nginx (versões 1.3.9 - 1.4.0), segue abaixo o link para maiores informações:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Debian 7 Lançado</title>
+      <link>http://rodrigolira.eti.br:80/debian-7-lan%C3%A7ado/</link>
+      <pubDate>Sun, 05 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/debian-7-lan%C3%A7ado/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/debianm.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;debianm&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;221&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/debian-7-lan%C3%A7ado/images/debianm-300x221.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/debian-7-lan%C3%A7ado/images/debianm-300x221.png 800w, http://rodrigolira.eti.br:80/debian-7-lan%C3%A7ado/images/debianm-300x221.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/debian-7-lan%C3%A7ado/images/debianm-300x221.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Noticias muito boa, debian 7 finalmente saiu do forno, segue o link para maiores informações e download:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.debian.org/News/2013/20130504&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.debian.org/News/2013/20130504&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Flisol João Pessoa</title>
+      <link>http://rodrigolira.eti.br:80/flisol-jo%C3%A3o-pessoa/</link>
+      <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/flisol-jo%C3%A3o-pessoa/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/04/banner2013.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;banner2013&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;171&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/flisol-jo%C3%A3o-pessoa/images/banner2013-300x171.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/flisol-jo%C3%A3o-pessoa/images/banner2013-300x171.png 800w, http://rodrigolira.eti.br:80/flisol-jo%C3%A3o-pessoa/images/banner2013-300x171.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/flisol-jo%C3%A3o-pessoa/images/banner2013-300x171.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Nesse fim de semana acontecera o Flisol (Festival Latinoamericano de Instalação de Software Livre), e João Pessoa não poderia ficar de fora dessa. O evento acontecerá no Centro Universitário de João Pessoa (UNIPÊ) e terá a seguinte programação como mostra a figura abaixo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>mtr - Traceroute&#43;ping em uma única ferramenta</title>
+      <link>http://rodrigolira.eti.br:80/mtr-traceroute-ping-em-uma-%C3%BAnica-ferramenta/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/mtr-traceroute-ping-em-uma-%C3%BAnica-ferramenta/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/03/mtr.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;mtr&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;171&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/mtr-traceroute-ping-em-uma-%C3%BAnica-ferramenta/images/mtr-300x171.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/mtr-traceroute-ping-em-uma-%C3%BAnica-ferramenta/images/mtr-300x171.png 800w, http://rodrigolira.eti.br:80/mtr-traceroute-ping-em-uma-%C3%BAnica-ferramenta/images/mtr-300x171.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/mtr-traceroute-ping-em-uma-%C3%BAnica-ferramenta/images/mtr-300x171.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O mtr combina a funcionalidade dos programas traceroute e ping em uma única ferramenta de diagnóstico de rede. Use mtr para monitorar banda de saída, latência entre outros. Um ótimo aplicativo para resolver pequenos problemas de rede.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lançada edição n.43 da Revista Espírito Livre</title>
+      <link>http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.43-da-revista-esp%C3%ADrito-livre/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.43-da-revista-esp%C3%ADrito-livre/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/03/REL043_Capa.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;REL043_Capa&#34;&#xA;    width=&#34;224&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.43-da-revista-esp%C3%ADrito-livre/images/REL043_Capa-224x300.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.43-da-revista-esp%C3%ADrito-livre/images/REL043_Capa-224x300.jpg 800w, http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.43-da-revista-esp%C3%ADrito-livre/images/REL043_Capa-224x300.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ada-edi%C3%A7%C3%A3o-n.43-da-revista-esp%C3%ADrito-livre/images/REL043_Capa-224x300.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Muito se fala do uso do software livre, do opensource e dos padrões abertos em ambientes educacionais e na academia. Muitos casos de sucesso são relatados aos quatro cantos. Até parece fácil implementar uma política de uso de software livre nestes espaços. Mas não é bem assim. E é por esta razão que a edição especial sobre o tema Educação foi lançada. Ao longo de nossos vários anos de caminhada percebemos que ainda existe muito a ser feito. Vários alunos sequer sabem o que é software livre e para que serve. Muitos confundem e associam o acesso ao código fonte com insegurança ou ainda o fato do termo “livre” representar algo como gratuidade. Alguns acham que o fato do software livre ser quase sempre acessado de forma gratuita e construído em grande parte por comunidades e voluntários o torna inferior ou pior que soluções proprietárias.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

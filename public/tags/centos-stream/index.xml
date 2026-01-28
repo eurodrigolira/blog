@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centos-Stream on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/centos-stream/</link>
+    <description>Recent content in Centos-Stream on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/centos-stream/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Migrando do CentOS Linux 8 para o CentOS Stream 8</title>
+      <link>http://rodrigolira.eti.br:80/migrando-do-centos-linux-8-para-o-centos-stream-8/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/migrando-do-centos-linux-8-para-o-centos-stream-8/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Para quem acompanha o mundo Linux viu que o projeto CentOS Linux 8 só terá suporte até Dezembro de 2021, pois todos os esforços serão concentrados no CentOS Stream.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

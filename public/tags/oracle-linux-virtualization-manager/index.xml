@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oracle-Linux-Virtualization-Manager on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/oracle-linux-virtualization-manager/</link>
+    <description>Recent content in Oracle-Linux-Virtualization-Manager on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/oracle-linux-virtualization-manager/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fim do suporte ao Oracle VM Server</title>
+      <link>http://rodrigolira.eti.br:80/fim-do-suporte-ao-oracle-vm-server/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/fim-do-suporte-ao-oracle-vm-server/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif 800w, http://rodrigolira.eti.br:80/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo sem postar nada devido a falta de tempo por causa de alguns projetos pessoais hoje venho falar um pouco sobre a vida últil do Oracle VM Server.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager – Parte 04 (Adicionando um Host KVM)</title>
+      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie hoje vamos começar a adicionar os hosts em nosso ambiente, mas antes vamos ver os requisitos para instalação do mesmos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager – Parte 03</title>
+      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos dar continuidade a nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No último post vimos como fazer a instalação do Oracle Linux 7 hoje vamos fazer a instalação do &lt;strong&gt;Manager&lt;/strong&gt;, se você não leu nenhum dos outros dois posts, acesse os links abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager – Parte 02</title>
+      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos ao nosso segundo post da nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Se você não viu o primeiro post ainda acesse o link abaixo e leia o mesmo para entender um pouco mais sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt; e nosso cenário:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager - Parte 01</title>
+      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/OLVM.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muito prazer que começo mais uma serie de posts, dessa vez vamos falar sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anunciado o Oracle Linux Virtualization Manager</title>
+      <link>http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;136&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 800w, http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Hoje a Oracle anunciou o Oracle Linux Virtualization Manager.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;269&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 800w, http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

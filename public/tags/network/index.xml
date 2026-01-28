@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/network/</link>
+    <description>Recent content in Network on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Placas de rede de baixo custo para o ESXi 8</title>
+      <link>http://rodrigolira.eti.br:80/placas-de-rede-de-baixo-custo-para-o-esxi-8/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/placas-de-rede-de-baixo-custo-para-o-esxi-8/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225.jpeg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;253&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg 800w, http://rodrigolira.eti.br:80/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Desde o lançamento do &lt;strong&gt;VMware ESXi 7.0&lt;/strong&gt;, nós não conseguimos mais inserir drivers da comunidade com suporte a chipsets realtek, isso é um problema para as pessoas que possuem pequenos ambientes ou até mesmo seus homelabs.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ferramentas do dia a dia com Linux – bmon</title>
+      <link>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-bmon/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-bmon/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais uma ferramenta que uso no meu dia a dia como administrador &lt;strong&gt;Linux&lt;/strong&gt; e hoje vamos falar sobre o &lt;strong&gt;bmon&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;bmon&lt;/strong&gt; é uma ferramenta de monitoramento e depuração para capturar estatísticas relacionadas as suas interfaces de rede.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ferramentas do dia a dia com Linux – nload</title>
+      <link>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-nload/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-nload/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais uma ferramenta que uso no meu dia a dia como administrador Linux e hoje vamos falar sobre o &lt;strong&gt;nload&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;nload&lt;/strong&gt; exibe em tempo real o uso de suas interfaces de rede.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Adaptadores USB para Ethernet no ESXi 7</title>
+      <link>http://rodrigolira.eti.br:80/adaptadores-usb-para-ethernet-no-esxi-7/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muita gente sabe que com o &lt;strong&gt;ESXi 7&lt;/strong&gt; não podemos mais usar placas de rede do tipo PCI não homologadas pela VMware, normalmente essas placas de rede vem com chipsets &lt;strong&gt;Realtek&lt;/strong&gt;, precisamos instalar os drivers manualmente e eram usadas em labs ou pequenos ambientes, particularmente tenho vários clientes usando.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ISOs ESXi Customizadas (Update 06/2019)</title>
+      <link>http://rodrigolira.eti.br:80/isos-esxi-customizadas-update-06/2019/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/isos-esxi-customizadas-update-06/2019/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de uma boa reformulada no blog, venho com mais uma boa notícia.&lt;/p&gt;&#xA;&lt;p&gt;Criei uma área dedicada as ISOs customizadas do ESXI.&lt;/p&gt;&#xA;&lt;p&gt;Alem disso, também inclui os drivers em diversas imagens da Lenovo e HP, dessa forma você pode baixar a ISO com os drivers da HP e Lenovo e já com os drivers da Realtek e etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 09 (Configurações de Rede)</title>
+      <link>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-09-configura%C3%A7%C3%B5es-de-rede/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-09-configura%C3%A7%C3%B5es-de-rede/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-09-configura%C3%A7%C3%B5es-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-09-configura%C3%A7%C3%B5es-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-09-configura%C3%A7%C3%B5es-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-09-configura%C3%A7%C3%B5es-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-09-configura%C3%A7%C3%B5es-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No último post da série vimos quais são os componentes de rede do &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;, hoje vamos ver como podemos configurar esses componentes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 08 (Endentendo os Componentes de Rede)</title>
+      <link>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o VMware Workstation Pro 15, vamos entender os componentes de rede que podemos do VMware Workstation Pro 15.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

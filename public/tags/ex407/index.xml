@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ex407 on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/ex407/</link>
+    <description>Recent content in Ex407 on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/ex407/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reprovado no exame Red Hat Certified Specialist in Ansible Automation (EX407)</title>
+      <link>http://rodrigolira.eti.br:80/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estava um pouco distante do blog devido a outras prioridades, uma delas foi os estudos para o exame Red Hat Certified Specialist in Ansible Automation (EX407).&lt;/p&gt;&#xA;&lt;p&gt;Infelizmente fiquei reprovado no exame, mas foi um bom desafio e aprendi muito estudando para este exame.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

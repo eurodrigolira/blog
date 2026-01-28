@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nmap on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/nmap/</link>
+    <description>Recent content in Nmap on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Tue, 15 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/nmap/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nmap: 30 exemplos de comandos para administradores de rede</title>
+      <link>http://rodrigolira.eti.br:80/nmap-30-exemplos-de-comandos-para-administradores-de-rede/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/nmap-30-exemplos-de-comandos-para-administradores-de-rede/</guid>
+      <description>&lt;p&gt;É uma ferramenta de segurança de código aberto para exploração de rede, varredura de segurança e auditoria. No entanto, o nmap  vem com muitas opções que podem tornar o utilitário mais robusto e difícil de seguir para novos usuários.&lt;/p&gt;&#xA;&lt;p&gt;O objetivo deste post é a introdução de um usuário para a ferramenta de linha de comando nmap para escanear um host e/ou rede, de modo a descobrir os possíveis pontos vulneráveis das maquinas. Você também vai aprender a usar o Nmap para fins ofensivos e defensivos.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cyberciti.biz/networking/nmap-command-examples-tutorials/attachment/welcome-nmap/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;nmap in action&#34;&#xA;    width=&#34;593&#34;&#xA;    height=&#34;441&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/nmap-30-exemplos-de-comandos-para-administradores-de-rede/images/welcome-nmap.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/nmap-30-exemplos-de-comandos-para-administradores-de-rede/images/welcome-nmap.png 800w, http://rodrigolira.eti.br:80/nmap-30-exemplos-de-comandos-para-administradores-de-rede/images/welcome-nmap.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/nmap-30-exemplos-de-comandos-para-administradores-de-rede/images/welcome-nmap.png&#34;&gt;&lt;figcaption&gt;Nmap Tutorial / Examples PDF Download&lt;/figcaption&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Configuração de exemplo (LAB)&lt;/p&gt;&#xA;&lt;p&gt;Varredura de portas pode ser ilegal em algumas países. Assim é mais pratico configurar um laboratório como o exemplo abaixo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                              +---------+&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        +---------+           | Network |         +--------+&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        | server1 |-----------+ swtich  +---------|server2 |&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        +---------+           | (sw0)   |         +--------+&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                              +----+----+&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                   |&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                   |&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                         +---------+----------+&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                         | wks01 Linux/OSX    |&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                         +--------------------+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

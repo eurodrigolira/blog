@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/labs/</link>
+    <description>Recent content in Labs on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instalação do VMware vCenter Server Appliance 6.7</title>
+      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-vcenter-server-appliance-6.7/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-vcenter-server-appliance-6.7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-vcenter-server-appliance-6.7/images/migrate2vcsa.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;232&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-vcenter-server-appliance-6.7/images/migrate2vcsa-232x300.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-vcenter-server-appliance-6.7/images/migrate2vcsa-232x300.png 800w, http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-vcenter-server-appliance-6.7/images/migrate2vcsa-232x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-vcenter-server-appliance-6.7/images/migrate2vcsa-232x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um tempo sem um LAB do vSphereEstou refazendo meu LAB, então já estou partindo para a versão VMware vSphere 6.7.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - Error invalid host name resolution</title>
+      <link>http://rodrigolira.eti.br:80/oracle-vm-server-error-invalid-host-name-resolution/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-error-invalid-host-name-resolution/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Um dos possíveis erros que podemos cometer na hora da instalação de um sistema operacional, é realizar as configurações de rede da forma incorreta. Pós instalação nós podemos resolver isso sem problemas, indo no arquivo de configuração e corrigindo o que for necessário.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Update ESXi Embedded Host Client v1.16.0</title>
+      <link>http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.16.0/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.16.0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/01/Captura-de-tela-de-2017-01-25-142742.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;143&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.16.0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.16.0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png 800w, http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.16.0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.16.0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Mais uma nova versão do &lt;strong&gt;ESXi Embedded Host Client&lt;/strong&gt; a &lt;strong&gt;versão 1.16.0.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A forma de atualização pode ser feita via interface web, como mostrei em outro post, clique &lt;a href=&#34;http://rodrigolira.eti.br/update-esxi-embedded-host-client-v1-9-1/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;AQUI&lt;/a&gt; para acessar e ver como atualizar.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - P2V / V2V</title>
+      <link>http://rodrigolira.eti.br:80/oracle-vm-server-p2v-/-v2v/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-p2v-/-v2v/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como realizar um p2v (Physical-to-Virtual) ou um v2v (Virtual-to-Virtual) com o Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Diferente do VMware vCenter Converter Standalone, nós precisamos desligar a VM ou Host para a realização do procedimento.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Permissões no vCenter Server 6.5 - Parte 01</title>
+      <link>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-01/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-01/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje em dia se fala muito de segurança, e uma das suas boas práticas é darmos ao usuário apenas as permissões necessárias ao mesmo.&lt;/p&gt;&#xA;&lt;p&gt;Nessa serie de posts, vou mostrar as permissões que o vCenter Server tem nativamente, como criar permissões personalizadas , como criar novos usuários e grupos e como darmos permissões especificas a cada usuário ou grupo, também vou mostrar como darmos permissão apenas a determinados objetos do nosso vCenter Server.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Permissões no vCenter Server 6.5 – Parte 02</title>
+      <link>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-02/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-02/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nessa segunda parte da serie Permissões no vCenter Server 6.5, nós vamos ver o segundo cenário.&lt;/p&gt;&#xA;&lt;p&gt;Nós vamos criar uma permissão personalizada chamada Power-On, criar usuário chamado estagiário02, depois criar um grupo chamado estagiarios, e adicionar o usuário estagiario02 ao grupo estagiarios e delegar a permissão Power-On ao grupo estagiarios.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Permissões no vCenter Server 6.5 – Parte 03</title>
+      <link>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-03/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-03/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nessa terceira parte da serie Permissões no vCenter Server 6.5, nós vamos ver o terceiro cenário.&lt;/p&gt;&#xA;&lt;p&gt;Vamos criar um usuário chamado estagiário03 e vamos dar permissão em apenas um objeto do nosso vCenter Server, nesse caso em uma VM, dessa forma quando o estagiario03 logar no vCenter Server, só estará disponível para o mesmo este objeto(VM).&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Command Line Interface (CLI)</title>
+      <link>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Este é o primeiro de uma serie de posts que quero fazer falando sobre o &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt; oferece os mesmo recursos que o ambiente web, dessa forma podemos gerenciar nossos hosts e nosso manager por linha de comando.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Interface Bond no Oracle VM Server</title>
+      <link>http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar as opções de configuração da interface bond no Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/11/network_bonding_mode4.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;network_bonding_mode4&#34;&#xA;    width=&#34;496&#34;&#xA;    height=&#34;228&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 800w, http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O bond é o responsável por fazer a agregação de interfaces no Oracle VM, na versão atual (3.4.2) é possível configurar o bond com as seguintes opções:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Update ESXi Embedded Host Client v1.10.1</title>
+      <link>http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.10.1/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.10.1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/10/Captura-de-Tela-2016-10-10-a?s-23.11.14.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;captura-de-tela-2016-10-10-as-23-11-14&#34;&#xA;    src=&#34;images/Captura-de-Tela-2016-10-10-a&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje saiu uma nova versão do &lt;strong&gt;ESXi Embedded Host Client&lt;/strong&gt; a &lt;strong&gt;versão 1.10.1&lt;/strong&gt;, o que aconteceu com a 1.10.0? Lançaram no dia 06/10 e eu não vi, por isso eu não postei aqui no blog :(&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o OpenBSD 6.0 no vSphere 6.0</title>
+      <link>http://rodrigolira.eti.br:80/instalando-o-openbsd-6.0-no-vsphere-6.0/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instalando-o-openbsd-6.0-no-vsphere-6.0/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Fiz um vídeo mostrando como instalar o OpenBSD 6.0 no vSphere 6.0, o vídeo tem todo o passo-a-passo da configuração da VM até a instalação do OpenBSD 6.0.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o vSphere ESXi no Oracle VM Server/Xen (Nested)</title>
+      <link>http://rodrigolira.eti.br:80/instalando-o-vsphere-esxi-no-oracle-vm-server/xen-nested/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/instalando-o-vsphere-esxi-no-oracle-vm-server/xen-nested/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo pesquisando, várias tentativas e erros, consegui fazer o VMware vSphere ESXi funcionar como guest dentro do Oracle VM Server. O procedimento é um pouco chato, porque nós vamos ter que editar o arquivo de configuração da VM manualmente, e um detalhe muito importante, se formos fazer qualquer alteração da VM com o Oracle VM Manager, as configurações manuais que colocamos são excluídas, por isso temos que ficar atentos a qualquer modificação realizada na VM.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server – Parte 5</title>
+      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-5/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-5/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Para poder finalizar essa parte de instalação e configuração básica do Oracle VM Server, neste vídeo mostro como configurar e instalar nossa primeira vm :D&lt;/p&gt;&#xA;&lt;p&gt;Nesse ponto, nosso ambiente já está todo configurado e funcionando perfeitamente. Para os próximos vídeos, vamos ver como explorar as funcionalidades do Oracle VM Server, tipos de rede, backup e recovery, comandos da CLI própria dele, etc, ou seja, vai ter muita coisa para a gente brincar com o Oracle VM Server :D&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server – Parte 4</title>
+      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-4/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-4/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Demorou mas saiu :D&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo o vídeo de configuração do Oracle VM Manager, não fiz a edição do vídeo (não achei um software gratuito para mac :( ), decide fazer o vídeo porque fica mais fácil o entendimento de tudo, nesse vídeo não mostrei como criar uma VM, deixei para o próximo, no próximo mostro como fazer o upload das ISOs, vamos criar nossa primeira VM e entender todos os parâmetros de criação da mesma.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server – Parte 3</title>
+      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-3/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-3/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar todo o passo-a-passo de instalação do Oracle VM Manager, que é o cara responsável pelo gerenciamento do nosso ambiente virtualizado, a instalação dele é bem simples, porém existem alguns detalhes que se não prestarmos atenção podem nos tirar bastante tempo na hora da sua implementação. Diferentemente do Oracle VM Server, o Manager não vem em uma ISO já pronta, nesse caso precisamos instalar um Sistema Operacional antes, no caso do nosso lab, instalei um Oracle Linux 7, fiz a atualização de todos os pacotes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server - Parte 2</title>
+      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-2/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-2/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade ao nosso lab sobre Oracle VM Server, nesse post vou mostrar como realizar a instalação e configurações iniciais do mesmo, a instalação e configuração é bem tranquila, as maquinas(VMs) estão configuradas de como eu falei no primeiro post, caso não tenha visto o mesmo, pode acessa-lo através do link abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab pfSense - Parte 01</title>
+      <link>http://rodrigolira.eti.br:80/lab-pfsense-parte-01/</link>
+      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-pfsense-parte-01/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou dando inicio a uma nova serie de vídeos, desta vez sobre o pfSense.&lt;/p&gt;&#xA;&lt;p&gt;Ultimamente tenho recebido diversos contatos referente a um vídeo que publiquei sobre a integração do pfSense com captive portal autenticando usuários via RADIUS no Windows Server (&lt;a href=&#34;http://rodrigolira.eti.br/1260/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://rodrigolira.eti.br/1260/&lt;/a&gt;), problemas diversos, desde firewall até configuração errada das politicas no Windows.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab VCP6-DCV – Parte 6</title>
+      <link>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-6/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/04/VCP6.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;VCP6&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-6/images/VCP6.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-6/images/VCP6.png 800w, http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-6/images/VCP6.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-6/images/VCP6.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo mais um vídeo do lab para vcp6, para quem não viu os outros posts segue os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-1/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-2/&#34; title=&#34;Lab VCP6-DCV – Parte 2&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-3/&#34; title=&#34;Lab VCP6-DCV – Parte 3&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-4/&#34; title=&#34;Lab VCP6-DCV – Parte 4&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-5/&#34; title=&#34;Lab VCP6-DCV – Parte 5&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 5&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Este é o último vídeo da criação do lab para a prova VCP6-DCV, nele mostro como configurar o datacenter, cluster e adicionar os hosts ao cluster.&lt;/p&gt;&#xA;&lt;p&gt;Irei fazer outros vídeos sobre o vSphere 6, porém não terá como foco a criação do lab, será mais voltado a configuração de vDS, HA, FT, vMotion, VSAN, criação de VMs e etc, tem muita coisa para nós vermos e estudarmos, em todos irei utilizar este ambiente ou parecido com o mesmo.&lt;/p&gt;&#xA;&lt;p&gt;Espero que gostem e compartilhem o vídeo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab VCP6-DCV – Parte 4</title>
+      <link>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-4/</link>
+      <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/04/VCP6.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;VCP6&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-4/images/VCP6.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-4/images/VCP6.png 800w, http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-4/images/VCP6.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-4/images/VCP6.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo mais um vídeo do lab para vcp6, para quem não viu os outros posts segue os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-1/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-2/&#34; title=&#34;Lab VCP6-DCV – Parte 2&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-3/&#34; title=&#34;Lab VCP6-DCV – Parte 3&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo mostro como configurar todas as redes, FT, VM Network, iSCSI, Management, vMotion, e como configurar o disco iSCSI no host.&lt;/p&gt;&#xA;&lt;p&gt;Obs: Para quem vem acompanhando os posts, eu fiz a atualização do VMware Workstation para a versão 11 e substitui a maquina com o Mikrotik por uma maquina com o Slackware, esse procedimento não afeta em nada seu lab. :D&lt;/p&gt;&#xA;&lt;p&gt;Espero que gostem e compartilhem o vídeo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab VCP6-DCV – Parte 5</title>
+      <link>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-5/</link>
+      <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-5/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/04/VCP6.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;VCP6&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-5/images/VCP6.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-5/images/VCP6.png 800w, http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-5/images/VCP6.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-5/images/VCP6.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo mais um vídeo do lab para vcp6, para quem não viu os outros posts segue os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-1/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-2/&#34; title=&#34;Lab VCP6-DCV – Parte 2&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-3/&#34; title=&#34;Lab VCP6-DCV – Parte 3&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-4/&#34; title=&#34;Lab VCP6-DCV – Parte 4&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo mostro como configurar instalar e configurar o vCenter Server Appliance 6.&lt;/p&gt;&#xA;&lt;p&gt;Espero que gostem e compartilhem o vídeo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Zentyal - Parte 1</title>
+      <link>http://rodrigolira.eti.br:80/lab-zentyal-parte-1/</link>
+      <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-zentyal-parte-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/04/Zentyal.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Zentyal&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lab-zentyal-parte-1/images/Zentyal.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lab-zentyal-parte-1/images/Zentyal.png 800w, http://rodrigolira.eti.br:80/lab-zentyal-parte-1/images/Zentyal.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lab-zentyal-parte-1/images/Zentyal.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou começando uma nova serie de labs, demostrando o Zentyal.&lt;/p&gt;&#xA;&lt;p&gt;Mas o que é o Zentyal? &lt;a href=&#34;http://www.zentyal.org/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.zentyal.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Zentyal é um servidor linux baseado no Ubuntu, que vem com diversas ferramentas gráficas que podem ser configuradas através de um navegador web. Veja lista de algumas ferramentas disponíveis:&lt;/p&gt;&#xA;&lt;p&gt;DNS Server DHCP Server NTP Server Certification Authority VPN Server &amp;amp; Client Firewall Packet Filter Entre outros&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;A lista completa está neste link: &lt;a href=&#34;http://www.zentyal.org/server/#server-features&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.zentyal.org/server/#server-features&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O Zentyal está disponível em duas versões a Gratuita e a Paga, nós vamos trabalhar apenas com a versão gratuita.&lt;/p&gt;&#xA;&lt;p&gt;Obs: Nem tudo está disponível na versão gratuita ;)&lt;/p&gt;&#xA;&lt;p&gt;Neste primeiro momento fiz um vídeo onde eu mostro como instalar e atualizar o sistema, nos próximos vamos explorar todas as ferramentas disponíveis e ver como configurar cada uma.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Hands-on Labs</title>
+      <link>http://rodrigolira.eti.br:80/vmware-hands-on-labs/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/vmware-hands-on-labs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/vmware-labs.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;vmware-labs&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/vmware-hands-on-labs/images/vmware-labs.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/vmware-hands-on-labs/images/vmware-labs.png 800w, http://rodrigolira.eti.br:80/vmware-hands-on-labs/images/vmware-labs.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/vmware-hands-on-labs/images/vmware-labs.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Uma dica para quem está estudando para certificação da VMware é o site VMware HOL Online. Nele é possível realizar vários labs fornecidos e pre-configurados pela própria VMware, é muito bom para que está estudando sobre os recursos e não tem um  bom hardware disponível para realizar esses laboratórios. Sem contar que existem labs que você não consegue realizar pelo fato de não haver produto trial disponível.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

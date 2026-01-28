@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seguranca on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/seguranca/</link>
+    <description>Recent content in Seguranca on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/seguranca/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Livro - Construindo uma Carreira em Cibersegurança</title>
+      <link>http://rodrigolira.eti.br:80/livro-construindo-uma-carreira-em-ciberseguran%C3%A7a/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/livro-construindo-uma-carreira-em-ciberseguran%C3%A7a/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje terminei de ler o livro &lt;strong&gt;Construindo uma Carreira em Cibersegurança: Estratégia e habilidades necessárias para o sucesso&lt;/strong&gt;, o autor é o &lt;strong&gt;Yuri Diogenes&lt;/strong&gt;**.**&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/livro-construindo-uma-carreira-em-ciberseguran%C3%A7a/images/Captura-de-imagem_20240728_213103.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;218&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/livro-construindo-uma-carreira-em-ciberseguran%C3%A7a/images/Captura-de-imagem_20240728_213103-218x300.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/livro-construindo-uma-carreira-em-ciberseguran%C3%A7a/images/Captura-de-imagem_20240728_213103-218x300.png 800w, http://rodrigolira.eti.br:80/livro-construindo-uma-carreira-em-ciberseguran%C3%A7a/images/Captura-de-imagem_20240728_213103-218x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/livro-construindo-uma-carreira-em-ciberseguran%C3%A7a/images/Captura-de-imagem_20240728_213103-218x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Bloqueando dispositivos USB no Linux com USBGuard</title>
+      <link>http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;962&#34;&#xA;    height=&#34;193&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_22b293d8c68ba99a.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_22b293d8c68ba99a.png 800w, http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como podemos bloquear ou liberar dispositivos do tipo &lt;strong&gt;USB&lt;/strong&gt; no Linux com &lt;strong&gt;USBGuard&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 05 (Criptografando Máquinas Virtuais)</title>
+      <link>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-05-criptografando-m%C3%A1quinas-virtuais/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-05-criptografando-m%C3%A1quinas-virtuais/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-05-criptografando-m%C3%A1quinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-05-criptografando-m%C3%A1quinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-05-criptografando-m%C3%A1quinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-05-criptografando-m%C3%A1quinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/vmware-workstation-pro-15-parte-05-criptografando-m%C3%A1quinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o VMware Workstation Pro 15, hoje vamos ver como podemos criptografar nossas máquinas virtuais.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mudando a complexidade de senhas do ESXi</title>
+      <link>http://rodrigolira.eti.br:80/mudando-a-complexidade-de-senhas-do-esxi/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/mudando-a-complexidade-de-senhas-do-esxi/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou falar sobre a complexidade se senhas do ESXi.&lt;/p&gt;&#xA;&lt;p&gt;Por padrão, quando vamos instalar um novo servidor ESXi, nós podemos configurar uma senha com baixa complexidade, o único pré-requisito que ela precisa atender é que tenha no mínimo 7 caracteres.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Hardening Red Hat/CentOS 7 – Parte 02 (Controlando o acesso por SSH)</title>
+      <link>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-02-controlando-o-acesso-por-ssh/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-02-controlando-o-acesso-por-ssh/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post da serie de Hardening em &lt;strong&gt;Red Hat/CentOS 7&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No post anterior vimos como controlar o acesso de root em diversas formas de login. até mesmo por SSH, se não viu o primeiro post, sugiro que acesse e leia, segue o link:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Hardening Red Hat/CentOS 7 - Parte 01 (Controlando o acesso de root)</title>
+      <link>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-01-controlando-o-acesso-de-root/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-01-controlando-o-acesso-de-root/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Antes de começar essa serie de posts, vamos começar entendendo um pouco o que é o &lt;strong&gt;hardening&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;p&gt;Segundo a Wikipédia: &lt;em&gt;&lt;strong&gt;Hardening&lt;/strong&gt;&lt;/em&gt; é um processo de mapeamento das ameaças, mitigação dos riscos e execução das atividades corretivas, com foco na infraestrutura e objetivo principal de torná-la preparada para enfrentar tentativas de ataque.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>JampaSec 2016</title>
+      <link>http://rodrigolira.eti.br:80/jampasec-2016/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/jampasec-2016/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/11/Seguranc?a-em-Ambientes-Virtualizados.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;seguranc%cc%a7a-em-ambientes-virtualizados&#34;&#xA;    src=&#34;images/Seguranc&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No mês que vem, acontecerá o JampaSec 2016, um evento de segurança da informação aqui em João Pessoa/PB.&lt;/p&gt;&#xA;&lt;p&gt;Vou dar uma palestra sobre &lt;strong&gt;SEGURANÇA EM AMBIENTES VIRTUALIZADOS&lt;/strong&gt;, espero que vocês possam ir, depois da palestra irei colocar os slides aqui no blog.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>JampaSec</title>
+      <link>http://rodrigolira.eti.br:80/jampasec/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/jampasec/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Esse final de semana acontece o JampaSec 2015.&lt;/p&gt;&#xA;&lt;p&gt;O JampaSec 2015 será um evento de Segurança da Informação que acontecerá nos dias 02 e 03 Outubro de 2015 em João Pessoa, Paraíba. O evento contará com profissionais da área de Segurança da Informação de diversos Estados do Brasil que falarão sobre os temas e tendências na área. Voltado para estudantes, profissionais, gerentes e interessados em Tecnologia da Informação, o evento terá o apoio da OWASP Paraíba e da Faculdade Estácio bem como diversos patrocinadores.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Segurança no Wordpress (Parte 2)</title>
+      <link>http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-2/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/seguranca.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;seguranca&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;182&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-2/images/seguranca-300x182.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-2/images/seguranca-300x182.jpg 800w, http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-2/images/seguranca-300x182.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-2/images/seguranca-300x182.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Bem to aqui para falar de mais um plugin para segurança do wordpress, é o &lt;strong&gt;WP Security Scan&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Nginx HTTP Server 1.3.9-1.4.0 Chuncked Encoding Stack Buffer Overflow</title>
+      <link>http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/</link>
+      <pubDate>Tue, 28 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/nginx.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;nginx&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;153&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png 800w, http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/nginx-http-server-1.3.9-1.4.0-chuncked-encoding-stack-buffer-overflow/images/nginx-300x153.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hoje foi postado no site &lt;a href=&#34;http://www.exploit-db.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;EXPLOITS DATABASE&lt;/a&gt;  uma vulnerabilidade no Nginx (versões 1.3.9 - 1.4.0), segue abaixo o link para maiores informações:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Segurança no Wordpress (Parte 1)</title>
+      <link>http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-1/</link>
+      <pubDate>Tue, 28 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/seguranca.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;seguranca&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;182&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-1/images/seguranca-300x182.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-1/images/seguranca-300x182.jpg 800w, http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-1/images/seguranca-300x182.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/seguran%C3%A7a-no-wordpress-parte-1/images/seguranca-300x182.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A partir de hoje irei criar vários posts sobre segurança no Wordpress, irei mostrar plugins, falhas e ataques feitos no Wordpress, tudo com muita calma e passo-a-passo. O primeiro plugin do qual vou falar é o Login LockDown, esse é um plugin contra ataque de Brute Force, após a sua instalação as suas configurações poderão ser alteradas em &lt;strong&gt;Painel &amp;gt; Configurações &amp;gt; Login LockDown&lt;/strong&gt;, por padrão ele vem configurado da seguinte forma:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

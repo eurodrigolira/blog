@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes-the-Hard-Way on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/kubernetes-the-hard-way/</link>
+    <description>Recent content in Kubernetes-the-Hard-Way on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/kubernetes-the-hard-way/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kubernetes The Hard Way no Slackware 15 – Parte 06</title>
+      <link>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-06/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-06/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-06/images/k8s-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;261&#34;&#xA;    height=&#34;161&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-06/images/k8s-slackware.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-06/images/k8s-slackware.png 800w, http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-06/images/k8s-slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-06/images/k8s-slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts Kubernetes The Hard Way no Slackware 15, esse post é bem curto, vamos gerar uma chave e a configuração de criptografia para criptografar os dados do Kubernetes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes The Hard Way no Slackware 15 – Parte 05</title>
+      <link>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-05/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-05/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/k8s-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;150&#34;&#xA;    height=&#34;150&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-05/images/k8s-slackware-150x150.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-05/images/k8s-slackware-150x150.png 800w, http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-05/images/k8s-slackware-150x150.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-05/images/k8s-slackware-150x150.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts Kubernetes The Hard Way no Slackware 15, neste post vamos ver como gerar os arquivos de configurações para autenticação dos componentes do kubernetes, nós vamos gerar os arquivos para o &lt;strong&gt;controller manager&lt;/strong&gt;, &lt;strong&gt;kubelet&lt;/strong&gt;, &lt;strong&gt;kube-proxy&lt;/strong&gt;, &lt;strong&gt;kube-scheduler&lt;/strong&gt; e para o usuário &lt;strong&gt;admin&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes The Hard Way no Slackware 15 – Parte 04</title>
+      <link>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-04/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-04/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-04/images/k8s-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;261&#34;&#xA;    height=&#34;161&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-04/images/k8s-slackware.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-04/images/k8s-slackware.png 800w, http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-04/images/k8s-slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-04/images/k8s-slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts &lt;strong&gt;Kubernetes The Hard Way no Slackware 15&lt;/strong&gt;, nesse post nos vamos ver como criar toda a infraestrutura PKI, usando as ferramentas &lt;strong&gt;cfssl&lt;/strong&gt; e &lt;strong&gt;cfssljson&lt;/strong&gt; para provisionar uma &lt;strong&gt;CA&lt;/strong&gt; e gerar todos os &lt;strong&gt;Certificados TLS&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes The Hard Way no Slackware 15 – Parte 03</title>
+      <link>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-03/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-03/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-03/images/k8s-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;261&#34;&#xA;    height=&#34;161&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-03/images/k8s-slackware.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-03/images/k8s-slackware.png 800w, http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-03/images/k8s-slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-03/images/k8s-slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie &lt;strong&gt;Kubernetes The Hard Way no Slackware 15&lt;/strong&gt;, neste post vamos ver as configurações das máquina virtual e um vídeo demostrando a instalação do Slackware 15.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes The Hard Way no Slackware 15 – Parte 02</title>
+      <link>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-02/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-02/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-02/images/k8s-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;261&#34;&#xA;    height=&#34;161&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-02/images/k8s-slackware.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-02/images/k8s-slackware.png 800w, http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-02/images/k8s-slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-02/images/k8s-slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie &lt;strong&gt;Kubernetes The Hard Way no Slackware 15&lt;/strong&gt;, nesse post vamos instalar os utilitários &lt;strong&gt;cfssl&lt;/strong&gt; e &lt;strong&gt;cfssljson&lt;/strong&gt;, que vão ser usados para gerar todas as chaves e certificados e o &lt;strong&gt;kubectl&lt;/strong&gt; que é o utilitário de linha de comando usado para interagir com o servidor de API do Kubernetes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes The Hard Way no Slackware 15 - Parte 01</title>
+      <link>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-01/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-01/images/k8s-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;261&#34;&#xA;    height=&#34;161&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-01/images/k8s-slackware.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-01/images/k8s-slackware.png 800w, http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-01/images/k8s-slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/kubernetes-the-hard-way-no-slackware-15-parte-01/images/k8s-slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Que tal a gente criar um cluster Kubernetes usando Slackware e da maneira díficil?&lt;/p&gt;&#xA;&lt;p&gt;Bem, para quem não conhece, existe um famoso projeto no GitHub chamado &lt;strong&gt;Kubernetes the Hard Way&lt;/strong&gt;, onde é mostrado como criar um cluster Kubernetes sem nenhum utiliário como kubeadm, kind, k3s, etc. Onde baixamos os binários de todos os componentes e criamos todos os arquivos de configuração manualmente. O projeto utiliza o &lt;strong&gt;GCP&lt;/strong&gt; para criar todo o ambiente de maquinas virtuais e o load balance, além de usar Ubuntu Server como sistema operacional.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

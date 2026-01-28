@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nexenta on Rodrigo Lira</title>
+    <link>http://rodrigolira.eti.br:80/tags/nexenta/</link>
+    <description>Recent content in Nexenta on Rodrigo Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Thu, 15 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/nexenta/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NexentaStor não responde via Web (NMS)</title>
+      <link>http://rodrigolira.eti.br:80/nexentastor-n%C3%A3o-responde-via-web-nms/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/nexentastor-n%C3%A3o-responde-via-web-nms/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje comecei a montar o meu storage para o meu novo homelab.&lt;/p&gt;&#xA;&lt;p&gt;Quem acompanha o blog já sabe que costumo usar o NexentaStor Community Edition como solução de storage.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Nexenta - Expert Mode Shell</title>
+      <link>http://rodrigolira.eti.br:80/nexenta-expert-mode-shell/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/nexenta-expert-mode-shell/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Por padrão quando logamos no Nexenta via SSH nós caimos dentro do NMC (Nexenta Management Console).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/07/Screen-Shot-2016-07-21-at-09.47.11-2.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Screen Shot 2016-07-21 at 09.47.11 (2)&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;237&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/nexenta-expert-mode-shell/images/Screen-Shot-2016-07-21-at-09.47.11-2-300x237.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/nexenta-expert-mode-shell/images/Screen-Shot-2016-07-21-at-09.47.11-2-300x237.png 800w, http://rodrigolira.eti.br:80/nexenta-expert-mode-shell/images/Screen-Shot-2016-07-21-at-09.47.11-2-300x237.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/nexenta-expert-mode-shell/images/Screen-Shot-2016-07-21-at-09.47.11-2-300x237.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server – Parte 4</title>
+      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-4/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-4/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Demorou mas saiu :D&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo o vídeo de configuração do Oracle VM Manager, não fiz a edição do vídeo (não achei um software gratuito para mac :( ), decide fazer o vídeo porque fica mais fácil o entendimento de tudo, nesse vídeo não mostrei como criar uma VM, deixei para o próximo, no próximo mostro como fazer o upload das ISOs, vamos criar nossa primeira VM e entender todos os parâmetros de criação da mesma.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Nexenta - Link Aggregation</title>
+      <link>http://rodrigolira.eti.br:80/nexenta-link-aggregation/</link>
+      <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/nexenta-link-aggregation/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como configurar o Link Aggregation no Nexenta, é muito simples. Vou mostrar como fazer via interface web e via linha de comando. Para quem não sabe o que é o Nexenta, eu já falei sobre ele em outros posts, procurem aqui no blog ;).&lt;/p&gt;&#xA;&lt;p&gt;Mãos a obra :D&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server - Parte 1</title>
+      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-1/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-1/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Bem, depois de um bom tempo sem realizar nenhum post sobre laboratórios, venho iniciar uma nova serie, desta vez vamos montar um lab sobre o Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;O Oracle VM Server é a solução de virtualização da Oracle, é uma plataforma totalmente gratuita, ou seja, custo zero, e desenvolvida e mantida por uma das maiores empresas de TI do mundo, a gigante &lt;strong&gt;Oracle&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Atualizando o NexentaStor 4.0.3 para 4.0.4</title>
+      <link>http://rodrigolira.eti.br:80/atualizando-o-nexentastor-4.0.3-para-4.0.4/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/atualizando-o-nexentastor-4.0.3-para-4.0.4/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostra como atualizar o NexentaStor da versão 4.0.3 para 4.0.4.&lt;/p&gt;&#xA;&lt;p&gt;Para quem vinha acompanhando os meus posts sobre o meu laboratório de vmware, pode observar que a versão utilizada no mesmo é o 4.0.3, dessa forma vamos fazer um upgrade em nosso servidor de storage :D&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab VCP6-DCV – Parte 3</title>
+      <link>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-3/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/04/VCP6.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;VCP6&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-3/images/VCP6.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-3/images/VCP6.png 800w, http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-3/images/VCP6.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lab-vcp6-dcv-parte-3/images/VCP6.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue mais um vídeo da configuração do meu Lab VCP6-DCV, para ver os outros posts acessem os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-1/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/lab-vcp6-dcv-parte-2/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Lab VCP6-DCV – Parte 2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo mostro como configurar a rede e os volumes do storage (Nexenta).&lt;/p&gt;&#xA;&lt;p&gt;A rede foi configurada de forma que trabalhe com agregação de link.&lt;/p&gt;&#xA;&lt;p&gt;Os volumes configurados foram dois, um como NFS e outro como iSCSI.&lt;/p&gt;&#xA;&lt;p&gt;Espero que vocês gostem e compartilhem o vídeo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Meu LAB VMware – Parte 02 (Storage com Nexenta)</title>
+      <link>http://rodrigolira.eti.br:80/meu-lab-vmware-parte-02-storage-com-nexenta/</link>
+      <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://rodrigolira.eti.br:80/meu-lab-vmware-parte-02-storage-com-nexenta/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/01/nexenta.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;nexenta&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png 800w, http://rodrigolira.eti.br:80/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como instalar e realizar as primeiras configurações do nosso storage virtual, o NEXENTA.&lt;/p&gt;&#xA;&lt;p&gt;Nexenta é um SDDC (Software Defined Data Centers), um dos grandes diferenciais deste sistema é que ele é baseado no OpenSolaris e utiliza como sistema de arquivo o ZFS, além de ser parceiro da VMware, ele possui tanto a versão paga, quanto a versão para comunidade.&lt;/p&gt;&#xA;&lt;p&gt;Não vou entrar em detalhes sobre o sistema, mas segue abaixo vários links para conhecerem ele melhor:&lt;/p&gt;&#xA;&lt;p&gt;Site - &lt;a href=&#34;http://www.nexenta.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.nexenta.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Guia de Instalação - &lt;a href=&#34;http://info01.nexenta.com/rs/nexenta2/images/4.0.3-NexentaStor_Installation_Guide.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://info01.nexenta.com/rs/nexenta2/images/4.0.3-NexentaStor_Installation_Guide.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Livro - &lt;a href=&#34;http://www.nexenta.com/sddcfordummies?utm_source=White%20Paper&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.nexenta.com/sddcfordummies?utm_source=White%20Paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Download Nexenta Community Edition - &lt;a href=&#34;http://www.nexenta.com/products/downloads/nexentastor-community-edition-download&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.nexenta.com/products/downloads/nexentastor-community-edition-download&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;ZFS - &lt;a href=&#34;http://docs.oracle.com/cd/E24849_01/html/820-0447/zfsover-2.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://docs.oracle.com/cd/E24849_01/html/820-0447/zfsover-2.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Espero que os liks sejam uteis :D&lt;/p&gt;&#xA;&lt;p&gt;Vamos ao que interessa, em &amp;ldquo;&lt;a href=&#34;http://rodrigolira.eti.br/meu-lab-vmware-parte-01/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Meu Lab VMware - Parte 01&lt;/a&gt;&amp;rdquo; mostrei todas as configurações de hardware e como estava configurada cada maquina virtual, hoje vamos instalar e realizar as primeiras configurações do nosso storage virtual.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
