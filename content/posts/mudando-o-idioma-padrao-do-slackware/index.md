@@ -1,6 +1,6 @@
 ---
 title: "Mudando o idioma padrão do Slackware"
-slug: "mudando-o-idioma-padrão-do-slackware"
+slug: "mudando-o-idioma-padrao-do-slackware"
 date: 2013-08-12
 categories: 
   - "linux"

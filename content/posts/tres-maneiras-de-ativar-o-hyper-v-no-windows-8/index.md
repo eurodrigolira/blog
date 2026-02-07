@@ -1,6 +1,6 @@
 ---
 title: "Três maneiras de ativar o Hyper-V no windows 8"
-slug: "três-maneiras-de-ativar-o-hyper-v-no-windows-8"
+slug: "tres-maneiras-de-ativar-o-hyper-v-no-windows-8"
 date: 2013-02-21
 categories: 
   - "outros"

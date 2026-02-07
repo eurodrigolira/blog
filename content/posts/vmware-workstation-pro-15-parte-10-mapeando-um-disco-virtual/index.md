@@ -1,6 +1,6 @@
 ---
 title: "VMware Workstation Pro 15 – Parte 10 (Mapeando um Disco Virtual)"
-slug: "vmware-workstation-pro-15-–-parte-10-(mapeando-um-disco-virtual)"
+slug: "vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual"
 date: 2019-04-01
 categories: 
   - "virtualizacao"

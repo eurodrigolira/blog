@@ -1,6 +1,6 @@
 ---
 title: "GNU/Linux Distribution Timeline"
-slug: "gnu/linux-distribution-timeline"
+slug: "gnulinux-distribution-timeline"
 date: 2013-07-23
 categories: 
   - "linux"

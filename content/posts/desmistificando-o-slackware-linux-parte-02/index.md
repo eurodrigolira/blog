@@ -1,6 +1,6 @@
 ---
 title: "Desmistificando o Slackware Linux – Parte 02"
-slug: "desmistificando-o-slackware-linux-–-parte-02"
+slug: "desmistificando-o-slackware-linux-parte-02"
 date: 2018-04-25
 categories: 
   - "linux"

@@ -1,6 +1,6 @@
 ---
 title: "Problema com Zabbix + Curl 7.87.0 no Slackware 15 e Current"
-slug: "problema-com-zabbix-+-curl-7-87-0-no-slackware-15-e-current"
+slug: "problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current"
 date: 2023-01-05
 categories: 
   - "linux"

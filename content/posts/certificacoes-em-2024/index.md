@@ -1,6 +1,6 @@
 ---
 title: "Certificações em 2024"
-slug: "certificações-em-2024"
+slug: "certificacoes-em-2024"
 date: 2024-03-01
 categories: 
   - "certificacoes"

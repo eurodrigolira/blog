@@ -1,6 +1,6 @@
 ---
 title: "Instalação e Configuração do MinIO"
-slug: "instalação-e-configuração-do-minio"
+slug: "instalacao-e-configuracao-do-minio"
 date: 2022-09-21
 categories: 
   - "cloud"

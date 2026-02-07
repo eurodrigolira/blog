@@ -1,6 +1,6 @@
 ---
 title: "Permissões no vCenter Server 6.5 – Parte 03"
-slug: "permissões-no-vcenter-server-6-5-–-parte-03"
+slug: "permissoes-no-vcenter-server-6-5-parte-03"
 date: 2016-11-26
 categories: 
   - "labs"

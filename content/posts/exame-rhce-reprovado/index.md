@@ -1,6 +1,6 @@
 ---
 title: "Exame RHCE - Reprovado :("
-slug: "exame-rhce-reprovado-("
+slug: "exame-rhce-reprovado"
 date: 2018-04-05
 categories: 
   - "certificacoes"

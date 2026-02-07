@@ -1,6 +1,6 @@
 ---
 title: "Vídeo pfSense com Captive Portal autenticando usuários via radius no Active Directory"
-slug: "vídeo-pfsense-com-captive-portal-autenticando-usuários-via-radius-no-active-directory"
+slug: "1260"
 date: 2014-10-05
 categories: 
   - "bsd1"

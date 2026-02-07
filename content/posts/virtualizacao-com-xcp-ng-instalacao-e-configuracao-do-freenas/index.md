@@ -1,6 +1,6 @@
 ---
 title: "Virtualização com XCP-ng – Instalação e Configuração do FreeNAS"
-slug: "virtualização-com-xcp-ng-–-instalação-e-configuração-do-freenas"
+slug: "virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas"
 date: 2020-07-31
 categories: 
   - "linux"

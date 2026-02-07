@@ -1,6 +1,6 @@
 ---
 title: "Save The Date – Reunião VMUG SP – Outubro 2017"
-slug: "save-the-date-–-reunião-vmug-sp-–-outubro-2017"
+slug: "save-the-date-reuniao-vmug-sp-outubro-2017"
 date: 2017-09-18
 categories: 
   - "virtualizacao"

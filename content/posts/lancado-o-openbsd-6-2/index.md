@@ -1,6 +1,6 @@
 ---
 title: "Lançado o OpenBSD 6.2"
-slug: "lançado-o-openbsd-6-2"
+slug: "lancado-o-openbsd-6-2"
 date: 2017-10-10
 categories: 
   - "bsd1"

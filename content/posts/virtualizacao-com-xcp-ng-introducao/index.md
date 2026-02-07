@@ -1,6 +1,6 @@
 ---
 title: "Virtualização com XCP-ng - Introdução"
-slug: "virtualização-com-xcp-ng-introdução"
+slug: "virtualizacao-com-xcp-ng-introducao"
 date: 2020-06-30
 categories: 
   - "linux"

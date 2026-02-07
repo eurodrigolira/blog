@@ -1,6 +1,6 @@
 ---
 title: "iproute2 – Parte 02"
-slug: "iproute2-–-parte-02"
+slug: "iproute2-parte-02"
 date: 2018-01-17
 categories: 
   - "linux"

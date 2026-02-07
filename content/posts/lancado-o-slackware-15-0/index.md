@@ -1,6 +1,6 @@
 ---
 title: "Lançado o Slackware 15.0"
-slug: "lançado-o-slackware-15-0"
+slug: "lancado-o-slackware-15-0"
 date: 2022-02-03
 categories: 
   - "linux"

@@ -1,6 +1,6 @@
 ---
 title: "Segurança no Wordpress (Parte 2)"
-slug: "segurança-no-wordpress-(parte-2)"
+slug: "seguranca-no-wordpress-parte-2"
 date: 2013-06-17
 categories: 
   - "outros"

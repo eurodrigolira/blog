@@ -1,6 +1,6 @@
 ---
 title: "OpenWrt - Montando um pendrive como partição raiz"
-slug: "openwrt-montando-um-pendrive-como-partição-raiz"
+slug: "openwrt-montando-um-pendrive-como-particao-raiz"
 date: 2018-12-13
 categories: 
   - "linux"

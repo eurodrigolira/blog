@@ -1,6 +1,6 @@
 ---
 title: "Passei na LPIC-3 (Exame 303 - Security)"
-slug: "passei-na-lpic-3-(exame-303-security)"
+slug: "passei-na-lpic-3-exame-303-security"
 date: 2014-12-20
 categories: 
   - "certificacoes"

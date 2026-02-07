@@ -1,6 +1,6 @@
 ---
 title: "Mudando a inicialização do Windows"
-slug: "mudando-a-inicialização-do-windows"
+slug: "mudando-a-inicializacao-do-windows"
 date: 2013-02-26
 categories: 
   - "outros"

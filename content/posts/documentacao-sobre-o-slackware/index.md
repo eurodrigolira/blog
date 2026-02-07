@@ -1,6 +1,6 @@
 ---
 title: "Documentação sobre o Slackware"
-slug: "documentação-sobre-o-slackware"
+slug: "documentacao-sobre-o-slackware"
 date: 2013-08-13
 categories: 
   - "linux"

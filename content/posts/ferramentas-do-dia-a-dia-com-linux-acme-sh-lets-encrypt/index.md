@@ -1,6 +1,6 @@
 ---
 title: "Ferramentas do dia a dia com Linux – acme.sh (Let’s Encrypt)"
-slug: "ferramentas-do-dia-a-dia-com-linux-–-acme-sh-(let’s-encrypt)"
+slug: "ferramentas-do-dia-a-dia-com-linux-acme-sh-lets-encrypt"
 date: 2021-08-18
 categories: 
   - "linux"

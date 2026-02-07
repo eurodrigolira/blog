@@ -1,6 +1,6 @@
 ---
 title: "Alterando a Senha de Usuário do Active Directory via Linux"
-slug: "alterando-a-senha-de-usuário-do-active-directory-via-linux"
+slug: "alterando-a-senha-de-usuario-do-active-directory-via-linux"
 date: 2025-03-12
 categories: 
   - "linux"

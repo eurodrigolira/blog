@@ -1,6 +1,6 @@
 ---
 title: "VMware Workstation Pro 15 – Parte 02 (Criando uma máquina virtual)"
-slug: "vmware-workstation-pro-15-–-parte-02-(criando-uma-máquina-virtual)"
+slug: "vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual"
 date: 2019-01-10
 categories: 
   - "virtualizacao"

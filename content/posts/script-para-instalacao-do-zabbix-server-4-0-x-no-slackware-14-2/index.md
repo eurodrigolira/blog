@@ -1,6 +1,6 @@
 ---
 title: "Script para instalação do Zabbix Server 4.0.X no Slackware 14.2"
-slug: "script-para-instalação-do-zabbix-server-4-0-x-no-slackware-14-2"
+slug: "script-para-instalacao-do-zabbix-server-4-0-x-no-slackware-14-2"
 date: 2018-10-02
 categories: 
   - "linux"

@@ -1,6 +1,6 @@
 ---
 title: "MSP TechDay (Último Dia)"
-slug: "msp-techday-(Último-dia)"
+slug: "msp-techday-ultimo-dia"
 date: 2013-05-18
 categories: 
   - "windows"

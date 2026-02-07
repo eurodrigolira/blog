@@ -1,6 +1,6 @@
 ---
 title: "Webcast: Certificação Microsoft - Visão Geral"
-slug: "webcast-certificação-microsoft-visão-geral"
+slug: "webcast-certificacao-microsoft-visao-geral"
 date: 2013-03-22
 categories: 
   - "certificacoes"

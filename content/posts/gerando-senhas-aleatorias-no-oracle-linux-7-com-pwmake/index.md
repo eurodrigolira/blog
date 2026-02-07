@@ -1,6 +1,6 @@
 ---
 title: "Gerando senhas aleatórias no Oracle Linux 7 com pwmake"
-slug: "gerando-senhas-aleatórias-no-oracle-linux-7-com-pwmake"
+slug: "gerando-senhas-aleatorias-no-oracle-linux-7-com-pwmake"
 date: 2017-06-19
 categories: 
   - "linux"

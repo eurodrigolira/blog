@@ -1,6 +1,6 @@
 ---
 title: "Material para prova da certificação VCP5-DCV"
-slug: "material-para-prova-da-certificação-vcp5-dcv"
+slug: "material-para-prova-vcp5-dcv"
 date: 2014-03-29
 categories: 
   - "certificacoes"

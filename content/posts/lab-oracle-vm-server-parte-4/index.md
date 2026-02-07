@@ -1,6 +1,6 @@
 ---
 title: "Lab Oracle VM Server – Parte 4"
-slug: "lab-oracle-vm-server-–-parte-4"
+slug: "lab-oracle-vm-server-parte-4"
 date: 2016-07-18
 categories: 
   - "labs"

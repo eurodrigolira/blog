@@ -1,6 +1,6 @@
 ---
 title: "Microsoft lança disco de recuperação para o KB2823324 e KB2782476 (KB2840165)"
-slug: "microsoft-lança-disco-de-recuperação-para-o-kb2823324-e-kb2782476-(kb2840165)"
+slug: "microsoft-lanca-disco-de-recuperacao-para-o-kb2823324-e-kb2782476-kb2840165"
 date: 2013-04-18
 categories: 
   - "windows"

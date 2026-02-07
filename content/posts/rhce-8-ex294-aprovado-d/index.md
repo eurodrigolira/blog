@@ -1,6 +1,6 @@
 ---
 title: "RHCE 8 (EX294) – Aprovado :D"
-slug: "rhce-8-(ex294)-–-aprovado-d"
+slug: "rhce-8-ex294-aprovado-d"
 date: 2021-10-13
 categories: 
   - "linux"

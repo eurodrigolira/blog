@@ -1,6 +1,6 @@
 ---
 title: "Oracle VM Server - Acessando máquinas virtuais via VNC Client"
-slug: "oracle-vm-server-acessando-máquinas-virtuais-via-vnc-client"
+slug: "oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client"
 date: 2019-03-18
 categories: 
   - "linux"

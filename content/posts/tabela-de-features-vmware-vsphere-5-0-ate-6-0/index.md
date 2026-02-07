@@ -1,6 +1,6 @@
 ---
 title: "Tabela de Features VMware vSphere 5.0 até 6.0"
-slug: "tabela-de-features-vmware-vsphere-5-0-até-6-0"
+slug: "tabela-de-features-vmware-vsphere-5-0-ate-6-0"
 date: 2015-06-16
 categories: 
   - "certificacoes"

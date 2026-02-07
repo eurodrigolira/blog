@@ -1,6 +1,6 @@
 ---
 title: "Forçando Recovery BIOS Backup Gigabyte Z97M-D3H"
-slug: "forçando-recovery-bios-backup-gigabyte-z97m-d3h"
+slug: "forcando-recovery-bios-backup-gigabyte-z97m-d3h"
 date: 2015-11-14
 categories: 
   - "outros"

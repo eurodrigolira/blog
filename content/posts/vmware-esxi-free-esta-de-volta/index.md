@@ -1,6 +1,6 @@
 ---
 title: "VMware ESXi Free está de volta?!"
-slug: "vmware-esxi-free-está-de-volta"
+slug: "vmware-esxi-free-esta-de-volta"
 date: 2025-04-11
 categories: 
   - "virtualizacao"

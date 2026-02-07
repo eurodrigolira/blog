@@ -1,6 +1,6 @@
 ---
 title: "Documentário: A Revolução dos Nerds (Completo e Dublado/Legendado) // GNT"
-slug: "documentário-a-revolução-dos-nerds-(completo-e-dublado/legendado)-//-gnt"
+slug: "documentario-a-revolucao-dos-nerds-completo-e-dubladolegendado-gnt"
 date: 2013-04-15
 categories: 
   - "outros"

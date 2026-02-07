@@ -1,6 +1,6 @@
 ---
 title: "Windows 10 + WSL2 + Fedora Remix + KDE + X410"
-slug: "windows-10-+-wsl2-+-fedora-remix-+-kde-+-x410"
+slug: "windows-10-wsl2-fedora-remix-kde-x410"
 date: 2020-06-04
 categories: 
   - "linux"

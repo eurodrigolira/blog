@@ -1,6 +1,6 @@
 ---
 title: "VMware Workstation Pro 15 – Parte 06 (Atualizações)"
-slug: "vmware-workstation-pro-15-–-parte-06-(atualizações)"
+slug: "vmware-workstation-pro-15-parte-06-atualizacoes"
 date: 2019-03-15
 categories: 
   - "virtualizacao"

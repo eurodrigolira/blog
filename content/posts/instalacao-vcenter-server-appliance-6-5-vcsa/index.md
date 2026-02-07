@@ -1,6 +1,6 @@
 ---
 title: "Instalação vCenter Server Appliance 6.5 (VCSA)"
-slug: "instalação-vcenter-server-appliance-6-5-(vcsa)"
+slug: "instalacao-vcenter-server-appliance-6-5-vcsa"
 date: 2016-11-23
 categories: 
   - "labs"

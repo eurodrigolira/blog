@@ -1,6 +1,6 @@
 ---
 title: "Script para clonar VM no ESXi - Versão 1.1"
-slug: "script-para-clonar-vm-no-esxi-versão-1-1"
+slug: "script-para-clonar-vm-no-esxi-versao-1-1"
 date: 2018-07-16
 categories: 
   - "scripts"

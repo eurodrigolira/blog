@@ -1,6 +1,6 @@
 ---
 title: "VMware Hands-on Labs em Português"
-slug: "vmware-hands-on-labs-em-português"
+slug: "vmware-hands-on-labs-em-portugues"
 date: 2016-03-26
 categories: 
   - "labs"

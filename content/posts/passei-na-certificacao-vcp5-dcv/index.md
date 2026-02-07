@@ -1,6 +1,6 @@
 ---
 title: "Passei na Certificação VCP5-DCV!!"
-slug: "passei-na-certificação-vcp5-dcv"
+slug: "passei-na-certificacao-vcp5-dcv"
 date: 2014-08-09
 categories: 
   - "certificacoes"

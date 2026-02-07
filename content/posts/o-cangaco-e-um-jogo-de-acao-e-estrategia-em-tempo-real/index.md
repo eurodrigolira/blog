@@ -1,6 +1,6 @@
 ---
 title: "O Cangaço é um jogo de ação e estratégia em tempo real!"
-slug: "o-cangaço-é-um-jogo-de-ação-e-estratégia-em-tempo-real"
+slug: "o-cangaco-e-um-jogo-de-acao-e-estrategia-em-tempo-real"
 date: 2014-01-26
 categories: 
   - "outros"

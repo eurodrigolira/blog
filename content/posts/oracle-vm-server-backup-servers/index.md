@@ -1,6 +1,6 @@
 ---
 title: "Oracle VM Server – Backup (Servers)"
-slug: "oracle-vm-server-–-backup-(servers)"
+slug: "oracle-vm-server-backup-servers"
 date: 2018-06-28
 categories: 
   - "linux"

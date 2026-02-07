@@ -1,6 +1,6 @@
 ---
 title: "Instalação e Configuraçao do OpenWrt 19.07.2 no ESXi 6.7"
-slug: "instalação-e-configuraçao-do-openwrt-19-07-2-no-esxi-6-7"
+slug: "instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7"
 date: 2020-03-24
 categories: 
   - "linux"

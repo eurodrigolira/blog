@@ -1,6 +1,6 @@
 ---
 title: "Instalação do VMware ESXi 6.5"
-slug: "instalação-do-vmware-esxi-6-5"
+slug: "instalacao-do-vmware-esxi-6-5"
 date: 2016-11-16
 categories: 
   - "labs"

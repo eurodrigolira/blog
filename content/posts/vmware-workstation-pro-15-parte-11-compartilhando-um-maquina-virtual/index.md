@@ -1,6 +1,6 @@
 ---
 title: "VMware Workstation Pro 15 – Parte 11 (Compartilhando uma Máquina Virtual)"
-slug: "vmware-workstation-pro-15-–-parte-11-(compartilhando-uma-máquina-virtual)"
+slug: "vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual"
 date: 2019-04-10
 categories: 
   - "virtualizacao"
