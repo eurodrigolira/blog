@@ -1,5 +1,6 @@
 ---
 title: "Exame 1Z0-590 - Oracle VM 3.0 for x86 Essentials"
+slug: "exame-1z0-590-oracle-vm-3-0-for-x86-essentials"
 date: 2017-01-19
 categories: 
   - "certificacoes"

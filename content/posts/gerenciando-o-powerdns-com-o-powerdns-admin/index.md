@@ -1,5 +1,6 @@
 ---
 title: "Gerenciando o PowerDNS com o PowerDNS-Admin"
+slug: "gerenciando-o-powerdns-com-o-powerdns-admin"
 date: 2020-04-21
 categories: 
   - "linux"

@@ -1,5 +1,6 @@
 ---
 title: "GIGABYTE Z97M-DH3 VMware vSphere"
+slug: "gigabyte-z97m-dh3-vmware-vsphere"
 date: 2014-08-24
 categories: 
   - "labs"

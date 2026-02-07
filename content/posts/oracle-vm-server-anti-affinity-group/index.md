@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM Server - Anti-Affinity Group"
+slug: "oracle-vm-server-anti-affinity-group"
 date: 2017-07-31
 categories: 
   - "linux"

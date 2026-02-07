@@ -1,5 +1,6 @@
 ---
 title: "XCP-ng - XCP-ng Center"
+slug: "xcp-ng-xcp-ng-center"
 date: 2020-09-04
 categories: 
   - "outros"

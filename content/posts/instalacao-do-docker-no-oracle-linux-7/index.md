@@ -1,5 +1,6 @@
 ---
 title: "Instalação do Docker no Oracle Linux 7"
+slug: "instalação-do-docker-no-oracle-linux-7"
 date: 2017-04-26
 categories: 
   - "devops"

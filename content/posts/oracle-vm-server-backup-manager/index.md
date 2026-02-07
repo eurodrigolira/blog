@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM Server – Backup (Manager)"
+slug: "oracle-vm-server-–-backup-(manager)"
 date: 2018-06-29
 categories: 
   - "linux"

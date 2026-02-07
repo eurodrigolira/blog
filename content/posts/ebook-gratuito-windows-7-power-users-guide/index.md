@@ -1,5 +1,6 @@
 ---
 title: "Ebook gratuito - Windows 7 Power Users Guide"
+slug: "ebook-gratuito-windows-7-power-users-guide"
 date: 2013-06-27
 categories: 
   - "windows"

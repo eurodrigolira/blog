@@ -1,5 +1,6 @@
 ---
 title: "Criando um botão de desligar no Windows 8"
+slug: "criando-um-botão-de-desligar-no-windows-8"
 date: 2013-02-26
 categories: 
   - "outros"

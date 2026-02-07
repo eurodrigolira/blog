@@ -1,5 +1,6 @@
 ---
 title: "Instalando o PowerDNS 4.3 Authoritative no CentOS 8 / Oracle Linux 8 / RHEL 8"
+slug: "instalando-o-powerdns-4-3-authoritative-no-centos-8-/-oracle-linux-8-/-rhel-8"
 date: 2020-04-20
 categories: 
   - "linux"

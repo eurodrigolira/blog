@@ -1,5 +1,6 @@
 ---
 title: "VMware vExpert 2021"
+slug: "vmware-vexpert-2021"
 date: 2021-02-12
 categories: 
   - "virtualizacao"

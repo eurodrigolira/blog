@@ -1,5 +1,6 @@
 ---
 title: "Update ESXi Embedded Host Client v1.16.0"
+slug: "update-esxi-embedded-host-client-v1-16-0"
 date: 2017-01-25
 categories: 
   - "virtualizacao"

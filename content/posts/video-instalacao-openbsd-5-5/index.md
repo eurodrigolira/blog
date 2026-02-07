@@ -1,5 +1,6 @@
 ---
 title: "Vídeo Instalação OpenBSD 5.5"
+slug: "vídeo-instalação-openbsd-5-5"
 date: 2014-05-06
 categories: 
   - "bsd1"

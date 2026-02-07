@@ -1,5 +1,6 @@
 ---
 title: "explainshell.com"
+slug: "explainshell-com"
 date: 2013-08-29
 categories: 
   - "linux"

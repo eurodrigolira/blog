@@ -1,5 +1,6 @@
 ---
 title: "Scrum em menos de 10 minutos"
+slug: "scrum-em-menos-de-10-minutos"
 date: 2013-01-23
 categories: 
   - "outros"

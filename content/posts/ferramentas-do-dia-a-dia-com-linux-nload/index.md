@@ -1,5 +1,6 @@
 ---
 title: "Ferramentas do dia a dia com Linux – nload"
+slug: "ferramentas-do-dia-a-dia-com-linux-–-nload"
 date: 2021-07-28
 categories: 
   - "linux"

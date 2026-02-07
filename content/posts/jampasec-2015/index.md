@@ -1,5 +1,6 @@
 ---
 title: "JampaSec 2015"
+slug: "jampasec-2015"
 date: 2015-07-30
 categories: 
   - "seguranca"

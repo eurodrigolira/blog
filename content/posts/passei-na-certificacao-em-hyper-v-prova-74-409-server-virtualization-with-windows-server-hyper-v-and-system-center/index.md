@@ -1,5 +1,6 @@
 ---
 title: "Passei na Certificação em Hyper-V (Prova 74-409 – Server Virtualization with Windows Server Hyper-V and System Center)"
+slug: "passei-na-certificação-em-hyper-v-(prova-74-409-–-server-virtualization-with-windows-server-hyper-v-and-system-center)"
 date: 2014-05-06
 categories: 
   - "certificacoes"

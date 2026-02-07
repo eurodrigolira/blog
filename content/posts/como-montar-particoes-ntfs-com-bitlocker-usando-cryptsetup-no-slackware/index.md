@@ -1,5 +1,6 @@
 ---
 title: "Como montar partições NTFS com Bitlocker usando Cryptsetup no Slackware"
+slug: "como-montar-partições-ntfs-com-bitlocker-usando-cryptsetup-no-slackware"
 date: 2025-04-09
 categories: 
   - "linux"

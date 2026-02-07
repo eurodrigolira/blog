@@ -2,321 +2,321 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oracle-Linux on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/oracle-linux/</link>
+    <link>http://localhost:1313/tags/oracle-linux/</link>
     <description>Recent content in Oracle-Linux on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/oracle-linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/oracle-linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Oracle Cloud Free Tier (Modo Gratuito)</title>
-      <link>http://rodrigolira.eti.br:80/oracle-cloud-free-tier-modo-gratuito/</link>
+      <link>http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-cloud-free-tier-modo-gratuito/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;500&#34;&#xA;    height=&#34;281&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg 800w, http://rodrigolira.eti.br:80/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou começar a escrever uma série de posts falando como podemos usar a &lt;strong&gt;Oracle Cloud Free Tier&lt;/strong&gt; no nosso dia-a-dia e tirar proveito desses recursos gratuitos oferecidos pela Oracle.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;500&#34;&#xA;    height=&#34;281&#34;&#xA;    src=&#34;http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg 800w, http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/images/oracle-free.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou começar a escrever uma série de posts falando como podemos usar a &lt;strong&gt;Oracle Cloud Free Tier&lt;/strong&gt; no nosso dia-a-dia e tirar proveito desses recursos gratuitos oferecidos pela Oracle.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle Linux Virtualization Manager – Parte 04 (Adicionando um Host KVM)</title>
-      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</link>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager--parte-04-adicionando-um-host-kvm/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie hoje vamos começar a adicionar os hosts em nosso ambiente, mas antes vamos ver os requisitos para instalação do mesmos.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager--parte-04-adicionando-um-host-kvm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager--parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie hoje vamos começar a adicionar os hosts em nosso ambiente, mas antes vamos ver os requisitos para instalação do mesmos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle Linux Virtualization Manager – Parte 03</title>
-      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/</link>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager--parte-03/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos dar continuidade a nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No último post vimos como fazer a instalação do Oracle Linux 7 hoje vamos fazer a instalação do &lt;strong&gt;Manager&lt;/strong&gt;, se você não leu nenhum dos outros dois posts, acesse os links abaixo:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager--parte-03/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-03/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-03/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager--parte-03/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-03/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos dar continuidade a nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No último post vimos como fazer a instalação do Oracle Linux 7 hoje vamos fazer a instalação do &lt;strong&gt;Manager&lt;/strong&gt;, se você não leu nenhum dos outros dois posts, acesse os links abaixo:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle Linux Virtualization Manager – Parte 02</title>
-      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/</link>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager--parte-02/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos ao nosso segundo post da nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Se você não viu o primeiro post ainda acesse o link abaixo e leia o mesmo para entender um pouco mais sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt; e nosso cenário:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager--parte-02/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-02/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-02/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager--parte-02/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager--parte-02/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos ao nosso segundo post da nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Se você não viu o primeiro post ainda acesse o link abaixo e leia o mesmo para entender um pouco mais sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt; e nosso cenário:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle Linux Virtualization Manager - Parte 01</title>
-      <link>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/</link>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager-parte-01/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/OLVM.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 800w, http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muito prazer que começo mais uma serie de posts, dessa vez vamos falar sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/OLVM.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muito prazer que começo mais uma serie de posts, dessa vez vamos falar sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Treinamento gratuito em Oracle Linux Cloud Native</title>
-      <link>http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/</link>
+      <link>http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg 800w, http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A Oracle disponibilizou um treinamento gratuito em Cloud Native.&lt;/p&gt;&#xA;&lt;p&gt;É uma serie de vídeos gratuitos para ajudar quem está começando nesse mundo ainda pouco explorado por alguns.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg 800w, http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/images/oracle-300x172.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A Oracle disponibilizou um treinamento gratuito em Cloud Native.&lt;/p&gt;&#xA;&lt;p&gt;É uma serie de vídeos gratuitos para ajudar quem está começando nesse mundo ainda pouco explorado por alguns.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anunciado o Oracle Linux Virtualization Manager</title>
-      <link>http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/</link>
+      <link>http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;136&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 800w, http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Hoje a Oracle anunciou o Oracle Linux Virtualization Manager.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;269&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 800w, http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;136&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 800w, http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Hoje a Oracle anunciou o Oracle Linux Virtualization Manager.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;269&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 800w, http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Utilizando o YUM – Parte 03</title>
-      <link>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-03/</link>
+      <link>http://localhost:1313/utilizando-o-yum--parte-03/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-03/</guid>
+      <guid>http://localhost:1313/utilizando-o-yum--parte-03/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o &lt;strong&gt;YUM&lt;/strong&gt;, hoje vamos falar sobre o &lt;strong&gt;yum&lt;/strong&gt; &lt;strong&gt;history&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não leu os outros posts, aconselho que façam isso, vocês podem ler os outros posts nos links abaixo:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Utilizando o YUM – Parte 02</title>
-      <link>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-02/</link>
+      <link>http://localhost:1313/utilizando-o-yum--parte-02/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-02/</guid>
+      <guid>http://localhost:1313/utilizando-o-yum--parte-02/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o YUM, vamos ver nesse post como podemos fazer pesquisa e obter informações sobre pacotes disponíveis e instalados em nosso sistema, vamos ver também como podemos instalar, remover e atualizar um ou vários pacotes do nosso sistema.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Utilizando o YUM - Parte 01</title>
-      <link>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-01/</link>
+      <link>http://localhost:1313/utilizando-o-yum-parte-01/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/utilizando-o-yum-parte-01/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/utilizando-o-yum-parte-01/images/yum.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;139&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/utilizando-o-yum-parte-01/images/yum.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/utilizando-o-yum-parte-01/images/yum.jpg 800w, http://rodrigolira.eti.br:80/utilizando-o-yum-parte-01/images/yum.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/utilizando-o-yum-parte-01/images/yum.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Resolvi fazer uma serie de posts sobre como utilizar &lt;strong&gt;YUM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Muitas pessoas utilizam está ferramenta diariamente para instalação ou remoção de pacotes, mas não sabem de várias coisas que podemos fazer com ela.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/utilizando-o-yum-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;139&#34;&#xA;    src=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg 800w, http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Resolvi fazer uma serie de posts sobre como utilizar &lt;strong&gt;YUM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Muitas pessoas utilizam está ferramenta diariamente para instalação ou remoção de pacotes, mas não sabem de várias coisas que podemos fazer com ela.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server – Backup (VMs) – Parte 02</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/</link>
+      <link>http://localhost:1313/oracle-vm-server--backup-vms--parte-02/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png 800w, http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No post anterior virmos um pouco do processo de backup de máquinas virtuais no Oracle VM e começamos a falar sobre o ovm-bkp e realizamos a sua instalação.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server--backup-vms--parte-02/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png 800w, http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No post anterior virmos um pouco do processo de backup de máquinas virtuais no Oracle VM e começamos a falar sobre o ovm-bkp e realizamos a sua instalação.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server – Backup (VMs) - Parte 01</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/</link>
+      <link>http://localhost:1313/oracle-vm-server--backup-vms-parte-01/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png 800w, http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando seguimento aos posts sobre backup no Oracle VM, agora vamos ver a última parte, backup das máquinas virtuais, caso você não tenha lido os outros posts, segue os links para os outros posts:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server--backup-vms-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png 800w, http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando seguimento aos posts sobre backup no Oracle VM, agora vamos ver a última parte, backup das máquinas virtuais, caso você não tenha lido os outros posts, segue os links para os outros posts:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anunciado Oracle VM 3.4.5</title>
-      <link>http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.5/</link>
+      <link>http://localhost:1313/anunciado-oracle-vm-3-4-5/</link>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.5/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;2288945.bmp&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.5/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.5/images/2288945.bmp 800w, http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.5/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.5/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje foi anunciado o Oracle VM 3.4.5.&lt;/p&gt;&#xA;&lt;p&gt;A nova versão está disponível tanto para o Oracle VM Server, Manager e Agent Sparc.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/anunciado-oracle-vm-3-4-5/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;2288945.bmp&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-5/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-5/images/2288945.bmp 800w, http://localhost:1313/anunciado-oracle-vm-3-4-5/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-5/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje foi anunciado o Oracle VM 3.4.5.&lt;/p&gt;&#xA;&lt;p&gt;A nova versão está disponível tanto para o Oracle VM Server, Manager e Agent Sparc.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Canal Oracle VM no Telegram</title>
-      <link>http://rodrigolira.eti.br:80/canal-oracle-vm-no-telegram/</link>
+      <link>http://localhost:1313/canal-oracle-vm-no-telegram/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/canal-oracle-vm-no-telegram/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/08/telegram.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;150&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg 800w, http://rodrigolira.eti.br:80/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Quem acompanha o blog sabe que escrevo bastante sobre o Oracle VM, dessa forma criei um grupo no Telegram para podermos nos comunicar de forma mais ativa e com um tempo de resposta bem melhor, assim podemos fazer a comunidade de usuários crescer.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/canal-oracle-vm-no-telegram/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/08/telegram.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;150&#34;&#xA;    src=&#34;http://localhost:1313/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg 800w, http://localhost:1313/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/canal-oracle-vm-no-telegram/images/telegram-300x150.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Quem acompanha o blog sabe que escrevo bastante sobre o Oracle VM, dessa forma criei um grupo no Telegram para podermos nos comunicar de forma mais ativa e com um tempo de resposta bem melhor, assim podemos fazer a comunidade de usuários crescer.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Alterando o Kernel do Oracle Linux 7</title>
-      <link>http://rodrigolira.eti.br:80/alterando-o-kernel-do-oracle-linux-7/</link>
+      <link>http://localhost:1313/alterando-o-kernel-do-oracle-linux-7/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/alterando-o-kernel-do-oracle-linux-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png 800w, http://rodrigolira.eti.br:80/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou dar uma dica de como podemos alterar a versão do kernel no Oracle Linux 7 sem fazer muito esforço.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/alterando-o-kernel-do-oracle-linux-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://localhost:1313/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://localhost:1313/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png 800w, http://localhost:1313/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/alterando-o-kernel-do-oracle-linux-7/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou dar uma dica de como podemos alterar a versão do kernel no Oracle Linux 7 sem fazer muito esforço.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do CORE Network no Oracle Linux 7</title>
-      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/</link>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/core-oracle.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;180&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png 800w, http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Normalmente quando pensamos em realizar laboratórios de redes e serviços, pensamos logo em subir um ambiente virtual em alguma solução de virtualização como o VirtualBox, normalmente temos hardware bem limitado para execução desses laboratórios, ou seja, não conseguimos abrir várias maquinas virtuais ao mesmo tempo.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/core-oracle.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;180&#34;&#xA;    src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png 800w, http://localhost:1313/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-core-network-no-oracle-linux-7/images/core-oracle-300x180.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Normalmente quando pensamos em realizar laboratórios de redes e serviços, pensamos logo em subir um ambiente virtual em alguma solução de virtualização como o VirtualBox, normalmente temos hardware bem limitado para execução desses laboratórios, ou seja, não conseguimos abrir várias maquinas virtuais ao mesmo tempo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Checando a qualidade de senha no Oracle Linux 7 com o pwscore</title>
-      <link>http://rodrigolira.eti.br:80/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/</link>
+      <link>http://localhost:1313/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png 800w, http://rodrigolira.eti.br:80/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pwscore&lt;/strong&gt; é uma ferramenta para verificar a qualidade de senha.&lt;/p&gt;&#xA;&lt;p&gt;A ferramenta usa a biblioteca libpwquality para executar verificações de comprimento mínimo, verificação de dicionário entre outras verificações.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://localhost:1313/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://localhost:1313/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png 800w, http://localhost:1313/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pwscore&lt;/strong&gt; é uma ferramenta para verificar a qualidade de senha.&lt;/p&gt;&#xA;&lt;p&gt;A ferramenta usa a biblioteca libpwquality para executar verificações de comprimento mínimo, verificação de dicionário entre outras verificações.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Alta disponibilidade com Keepalived no Oracle Linux 7</title>
-      <link>http://rodrigolira.eti.br:80/alta-disponibilidade-com-keepalived-no-oracle-linux-7/</link>
+      <link>http://localhost:1313/alta-disponibilidade-com-keepalived-no-oracle-linux-7/</link>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/alta-disponibilidade-com-keepalived-no-oracle-linux-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png 800w, http://rodrigolira.eti.br:80/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou falar um pouco sobre o Keepalived, um software de roteamento, onde o objetivo principal deste projeto é fornecer instalações simples e robustas para balanceamento de carga e alta disponibilidade para infraestruturas baseadas em sistemas Linux.  A alta disponibilidade é alcançada pelo protocolo VRRP que o keepalived usa.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/alta-disponibilidade-com-keepalived-no-oracle-linux-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://localhost:1313/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://localhost:1313/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png 800w, http://localhost:1313/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/alta-disponibilidade-com-keepalived-no-oracle-linux-7/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou falar um pouco sobre o Keepalived, um software de roteamento, onde o objetivo principal deste projeto é fornecer instalações simples e robustas para balanceamento de carga e alta disponibilidade para infraestruturas baseadas em sistemas Linux.  A alta disponibilidade é alcançada pelo protocolo VRRP que o keepalived usa.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Gerando senhas aleatórias no Oracle Linux 7 com pwmake</title>
-      <link>http://rodrigolira.eti.br:80/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/</link>
+      <link>http://localhost:1313/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/</link>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png 800w, http://rodrigolira.eti.br:80/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;pwmake&lt;/strong&gt; é uma ferramenta simples e configurável para gerar senhas aleatórias. A ferramenta permite que você especifique o número de bits que são usados para gerar a senha.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://localhost:1313/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://localhost:1313/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png 800w, http://localhost:1313/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/gerando-senhas-aleat%C3%B3rias-no-oracle-linux-7-com-pwmake/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;pwmake&lt;/strong&gt; é uma ferramenta simples e configurável para gerar senhas aleatórias. A ferramenta permite que você especifique o número de bits que são usados para gerar a senha.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do Apache no Oracle Linux 7</title>
-      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/</link>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png 800w, http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Uma vez ou outra tenho a necessidade de instalar um servidor web em uma vm, seja para importar uma imagem do tipo .iso para dentro do Oracle VM, as vezes para que os meus alunos possam pegar o materia do curso sem a necessidade de estar passando por pendrive.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/06/oraclelinux1.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;255&#34;&#xA;    height=&#34;134&#34;&#xA;    src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png 800w, http://localhost:1313/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-apache-no-oracle-linux-7/images/oraclelinux1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Uma vez ou outra tenho a necessidade de instalar um servidor web em uma vm, seja para importar uma imagem do tipo .iso para dentro do Oracle VM, as vezes para que os meus alunos possam pegar o materia do curso sem a necessidade de estar passando por pendrive.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Curso de Oracle VM Server x86 - ENGIE BRASIL</title>
-      <link>http://rodrigolira.eti.br:80/curso-de-oracle-vm-server-x86-engie-brasil/</link>
+      <link>http://localhost:1313/curso-de-oracle-vm-server-x86-engie-brasil/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/curso-de-oracle-vm-server-x86-engie-brasil/</guid>
+      <guid>http://localhost:1313/curso-de-oracle-vm-server-x86-engie-brasil/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Esse semana ministrei mais um curso de Oracle VM Server x86, dessa vez para o pessoal da empresa ENGIE BRASIL.&lt;/p&gt;&#xA;&lt;p&gt;Oracle VM vem crescendo bastante no Brasil ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Transformando o CentOS em Oracle Linux</title>
-      <link>http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/</link>
+      <link>http://localhost:1313/transformando-o-centos-em-oracle-linux/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/04/oraclelinux.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;256&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 800w, http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Já imaginou poder transformar seu servidor &lt;strong&gt;CentOS&lt;/strong&gt; em um &lt;strong&gt;Oracle Linux&lt;/strong&gt; rodando apenas um script, sem precisar reinstalar todo o sistema novamente.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/transformando-o-centos-em-oracle-linux/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/04/oraclelinux.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;256&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&#xA;    srcset=&#34;http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 800w, http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Já imaginou poder transformar seu servidor &lt;strong&gt;CentOS&lt;/strong&gt; em um &lt;strong&gt;Oracle Linux&lt;/strong&gt; rodando apenas um script, sem precisar reinstalar todo o sistema novamente.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Desabilitar IPv6 no Oracle Linux 7</title>
-      <link>http://rodrigolira.eti.br:80/desabilitar-ipv6-no-oracle-linux-7/</link>
+      <link>http://localhost:1313/desabilitar-ipv6-no-oracle-linux-7/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/desabilitar-ipv6-no-oracle-linux-7/</guid>
+      <guid>http://localhost:1313/desabilitar-ipv6-no-oracle-linux-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Uma das coisas que faço por padrão quando faço uma nova instalação de um sistema operacional, é desabilitar o IPv6, nunca tive a necessidade de usa-lo, dessa forma quando preciso resolver algum problema referente a rede, os comando &lt;strong&gt;ifconfig&lt;/strong&gt; ou &lt;strong&gt;ip&lt;/strong&gt; ficam mais limpos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do Docker no Oracle Linux 7</title>
-      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/</link>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/04/dockericon.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;102&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png 800w, http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um tempo sem postar nada devido alguns compromissos, venho mostrar como instalar o Docker no Oracle linux 7.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/04/dockericon.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;102&#34;&#xA;    src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png 800w, http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-no-oracle-linux-7/images/dockericon-300x102.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um tempo sem postar nada devido alguns compromissos, venho mostrar como instalar o Docker no Oracle linux 7.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - Criar uma VM via CLI</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-criar-uma-vm-via-cli/</link>
+      <link>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-criar-uma-vm-via-cli/</guid>
+      <guid>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como criar uma maquina virtual via CLI no Oracle VM.&lt;/p&gt;&#xA;&lt;p&gt;Apesar de termos o ambiente web para gerência, podemos realizar todas as tarefas via linha de comando, por exemplo, adicionar servidores, criar pool, criar novas redes e maquinas virtuais.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Command Line Interface (CLI)</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</link>
+      <link>http://localhost:1313/oracle-vm-command-line-interface-cli/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</guid>
+      <guid>http://localhost:1313/oracle-vm-command-line-interface-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Este é o primeiro de uma serie de posts que quero fazer falando sobre o &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt; oferece os mesmo recursos que o ambiente web, dessa forma podemos gerenciar nossos hosts e nosso manager por linha de comando.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Interface Bond no Oracle VM Server</title>
-      <link>http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/</link>
+      <link>http://localhost:1313/interface-bond-no-oracle-vm-server/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar as opções de configuração da interface bond no Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/11/network_bonding_mode4.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;network_bonding_mode4&#34;&#xA;    width=&#34;496&#34;&#xA;    height=&#34;228&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 800w, http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O bond é o responsável por fazer a agregação de interfaces no Oracle VM, na versão atual (3.4.2) é possível configurar o bond com as seguintes opções:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/interface-bond-no-oracle-vm-server/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar as opções de configuração da interface bond no Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/11/network_bonding_mode4.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;network_bonding_mode4&#34;&#xA;    width=&#34;496&#34;&#xA;    height=&#34;228&#34;&#xA;    src=&#34;http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&#xA;    srcset=&#34;http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 800w, http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O bond é o responsável por fazer a agregação de interfaces no Oracle VM, na versão atual (3.4.2) é possível configurar o bond com as seguintes opções:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM 3.4.2 Released!</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/</link>
+      <link>http://localhost:1313/oracle-vm-3-4-2-released/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/oracle_vm.gif&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;oracle_vm&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif 800w, http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem foi anunciado a nova versão do Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Para maiores detalhes acesse os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-3-4-2-released/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/oracle_vm.gif&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;oracle_vm&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif 800w, http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem foi anunciado a nova versão do Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Para maiores detalhes acesse os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lab Oracle VM Server – Parte 3</title>
-      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-3/</link>
+      <link>http://localhost:1313/lab-oracle-vm-server--parte-3/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-3/</guid>
+      <guid>http://localhost:1313/lab-oracle-vm-server--parte-3/</guid>
       <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar todo o passo-a-passo de instalação do Oracle VM Manager, que é o cara responsável pelo gerenciamento do nosso ambiente virtualizado, a instalação dele é bem simples, porém existem alguns detalhes que se não prestarmos atenção podem nos tirar bastante tempo na hora da sua implementação. Diferentemente do Oracle VM Server, o Manager não vem em uma ISO já pronta, nesse caso precisamos instalar um Sistema Operacional antes, no caso do nosso lab, instalei um Oracle Linux 7, fiz a atualização de todos os pacotes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lab Oracle VM Server - Parte 2</title>
-      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-2/</link>
+      <link>http://localhost:1313/lab-oracle-vm-server-parte-2/</link>
       <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-2/</guid>
+      <guid>http://localhost:1313/lab-oracle-vm-server-parte-2/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade ao nosso lab sobre Oracle VM Server, nesse post vou mostrar como realizar a instalação e configurações iniciais do mesmo, a instalação e configuração é bem tranquila, as maquinas(VMs) estão configuradas de como eu falei no primeiro post, caso não tenha visto o mesmo, pode acessa-lo através do link abaixo:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lab Oracle VM Server - Parte 1</title>
-      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-1/</link>
+      <link>http://localhost:1313/lab-oracle-vm-server-parte-1/</link>
       <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-1/</guid>
+      <guid>http://localhost:1313/lab-oracle-vm-server-parte-1/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Bem, depois de um bom tempo sem realizar nenhum post sobre laboratórios, venho iniciar uma nova serie, desta vez vamos montar um lab sobre o Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;O Oracle VM Server é a solução de virtualização da Oracle, é uma plataforma totalmente gratuita, ou seja, custo zero, e desenvolvida e mantida por uma das maiores empresas de TI do mundo, a gigante &lt;strong&gt;Oracle&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>

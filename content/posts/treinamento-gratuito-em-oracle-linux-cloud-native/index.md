@@ -1,5 +1,6 @@
 ---
 title: "Treinamento gratuito em Oracle Linux Cloud Native"
+slug: "treinamento-gratuito-em-oracle-linux-cloud-native"
 date: 2019-07-12
 categories: 
   - "devops"

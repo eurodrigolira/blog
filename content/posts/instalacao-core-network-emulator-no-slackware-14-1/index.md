@@ -1,5 +1,6 @@
 ---
 title: "Instalação CORE Network Emulator no Slackware 14.1"
+slug: "instalação-core-network-emulator-no-slackware-14-1"
 date: 2015-05-30
 categories: 
   - "linux"

@@ -1,5 +1,6 @@
 ---
 title: "Nmap: 30 exemplos de comandos para administradores de rede"
+slug: "nmap-30-exemplos-de-comandos-para-administradores-de-rede"
 date: 2013-01-15
 categories: 
   - "outros"

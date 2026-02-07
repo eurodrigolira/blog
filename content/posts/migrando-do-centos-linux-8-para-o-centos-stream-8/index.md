@@ -1,5 +1,6 @@
 ---
 title: "Migrando do CentOS Linux 8 para o CentOS Stream 8"
+slug: "migrando-do-centos-linux-8-para-o-centos-stream-8"
 date: 2020-12-29
 categories: 
   - "linux"

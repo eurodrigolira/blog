@@ -1,5 +1,6 @@
 ---
 title: "VMware Workstation Pro 15 – Parte 07 (Acessando as Máquinas Virtuais via VNC)"
+slug: "vmware-workstation-pro-15-–-parte-07-(acessando-as-máquinas-virtuais-via-vnc)"
 date: 2019-03-18
 categories: 
   - "virtualizacao"

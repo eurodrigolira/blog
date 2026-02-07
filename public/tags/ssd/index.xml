@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ssd on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/ssd/</link>
+    <link>http://localhost:1313/tags/ssd/</link>
     <description>Recent content in Ssd on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/ssd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ssd/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Docking Station - ORICO D35M2</title>
-      <link>http://rodrigolira.eti.br:80/docking-station-orico-d35m2/</link>
+      <link>http://localhost:1313/docking-station-orico-d35m2/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/docking-station-orico-d35m2/</guid>
+      <guid>http://localhost:1313/docking-station-orico-d35m2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Salve Salve Pessoal!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Recentemente comprei um &lt;strong&gt;MacBook Air com chip M4&lt;/strong&gt;, e uma das minhas maiores dificuldades está sendo me acostumar com a &lt;strong&gt;falta de espaço em disco&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No meu antigo ThinkPad E490, eu usava um &lt;strong&gt;SSD NVMe&lt;/strong&gt; de &lt;strong&gt;4TB&lt;/strong&gt;, então dava pra guardar tudo com folga, projetos, backups, máquinas virtuais, vídeos, etc, sem stress.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>SSD HP EX950 NVMe M.2 1TB no ESXi</title>
-      <link>http://rodrigolira.eti.br:80/ssd-hp-ex950-nvme-m.2-1tb-no-esxi/</link>
+      <link>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/ssd-hp-ex950-nvme-m.2-1tb-no-esxi/</guid>
+      <guid>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente comprei um novo disco para meu homelab, um &lt;strong&gt;SSD HP EX950 NVMe M.2 1TB&lt;/strong&gt;, porém meu servidor é um &lt;strong&gt;HP ML30 Gen9&lt;/strong&gt; e o mesmo não tem entradas para o disco diretamente na placa mãe, então tive que comprar um apadtador para ele, comprei um &lt;strong&gt;Dual SSD NVME M.2&lt;/strong&gt;, vai que eu compre outro disco no futuro. ;)&lt;/p&gt;</description>
       
     </item>

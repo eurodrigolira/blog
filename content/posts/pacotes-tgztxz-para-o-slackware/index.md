@@ -1,5 +1,6 @@
 ---
 title: "Pacotes TGZ/TXZ para o Slackware"
+slug: "pacotes-tgz/txz-para-o-slackware"
 date: 2013-07-31
 categories: 
   - "linux"

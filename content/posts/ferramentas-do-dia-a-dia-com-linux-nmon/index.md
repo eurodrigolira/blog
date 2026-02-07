@@ -1,5 +1,6 @@
 ---
 title: "Ferramentas do dia a dia com Linux – nmon"
+slug: "ferramentas-do-dia-a-dia-com-linux-–-nmon"
 date: 2021-11-29
 categories: 
   - "linux"

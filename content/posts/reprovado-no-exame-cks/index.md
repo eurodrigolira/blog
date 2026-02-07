@@ -1,5 +1,6 @@
 ---
 title: "Reprovado no exame CKS"
+slug: "reprovado-no-exame-cks"
 date: 2024-03-17
 categories: 
   - "certificacoes"

@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openbsd on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/openbsd/</link>
+    <link>http://localhost:1313/tags/openbsd/</link>
     <description>Recent content in Openbsd on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>LACP, Roundrobin e Failover no OpenBSD 6.0</title>
-      <link>http://rodrigolira.eti.br:80/lacp-roundrobin-e-failover-no-openbsd-6.0/</link>
+      <link>http://localhost:1313/lacp-roundrobin-e-failover-no-openbsd-6-0/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lacp-roundrobin-e-failover-no-openbsd-6.0/</guid>
+      <guid>http://localhost:1313/lacp-roundrobin-e-failover-no-openbsd-6-0/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como configurar uma interface trunk no OpenBSD. Ops, Trunk??? Sim, trunk!&lt;/p&gt;&#xA;&lt;p&gt;Trunk é o nome usado para interface virtual que é criada no OpenBSD, então não se confundam com &amp;ldquo;VLAN Trunk&amp;rdquo; e etc. ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalando o OpenBSD 6.0 no vSphere 6.0</title>
-      <link>http://rodrigolira.eti.br:80/instalando-o-openbsd-6.0-no-vsphere-6.0/</link>
+      <link>http://localhost:1313/instalando-o-openbsd-6-0-no-vsphere-6-0/</link>
       <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instalando-o-openbsd-6.0-no-vsphere-6.0/</guid>
+      <guid>http://localhost:1313/instalando-o-openbsd-6-0-no-vsphere-6-0/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Fiz um vídeo mostrando como instalar o OpenBSD 6.0 no vSphere 6.0, o vídeo tem todo o passo-a-passo da configuração da VM até a instalação do OpenBSD 6.0.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lançado o OpenBSD 6.0</title>
-      <link>http://rodrigolira.eti.br:80/lan%C3%A7ado-o-openbsd-6.0/</link>
+      <link>http://localhost:1313/lan%C3%A7ado-o-openbsd-6-0/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lan%C3%A7ado-o-openbsd-6.0/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/openbsd6.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;openbsd6&#34;&#xA;    width=&#34;599&#34;&#xA;    height=&#34;199&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ado-o-openbsd-6.0/images/openbsd6.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ado-o-openbsd-6.0/images/openbsd6.jpg 800w, http://rodrigolira.eti.br:80/lan%C3%A7ado-o-openbsd-6.0/images/openbsd6.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ado-o-openbsd-6.0/images/openbsd6.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lançado hoje oficialmente o OpenBSD 6.0.&lt;/p&gt;&#xA;&lt;p&gt;Link com changelog da versão - &lt;a href=&#34;https://www.openbsd.org/plus60.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.openbsd.org/plus60.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Link para download - &lt;a href=&#34;http://openbsd.c3sl.ufpr.br/pub/OpenBSD/6.0/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://openbsd.c3sl.ufpr.br/pub/OpenBSD/6.0/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/lan%C3%A7ado-o-openbsd-6-0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/openbsd6.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;openbsd6&#34;&#xA;    width=&#34;599&#34;&#xA;    height=&#34;199&#34;&#xA;    src=&#34;http://localhost:1313/lan%C3%A7ado-o-openbsd-6-0/images/openbsd6.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/lan%C3%A7ado-o-openbsd-6-0/images/openbsd6.jpg 800w, http://localhost:1313/lan%C3%A7ado-o-openbsd-6-0/images/openbsd6.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/lan%C3%A7ado-o-openbsd-6-0/images/openbsd6.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lançado hoje oficialmente o OpenBSD 6.0.&lt;/p&gt;&#xA;&lt;p&gt;Link com changelog da versão - &lt;a href=&#34;https://www.openbsd.org/plus60.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.openbsd.org/plus60.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Link para download - &lt;a href=&#34;http://openbsd.c3sl.ufpr.br/pub/OpenBSD/6.0/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://openbsd.c3sl.ufpr.br/pub/OpenBSD/6.0/&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>OpenBSD 5.6</title>
-      <link>http://rodrigolira.eti.br:80/openbsd-5.6/</link>
+      <link>http://localhost:1313/openbsd-5-6/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/openbsd-5.6/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/11/openbsd5.6.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;openbsd5.6&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png 800w, http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/openbsd-5.6/images/openbsd5.6.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Lançada a versão 5.6 do OpenBSD.&lt;/p&gt;&#xA;&lt;p&gt;Para maiores detalhes acesse o link: &lt;a href=&#34;http://www.openbsd.org/56.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.openbsd.org/56.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Para download: &lt;a href=&#34;http://www.openbsd.org/ftp.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.openbsd.org/ftp.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo um vídeo de instalação da nova versão feito por &lt;a href=&#34;http://br.linkedin.com/in/teebsd&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Antonio Feitosa&lt;/a&gt; do &lt;a href=&#34;https://twitter.com/openbsd_br&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;@openbsd_br&lt;/a&gt; .&lt;/p&gt;</description>
+      <guid>http://localhost:1313/openbsd-5-6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/11/openbsd5.6.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;openbsd5.6&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/openbsd-5-6/images/openbsd5.6.png&#34;&#xA;    srcset=&#34;http://localhost:1313/openbsd-5-6/images/openbsd5.6.png 800w, http://localhost:1313/openbsd-5-6/images/openbsd5.6.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/openbsd-5-6/images/openbsd5.6.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Lançada a versão 5.6 do OpenBSD.&lt;/p&gt;&#xA;&lt;p&gt;Para maiores detalhes acesse o link: &lt;a href=&#34;http://www.openbsd.org/56.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.openbsd.org/56.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Para download: &lt;a href=&#34;http://www.openbsd.org/ftp.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.openbsd.org/ftp.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo um vídeo de instalação da nova versão feito por &lt;a href=&#34;http://br.linkedin.com/in/teebsd&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Antonio Feitosa&lt;/a&gt; do &lt;a href=&#34;https://twitter.com/openbsd_br&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;@openbsd_br&lt;/a&gt; .&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lançado The Book of PF, 3rd Edition</title>
-      <link>http://rodrigolira.eti.br:80/lan%C3%A7ado-the-book-of-pf-3rd-edition/</link>
+      <link>http://localhost:1313/lan%C3%A7ado-the-book-of-pf-3rd-edition/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lan%C3%A7ado-the-book-of-pf-3rd-edition/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/pf.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;pf&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png 800w, http://rodrigolira.eti.br:80/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Dica rápida!&lt;/p&gt;&#xA;&lt;p&gt;Foi lançado o The Book of PF, 3rd Edition, a maior referência quando se fala em firewall na família BSD, e é o firewall nativo do OpenBSD o qual estudo como hobby :)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/lan%C3%A7ado-the-book-of-pf-3rd-edition/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/pf.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;pf&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png&#34;&#xA;    srcset=&#34;http://localhost:1313/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png 800w, http://localhost:1313/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/lan%C3%A7ado-the-book-of-pf-3rd-edition/images/pf.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Dica rápida!&lt;/p&gt;&#xA;&lt;p&gt;Foi lançado o The Book of PF, 3rd Edition, a maior referência quando se fala em firewall na família BSD, e é o firewall nativo do OpenBSD o qual estudo como hobby :)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Vídeo Instalação OpenBSD 5.5</title>
-      <link>http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/</link>
+      <link>http://localhost:1313/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5-5/</link>
       <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/05/puffy55.jpeg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;puffy55&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg 800w, http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5.5/images/puffy55.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue um vídeo sensacional sobre a instalação e primeiras configurações do OpenBSD, esse é a sua porta de entrada para quem está pensando em utilizar esse sistema operacional fantástico, esse será o primeiro de uma serie de vídeos, fiquem a vontade assistam e compartilhem o mesmo com toda a comunidade, abraços!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5-5/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/05/puffy55.jpeg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;puffy55&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5-5/images/puffy55.jpeg&#34;&#xA;    srcset=&#34;http://localhost:1313/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5-5/images/puffy55.jpeg 800w, http://localhost:1313/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5-5/images/puffy55.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/v%C3%ADdeo-instala%C3%A7%C3%A3o-openbsd-5-5/images/puffy55.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue um vídeo sensacional sobre a instalação e primeiras configurações do OpenBSD, esse é a sua porta de entrada para quem está pensando em utilizar esse sistema operacional fantástico, esse será o primeiro de uma serie de vídeos, fiquem a vontade assistam e compartilhem o mesmo com toda a comunidade, abraços!&lt;/p&gt;</description>
       
     </item>
     

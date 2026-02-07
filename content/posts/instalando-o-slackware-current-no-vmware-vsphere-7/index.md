@@ -1,5 +1,6 @@
 ---
 title: "Instalando o Slackware Current no VMware vSphere 7"
+slug: "instalando-o-slackware-current-no-vmware-vsphere-7"
 date: 2020-11-09
 categories: 
   - "linux"

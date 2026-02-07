@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM 3.4.2 Released!"
+slug: "oracle-vm-3-4-2-released"
 date: 2016-09-22
 categories: 
   - "outros"

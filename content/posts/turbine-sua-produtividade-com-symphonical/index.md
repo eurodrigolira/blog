@@ -1,5 +1,6 @@
 ---
 title: "Turbine sua produtividade com Symphonical"
+slug: "turbine-sua-produtividade-com-symphonical"
 date: 2013-08-27
 categories: 
   - "outros"

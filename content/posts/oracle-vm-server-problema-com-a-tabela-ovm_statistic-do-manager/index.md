@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM Server - Problema com a tabela OVM_STATISTIC do Manager"
+slug: "oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager"
 date: 2019-08-20
 categories: 
   - "linux"

@@ -1,5 +1,6 @@
 ---
 title: "TP-Link N600 com OpenWrt como gateway do meu Lab"
+slug: "tp-link-n600-com-openwrt-como-gateway-do-meu-lab"
 date: 2016-09-10
 categories: 
   - "labs"

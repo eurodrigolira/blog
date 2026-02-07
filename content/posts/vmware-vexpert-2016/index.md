@@ -1,5 +1,6 @@
 ---
 title: "VMware vExpert 2016"
+slug: "vmware-vexpert-2016"
 date: 2016-08-20
 categories: 
   - "virtualizacao"

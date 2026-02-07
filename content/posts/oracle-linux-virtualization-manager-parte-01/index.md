@@ -1,5 +1,6 @@
 ---
 title: "Oracle Linux Virtualization Manager - Parte 01"
+slug: "oracle-linux-virtualization-manager-parte-01"
 date: 2019-07-12
 categories: 
   - "linux"

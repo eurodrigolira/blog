@@ -1,5 +1,6 @@
 ---
 title: "Slax Linux - O Sistema Operacional de Bolso"
+slug: "slax-linux-o-sistema-operacional-de-bolso"
 date: 2013-02-08
 categories: 
   - "outros"

@@ -1,5 +1,6 @@
 ---
 title: "Como denunciar uma foto ou vídeo no facebook"
+slug: "como-denunciar-uma-foto-ou-vídeo-no-facebook"
 date: 2013-04-14
 categories: 
   - "outros"

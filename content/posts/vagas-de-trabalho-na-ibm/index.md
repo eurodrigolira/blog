@@ -1,5 +1,6 @@
 ---
 title: "Vagas de trabalho na IBM"
+slug: "vagas-de-trabalho-na-ibm"
 date: 2013-07-06
 categories: 
   - "outros"

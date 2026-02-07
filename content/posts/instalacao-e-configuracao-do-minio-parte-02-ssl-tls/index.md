@@ -1,5 +1,6 @@
 ---
 title: "Instalação e Configuração do MinIO (Parte 02 - SSL/TLS)"
+slug: "instalação-e-configuração-do-minio-(parte-02-ssl/tls)"
 date: 2022-10-08
 categories: 
   - "devops"

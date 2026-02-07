@@ -1,5 +1,6 @@
 ---
 title: "Lançado VMware Workstation/Player 15"
+slug: "lançado-vmware-workstation/player-15"
 date: 2018-09-25
 categories: 
   - "virtualizacao"

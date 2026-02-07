@@ -1,5 +1,6 @@
 ---
 title: "Brasília terá reunião do VMUG"
+slug: "brasília-terá-reunião-do-vmug"
 date: 2017-08-03
 categories: 
   - "outros"

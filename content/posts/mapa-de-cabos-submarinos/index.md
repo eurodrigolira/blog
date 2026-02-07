@@ -1,5 +1,6 @@
 ---
 title: "Mapa de Cabos Submarinos"
+slug: "mapa-de-cabos-submarinos"
 date: 2013-07-01
 categories: 
   - "outros"

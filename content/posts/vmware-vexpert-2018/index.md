@@ -1,5 +1,6 @@
 ---
 title: "VMware vExpert 2018"
+slug: "vmware-vexpert-2018"
 date: 2018-03-11
 categories: 
   - "outros"

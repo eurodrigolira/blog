@@ -1,5 +1,6 @@
 ---
 title: "Reprovado no Exame - EX442 Red Hat Certified Specialist in Linux Performance Tuning"
+slug: "reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning"
 date: 2025-10-28
 categories: 
   - "certificacoes"

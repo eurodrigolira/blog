@@ -1,5 +1,6 @@
 ---
 title: "Fim do VMware ESXi Gratuito"
+slug: "fim-do-vmware-esxi-gratuito"
 date: 2024-02-15
 categories: 
   - "virtualizacao"

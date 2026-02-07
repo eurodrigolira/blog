@@ -1,5 +1,6 @@
 ---
 title: "Instalando e Atualizando o Slackware 14.1"
+slug: "instalando-e-atualizando-o-slackware-14-1"
 date: 2015-03-26
 categories: 
   - "linux"

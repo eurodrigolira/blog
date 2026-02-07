@@ -1,5 +1,6 @@
 ---
 title: "Atualizando o NexentaStor 4.0.3 para 4.0.4"
+slug: "atualizando-o-nexentastor-4-0-3-para-4-0-4"
 date: 2015-11-16
 categories: 
   - "storage"

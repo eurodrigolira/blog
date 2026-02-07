@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ts150 on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/ts150/</link>
+    <link>http://localhost:1313/tags/ts150/</link>
     <description>Recent content in Ts150 on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/ts150/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ts150/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Setup e Homelab 2024</title>
-      <link>http://rodrigolira.eti.br:80/setup-e-homelab-2024/</link>
+      <link>http://localhost:1313/setup-e-homelab-2024/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/setup-e-homelab-2024/</guid>
+      <guid>http://localhost:1313/setup-e-homelab-2024/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui para falar um pouco sobre o meu setup e meu homelab pessoal, recentemente fiz algumas mudanças, como a troca do meu notebook e a compra de um monitor novo, então resolvi falar um pouco sobre o que estou usando em casa.&lt;/p&gt;</description>
       
     </item>

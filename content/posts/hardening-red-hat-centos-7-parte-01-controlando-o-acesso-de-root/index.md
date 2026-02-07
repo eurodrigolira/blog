@@ -1,5 +1,6 @@
 ---
 title: "Hardening Red Hat/CentOS 7 - Parte 01 (Controlando o acesso de root)"
+slug: "hardening-red-hat/centos-7-parte-01-(controlando-o-acesso-de-root)"
 date: 2018-01-30
 categories: 
   - "linux"

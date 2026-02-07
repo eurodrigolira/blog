@@ -1,5 +1,6 @@
 ---
 title: "Ferramentas do dia a dia com Linux – Dublin-traceroute"
+slug: "ferramentas-do-dia-a-dia-com-linux-–-dublin-traceroute"
 date: 2021-10-29
 categories: 
   - "linux"

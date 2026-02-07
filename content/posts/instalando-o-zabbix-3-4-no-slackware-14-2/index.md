@@ -1,5 +1,6 @@
 ---
 title: "Instalando o Zabbix 3.4.* no Slackware 14.2"
+slug: "instalando-o-zabbix-3-4-*-no-slackware-14-2"
 date: 2018-04-15
 categories: 
   - "linux"

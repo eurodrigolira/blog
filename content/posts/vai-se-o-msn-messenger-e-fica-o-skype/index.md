@@ -1,5 +1,6 @@
 ---
 title: "Vai-se o MSN Messenger e fica o Skype"
+slug: "vai-se-o-msn-messenger-e-fica-o-skype"
 date: 2013-01-23
 categories: 
   - "outros"

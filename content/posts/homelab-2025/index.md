@@ -1,5 +1,6 @@
 ---
 title: "Homelab 2025"
+slug: "homelab-2025"
 date: 2025-03-24
 categories: 
   - "outros"

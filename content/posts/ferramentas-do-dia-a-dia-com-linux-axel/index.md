@@ -1,5 +1,6 @@
 ---
 title: "Ferramentas do dia a dia com Linux - Axel"
+slug: "ferramentas-do-dia-a-dia-com-linux-axel"
 date: 2021-07-26
 categories: 
   - "linux"

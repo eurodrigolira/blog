@@ -1,5 +1,6 @@
 ---
 title: "Virtualização com XCP-ng - Arquitetura do Laboratório"
+slug: "virtualização-com-xcp-ng-arquitetura-do-laboratório"
 date: 2020-07-03
 categories: 
   - "linux"

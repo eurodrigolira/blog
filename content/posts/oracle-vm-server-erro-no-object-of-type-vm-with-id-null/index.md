@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM Server - Erro (No object of type Vm with id null)"
+slug: "oracle-vm-server-erro-(no-object-of-type-vm-with-id-null)"
 date: 2017-08-08
 categories: 
   - "linux"

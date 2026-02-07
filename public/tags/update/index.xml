@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/update/</link>
+    <link>http://localhost:1313/tags/update/</link>
     <description>Recent content in Update on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/update/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Atualizando o ESXi via linha de comando.</title>
-      <link>http://rodrigolira.eti.br:80/atualizando-o-esxi-via-linha-de-comando./</link>
+      <link>http://localhost:1313/atualizando-o-esxi-via-linha-de-comando/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/atualizando-o-esxi-via-linha-de-comando./</guid>
+      <guid>http://localhost:1313/atualizando-o-esxi-via-linha-de-comando/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos fazer a atualização do ESXi via linha de comando, normalmente através de uma conexão via SSH, mas o mesmo caso se aplica se você estiver na frente do servidor usando a DCUI/SHELL do ESXi.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Atualização do ESXi via CLI</title>
-      <link>http://rodrigolira.eti.br:80/atualiza%C3%A7%C3%A3o-do-esxi-via-cli/</link>
+      <link>http://localhost:1313/atualiza%C3%A7%C3%A3o-do-esxi-via-cli/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/atualiza%C3%A7%C3%A3o-do-esxi-via-cli/</guid>
+      <guid>http://localhost:1313/atualiza%C3%A7%C3%A3o-do-esxi-via-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos fazer a atualização do ESXi via CLI.&lt;/p&gt;&#xA;&lt;p&gt;Eu possuo vários clientes de pequeno e médio porte que rodam o esxi free em seus ambientes, ou seja, a versão que não utiliza o vCenter Server e etc, então o processo de atualização do sistema é manual, diferentemente de quando usamos o vCenter com Update Manager.&lt;/p&gt;</description>
       
     </item>

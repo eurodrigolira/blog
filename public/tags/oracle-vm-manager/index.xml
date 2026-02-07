@@ -2,231 +2,231 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oracle-Vm-Manager on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/oracle-vm-manager/</link>
+    <link>http://localhost:1313/tags/oracle-vm-manager/</link>
     <description>Recent content in Oracle-Vm-Manager on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/oracle-vm-manager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/oracle-vm-manager/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Oracle VM Server - Problema com a tabela OVM_STATISTIC do Manager</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/</link>
+      <link>http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif 800w, http://rodrigolira.eti.br:80/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem tive um problema em um dos clientes, de uma hora para outra o Oracle VM Manager dele parou de funcionar, o serviço ovmm não iniciava mais e acabou que ele não conseguia mais gerenciar suas máquinas virtuais.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif 800w, http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm_statistic-do-manager/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem tive um problema em um dos clientes, de uma hora para outra o Oracle VM Manager dele parou de funcionar, o serviço ovmm não iniciava mais e acabou que ele não conseguia mais gerenciar suas máquinas virtuais.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - Acessando máquinas virtuais via VNC Client</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/</link>
+      <link>http://localhost:1313/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;2288945.bmp&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp 800w, http://rodrigolira.eti.br:80/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos acessar nossas máquinas virtuais via VNC Client no Oracle VM Server.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;2288945.bmp&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp 800w, http://localhost:1313/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server-acessando-m%C3%A1quinas-virtuais-via-vnc-client/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos acessar nossas máquinas virtuais via VNC Client no Oracle VM Server.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalando o Oracle VM Guest Additions no Oracle Linux 6</title>
-      <link>http://rodrigolira.eti.br:80/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</link>
+      <link>http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif 800w, http://rodrigolira.eti.br:80/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Primeiro post do ano, não tive tempo e acabei me esquecendo de passar por aqui e desejar boas festas para vocês, mas vou aproveitar esse post e desejar um Feliz Ano Novo a todos.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif 800w, http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Primeiro post do ano, não tive tempo e acabei me esquecendo de passar por aqui e desejar boas festas para vocês, mas vou aproveitar esse post e desejar um Feliz Ano Novo a todos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server – Backup (VMs) – Parte 02</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/</link>
+      <link>http://localhost:1313/oracle-vm-server--backup-vms--parte-02/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png 800w, http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-02/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No post anterior virmos um pouco do processo de backup de máquinas virtuais no Oracle VM e começamos a falar sobre o ovm-bkp e realizamos a sua instalação.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server--backup-vms--parte-02/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png 800w, http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server--backup-vms--parte-02/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No post anterior virmos um pouco do processo de backup de máquinas virtuais no Oracle VM e começamos a falar sobre o ovm-bkp e realizamos a sua instalação.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server – Backup (VMs) - Parte 01</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/</link>
+      <link>http://localhost:1313/oracle-vm-server--backup-vms-parte-01/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png 800w, http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando seguimento aos posts sobre backup no Oracle VM, agora vamos ver a última parte, backup das máquinas virtuais, caso você não tenha lido os outros posts, segue os links para os outros posts:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server--backup-vms-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png 800w, http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server--backup-vms-parte-01/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando seguimento aos posts sobre backup no Oracle VM, agora vamos ver a última parte, backup das máquinas virtuais, caso você não tenha lido os outros posts, segue os links para os outros posts:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server – Backup (Manager)</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-backup-manager/</link>
+      <link>http://localhost:1313/oracle-vm-server--backup-manager/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-backup-manager/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-manager/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-manager/images/ovm_updated_logo-300x137.png 800w, http://rodrigolira.eti.br:80/oracle-vm-server-backup-manager/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-backup-manager/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No post anterior vimos como como podemos realizar o backup do Oracle VM Servers, mesmo a Oracle dizendo que não existe a necessidade, se você não leu esse post recomendo que leia agora no link abaixo:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server--backup-manager/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/ovm_updated_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;137&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server--backup-manager/images/ovm_updated_logo-300x137.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server--backup-manager/images/ovm_updated_logo-300x137.png 800w, http://localhost:1313/oracle-vm-server--backup-manager/images/ovm_updated_logo-300x137.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server--backup-manager/images/ovm_updated_logo-300x137.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No post anterior vimos como como podemos realizar o backup do Oracle VM Servers, mesmo a Oracle dizendo que não existe a necessidade, se você não leu esse post recomendo que leia agora no link abaixo:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Discos sparse e non-sparse no Oracle VM</title>
-      <link>http://rodrigolira.eti.br:80/discos-sparse-e-non-sparse-no-oracle-vm/</link>
+      <link>http://localhost:1313/discos-sparse-e-non-sparse-no-oracle-vm/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/discos-sparse-e-non-sparse-no-oracle-vm/</guid>
+      <guid>http://localhost:1313/discos-sparse-e-non-sparse-no-oracle-vm/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No Oracle VM quando criamos um disco virtual para uma maquina virtual, é possível escolhermos entre dois tipos, sparse ou non-sparse, mas qual a diferença entre esses dois tipos de discos virtuais?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anunciado Oracle VM 3.4.4</title>
-      <link>http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.4/</link>
+      <link>http://localhost:1313/anunciado-oracle-vm-3-4-4/</link>
       <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.4/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/05/2288945.bmp&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.4/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.4/images/2288945.bmp 800w, http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.4/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.4/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Lançado o Oracle VM 3.4.4, entre as atualizações de segurança que já é normal, podemos citar as seguintes novidades nessa nova versão:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/anunciado-oracle-vm-3-4-4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/05/2288945.bmp&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp 800w, http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Lançado o Oracle VM 3.4.4, entre as atualizações de segurança que já é normal, podemos citar as seguintes novidades nessa nova versão:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - Erro (No object of type Vm with id null)</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-erro-no-object-of-type-vm-with-id-null/</link>
+      <link>http://localhost:1313/oracle-vm-server-erro-no-object-of-type-vm-with-id-null/</link>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-erro-no-object-of-type-vm-with-id-null/</guid>
+      <guid>http://localhost:1313/oracle-vm-server-erro-no-object-of-type-vm-with-id-null/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Essa semana passei por um erro bem interessante com o Oracle VM, estava migrando uma vm (servidor de arquivos) de servidor, durante a migração tentei criar uma nova vm, porém o Manager entrou em loop e começou a criar várias vms ao mesmo tempo, para cessar esse loop reiniciei o serviço do Manager com o seguinte comando.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - Anti-Affinity Group</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-anti-affinity-group/</link>
+      <link>http://localhost:1313/oracle-vm-server-anti-affinity-group/</link>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-anti-affinity-group/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/oracle_vm.gif&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif 800w, http://rodrigolira.eti.br:80/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O anti-affinity group ou grupo anti-afinidade especifica que máquinas virtuais nunca devem ser executadas no mesmo servidor Oracle VM. Um grupo anti-afinidade aplica-se a todos os servidores em um pool de servidores.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server-anti-affinity-group/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/oracle_vm.gif&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif 800w, http://localhost:1313/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server-anti-affinity-group/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O anti-affinity group ou grupo anti-afinidade especifica que máquinas virtuais nunca devem ser executadas no mesmo servidor Oracle VM. Um grupo anti-afinidade aplica-se a todos os servidores em um pool de servidores.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Curso de Oracle VM Server x86 - ENGIE BRASIL</title>
-      <link>http://rodrigolira.eti.br:80/curso-de-oracle-vm-server-x86-engie-brasil/</link>
+      <link>http://localhost:1313/curso-de-oracle-vm-server-x86-engie-brasil/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/curso-de-oracle-vm-server-x86-engie-brasil/</guid>
+      <guid>http://localhost:1313/curso-de-oracle-vm-server-x86-engie-brasil/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Esse semana ministrei mais um curso de Oracle VM Server x86, dessa vez para o pessoal da empresa ENGIE BRASIL.&lt;/p&gt;&#xA;&lt;p&gt;Oracle VM vem crescendo bastante no Brasil ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anunciado Oracle VM 3.4.3</title>
-      <link>http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.3/</link>
+      <link>http://localhost:1313/anunciado-oracle-vm-3-4-3/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.3/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/05/2288945.bmp&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.3/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.3/images/2288945.bmp 800w, http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.3/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/anunciado-oracle-vm-3.4.3/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Foi liberada uma nova versão do Oracle VM, a versão 3.4.3.&lt;/p&gt;&#xA;&lt;p&gt;A nova versão oferece novos recursos, atualizações de segurança e correções de bugs.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/anunciado-oracle-vm-3-4-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/05/2288945.bmp&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp 800w, http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Foi liberada uma nova versão do Oracle VM, a versão 3.4.3.&lt;/p&gt;&#xA;&lt;p&gt;A nova versão oferece novos recursos, atualizações de segurança e correções de bugs.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - Criar uma VM via CLI</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-criar-uma-vm-via-cli/</link>
+      <link>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-criar-uma-vm-via-cli/</guid>
+      <guid>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como criar uma maquina virtual via CLI no Oracle VM.&lt;/p&gt;&#xA;&lt;p&gt;Apesar de termos o ambiente web para gerência, podemos realizar todas as tarefas via linha de comando, por exemplo, adicionar servidores, criar pool, criar novas redes e maquinas virtuais.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - Tags</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-tags/</link>
+      <link>http://localhost:1313/oracle-vm-server-tags/</link>
       <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-tags/</guid>
+      <guid>http://localhost:1313/oracle-vm-server-tags/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O uso de tags em grandes ambientes é uma realidade, com ela nós podemos por exemplo, classificar se uma maquina virtual é de um ambiente de desenvolvimento ou de produção.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - P2V / V2V</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-p2v-/-v2v/</link>
+      <link>http://localhost:1313/oracle-vm-server-p2v-/-v2v/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-p2v-/-v2v/</guid>
+      <guid>http://localhost:1313/oracle-vm-server-p2v-/-v2v/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como realizar um p2v (Physical-to-Virtual) ou um v2v (Virtual-to-Virtual) com o Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Diferente do VMware vCenter Converter Standalone, nós precisamos desligar a VM ou Host para a realização do procedimento.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Command Line Interface (CLI)</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</link>
+      <link>http://localhost:1313/oracle-vm-command-line-interface-cli/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</guid>
+      <guid>http://localhost:1313/oracle-vm-command-line-interface-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Este é o primeiro de uma serie de posts que quero fazer falando sobre o &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt; oferece os mesmo recursos que o ambiente web, dessa forma podemos gerenciar nossos hosts e nosso manager por linha de comando.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Interface Bond no Oracle VM Server</title>
-      <link>http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/</link>
+      <link>http://localhost:1313/interface-bond-no-oracle-vm-server/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar as opções de configuração da interface bond no Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/11/network_bonding_mode4.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;network_bonding_mode4&#34;&#xA;    width=&#34;496&#34;&#xA;    height=&#34;228&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 800w, http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O bond é o responsável por fazer a agregação de interfaces no Oracle VM, na versão atual (3.4.2) é possível configurar o bond com as seguintes opções:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/interface-bond-no-oracle-vm-server/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar as opções de configuração da interface bond no Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/11/network_bonding_mode4.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;network_bonding_mode4&#34;&#xA;    width=&#34;496&#34;&#xA;    height=&#34;228&#34;&#xA;    src=&#34;http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&#xA;    srcset=&#34;http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 800w, http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/interface-bond-no-oracle-vm-server/images/network_bonding_mode4.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O bond é o responsável por fazer a agregação de interfaces no Oracle VM, na versão atual (3.4.2) é possível configurar o bond com as seguintes opções:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalando o vSphere ESXi no Oracle VM Server/Xen (Nested)</title>
-      <link>http://rodrigolira.eti.br:80/instalando-o-vsphere-esxi-no-oracle-vm-server/xen-nested/</link>
+      <link>http://localhost:1313/instalando-o-vsphere-esxi-no-oracle-vm-server/xen-nested/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instalando-o-vsphere-esxi-no-oracle-vm-server/xen-nested/</guid>
+      <guid>http://localhost:1313/instalando-o-vsphere-esxi-no-oracle-vm-server/xen-nested/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo pesquisando, várias tentativas e erros, consegui fazer o VMware vSphere ESXi funcionar como guest dentro do Oracle VM Server. O procedimento é um pouco chato, porque nós vamos ter que editar o arquivo de configuração da VM manualmente, e um detalhe muito importante, se formos fazer qualquer alteração da VM com o Oracle VM Manager, as configurações manuais que colocamos são excluídas, por isso temos que ficar atentos a qualquer modificação realizada na VM.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM 3.4.2 Released!</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/</link>
+      <link>http://localhost:1313/oracle-vm-3-4-2-released/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/oracle_vm.gif&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;oracle_vm&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif 800w, http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/oracle-vm-3.4.2-released/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem foi anunciado a nova versão do Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Para maiores detalhes acesse os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-3-4-2-released/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/oracle_vm.gif&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;oracle_vm&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif 800w, http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-3-4-2-released/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem foi anunciado a nova versão do Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Para maiores detalhes acesse os links abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://blogs.oracle.com/virtualization/entry/oracle_vm_3_4_2&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lab Oracle VM Server – Parte 5</title>
-      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-5/</link>
+      <link>http://localhost:1313/lab-oracle-vm-server--parte-5/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-5/</guid>
+      <guid>http://localhost:1313/lab-oracle-vm-server--parte-5/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Para poder finalizar essa parte de instalação e configuração básica do Oracle VM Server, neste vídeo mostro como configurar e instalar nossa primeira vm :D&lt;/p&gt;&#xA;&lt;p&gt;Nesse ponto, nosso ambiente já está todo configurado e funcionando perfeitamente. Para os próximos vídeos, vamos ver como explorar as funcionalidades do Oracle VM Server, tipos de rede, backup e recovery, comandos da CLI própria dele, etc, ou seja, vai ter muita coisa para a gente brincar com o Oracle VM Server :D&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lab Oracle VM Server – Parte 4</title>
-      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-4/</link>
+      <link>http://localhost:1313/lab-oracle-vm-server--parte-4/</link>
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-4/</guid>
+      <guid>http://localhost:1313/lab-oracle-vm-server--parte-4/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Demorou mas saiu :D&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo o vídeo de configuração do Oracle VM Manager, não fiz a edição do vídeo (não achei um software gratuito para mac :( ), decide fazer o vídeo porque fica mais fácil o entendimento de tudo, nesse vídeo não mostrei como criar uma VM, deixei para o próximo, no próximo mostro como fazer o upload das ISOs, vamos criar nossa primeira VM e entender todos os parâmetros de criação da mesma.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lab Oracle VM Server – Parte 3</title>
-      <link>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-3/</link>
+      <link>http://localhost:1313/lab-oracle-vm-server--parte-3/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/lab-oracle-vm-server-parte-3/</guid>
+      <guid>http://localhost:1313/lab-oracle-vm-server--parte-3/</guid>
       <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar todo o passo-a-passo de instalação do Oracle VM Manager, que é o cara responsável pelo gerenciamento do nosso ambiente virtualizado, a instalação dele é bem simples, porém existem alguns detalhes que se não prestarmos atenção podem nos tirar bastante tempo na hora da sua implementação. Diferentemente do Oracle VM Server, o Manager não vem em uma ISO já pronta, nesse caso precisamos instalar um Sistema Operacional antes, no caso do nosso lab, instalei um Oracle Linux 7, fiz a atualização de todos os pacotes.&lt;/p&gt;</description>
       
     </item>

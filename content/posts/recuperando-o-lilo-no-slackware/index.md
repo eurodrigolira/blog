@@ -1,5 +1,6 @@
 ---
 title: "Recuperando o Lilo no Slackware"
+slug: "recuperando-o-lilo-no-slackware"
 date: 2013-11-21
 categories: 
   - "linux"

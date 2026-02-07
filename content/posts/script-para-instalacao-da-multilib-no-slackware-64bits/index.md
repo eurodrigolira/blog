@@ -1,5 +1,6 @@
 ---
 title: "Script para instalação do multilib no Slackware 64Bits"
+slug: "script-para-instalação-do-multilib-no-slackware-64bits"
 date: 2014-06-05
 categories: 
   - "linux"

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vcenter-Server on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/vcenter-server/</link>
+    <link>http://localhost:1313/tags/vcenter-server/</link>
     <description>Recent content in Vcenter-Server on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sat, 26 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/vcenter-server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vcenter-server/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Permissões no vCenter Server 6.5 - Parte 01</title>
-      <link>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-01/</link>
+      <link>http://localhost:1313/permiss%C3%B5es-no-vcenter-server-6-5-parte-01/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-01/</guid>
+      <guid>http://localhost:1313/permiss%C3%B5es-no-vcenter-server-6-5-parte-01/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje em dia se fala muito de segurança, e uma das suas boas práticas é darmos ao usuário apenas as permissões necessárias ao mesmo.&lt;/p&gt;&#xA;&lt;p&gt;Nessa serie de posts, vou mostrar as permissões que o vCenter Server tem nativamente, como criar permissões personalizadas , como criar novos usuários e grupos e como darmos permissões especificas a cada usuário ou grupo, também vou mostrar como darmos permissão apenas a determinados objetos do nosso vCenter Server.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Permissões no vCenter Server 6.5 – Parte 02</title>
-      <link>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-02/</link>
+      <link>http://localhost:1313/permiss%C3%B5es-no-vcenter-server-6-5--parte-02/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-02/</guid>
+      <guid>http://localhost:1313/permiss%C3%B5es-no-vcenter-server-6-5--parte-02/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nessa segunda parte da serie Permissões no vCenter Server 6.5, nós vamos ver o segundo cenário.&lt;/p&gt;&#xA;&lt;p&gt;Nós vamos criar uma permissão personalizada chamada Power-On, criar usuário chamado estagiário02, depois criar um grupo chamado estagiarios, e adicionar o usuário estagiario02 ao grupo estagiarios e delegar a permissão Power-On ao grupo estagiarios.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Permissões no vCenter Server 6.5 – Parte 03</title>
-      <link>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-03/</link>
+      <link>http://localhost:1313/permiss%C3%B5es-no-vcenter-server-6-5--parte-03/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/permiss%C3%B5es-no-vcenter-server-6.5-parte-03/</guid>
+      <guid>http://localhost:1313/permiss%C3%B5es-no-vcenter-server-6-5--parte-03/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nessa terceira parte da serie Permissões no vCenter Server 6.5, nós vamos ver o terceiro cenário.&lt;/p&gt;&#xA;&lt;p&gt;Vamos criar um usuário chamado estagiário03 e vamos dar permissão em apenas um objeto do nosso vCenter Server, nesse caso em uma VM, dessa forma quando o estagiario03 logar no vCenter Server, só estará disponível para o mesmo este objeto(VM).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação vCenter Server Appliance 6.5 (VCSA)</title>
-      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-vcenter-server-appliance-6.5-vcsa/</link>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-vcenter-server-appliance-6-5-vcsa/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-vcenter-server-appliance-6.5-vcsa/</guid>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-vcenter-server-appliance-6-5-vcsa/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como realizar a instalação e configuração do vCenter Server Appliance 6.5 (VCSA). Na versão 6.5 o processo está dividido em duas partes. A primeira é a parte de instalação e a segunda parte é a configuração.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Deploy vCenter Server 6.5 - Error: ovftool is not available</title>
-      <link>http://rodrigolira.eti.br:80/deploy-vcenter-server-6.5-error-ovftool-is-not-available/</link>
+      <link>http://localhost:1313/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/deploy-vcenter-server-6.5-error-ovftool-is-not-available/</guid>
+      <guid>http://localhost:1313/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</guid>
       <description>&lt;p&gt;Salve Salve pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Quando estava fazendo o deploy do vCenter Server 6.5 no meu lab através do meu MacBook, tive alguns problemas durante o processo, acontece que o processo de instalação informava que o &lt;strong&gt;ovftool&lt;/strong&gt; não estava disponível, sendo que o mesmo está dentro da ISO do VCSA 6.5.&lt;/p&gt;</description>
       
     </item>

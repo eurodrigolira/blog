@@ -1,5 +1,6 @@
 ---
 title: "FreeBSD 11.0 Release"
+slug: "freebsd-11-0-release"
 date: 2016-10-11
 categories: 
   - "bsd1"

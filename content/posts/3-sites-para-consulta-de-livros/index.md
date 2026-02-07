@@ -1,5 +1,6 @@
 ---
 title: "3 sites para consulta de Livros"
+slug: "3-sites-para-consulta-de-livros"
 date: 2013-10-10
 categories: 
   - "outros"

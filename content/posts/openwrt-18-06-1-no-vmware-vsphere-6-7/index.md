@@ -1,5 +1,6 @@
 ---
 title: "OpenWrt 18.06.1 no VMware vSphere 6.7"
+slug: "openwrt-18-06-1-no-vmware-vsphere-6-7"
 date: 2019-01-21
 categories: 
   - "linux"

@@ -1,5 +1,6 @@
 ---
 title: "nchat - Um cliente terminal para WhatsApp e Telegram"
+slug: "nchat-um-cliente-terminal-para-whatsapp-e-telegram"
 date: 2024-12-02
 categories: 
   - "linux"

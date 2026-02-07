@@ -1,5 +1,6 @@
 ---
 title: "VMware Workstation Pro 15 – Parte 09 (Configurações de Rede)"
+slug: "vmware-workstation-pro-15-–-parte-09-(configurações-de-rede)"
 date: 2019-03-29
 categories: 
   - "virtualizacao"

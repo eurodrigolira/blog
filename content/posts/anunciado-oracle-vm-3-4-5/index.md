@@ -1,5 +1,6 @@
 ---
 title: "Anunciado Oracle VM 3.4.5"
+slug: "anunciado-oracle-vm-3-4-5"
 date: 2018-06-07
 categories: 
   - "linux"

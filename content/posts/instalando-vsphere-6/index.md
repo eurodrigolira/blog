@@ -1,5 +1,6 @@
 ---
 title: "Instalando vSphere 6"
+slug: "instalando-vsphere-6"
 date: 2015-03-29
 categories: 
   - "virtualizacao"

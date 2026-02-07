@@ -1,5 +1,6 @@
 ---
 title: "Blog de cara nova"
+slug: "blog-de-cara-nova"
 date: 2013-04-06
 categories: 
   - "outros"

@@ -1,5 +1,6 @@
 ---
 title: "Slackware eleito o melhor SO para desktop e servidores de 2012 pelo Linux Questions!"
+slug: "slackware-eleito-o-melhor-so-para-desktop-e-servidores-de-2012-pelo-linux-questions"
 date: 2013-02-05
 categories: 
   - "outros"

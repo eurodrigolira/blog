@@ -1,5 +1,6 @@
 ---
 title: "Curso - Linux Introdução e Administração de Servidores"
+slug: "curso-linux-introdução-e-administração-de-servidores"
 date: 2015-01-30
 categories: 
   - "linux"

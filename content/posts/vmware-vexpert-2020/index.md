@@ -1,5 +1,6 @@
 ---
 title: "VMware vExpert 2020"
+slug: "vmware-vexpert-2020"
 date: 2020-02-27
 categories: 
   - "outros"

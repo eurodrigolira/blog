@@ -1,5 +1,6 @@
 ---
 title: "Montando disco USB no VMware ESXi"
+slug: "montando-disco-usb-no-vmware-esxi"
 date: 2023-08-07
 categories: 
   - "scripts"

@@ -1,5 +1,6 @@
 ---
 title: "CyanogenMod 10.2 com Android 4.3 no Galaxy S3"
+slug: "cyanogenmod-10-2-com-android-4-3-no-galaxy-s3"
 date: 2014-08-14
 categories: 
   - "outros"

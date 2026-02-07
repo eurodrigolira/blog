@@ -1,5 +1,6 @@
 ---
 title: "Zabbix On The Road | João Pessoa"
+slug: "zabbix-on-the-road-|-joão-pessoa"
 date: 2019-07-12
 categories: 
   - "devops"

@@ -1,5 +1,6 @@
 ---
 title: "Desabilitar IPv6 no Oracle Linux 7"
+slug: "desabilitar-ipv6-no-oracle-linux-7"
 date: 2017-05-03
 categories: 
   - "linux"

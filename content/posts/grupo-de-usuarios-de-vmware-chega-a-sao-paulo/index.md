@@ -1,5 +1,6 @@
 ---
 title: "Grupo de Usuários de VMware chega a São Paulo"
+slug: "grupo-de-usuários-de-vmware-chega-a-são-paulo"
 date: 2016-10-03
 categories: 
   - "virtualizacao"

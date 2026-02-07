@@ -1,5 +1,6 @@
 ---
 title: "Zabbix 5.2 no Slackware Current"
+slug: "zabbix-5-2-no-slackware-current"
 date: 2020-11-13
 categories: 
   - "linux"

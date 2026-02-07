@@ -1,5 +1,6 @@
 ---
 title: "Kubernetes The Hard Way no Slackware 15 – Parte 06"
+slug: "kubernetes-the-hard-way-no-slackware-15-–-parte-06"
 date: 2023-11-20
 categories: 
   - "kubernetes"

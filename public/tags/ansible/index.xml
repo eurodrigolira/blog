@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ansible on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/ansible/</link>
+    <link>http://localhost:1313/tags/ansible/</link>
     <description>Recent content in Ansible on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ansible - Import vs Include</title>
-      <link>http://rodrigolira.eti.br:80/ansible-import-vs-include/</link>
+      <link>http://localhost:1313/ansible-import-vs-include/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/ansible-import-vs-include/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;512&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png 800w, http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/ansible-import-vs-include/images/ansible.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Acho que é a primeira vez que escrevo algo sobre &lt;strong&gt;Ansible&lt;/strong&gt; aqui no blog. Então para começar vou escrever sobre uma dúvida comum do pessoal.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ansible-import-vs-include/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ansible-import-vs-include/images/ansible.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;512&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://localhost:1313/ansible-import-vs-include/images/ansible.png&#34;&#xA;    srcset=&#34;http://localhost:1313/ansible-import-vs-include/images/ansible.png 800w, http://localhost:1313/ansible-import-vs-include/images/ansible.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/ansible-import-vs-include/images/ansible.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Acho que é a primeira vez que escrevo algo sobre &lt;strong&gt;Ansible&lt;/strong&gt; aqui no blog. Então para começar vou escrever sobre uma dúvida comum do pessoal.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>RHCE 8 (EX294) – Aprovado :D</title>
-      <link>http://rodrigolira.eti.br:80/rhce-8-ex294-aprovado-d/</link>
+      <link>http://localhost:1313/rhce-8-ex294--aprovado-d/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/rhce-8-ex294-aprovado-d/</guid>
+      <guid>http://localhost:1313/rhce-8-ex294--aprovado-d/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui rapidinho para informar que nesse dia das crianças (12/10/2021) fui aprovado no exame RHCE 8 (EX294).&lt;/p&gt;&#xA;&lt;p&gt;Diferentemente do RHCE 7 (EX300) este exame é baseado no &lt;strong&gt;Ansible 2.8&lt;/strong&gt; e &lt;strong&gt;Red Hat 8,&lt;/strong&gt; mais para frente escrevo um post com maiores detalhes sobre o exame.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Reprovado no exame Red Hat Certified Specialist in Ansible Automation (EX407)</title>
-      <link>http://rodrigolira.eti.br:80/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</link>
+      <link>http://localhost:1313/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</guid>
+      <guid>http://localhost:1313/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estava um pouco distante do blog devido a outras prioridades, uma delas foi os estudos para o exame Red Hat Certified Specialist in Ansible Automation (EX407).&lt;/p&gt;&#xA;&lt;p&gt;Infelizmente fiquei reprovado no exame, mas foi um bom desafio e aprendi muito estudando para este exame.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Vídeo da minha palestra no Zabbix On The Road | João Pessoa</title>
-      <link>http://rodrigolira.eti.br:80/v%C3%ADdeo-da-minha-palestra-no-zabbix-on-the-road-jo%C3%A3o-pessoa/</link>
+      <link>http://localhost:1313/v%C3%ADdeo-da-minha-palestra-no-zabbix-on-the-road--jo%C3%A3o-pessoa/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/v%C3%ADdeo-da-minha-palestra-no-zabbix-on-the-road-jo%C3%A3o-pessoa/</guid>
+      <guid>http://localhost:1313/v%C3%ADdeo-da-minha-palestra-no-zabbix-on-the-road--jo%C3%A3o-pessoa/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui rapidinho para disponibilizar o vídeo da minha palestra sobre Ansible e Zabbix no Zabbix On The Road | João Pessoa 2019.&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo o vídeo:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Slides da minha palestra no Zabbix On The Road | João Pessoa</title>
-      <link>http://rodrigolira.eti.br:80/slides-da-minha-palestra-no-zabbix-on-the-road-jo%C3%A3o-pessoa/</link>
+      <link>http://localhost:1313/slides-da-minha-palestra-no-zabbix-on-the-road--jo%C3%A3o-pessoa/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/slides-da-minha-palestra-no-zabbix-on-the-road-jo%C3%A3o-pessoa/</guid>
+      <guid>http://localhost:1313/slides-da-minha-palestra-no-zabbix-on-the-road--jo%C3%A3o-pessoa/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;images/Zabbix-On-The-Road-_-Jo%C3%A3o-Pessoa-_-Meetup-Google-Chrome-2019-07-12-10.42.28.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;&#34;&#xA;    src=&#34;images/Zabbix-On-The-Road-_-Jo%c3%a3o-Pessoa-_-Meetup-Google-Chrome-2019-07-12-10.42.28-300x168.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo o link com os slides da minha palestra no Zabbix On The Road | João Pessoa.&lt;/p&gt;&#xA;&lt;p&gt;O tema da minha palestra foi é &lt;strong&gt;Instalando e mantendo o Zabbix com Ansible&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Zabbix On The Road | João Pessoa</title>
-      <link>http://rodrigolira.eti.br:80/zabbix-on-the-road-jo%C3%A3o-pessoa/</link>
+      <link>http://localhost:1313/zabbix-on-the-road--jo%C3%A3o-pessoa/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/zabbix-on-the-road-jo%C3%A3o-pessoa/</guid>
+      <guid>http://localhost:1313/zabbix-on-the-road--jo%C3%A3o-pessoa/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;images/Zabbix-On-The-Road-_-Jo%C3%A3o-Pessoa-_-Meetup-Google-Chrome-2019-07-12-10.42.28.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;&#34;&#xA;    src=&#34;images/Zabbix-On-The-Road-_-Jo%c3%a3o-Pessoa-_-Meetup-Google-Chrome-2019-07-12-10.42.28-300x168.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Amanhã estarei ministrando uma palestra no &lt;strong&gt;Zabbix On The Road | João Pessoa&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o evento ele roda diversas cidades do pais com palestras sobre Zabbix.&lt;/p&gt;</description>
       
     </item>

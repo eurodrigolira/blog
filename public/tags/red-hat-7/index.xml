@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red-Hat-7 on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/red-hat-7/</link>
+    <link>http://localhost:1313/tags/red-hat-7/</link>
     <description>Recent content in Red-Hat-7 on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/red-hat-7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/red-hat-7/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Configurando o Postfix para o usar o Gmail ou Outlook como Relay no CentOS 7/Red Hat 7/Oracle Linux 7</title>
-      <link>http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/</link>
+      <link>http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1023&#34;&#xA;    height=&#34;319&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix_hu_80b699d2125e9d40.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix_hu_80b699d2125e9d40.png 800w, http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É comum quando criamos scripts de backup ou outros, querermos receber alertas se eles foram bem executados ou não, normalmente agendamos scripts de backup para serem executados a noite ou de madrugada, apesar de podermos enviar um e-mail diretamente do nosso servidor, esbarramos no problema desse e-mail normalmente ser colocado na caixa de spam, assim as vezes acabamos nem vendo que o e-mail chegou.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1023&#34;&#xA;    height=&#34;319&#34;&#xA;    src=&#34;http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix_hu_80b699d2125e9d40.png&#34;&#xA;    srcset=&#34;http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix_hu_80b699d2125e9d40.png 800w, http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7/red-hat-7/oracle-linux-7/images/postfix.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É comum quando criamos scripts de backup ou outros, querermos receber alertas se eles foram bem executados ou não, normalmente agendamos scripts de backup para serem executados a noite ou de madrugada, apesar de podermos enviar um e-mail diretamente do nosso servidor, esbarramos no problema desse e-mail normalmente ser colocado na caixa de spam, assim as vezes acabamos nem vendo que o e-mail chegou.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação de drivers wireless Broadcom no CentOS 7/Red Hat 7</title>
-      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-de-drivers-wireless-broadcom-no-centos-7/red-hat-7/</link>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-de-drivers-wireless-broadcom-no-centos-7/red-hat-7/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-de-drivers-wireless-broadcom-no-centos-7/red-hat-7/</guid>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-de-drivers-wireless-broadcom-no-centos-7/red-hat-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Por padrão o &lt;strong&gt;CentOS&lt;/strong&gt; e &lt;strong&gt;Red Hat&lt;/strong&gt; não vem com drivers wireless da &lt;strong&gt;Broadcom&lt;/strong&gt; disponíveis em sua arvore de repositórios, também não é possível encontrar em repositórios de terceiros devido a questões de licenciamento.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Hardening Red Hat/CentOS 7 – Parte 02 (Controlando o acesso por SSH)</title>
-      <link>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-02-controlando-o-acesso-por-ssh/</link>
+      <link>http://localhost:1313/hardening-red-hat/centos-7--parte-02-controlando-o-acesso-por-ssh/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-02-controlando-o-acesso-por-ssh/</guid>
+      <guid>http://localhost:1313/hardening-red-hat/centos-7--parte-02-controlando-o-acesso-por-ssh/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post da serie de Hardening em &lt;strong&gt;Red Hat/CentOS 7&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No post anterior vimos como controlar o acesso de root em diversas formas de login. até mesmo por SSH, se não viu o primeiro post, sugiro que acesse e leia, segue o link:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Hardening Red Hat/CentOS 7 - Parte 01 (Controlando o acesso de root)</title>
-      <link>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-01-controlando-o-acesso-de-root/</link>
+      <link>http://localhost:1313/hardening-red-hat/centos-7-parte-01-controlando-o-acesso-de-root/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/hardening-red-hat/centos-7-parte-01-controlando-o-acesso-de-root/</guid>
+      <guid>http://localhost:1313/hardening-red-hat/centos-7-parte-01-controlando-o-acesso-de-root/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Antes de começar essa serie de posts, vamos começar entendendo um pouco o que é o &lt;strong&gt;hardening&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;p&gt;Segundo a Wikipédia: &lt;em&gt;&lt;strong&gt;Hardening&lt;/strong&gt;&lt;/em&gt; é um processo de mapeamento das ameaças, mitigação dos riscos e execução das atividades corretivas, com foco na infraestrutura e objetivo principal de torná-la preparada para enfrentar tentativas de ataque.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do Docker CE no Red Hat 7</title>
-      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/</link>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/12/docker_banner.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;150&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png 800w, http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Faz um pouco de tempo que venho estudando e começando a trabalhar com o Docker.&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como fazer a instalação do Docker CE (Community Edition) no Red Hat 7, por padrão a Red Hat só suporta o Docker EE (Enterprise Edition), até no site do Docker informa que a versão CE não é suportada, mas podemos resolver isso. ;)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/12/docker_banner.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;150&#34;&#xA;    src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png 800w, http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instala%C3%A7%C3%A3o-do-docker-ce-no-red-hat-7/images/docker_banner-300x150.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Faz um pouco de tempo que venho estudando e começando a trabalhar com o Docker.&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como fazer a instalação do Docker CE (Community Edition) no Red Hat 7, por padrão a Red Hat só suporta o Docker EE (Enterprise Edition), até no site do Docker informa que a versão CE não é suportada, mas podemos resolver isso. ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>VMware Workstation - Compartilhamento de pastas com vms Linux</title>
-      <link>http://rodrigolira.eti.br:80/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</link>
+      <link>http://localhost:1313/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</guid>
+      <guid>http://localhost:1313/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No VMware Workstation temos a possibilidade de criar um compartilhamento de pastas entre a maquina física e a maquina virtual.&lt;/p&gt;&#xA;&lt;p&gt;Isso é muito simples de fazer quando a máquina física é um Windows (server/desktop) e a máquina virtual também é Windows (server/desktop).&lt;/p&gt;</description>
       
     </item>

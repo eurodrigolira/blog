@@ -1,5 +1,6 @@
 ---
 title: "Aprovado na Dissertação de Mestrado"
+slug: "aprovado-na-dissertação-de-mestrado"
 date: 2024-12-19
 categories: 
   - "outros"

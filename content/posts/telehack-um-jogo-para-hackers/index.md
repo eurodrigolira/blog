@@ -1,5 +1,6 @@
 ---
 title: "Telehack um jogo para hackers"
+slug: "telehack-um-jogo-para-hackers"
 date: 2013-02-22
 categories: 
   - "outros"

@@ -1,5 +1,6 @@
 ---
 title: "Lab VCP6-DCV – Parte 2"
+slug: "lab-vcp6-dcv-–-parte-2"
 date: 2015-04-18
 categories: 
   - "certificacoes"

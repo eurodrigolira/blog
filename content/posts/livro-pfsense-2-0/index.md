@@ -1,5 +1,6 @@
 ---
 title: "Livro PfSense 2.0"
+slug: "livro-pfsense-2-0"
 date: 2013-03-01
 categories: 
   - "bsd1"

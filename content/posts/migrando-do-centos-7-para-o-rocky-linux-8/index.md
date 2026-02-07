@@ -1,5 +1,6 @@
 ---
 title: "Migrando do CentOS 7 para o Rocky Linux 8"
+slug: "migrando-do-centos-7-para-o-rocky-linux-8"
 date: 2025-03-20
 categories: 
   - "linux"

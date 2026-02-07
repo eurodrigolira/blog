@@ -1,5 +1,6 @@
 ---
 title: "Setup e Homelab 2024"
+slug: "setup-e-homelab-2024"
 date: 2024-03-05
 categories: 
   - "outros"

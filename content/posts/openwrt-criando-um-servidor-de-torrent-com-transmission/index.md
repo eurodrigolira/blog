@@ -1,5 +1,6 @@
 ---
 title: "OpenWrt - Criando um servidor de torrent com Transmission"
+slug: "openwrt-criando-um-servidor-de-torrent-com-transmission"
 date: 2019-10-07
 categories: 
   - "linux"

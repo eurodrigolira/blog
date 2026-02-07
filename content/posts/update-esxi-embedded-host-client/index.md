@@ -1,5 +1,6 @@
 ---
 title: "Update ESXi Embedded Host Client"
+slug: "update-esxi-embedded-host-client"
 date: 2016-09-12
 categories: 
   - "labs"

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dummy on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/dummy/</link>
+    <link>http://localhost:1313/tags/dummy/</link>
     <description>Recent content in Dummy on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/dummy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/dummy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iproute2 - Parte 3</title>
-      <link>http://rodrigolira.eti.br:80/iproute2-parte-3/</link>
+      <link>http://localhost:1313/iproute2-parte-3/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/iproute2-parte-3/</guid>
+      <guid>http://localhost:1313/iproute2-parte-3/</guid>
       <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Seguindo com nossa serie de posts sobre &lt;strong&gt;iproute2&lt;/strong&gt;, vamos ver nesse post como criar interfaces especiais.&lt;/p&gt;&#xA;&lt;p&gt;Se você não leu os posts anteriores, sugiro que leia nos links abaixo:&lt;/p&gt;</description>
       
     </item>

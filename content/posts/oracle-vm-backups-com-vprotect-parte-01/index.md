@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM - Backups com vProtect - Parte 01"
+slug: "oracle-vm-backups-com-vprotect-parte-01"
 date: 2017-09-17
 categories: 
   - "linux"

@@ -1,5 +1,6 @@
 ---
 title: "Acesso Remoto usando o KeePassXC"
+slug: "acesso-remoto-usando-o-keepassxc"
 date: 2020-12-18
 categories: 
   - "linux"

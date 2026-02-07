@@ -1,5 +1,6 @@
 ---
 title: "Prova - LPI 2"
+slug: "prova-lpi-2"
 date: 2013-06-15
 categories: 
   - "certificacoes"

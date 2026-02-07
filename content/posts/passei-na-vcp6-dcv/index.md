@@ -1,5 +1,6 @@
 ---
 title: "Passei na VCP6-DCV"
+slug: "passei-na-vcp6-dcv"
 date: 2015-09-29
 categories: 
   - "certificacoes"

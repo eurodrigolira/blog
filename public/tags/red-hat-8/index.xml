@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red-Hat-8 on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/red-hat-8/</link>
+    <link>http://localhost:1313/tags/red-hat-8/</link>
     <description>Recent content in Red-Hat-8 on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/red-hat-8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/red-hat-8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Instalando o Red Hat 8 Beta no VMware vSphere 6.7</title>
-      <link>http://rodrigolira.eti.br:80/instalando-o-red-hat-8-beta-no-vmware-vsphere-6.7/</link>
+      <link>http://localhost:1313/instalando-o-red-hat-8-beta-no-vmware-vsphere-6-7/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instalando-o-red-hat-8-beta-no-vmware-vsphere-6.7/</guid>
+      <guid>http://localhost:1313/instalando-o-red-hat-8-beta-no-vmware-vsphere-6-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Em novembro de 2018 a &lt;strong&gt;Red Hat&lt;/strong&gt; anunciou e disponibilizou para download a nova versão (beta) do seu sistema operacional, a versão 8.&lt;/p&gt;&#xA;&lt;p&gt;Como só tive tempo de instalar agora, fiz um vídeo da instalação do mesmo no meu ambiente de laboratório &lt;strong&gt;VMware vSphere 6.7&lt;/strong&gt;, os passos de instalação dessa nova versão são idênticos aos passo da versão 7, então quem for testar essa nova versão não terá problemas com a instalação.&lt;/p&gt;</description>
       
     </item>

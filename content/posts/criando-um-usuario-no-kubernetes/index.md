@@ -1,5 +1,6 @@
 ---
 title: "Criando um usuário no Kubernetes"
+slug: "criando-um-usuário-no-kubernetes"
 date: 2023-02-06
 categories: 
   - "devops"

@@ -1,5 +1,6 @@
 ---
 title: "Exame RHCE - Aprovado :D"
+slug: "exame-rhce-aprovado-d"
 date: 2019-02-18
 categories: 
   - "certificacoes"

@@ -1,5 +1,6 @@
 ---
 title: "Livro - Construindo uma Carreira em Cibersegurança"
+slug: "livro-construindo-uma-carreira-em-cibersegurança"
 date: 2024-07-29
 categories: 
   - "livros"

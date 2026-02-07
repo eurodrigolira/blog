@@ -1,5 +1,6 @@
 ---
 title: "O que esperar do blog em 2023?"
+slug: "o-que-esperar-do-blog-em-2023"
 date: 2022-12-28
 categories: 
   - "outros"

@@ -1,5 +1,6 @@
 ---
 title: "VMware Workstation Pro 15 – Parte 03 (Instalando o VMware Tools no Windows)"
+slug: "vmware-workstation-pro-15-–-parte-03-(instalando-o-vmware-tools-no-windows)"
 date: 2019-01-14
 categories: 
   - "virtualizacao"

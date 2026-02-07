@@ -1,5 +1,6 @@
 ---
 title: "Vídeo da minha palestra no Zabbix On The Road | João Pessoa"
+slug: "vídeo-da-minha-palestra-no-zabbix-on-the-road-|-joão-pessoa"
 date: 2019-08-07
 categories: 
   - "devops"

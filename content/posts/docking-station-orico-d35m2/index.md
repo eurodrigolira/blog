@@ -1,5 +1,6 @@
 ---
 title: "Docking Station - ORICO D35M2"
+slug: "docking-station-orico-d35m2"
 date: 2025-08-18
 categories: 
   - "outros"

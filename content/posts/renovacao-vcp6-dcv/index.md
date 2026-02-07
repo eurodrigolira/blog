@@ -1,5 +1,6 @@
 ---
 title: "Renovação VCP6-DCV"
+slug: "renovação-vcp6-dcv"
 date: 2017-09-23
 categories: 
   - "certificacoes"

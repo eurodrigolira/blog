@@ -1,5 +1,6 @@
 ---
 title: "Adicionar botões Shutdown/Restart/Logoff no Windows 8 via Power Shell"
+slug: "adicionar-botões-shutdown/restart/logoff-no-windows-8-via-power-shell"
 date: 2013-04-07
 categories: 
   - "windows"

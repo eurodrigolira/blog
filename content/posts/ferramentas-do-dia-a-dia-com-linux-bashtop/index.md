@@ -1,5 +1,6 @@
 ---
 title: "Ferramentas do dia a dia com Linux – BASHTOP"
+slug: "ferramentas-do-dia-a-dia-com-linux-–-bashtop"
 date: 2021-10-28
 categories: 
   - "linux"

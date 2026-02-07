@@ -1,5 +1,6 @@
 ---
 title: "VMware vExpert 2019"
+slug: "vmware-vexpert-2019"
 date: 2019-03-11
 categories: 
   - "outros"

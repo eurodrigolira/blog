@@ -1,5 +1,6 @@
 ---
 title: "Slides da minha palestra no Zabbix On The Road | João Pessoa"
+slug: "slides-da-minha-palestra-no-zabbix-on-the-road-|-joão-pessoa"
 date: 2019-07-15
 categories: 
   - "eventos"

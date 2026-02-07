@@ -1,5 +1,6 @@
 ---
 title: "Lab Oracle VM Server - Parte 1"
+slug: "lab-oracle-vm-server-parte-1"
 date: 2016-05-28
 categories: 
   - "labs"

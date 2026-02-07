@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ferramentas on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/ferramentas/</link>
+    <link>http://localhost:1313/tags/ferramentas/</link>
     <description>Recent content in Ferramentas on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/ferramentas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ferramentas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferramentas do dia a dia com Linux – nload</title>
-      <link>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-nload/</link>
+      <link>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux--nload/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-nload/</guid>
+      <guid>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux--nload/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais uma ferramenta que uso no meu dia a dia como administrador Linux e hoje vamos falar sobre o &lt;strong&gt;nload&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;nload&lt;/strong&gt; exibe em tempo real o uso de suas interfaces de rede.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Ferramentas do dia a dia com Linux - Axel</title>
-      <link>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-axel/</link>
+      <link>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-axel/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/ferramentas-do-dia-a-dia-com-linux-axel/</guid>
+      <guid>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-axel/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O dia a dia está bem corrido ultimamente, então decide fazer pequenos posts sobre as ferramentas que uso no meu dia a dia para manter o blog atualizado, serão textos rápidos e bem diretos que podem acabar ajudando alguém.&lt;/p&gt;</description>
       
     </item>

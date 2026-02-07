@@ -1,5 +1,6 @@
 ---
 title: "Passei no Exame do Oracle VM 3.0 for x86 Essentials (1Z0-590)"
+slug: "passei-no-exame-do-oracle-vm-3-0-for-x86-essentials-(1z0-590)"
 date: 2018-07-31
 categories: 
   - "certificacoes"

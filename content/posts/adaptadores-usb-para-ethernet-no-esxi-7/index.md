@@ -1,5 +1,6 @@
 ---
 title: "Adaptadores USB para Ethernet no ESXi 7"
+slug: "adaptadores-usb-para-ethernet-no-esxi-7"
 date: 2021-01-15
 categories: 
   - "virtualizacao"

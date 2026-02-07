@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM Command Line Interface (CLI)"
+slug: "oracle-vm-command-line-interface-(cli)"
 date: 2016-11-17
 categories: 
   - "labs"

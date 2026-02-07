@@ -1,5 +1,6 @@
 ---
 title: "OpenBSD 5.6"
+slug: "openbsd-5-6"
 date: 2014-11-05
 categories: 
   - "bsd1"

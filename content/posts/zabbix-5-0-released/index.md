@@ -1,5 +1,6 @@
 ---
 title: "Zabbix 5.0 Released"
+slug: "zabbix-5-0-released"
 date: 2020-05-12
 categories: 
   - "monitoramento"

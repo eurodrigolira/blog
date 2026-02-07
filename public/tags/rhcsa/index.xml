@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhcsa on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/rhcsa/</link>
+    <link>http://localhost:1313/tags/rhcsa/</link>
     <description>Recent content in Rhcsa on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/rhcsa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rhcsa/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Conhecendo o exame Red Hat Certified Engineer (EX300)</title>
-      <link>http://rodrigolira.eti.br:80/conhecendo-o-exame-red-hat-certified-engineer-ex300/</link>
+      <link>http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/conhecendo-o-exame-red-hat-certified-engineer-ex300/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;143&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png 800w, http://rodrigolira.eti.br:80/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Este é o primeiro de uma serie de posts que vou fazer sobre o exame de certificação Red Hat Certified Engineer (EX300).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;143&#34;&#xA;    src=&#34;http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png&#34;&#xA;    srcset=&#34;http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png 800w, http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/images/Red-Hat-Certified-Engineer-Logo-300x143.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Este é o primeiro de uma serie de posts que vou fazer sobre o exame de certificação Red Hat Certified Engineer (EX300).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Passei na RHCSA</title>
-      <link>http://rodrigolira.eti.br:80/passei-na-rhcsa/</link>
+      <link>http://localhost:1313/passei-na-rhcsa/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/passei-na-rhcsa/</guid>
+      <guid>http://localhost:1313/passei-na-rhcsa/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muita alegria que venho anunciar que passei na prova RHCSA.&lt;/p&gt;&#xA;&lt;p&gt;Agradeço a todas as pessoas que torceram pela minha pessoa e que me ajudaram com essa conquista :D&lt;/p&gt;</description>
       
     </item>

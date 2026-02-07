@@ -1,5 +1,6 @@
 ---
 title: "Resolvendo problema no vSphere - System logs on host \"HOST_VSPHERE\" are stored on non-persistent storage"
+slug: "resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage"
 date: 2015-06-29
 categories: 
   - "virtualizacao"

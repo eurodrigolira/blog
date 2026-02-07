@@ -1,5 +1,6 @@
 ---
 title: "Anunciado o Oracle Linux Virtualization Manager"
+slug: "anunciado-o-oracle-linux-virtualization-manager"
 date: 2019-06-04
 categories: 
   - "linux"

@@ -1,5 +1,6 @@
 ---
 title: "Manual Wireshark em Português"
+slug: "manual-wireshark-em-português"
 date: 2013-03-01
 categories: 
   - "outros"

@@ -1,5 +1,6 @@
 ---
 title: "Debian 7 Lançado"
+slug: "debian-7-lançado"
 date: 2013-05-05
 categories: 
   - "linux"

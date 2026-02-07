@@ -1,5 +1,6 @@
 ---
 title: "Descobrindo seu IP REAL pelo Terminal"
+slug: "descobrindo-seu-ip-real-pelo-terminal"
 date: 2017-07-11
 categories: 
   - "linux"

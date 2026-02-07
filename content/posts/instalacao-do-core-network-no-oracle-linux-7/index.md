@@ -1,5 +1,6 @@
 ---
 title: "Instalação do CORE Network no Oracle Linux 7"
+slug: "instalação-do-core-network-no-oracle-linux-7"
 date: 2017-06-22
 categories: 
   - "linux"

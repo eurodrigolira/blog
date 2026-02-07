@@ -1,5 +1,6 @@
 ---
 title: "Contour Ingress com status de Processing na verificação de integridade do ArgoCD"
+slug: "contour-ingress-com-status-de-processing-na-verificação-de-integridade-do-argocd"
 date: 2022-03-31
 categories: 
   - "devops"

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Do180 on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/do180/</link>
+    <link>http://localhost:1313/tags/do180/</link>
     <description>Recent content in Do180 on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/do180/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/do180/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aprovado no Exame Red Hat Certified Specialist in Container for Kubernetes (DO180)</title>
-      <link>http://rodrigolira.eti.br:80/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/</link>
+      <link>http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br:80/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;894&#34;&#xA;    height=&#34;670&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist_hu_c7561dbb43ab1d4f.png&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist_hu_c7561dbb43ab1d4f.png 800w, http://rodrigolira.eti.br:80/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente passei no &lt;strong&gt;Exame Red Hat Certified Specialist in Container for Kubernetes (DO180)&lt;/strong&gt;, esse é o primeiro exame recomendado pela Red hat na trilha de estudos para o &lt;strong&gt;OpenShift&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;894&#34;&#xA;    height=&#34;670&#34;&#xA;    src=&#34;http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist_hu_c7561dbb43ab1d4f.png&#34;&#xA;    srcset=&#34;http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist_hu_c7561dbb43ab1d4f.png 800w, http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/images/Red-Hat-Certified-Specialist.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente passei no &lt;strong&gt;Exame Red Hat Certified Specialist in Container for Kubernetes (DO180)&lt;/strong&gt;, esse é o primeiro exame recomendado pela Red hat na trilha de estudos para o &lt;strong&gt;OpenShift&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     

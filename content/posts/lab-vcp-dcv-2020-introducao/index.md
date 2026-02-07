@@ -1,5 +1,6 @@
 ---
 title: "Lab VCP-DCV 2020 - Introdução"
+slug: "lab-vcp-dcv-2020-introdução"
 date: 2020-08-29
 categories: 
   - "certificacoes"

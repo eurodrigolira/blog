@@ -1,5 +1,6 @@
 ---
 title: "Cursos Gratuitos VMware"
+slug: "cursos-gratuitos-vmware"
 date: 2015-07-24
 categories: 
   - "certificacoes"

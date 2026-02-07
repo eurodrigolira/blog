@@ -1,5 +1,6 @@
 ---
 title: "Certificação ITIL"
+slug: "certificação-itil"
 date: 2013-12-02
 categories: 
   - "certificacoes"

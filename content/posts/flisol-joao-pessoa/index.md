@@ -1,5 +1,6 @@
 ---
 title: "Flisol João Pessoa"
+slug: "flisol-joão-pessoa"
 date: 2013-04-26
 categories: 
   - "linux"

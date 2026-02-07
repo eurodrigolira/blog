@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homelab on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/homelab/</link>
+    <link>http://localhost:1313/tags/homelab/</link>
     <description>Recent content in Homelab on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Homelab 2025</title>
-      <link>http://rodrigolira.eti.br:80/homelab-2025/</link>
+      <link>http://localhost:1313/homelab-2025/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/homelab-2025/</guid>
+      <guid>http://localhost:1313/homelab-2025/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Com a conclusão do meu mestrado, estou voltando a produzir conteúdos aqui no blog. Dei uma pausa por conta da carga intensa de atividades, tanto do mestrado quanto do trabalho, mas agora quero retomar com tudo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Setup e Homelab 2024</title>
-      <link>http://rodrigolira.eti.br:80/setup-e-homelab-2024/</link>
+      <link>http://localhost:1313/setup-e-homelab-2024/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/setup-e-homelab-2024/</guid>
+      <guid>http://localhost:1313/setup-e-homelab-2024/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui para falar um pouco sobre o meu setup e meu homelab pessoal, recentemente fiz algumas mudanças, como a troca do meu notebook e a compra de um monitor novo, então resolvi falar um pouco sobre o que estou usando em casa.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ISOs do ESXi com drivers Realtek</title>
-      <link>http://rodrigolira.eti.br:80/isos-do-esxi-com-drivers-realtek/</link>
+      <link>http://localhost:1313/isos-do-esxi-com-drivers-realtek/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/isos-do-esxi-com-drivers-realtek/</guid>
+      <guid>http://localhost:1313/isos-do-esxi-com-drivers-realtek/</guid>
       <description>&lt;p&gt;Para imagens atualizadas visite a página abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rodrigolira.eti.br/isos-esxi-customizadas/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://rodrigolira.eti.br/isos-esxi-customizadas/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Diversas pessoas chegam até mim pedindo a imagem personalizada do ESXi porque não estão conseguindo utilizar o script &lt;strong&gt;ESXi-Customizer-PS&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Server - P2V / V2V</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-server-p2v-/-v2v/</link>
+      <link>http://localhost:1313/oracle-vm-server-p2v-/-v2v/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-server-p2v-/-v2v/</guid>
+      <guid>http://localhost:1313/oracle-vm-server-p2v-/-v2v/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como realizar um p2v (Physical-to-Virtual) ou um v2v (Virtual-to-Virtual) com o Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Diferente do VMware vCenter Converter Standalone, nós precisamos desligar a VM ou Host para a realização do procedimento.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Command Line Interface (CLI)</title>
-      <link>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</link>
+      <link>http://localhost:1313/oracle-vm-command-line-interface-cli/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/oracle-vm-command-line-interface-cli/</guid>
+      <guid>http://localhost:1313/oracle-vm-command-line-interface-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Este é o primeiro de uma serie de posts que quero fazer falando sobre o &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt; oferece os mesmo recursos que o ambiente web, dessa forma podemos gerenciar nossos hosts e nosso manager por linha de comando.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do VMware ESXi 6.5</title>
-      <link>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-esxi-6.5/</link>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-do-vmware-esxi-6-5/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/instala%C3%A7%C3%A3o-do-vmware-esxi-6.5/</guid>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-do-vmware-esxi-6-5/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou atualizando o meu homelab para a nova versão do ESXi (6.5) que foi disponibilizada a poucos dias para download. Dessa forma resolvi fazer um post sobre a instalação da mesma, na verdade não mudou em nada a instalação, os passos a seguir são os mesmos que a versão 6.0, mas como nunca fiz um post com os passos de instalação, resolvi fazer esse ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Update ESXi Embedded Host Client v1.10.1</title>
-      <link>http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.10.1/</link>
+      <link>http://localhost:1313/update-esxi-embedded-host-client-v1-10-1/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/update-esxi-embedded-host-client-v1.10.1/</guid>
+      <guid>http://localhost:1313/update-esxi-embedded-host-client-v1-10-1/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/10/Captura-de-Tela-2016-10-10-a?s-23.11.14.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;captura-de-tela-2016-10-10-as-23-11-14&#34;&#xA;    src=&#34;images/Captura-de-Tela-2016-10-10-a&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje saiu uma nova versão do &lt;strong&gt;ESXi Embedded Host Client&lt;/strong&gt; a &lt;strong&gt;versão 1.10.1&lt;/strong&gt;, o que aconteceu com a 1.10.0? Lançaram no dia 06/10 e eu não vi, por isso eu não postei aqui no blog :(&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>TP-Link N600 com OpenWrt como gateway do meu Lab</title>
-      <link>http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/</link>
+      <link>http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/</link>
       <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente adquiri um TP-Link TL-WDR3600 (N600) para ser o Gateway, DHCP Server, DNS Server, etc, do meu lab.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/01.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;01&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;225&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg 800w, http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt; &lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/02.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;02&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;225&#34;&#xA;    src=&#34;http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg&#34;&#xA;    srcset=&#34;http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg 800w, http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://rodrigolira.eti.br:80/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente adquiri um TP-Link TL-WDR3600 (N600) para ser o Gateway, DHCP Server, DNS Server, etc, do meu lab.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/01.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;01&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;225&#34;&#xA;    src=&#34;http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg 800w, http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/01-300x225.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt; &lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/09/02.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;02&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;225&#34;&#xA;    src=&#34;http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg 800w, http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/tp-link-n600-com-openwrt-como-gateway-do-meu-lab/images/02-300x225.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     

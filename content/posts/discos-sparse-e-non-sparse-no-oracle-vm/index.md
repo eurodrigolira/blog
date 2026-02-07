@@ -1,5 +1,6 @@
 ---
 title: "Discos sparse e non-sparse no Oracle VM"
+slug: "discos-sparse-e-non-sparse-no-oracle-vm"
 date: 2017-09-17
 categories: 
   - "linux"

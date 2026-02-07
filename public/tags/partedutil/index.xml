@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partedutil on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/partedutil/</link>
+    <link>http://localhost:1313/tags/partedutil/</link>
     <description>Recent content in Partedutil on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sun, 28 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/partedutil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/partedutil/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Deletar discos NTFS via CLI no ESXi 6</title>
-      <link>http://rodrigolira.eti.br:80/deletar-discos-ntfs-via-cli-no-esxi-6/</link>
+      <link>http://localhost:1313/deletar-discos-ntfs-via-cli-no-esxi-6/</link>
       <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/deletar-discos-ntfs-via-cli-no-esxi-6/</guid>
+      <guid>http://localhost:1313/deletar-discos-ntfs-via-cli-no-esxi-6/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;De vez em quando, vem um conhecido ou outro me dizendo que colocou um novo disco no ambiente deles e o disco não foi reconhecido pelo vSphere, quando pergunto a eles se esse disco já tinha sido utilizado, na maioria das vezes sim e estão formatados com o sistemas de arquivos NTFS. Então dessa forma decide fazer esse post para mostrar como deletar esse sistema de arquivos para que o disco apareça no seu vSphere e que você possa formata-lo normalmente via interface web.&lt;/p&gt;</description>
       
     </item>

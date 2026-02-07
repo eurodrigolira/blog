@@ -1,5 +1,6 @@
 ---
 title: "Atualizando o ESXi via linha de comando."
+slug: "atualizando-o-esxi-via-linha-de-comando-"
 date: 2022-10-07
 categories: 
   - "virtualizacao"

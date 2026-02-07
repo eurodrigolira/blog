@@ -1,5 +1,6 @@
 ---
 title: "Atualização dos Pacotes do Zabbix e Grafana"
+slug: "atualização-dos-pacotes-do-zabbix-e-grafana"
 date: 2025-09-05
 categories: 
   - "linux"

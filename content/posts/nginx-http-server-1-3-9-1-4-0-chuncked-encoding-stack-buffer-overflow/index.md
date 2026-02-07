@@ -1,5 +1,6 @@
 ---
 title: "Nginx HTTP Server 1.3.9-1.4.0 Chuncked Encoding Stack Buffer Overflow"
+slug: "nginx-http-server-1-3-9-1-4-0-chuncked-encoding-stack-buffer-overflow"
 date: 2013-05-28
 categories: 
   - "linux"

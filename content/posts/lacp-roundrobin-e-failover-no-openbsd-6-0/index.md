@@ -1,5 +1,6 @@
 ---
 title: "LACP, Roundrobin e Failover no OpenBSD 6.0"
+slug: "lacp-roundrobin-e-failover-no-openbsd-6-0"
 date: 2016-10-20
 categories: 
   - "bsd1"

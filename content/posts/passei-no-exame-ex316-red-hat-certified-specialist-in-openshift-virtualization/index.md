@@ -1,5 +1,6 @@
 ---
 title: "Passei no Exame - EX316 Red Hat Certified Specialist in OpenShift Virtualization"
+slug: "passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization"
 date: 2024-10-01
 categories: 
   - "certificacoes"

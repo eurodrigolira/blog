@@ -1,5 +1,6 @@
 ---
 title: "Oracle VM Server - Tags"
+slug: "oracle-vm-server-tags"
 date: 2017-03-06
 categories: 
   - "linux"

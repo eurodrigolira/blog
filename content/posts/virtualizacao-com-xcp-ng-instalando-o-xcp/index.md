@@ -1,5 +1,6 @@
 ---
 title: "Virtualização com XCP-ng - Instalando o XCP"
+slug: "virtualização-com-xcp-ng-instalando-o-xcp"
 date: 2020-07-07
 categories: 
   - "linux"

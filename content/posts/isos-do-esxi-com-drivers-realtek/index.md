@@ -1,5 +1,6 @@
 ---
 title: "ISOs do ESXi com drivers Realtek"
+slug: "isos-do-esxi-com-drivers-realtek"
 date: 2017-06-09
 categories: 
   - "virtualizacao"

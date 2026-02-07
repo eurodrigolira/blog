@@ -1,5 +1,6 @@
 ---
 title: "Lançada edição n.52 da Revista Espírito Livre"
+slug: "lançada-edição-n-52-da-revista-espírito-livre"
 date: 2013-08-02
 categories: 
   - "outros"

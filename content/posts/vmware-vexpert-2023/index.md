@@ -1,5 +1,6 @@
 ---
 title: "VMware vExpert 2023"
+slug: "vmware-vexpert-2023"
 date: 2023-02-20
 categories: 
   - "virtualizacao"

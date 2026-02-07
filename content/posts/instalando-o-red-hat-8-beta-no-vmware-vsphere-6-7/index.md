@@ -1,5 +1,6 @@
 ---
 title: "Instalando o Red Hat 8 Beta no VMware vSphere 6.7"
+slug: "instalando-o-red-hat-8-beta-no-vmware-vsphere-6-7"
 date: 2019-01-08
 categories: 
   - "linux"

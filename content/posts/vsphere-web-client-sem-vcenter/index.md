@@ -1,5 +1,6 @@
 ---
 title: "vSphere Web Client (Sem vCenter)"
+slug: "vsphere-web-client-(sem-vcenter)"
 date: 2015-08-20
 categories: 
   - "virtualizacao"

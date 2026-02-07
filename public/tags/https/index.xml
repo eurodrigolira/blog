@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Https on Rodrigo Lira</title>
-    <link>http://rodrigolira.eti.br:80/tags/https/</link>
+    <link>http://localhost:1313/tags/https/</link>
     <description>Recent content in Https on Rodrigo Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://rodrigolira.eti.br:80/tags/https/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/https/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alterando a porta HTTPS do ESXi 6.5/6.7 (Acesso Web)</title>
-      <link>http://rodrigolira.eti.br:80/alterando-a-porta-https-do-esxi-6.5/6.7-acesso-web/</link>
+      <link>http://localhost:1313/alterando-a-porta-https-do-esxi-6-5/6-7-acesso-web/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://rodrigolira.eti.br:80/alterando-a-porta-https-do-esxi-6.5/6.7-acesso-web/</guid>
+      <guid>http://localhost:1313/alterando-a-porta-https-do-esxi-6-5/6-7-acesso-web/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Alguns leitores do blog sempre me perguntaram como alterar a porta do &lt;strong&gt;HTTPS&lt;/strong&gt; do &lt;strong&gt;ESXi&lt;/strong&gt;, nunca tive a necessidade de fazer essa alteração, mas devido a pedidos, resolvi fazer esse post.&lt;/p&gt;</description>
       
     </item>

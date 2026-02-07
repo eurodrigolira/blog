@@ -1,5 +1,6 @@
 ---
 title: "Checando a qualidade de senha no Oracle Linux 7 com o pwscore"
+slug: "checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore"
 date: 2017-06-21
 categories: 
   - "linux"

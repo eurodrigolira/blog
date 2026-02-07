@@ -1,5 +1,6 @@
 ---
 title: "Instalando o Zabbix 2 no Slackware 14.0"
+slug: "instalando-o-zabbix-2-no-slackware-14-0"
 date: 2013-08-21
 categories: 
   - "linux"
