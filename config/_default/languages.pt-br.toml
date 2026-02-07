@@ -1,7 +1,7 @@
 languageCode = "pt-br"
 languageName = "Português"
 weight = 1
-title = "Rodrigo Lira"
+title = "RODRIGO LIRA"
 
 [params]
 displayName = "Português"
@@ -15,7 +15,6 @@ description = "Rodrigo Lira | Linux/BSD SysAdmin"
   email = "eurodrigolira@gmail.com"
   bio = "Linux/BSD SysAdmin"
   headline = "Linux/BSD SysAdmin"
-  subtitle = "🧠 Builder · AI, agents, infra · OSS · Mentor & startup advisor"
   image = "perfil.jpeg"
   links = [
     { email = "mailto:eurodrigolira@gmail.com" },

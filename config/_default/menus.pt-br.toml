@@ -2,46 +2,42 @@
 none = "none"
 
 [[main]]
-name = "Ínicio"
+name = "ÍNICIO"
 pageRef = "/"
 identifier = "r1o0NT52zu"
 weight = 10
 
 [[main]]
-name = "Posts"
+name = "POSTS"
 pageRef = "/posts"
 identifier = "ELpNGOazZR"
 weight = 20
 
 [[main]]
-name = "SlackBuilds"
+name = "SLACKBUILDS"
 url = "https://github.com/eurodrigolira/slackbuilds"
 identifier = "PsCQ91j983"
 weight = 30
 
 [[main]]
-name = "Isos"
+name = "ISOS"
 url = "https://rodrigolira.eti.br"
 identifier = "mOx4trG62W"
 weight = 40
 
 [[main]]
-name = "Categorias"
+name = "CATEGORIAS"
 pageRef = "/categories"
 identifier = "XLK78KBSzH"
 weight = 50
 
 [[footer]]
-  name = "Tags"
+  name = "TAGS"
   pageRef = "tags"
   weight = 10
 
 [[footer]]
-  name = "Categorias"
+  name = "CATEGORIAS"
   pageRef = "categories"
   weight = 20
 
-[[footer]]
-  name = "Autores"
-  pageRef = "authors"
-  weight = 30
