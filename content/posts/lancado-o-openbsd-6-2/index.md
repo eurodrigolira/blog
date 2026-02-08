@@ -2,9 +2,9 @@
 title: "Lançado o OpenBSD 6.2"
 slug: "lancado-o-openbsd-6-2"
 date: 2017-10-10
-categories: 
+category: 
   - "bsd1"
-tags: 
+tag: 
   - "bsd2"
   - "openbsd-6-2"
   - "pf"

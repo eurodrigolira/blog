@@ -2,10 +2,10 @@
 title: "GNU/Linux Distribution Timeline"
 slug: "gnulinux-distribution-timeline"
 date: 2013-07-23
-categories: 
+category: 
   - "linux"
   - "outros"
-tags: 
+tag: 
   - "dicas"
   - "linux"
   - "software-livre"

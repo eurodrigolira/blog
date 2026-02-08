@@ -2,9 +2,9 @@
 title: "Apresetação do meu artigo no CSBC/SEMISH 2023"
 slug: "apresetacao-do-meu-artigo-no-csbc-semish-2023"
 date: 2023-08-10
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "artigo"
   - "csbc"
   - "semish"

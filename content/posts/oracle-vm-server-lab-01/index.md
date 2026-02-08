@@ -2,11 +2,11 @@
 title: "Lab Oracle VM Server - Parte 1"
 slug: "oracle-vm-server-lab-01"
 date: 2016-05-28
-categories: 
+category: 
   - "labs"
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "nexenta"
   - "oracle-linux"
   - "oracle-vm-server"

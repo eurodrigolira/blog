@@ -2,9 +2,9 @@
 title: "Anunciado VMware vSphere 6.5"
 slug: "anunciado-vmware-vsphere-6-5"
 date: 2016-10-18
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "vmware"
   - "vmware-vsphere"
   - "vsphere-6-5"

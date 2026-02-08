@@ -2,9 +2,9 @@
 title: "Alterando o Kernel do Oracle Linux 7"
 slug: "alterando-o-kernel-do-oracle-linux-7"
 date: 2017-07-13
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "kernel"
   - "oracle"
   - "oracle-linux"

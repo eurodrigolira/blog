@@ -2,11 +2,11 @@
 title: "Zabbix 5 no Slackware Current"
 slug: "zabbix-5-no-slackware-current"
 date: 2020-09-17
-categories: 
+category: 
   - "linux"
   - "monitoramento"
   - "scripts"
-tags: 
+tag: 
   - "linux"
   - "monitoramento"
   - "slackware"

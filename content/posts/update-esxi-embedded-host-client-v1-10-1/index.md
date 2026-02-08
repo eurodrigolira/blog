@@ -2,10 +2,10 @@
 title: "Update ESXi Embedded Host Client v1.10.1"
 slug: "update-esxi-embedded-host-client-v1-10-1"
 date: 2016-10-11
-categories: 
+category: 
   - "labs"
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi-embedded"
   - "homelab"
   - "labs"

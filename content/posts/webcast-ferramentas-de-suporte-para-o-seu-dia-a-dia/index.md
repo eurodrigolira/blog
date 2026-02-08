@@ -2,9 +2,9 @@
 title: "Webcast: Ferramentas de suporte para o seu dia-a-dia"
 slug: "webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia"
 date: 2013-03-25
-categories: 
+category: 
   - "windows"
-tags: 
+tag: 
   - "microsoft"
   - "noticias"
   - "windows"

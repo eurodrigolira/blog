@@ -2,9 +2,9 @@
 title: "Curso de Oracle VM Server x86 - ENGIE BRASIL"
 slug: "curso-de-oracle-vm-server-x86-engie-brasil"
 date: 2017-06-09
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "curso-oracle-vm-server"
   - "oracle"
   - "oracle-linux"

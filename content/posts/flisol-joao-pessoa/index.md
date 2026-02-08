@@ -2,9 +2,9 @@
 title: "Flisol João Pessoa"
 slug: "flisol-joao-pessoa"
 date: 2013-04-26
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "noticias"
   - "software-livre"
 ---

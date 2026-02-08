@@ -2,11 +2,11 @@
 title: "Instalação e Configuração do MinIO"
 slug: "instalacao-e-configuracao-do-minio"
 date: 2022-09-21
-categories: 
+category: 
   - "cloud"
   - "devops"
   - "linux"
-tags: 
+tag: 
   - "bucket"
   - "cloud"
   - "linux"

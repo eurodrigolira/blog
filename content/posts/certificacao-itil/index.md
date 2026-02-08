@@ -2,9 +2,9 @@
 title: "Certificação ITIL"
 slug: "certificacao-itil"
 date: 2013-12-02
-categories: 
+category: 
   - "certificacoes"
-tags: 
+tag: 
   - "certificacao"
   - "dicas"
   - "itil"

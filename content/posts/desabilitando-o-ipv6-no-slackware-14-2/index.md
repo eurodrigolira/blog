@@ -2,9 +2,9 @@
 title: "Desabilitando o IPv6 no Slackware 14.2"
 slug: "desabilitando-o-ipv6-no-slackware-14-2"
 date: 2017-01-05
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "ipv6"
   - "linux"
   - "slackware"

@@ -2,9 +2,9 @@
 title: "OpenBSD 5.6"
 slug: "openbsd-5-6"
 date: 2014-11-05
-categories: 
+category: 
   - "bsd1"
-tags: 
+tag: 
   - "openbsd"
   - "openbsd-5-6"
   - "software-livre"

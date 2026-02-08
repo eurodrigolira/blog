@@ -2,9 +2,9 @@
 title: "Instalação do ESXi 8"
 slug: "instalacao-do-esxi-8"
 date: 2022-10-19
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "esxi-8"
   - "virtualizacao"

@@ -2,11 +2,11 @@
 title: "Meu LAB VMware - Parte 01"
 slug: "meu-lab-vmware-parte-01"
 date: 2014-10-12
-categories: 
+category: 
   - "certificacoes"
   - "labs"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacao"
   - "virtualizacao"
   - "vmware"

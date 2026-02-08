@@ -2,9 +2,9 @@
 title: "Revisão nas provas da LPIC-2 e LPIC-3"
 slug: "revisao-nas-provas-da-lpic-2-e-lpic-3"
 date: 2013-01-24
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "linux"
   - "lpic"
   - "noticias"

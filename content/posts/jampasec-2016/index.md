@@ -2,9 +2,9 @@
 title: "JampaSec 2016"
 slug: "jampasec-2016"
 date: 2016-11-03
-categories: 
+category: 
   - "seguranca"
-tags: 
+tag: 
   - "jampasec"
   - "jampasec-2016"
   - "palestra"

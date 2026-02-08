@@ -2,9 +2,9 @@
 title: "Atualizações das ISOs Customizadas do ESXi 6.7 para Update 3"
 slug: "atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3"
 date: 2020-04-18
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "customizadas"
   - "esxi"
   - "isos"

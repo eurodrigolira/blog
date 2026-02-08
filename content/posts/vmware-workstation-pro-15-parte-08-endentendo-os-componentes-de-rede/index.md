@@ -2,9 +2,9 @@
 title: "VMware Workstation Pro 15 – Parte 08 (Endentendo os Componentes de Rede)"
 slug: "vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede"
 date: 2019-03-27
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "network"
   - "virtualizacao"
   - "vmware"

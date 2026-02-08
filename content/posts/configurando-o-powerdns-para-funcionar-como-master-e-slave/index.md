@@ -2,10 +2,10 @@
 title: "Configurando o PowerDNS para funcionar como Master e Slave"
 slug: "configurando-o-powerdns-para-funcionar-como-master-e-slave"
 date: 2020-04-23
-categories: 
+category: 
   - "linux"
   - "redes"
-tags: 
+tag: 
   - "dig"
   - "dns"
   - "linux"

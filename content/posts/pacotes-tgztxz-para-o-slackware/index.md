@@ -2,9 +2,9 @@
 title: "Pacotes TGZ/TXZ para o Slackware"
 slug: "pacotes-tgztxz-para-o-slackware"
 date: 2013-07-31
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "dicas"
   - "linux"
   - "slackware"

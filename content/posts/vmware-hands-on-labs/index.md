@@ -2,10 +2,10 @@
 title: "VMware Hands-on Labs"
 slug: "vmware-hands-on-labs"
 date: 2014-10-05
-categories: 
+category: 
   - "labs"
   - "virtualizacao"
-tags: 
+tag: 
   - "dicas"
   - "labs"
   - "vmware"

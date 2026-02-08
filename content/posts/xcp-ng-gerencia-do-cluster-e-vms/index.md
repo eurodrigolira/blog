@@ -2,10 +2,10 @@
 title: "XCP-ng – Gerência do Cluster e VMs"
 slug: "xcp-ng-gerencia-do-cluster-e-vms"
 date: 2022-12-24
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "virtualizacao"
   - "xcp"

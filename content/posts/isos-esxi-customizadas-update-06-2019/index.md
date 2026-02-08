@@ -2,9 +2,9 @@
 title: "ISOs ESXi Customizadas (Update 06/2019)"
 slug: "isos-esxi-customizadas-update-06-2019"
 date: 2019-06-25
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "drivers"
   - "esxi"
   - "esxi-embedded-host-client"

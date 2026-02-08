@@ -2,10 +2,10 @@
 title: "Alta disponibilidade com Keepalived no Oracle Linux 7"
 slug: "alta-disponibilidade-com-keepalived-no-oracle-linux-7"
 date: 2017-06-19
-categories: 
+category: 
   - "labs"
   - "linux"
-tags: 
+tag: 
   - "keepalived"
   - "linux"
   - "oracle-linux"

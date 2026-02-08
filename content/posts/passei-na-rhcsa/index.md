@@ -2,10 +2,10 @@
 title: "Passei na RHCSA"
 slug: "passei-na-rhcsa"
 date: 2016-08-16
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "certificacao"
   - "red-hat"
   - "rhcsa"

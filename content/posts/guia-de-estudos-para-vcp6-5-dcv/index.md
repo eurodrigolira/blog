@@ -2,10 +2,10 @@
 title: "Guia de Estudos para VCP6.5-DCV"
 slug: "guia-de-estudos-para-vcp6-5-dcv"
 date: 2017-12-18
-categories: 
+category: 
   - "certificacoes"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacao"
   - "vcp-dcv"
   - "vcp6-5-dcv"

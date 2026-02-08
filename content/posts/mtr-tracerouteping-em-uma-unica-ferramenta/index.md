@@ -2,9 +2,9 @@
 title: "mtr - Traceroute+ping em uma única ferramenta"
 slug: "mtr-tracerouteping-em-uma-unica-ferramenta"
 date: 2013-03-31
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "dicas"
   - "linux"
   - "software-livre"

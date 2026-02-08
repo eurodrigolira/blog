@@ -2,9 +2,9 @@
 title: "Nexenta - Link Aggregation"
 slug: "nexenta-link-aggregation"
 date: 2016-06-05
-categories: 
+category: 
   - "storage"
-tags: 
+tag: 
   - "link-aggregation"
   - "nexenta"
   - "storage"

@@ -2,9 +2,9 @@
 title: "Novo tema para o blog."
 slug: "novo-tema-para-o-blog"
 date: 2023-01-02
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "blog"
   - "tema"
 ---

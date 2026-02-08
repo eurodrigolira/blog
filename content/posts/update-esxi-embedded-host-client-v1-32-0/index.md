@@ -2,9 +2,9 @@
 title: "Update ESXi Embedded Host Client v1.32.0"
 slug: "update-esxi-embedded-host-client-v1-32-0"
 date: 2018-11-06
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "vmware"
 ---

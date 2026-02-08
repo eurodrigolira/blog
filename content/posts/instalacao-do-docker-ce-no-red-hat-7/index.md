@@ -2,10 +2,10 @@
 title: "Instalação do Docker CE no Red Hat 7"
 slug: "instalacao-do-docker-ce-no-red-hat-7"
 date: 2017-12-04
-categories: 
+category: 
   - "devops"
   - "linux"
-tags: 
+tag: 
   - "docker"
   - "docker-ce"
   - "linux"

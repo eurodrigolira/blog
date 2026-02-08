@@ -2,10 +2,10 @@
 title: "Instalação do VMware Workstation 17 Pro no Slackware"
 slug: "instalacao-do-vmware-workstation-17-pro-no-slackware"
 date: 2022-11-21
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "slackware"
   - "vmware"

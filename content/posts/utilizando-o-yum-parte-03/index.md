@@ -2,9 +2,9 @@
 title: "Utilizando o YUM – Parte 03"
 slug: "utilizando-o-yum-parte-03"
 date: 2018-10-23
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "centos"
   - "fedora"
   - "linux"

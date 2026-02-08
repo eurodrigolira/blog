@@ -2,10 +2,10 @@
 title: "Passei na Certificação VCP5-DCV!!"
 slug: "passei-na-certificacao-vcp5-dcv"
 date: 2014-08-09
-categories: 
+category: 
   - "certificacoes"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacao"
   - "vcp5-dcv"
   - "vmware"

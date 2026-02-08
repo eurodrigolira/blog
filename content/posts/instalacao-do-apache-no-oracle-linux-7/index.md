@@ -2,9 +2,9 @@
 title: "Instalação do Apache no Oracle Linux 7"
 slug: "instalacao-do-apache-no-oracle-linux-7"
 date: 2017-06-13
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "apache"
   - "linux"
   - "oracle"

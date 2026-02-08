@@ -1,7 +1,7 @@
 ---
 title: "Ansible - Introdução"
 slug: "ansible-introdução"
-categories: 
+category: 
   - "outros"
 draft: true
 ---

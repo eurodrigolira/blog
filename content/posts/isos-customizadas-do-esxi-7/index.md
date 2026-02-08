@@ -2,9 +2,9 @@
 title: "ISOs Customizadas do ESXi 7"
 slug: "isos-customizadas-do-esxi-7"
 date: 2020-08-26
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "esxi-7-0"
   - "isos"

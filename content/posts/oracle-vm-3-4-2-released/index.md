@@ -2,10 +2,10 @@
 title: "Oracle VM 3.4.2 Released!"
 slug: "oracle-vm-3-4-2-released"
 date: 2016-09-22
-categories: 
+category: 
   - "outros"
   - "virtualizacao"
-tags: 
+tag: 
   - "oracle-linux"
   - "oracle-vm-manager"
   - "oracle-vm-server"

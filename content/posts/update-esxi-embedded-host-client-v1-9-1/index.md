@@ -2,7 +2,7 @@
 title: "Update ESXi Embedded Host Client v1.9.1"
 slug: "update-esxi-embedded-host-client-v1-9-1"
 date: 2016-09-20
-categories: 
+category: 
   - "labs"
   - "virtualizacao"
 ---

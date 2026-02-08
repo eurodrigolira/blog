@@ -2,9 +2,9 @@
 title: "VMware Workstation Pro 15 - Parte 01 (Instalação)"
 slug: "vmware-workstation-pro-15-parte-01-instalacao"
 date: 2019-01-08
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "virtualizacao"
   - "vmware"
   - "vmware-workstation-pro-15"

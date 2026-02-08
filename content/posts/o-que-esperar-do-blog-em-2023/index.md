@@ -2,9 +2,9 @@
 title: "O que esperar do blog em 2023?"
 slug: "o-que-esperar-do-blog-em-2023"
 date: 2022-12-28
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "2023"
   - "devops"
   - "novidades"

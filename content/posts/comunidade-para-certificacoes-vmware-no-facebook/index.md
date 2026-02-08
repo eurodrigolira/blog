@@ -2,10 +2,10 @@
 title: "Comunidade para certificações VMware no facebook"
 slug: "comunidade-para-certificacoes-vmware-no-facebook"
 date: 2015-05-15
-categories: 
+category: 
   - "certificacoes"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacao"
   - "vmware"
 ---

@@ -2,10 +2,10 @@
 title: "Atualização dos Pacotes do Zabbix e Grafana"
 slug: "atualizacao-dos-pacotes-do-zabbix-e-grafana"
 date: 2025-09-05
-categories: 
+category: 
   - "linux"
   - "monitoramento"
-tags: 
+tag: 
   - "grafana"
   - "linux"
   - "monitoramento"

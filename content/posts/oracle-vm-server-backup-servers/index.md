@@ -2,10 +2,10 @@
 title: "Oracle VM Server – Backup (Servers)"
 slug: "oracle-vm-server-backup-servers"
 date: 2018-06-28
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "backup"
   - "linux"
   - "oracle"

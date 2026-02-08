@@ -1,7 +1,7 @@
 ---
 title: "Convertendo imagens de Máquinas Virtuais."
 slug: "convertendo-imagens-de-máquinas-virtuais-"
-categories: 
+category: 
   - "outros"
 draft: true
 ---

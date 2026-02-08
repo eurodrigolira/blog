@@ -2,9 +2,9 @@
 title: "Ebook Gratuito - Introdução ao Windows 8 para profissionais em TI"
 slug: "ebook-gratuito-introducao-ao-windows-8-para-profissionais-em-ti"
 date: 2013-01-20
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "ebook"
   - "livros"
   - "windows"

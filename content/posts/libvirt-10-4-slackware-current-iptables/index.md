@@ -2,9 +2,9 @@
 title: "Libvirt 10.4 + Slackware Current + IPtables"
 slug: "libvirt-10-4-slackware-current-iptables"
 date: 2024-06-11
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "firewall"
   - "iptables"
   - "libvirt"

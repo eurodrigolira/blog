@@ -2,10 +2,10 @@
 title: "Exame RHCE - Reprovado :("
 slug: "exame-rhce-reprovado"
 date: 2018-04-05
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "certificacao"
   - "linux"
   - "red-hat"

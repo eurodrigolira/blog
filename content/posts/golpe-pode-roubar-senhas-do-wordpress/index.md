@@ -2,9 +2,9 @@
 title: "Golpe pode roubar senhas do Wordpress"
 slug: "golpe-pode-roubar-senhas-do-wordpress"
 date: 2013-04-14
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "noticias"
   - "wordpress"
 ---

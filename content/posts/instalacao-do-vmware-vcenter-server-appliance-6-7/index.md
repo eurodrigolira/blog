@@ -2,10 +2,10 @@
 title: "Instalação do VMware vCenter Server Appliance 6.7"
 slug: "instalacao-do-vmware-vcenter-server-appliance-6-7"
 date: 2018-08-09
-categories: 
+category: 
   - "labs"
   - "virtualizacao"
-tags: 
+tag: 
   - "labs"
   - "vcsa"
   - "vcsa-6-7"

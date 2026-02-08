@@ -2,10 +2,10 @@
 title: "Certificações da Red Hat com RETAKE FREE"
 slug: "certificacoes-da-red-hat-com-retake-free"
 date: 2023-02-11
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "certificacoes"
   - "exames"
   - "free-retake"

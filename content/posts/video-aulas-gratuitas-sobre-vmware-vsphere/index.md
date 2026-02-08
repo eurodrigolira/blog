@@ -2,9 +2,9 @@
 title: "Vídeo Aulas gratuitas sobre VMware vSphere"
 slug: "video-aulas-gratuitas-sobre-vmware-vsphere"
 date: 2013-09-26
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "dicas"
   - "virtualizacao"
   - "vmware"

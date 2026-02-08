@@ -2,9 +2,9 @@
 title: "Meus pacotes para o Slackware"
 slug: "meus-pacotes-para-o-slackware"
 date: 2024-09-25
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "linux"
   - "packages"
   - "pacotes"

@@ -2,9 +2,9 @@
 title: "Carreiras Microsoft"
 slug: "carreiras-microsoft"
 date: 2013-01-11
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "microsoft"
 ---
 

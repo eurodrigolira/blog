@@ -2,9 +2,9 @@
 title: "Lançado The Book of PF, 3rd Edition"
 slug: "lancado-the-book-of-pf-3rd-edition"
 date: 2014-10-02
-categories: 
+category: 
   - "bsd1"
-tags: 
+tag: 
   - "dicas"
   - "livros"
   - "openbsd"

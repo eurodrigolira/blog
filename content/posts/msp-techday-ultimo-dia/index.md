@@ -2,9 +2,9 @@
 title: "MSP TechDay (Último Dia)"
 slug: "msp-techday-ultimo-dia"
 date: 2013-05-18
-categories: 
+category: 
   - "windows"
-tags: 
+tag: 
   - "cursos"
   - "microsoft"
   - "windows"

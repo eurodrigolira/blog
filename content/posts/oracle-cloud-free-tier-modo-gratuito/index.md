@@ -2,10 +2,10 @@
 title: "Oracle Cloud Free Tier (Modo Gratuito)"
 slug: "oracle-cloud-free-tier-modo-gratuito"
 date: 2020-05-18
-categories: 
+category: 
   - "cloud"
   - "linux"
-tags: 
+tag: 
   - "cloud"
   - "linux"
   - "oci"

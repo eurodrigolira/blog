@@ -2,9 +2,9 @@
 title: "Grupo de Usuários de VMware chega a São Paulo"
 slug: "grupo-de-usuarios-de-vmware-chega-a-sao-paulo"
 date: 2016-10-03
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "vmug"
   - "vmware"
 ---

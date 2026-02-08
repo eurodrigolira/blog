@@ -2,9 +2,9 @@
 title: "Lançada edição n.52 da Revista Espírito Livre"
 slug: "lancada-edicao-n-52-da-revista-espirito-livre"
 date: 2013-08-02
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "linux"
   - "software-livre"
 ---

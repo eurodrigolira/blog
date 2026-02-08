@@ -2,10 +2,10 @@
 title: "Discos sparse e non-sparse no Oracle VM"
 slug: "discos-sparse-e-non-sparse-no-oracle-vm"
 date: 2017-09-17
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "cli"
   - "curso-oracle-vm-server"
   - "non-sparse"

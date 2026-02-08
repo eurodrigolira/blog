@@ -2,9 +2,9 @@
 title: "Documentação sobre o Slackware"
 slug: "documentacao-sobre-o-slackware"
 date: 2013-08-13
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "linux"
   - "slackware"
   - "software-livre"

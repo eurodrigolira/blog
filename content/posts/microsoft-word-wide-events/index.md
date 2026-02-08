@@ -2,9 +2,9 @@
 title: "Microsoft Word Wide Events"
 slug: "microsoft-word-wide-events"
 date: 2013-03-21
-categories: 
+category: 
   - "windows"
-tags: 
+tag: 
   - "dicas"
   - "microsoft"
   - "video-aulas"

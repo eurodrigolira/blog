@@ -2,9 +2,9 @@
 title: "Instalação CORE Network Emulator 4.8 no Slackware 14.2"
 slug: "instalacao-core-network-emulator-4-8-no-slackware-14-2"
 date: 2017-10-09
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "core-netwrok"
   - "linux"
   - "slackware-14-2"

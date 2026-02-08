@@ -2,9 +2,9 @@
 title: "Oracle VM Server - Error invalid host name resolution"
 slug: "oracle-vm-server-error-invalid-host-name-resolution"
 date: 2018-04-08
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "labs"
   - "oracle"
   - "oracle-vm-server"

@@ -2,9 +2,9 @@
 title: "Blog de cara nova :D"
 slug: "blog-de-cara-nova-d"
 date: 2019-06-22
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "blog"
   - "wordpress"
 ---

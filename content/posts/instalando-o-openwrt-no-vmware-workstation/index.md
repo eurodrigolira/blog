@@ -2,10 +2,10 @@
 title: "Instalando o OpenWRT no VMware Workstation"
 slug: "instalando-o-openwrt-no-vmware-workstation"
 date: 2015-06-10
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "openwrt"
   - "vmware-workstation"

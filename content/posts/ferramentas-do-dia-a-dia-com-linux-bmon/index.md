@@ -2,9 +2,9 @@
 title: "Ferramentas do dia a dia com Linux – bmon"
 slug: "ferramentas-do-dia-a-dia-com-linux-bmon"
 date: 2021-08-04
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "bmon"
   - "interfaces"
   - "linux"

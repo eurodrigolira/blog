@@ -2,10 +2,10 @@
 title: "Aprovado no Exame Red Hat Certified Specialist in Container for Kubernetes (DO180)"
 slug: "aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180"
 date: 2020-10-07
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "certificacoes"
   - "containers"
   - "do180"

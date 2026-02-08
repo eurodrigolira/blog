@@ -2,9 +2,9 @@
 title: "E-book gratuito de PowerShell"
 slug: "e-book-gratuito-de-powershell"
 date: 2013-04-01
-categories: 
+category: 
   - "windows"
-tags: 
+tag: 
   - "livros"
   - "microsoft"
   - "windows"

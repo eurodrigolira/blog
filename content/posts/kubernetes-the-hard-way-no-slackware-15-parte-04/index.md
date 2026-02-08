@@ -2,10 +2,10 @@
 title: "Kubernetes The Hard Way no Slackware 15 – Parte 04"
 slug: "kubernetes-the-hard-way-no-slackware-15-parte-04"
 date: 2023-10-30
-categories: 
+category: 
   - "kubernetes"
   - "linux"
-tags: 
+tag: 
   - "ca"
   - "kubernetes"
   - "kubernetes-the-hard-way"

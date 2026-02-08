@@ -2,10 +2,10 @@
 title: "Transformando o CentOS em Oracle Linux"
 slug: "transformando-o-centos-em-oracle-linux"
 date: 2017-05-24
-categories: 
+category: 
   - "linux"
   - "scripts"
-tags: 
+tag: 
   - "centos"
   - "centos2ol-sh"
   - "linux"

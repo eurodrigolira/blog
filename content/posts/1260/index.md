@@ -2,10 +2,10 @@
 title: "Vídeo pfSense com Captive Portal autenticando usuários via radius no Active Directory"
 slug: "1260"
 date: 2014-10-05
-categories: 
+category: 
   - "bsd1"
   - "windows"
-tags: 
+tag: 
   - "dicas"
   - "hangout"
   - "pfsense-2"

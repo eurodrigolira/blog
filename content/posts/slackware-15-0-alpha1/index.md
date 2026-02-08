@@ -2,9 +2,9 @@
 title: "Slackware 15.0 alpha1"
 slug: "slackware-15-0-alpha1"
 date: 2021-02-16
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "linux"
   - "slackware"
   - "slackware-15"

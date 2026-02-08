@@ -2,10 +2,10 @@
 title: "NexentaStor não responde via Web (NMS)"
 slug: "nexentastor-nao-responde-via-web-nms"
 date: 2016-09-15
-categories: 
+category: 
   - "labs"
   - "storage"
-tags: 
+tag: 
   - "nexenta"
   - "nexentastor"
   - "storage"

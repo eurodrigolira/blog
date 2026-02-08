@@ -2,10 +2,10 @@
 title: "VMware Workstation - Compartilhamento de pastas com vms Linux"
 slug: "vmware-workstation-compartilhamento-de-pastas-com-vms-linux"
 date: 2017-10-17
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "red-hat-7"
   - "vmware"

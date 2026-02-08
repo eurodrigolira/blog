@@ -2,11 +2,11 @@
 title: "Interface Bond no Oracle VM Server"
 slug: "interface-bond-no-oracle-vm-server"
 date: 2016-11-06
-categories: 
+category: 
   - "labs"
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "labs"
   - "linux"
   - "oracle"

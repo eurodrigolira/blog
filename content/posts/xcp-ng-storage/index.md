@@ -2,11 +2,11 @@
 title: "XCP-ng - Storage"
 slug: "xcp-ng-storage"
 date: 2021-05-08
-categories: 
+category: 
   - "linux"
   - "storage"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "storage"
   - "virtualizacao"

@@ -2,9 +2,9 @@
 title: "Top 10! Blogs sobre VMware e Virtualização"
 slug: "top-10-blogs-sobre-vmware"
 date: 2014-11-14
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "dicas"
   - "virtualizacao"
   - "vmware"

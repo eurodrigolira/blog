@@ -2,10 +2,10 @@
 title: "Exames da Red Hat Online"
 slug: "exames-da-red-hat-online"
 date: 2020-05-17
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "certificacoes"
   - "ex200"
   - "ex280"

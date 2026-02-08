@@ -2,11 +2,11 @@
 title: "Hangout - pfSense com Captive Portal autenticando usuários via radius no Active Directory"
 slug: "hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory"
 date: 2014-10-02
-categories: 
+category: 
   - "bsd1"
   - "outros"
   - "windows"
-tags: 
+tag: 
   - "dicas"
   - "hangout"
   - "pfsense-2"

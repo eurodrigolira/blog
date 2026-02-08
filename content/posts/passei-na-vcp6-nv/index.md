@@ -2,10 +2,10 @@
 title: "Passei na VCP6-NV"
 slug: "passei-na-vcp6-nv"
 date: 2015-05-26
-categories: 
+category: 
   - "certificacoes"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacoes"
   - "network-virtualization"
   - "vcp"

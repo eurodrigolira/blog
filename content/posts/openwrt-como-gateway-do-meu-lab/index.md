@@ -2,10 +2,10 @@
 title: "TP-Link N600 com OpenWrt como gateway do meu Lab"
 slug: "openwrt-como-gateway-do-meu-lab"
 date: 2016-09-10
-categories: 
+category: 
   - "labs"
   - "linux"
-tags: 
+tag: 
   - "dhcp-server"
   - "dns-server"
   - "homelab"

@@ -2,9 +2,9 @@
 title: "Canal Oracle VM no Telegram"
 slug: "canal-oracle-vm-no-telegram"
 date: 2017-08-30
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "oracle-linux"
   - "oracle-vm"
   - "telegram"

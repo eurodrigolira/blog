@@ -2,9 +2,9 @@
 title: "RHCE 8 (EX294) – Aprovado :D"
 slug: "rhce-8-ex294-aprovado-d"
 date: 2021-10-13
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "ansible"
   - "certificacoes"
   - "linux"

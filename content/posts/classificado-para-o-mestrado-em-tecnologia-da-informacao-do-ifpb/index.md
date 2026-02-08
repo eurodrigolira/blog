@@ -2,9 +2,9 @@
 title: "Classificado para o Mestrado em Tecnologia da Informação do IFPB"
 slug: "classificado-para-o-mestrado-em-tecnologia-da-informacao-do-ifpb"
 date: 2021-12-26
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "ifpb"
   - "mestrado"
 ---

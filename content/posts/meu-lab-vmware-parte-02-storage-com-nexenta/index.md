@@ -2,11 +2,11 @@
 title: "Meu LAB VMware – Parte 02 (Storage com Nexenta)"
 slug: "meu-lab-vmware-parte-02-storage-com-nexenta"
 date: 2015-01-31
-categories: 
+category: 
   - "labs"
   - "storage"
   - "virtualizacao"
-tags: 
+tag: 
   - "nexenta"
   - "sddc"
   - "storage"

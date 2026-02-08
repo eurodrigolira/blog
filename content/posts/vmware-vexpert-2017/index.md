@@ -2,10 +2,10 @@
 title: "VMware vExpert 2017"
 slug: "vmware-vexpert-2017"
 date: 2017-02-09
-categories: 
+category: 
   - "outros"
   - "virtualizacao"
-tags: 
+tag: 
   - "vexpert"
   - "vexpert-2017"
   - "vmware"

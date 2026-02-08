@@ -2,9 +2,9 @@
 title: "Falta de profissionais de TI se agravará no Brasil, diz IDC"
 slug: "falta-de-profissionais-de-ti-se-agravara-no-brasil-diz-idc"
 date: 2013-03-21
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "noticias"
 ---
 

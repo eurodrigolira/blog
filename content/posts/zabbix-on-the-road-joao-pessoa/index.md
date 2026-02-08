@@ -2,11 +2,11 @@
 title: "Zabbix On The Road | João Pessoa"
 slug: "zabbix-on-the-road-joao-pessoa"
 date: 2019-07-12
-categories: 
+category: 
   - "devops"
   - "eventos"
   - "monitoramento"
-tags: 
+tag: 
   - "ansible"
   - "monitoramento"
   - "palestra"

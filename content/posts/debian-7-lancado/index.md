@@ -2,9 +2,9 @@
 title: "Debian 7 Lançado"
 slug: "debian-7-lancado"
 date: 2013-05-05
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "debian"
   - "linux"
   - "noticias"

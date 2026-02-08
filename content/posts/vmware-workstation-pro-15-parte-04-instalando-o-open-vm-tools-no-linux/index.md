@@ -2,10 +2,10 @@
 title: "VMware Workstation Pro 15 – Parte 04 (Instalando o Open VM Tools no Linux)"
 slug: "vmware-workstation-pro-15-parte-04-instalando-o-open-vm-tools-no-linux"
 date: 2019-02-01
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "open-vmware-tools"
   - "vmware"

@@ -2,9 +2,9 @@
 title: "Nexenta - Expert Mode Shell"
 slug: "nexenta-expert-mode-shell"
 date: 2016-07-21
-categories: 
+category: 
   - "storage"
-tags: 
+tag: 
   - "nexenta"
   - "storage"
 ---

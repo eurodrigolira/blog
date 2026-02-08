@@ -2,9 +2,9 @@
 title: "Placas de rede de baixo custo para o ESXi 8"
 slug: "placas-de-rede-de-baixo-custo-para-o-esxi-8"
 date: 2023-08-30
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "esxi-8"
   - "intel-l225-lm"

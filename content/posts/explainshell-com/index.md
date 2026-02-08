@@ -2,9 +2,9 @@
 title: "explainshell.com"
 slug: "explainshell-com"
 date: 2013-08-29
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "dicas"
   - "linux"
   - "shell"

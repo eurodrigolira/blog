@@ -2,9 +2,9 @@
 title: "Ebooks Microsoft para download"
 slug: "ebooks-microsoft-para-download"
 date: 2013-06-20
-categories: 
+category: 
   - "windows"
-tags: 
+tag: 
   - "livros"
   - "microsoft"
   - "windows"

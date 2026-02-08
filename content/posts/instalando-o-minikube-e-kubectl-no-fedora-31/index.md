@@ -2,10 +2,10 @@
 title: "Instalando o Minikube e Kubectl no Fedora 31"
 slug: "instalando-o-minikube-e-kubectl-no-fedora-31"
 date: 2019-11-05
-categories: 
+category: 
   - "devops"
   - "linux"
-tags: 
+tag: 
   - "devops"
   - "fedora"
   - "fedora-31"

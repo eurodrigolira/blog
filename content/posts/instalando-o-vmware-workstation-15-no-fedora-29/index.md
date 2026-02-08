@@ -2,10 +2,10 @@
 title: "Instalando o VMware Workstation 15 no Fedora 29"
 slug: "instalando-o-vmware-workstation-15-no-fedora-29"
 date: 2018-11-19
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "fedora"
   - "fedora-29"
   - "linux"

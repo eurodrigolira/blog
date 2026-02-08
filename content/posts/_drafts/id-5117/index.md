@@ -1,7 +1,7 @@
 ---
 title: "Oracle Linux Virtualization Manager – Parte 05 (Configurando as Interfaces de Rede)"
 slug: "oracle-linux-virtualization-manager-–-parte-05-(configurando-as-interfaces-de-rede)"
-categories: 
+category: 
   - "outros"
 draft: true
 ---

@@ -2,9 +2,9 @@
 title: "Instalando o GitLab Community Edition no CentOS 8 / Oracle Linux 8 / RHEL 8"
 slug: "instalando-o-gitlab-community-edition-no-centos-8-oracle-linux-8-rhel-8"
 date: 2020-04-27
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "centos-8"
   - "git"
   - "gitlab"

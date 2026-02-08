@@ -2,11 +2,11 @@
 title: "Lab Zentyal - Parte 1"
 slug: "lab-zentyal-parte-1"
 date: 2015-04-26
-categories: 
+category: 
   - "labs"
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "labs"
   - "linux"
   - "zentyal"

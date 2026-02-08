@@ -2,10 +2,10 @@
 title: "Material para prova da certificação VCP5-DCV"
 slug: "material-para-prova-vcp5-dcv"
 date: 2014-03-29
-categories: 
+category: 
   - "certificacoes"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacao"
   - "virtualizacao"
   - "vmware"

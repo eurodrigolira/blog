@@ -2,9 +2,9 @@
 title: "Livro Windows Server 2012"
 slug: "livro-windows-server-2012"
 date: 2013-04-16
-categories: 
+category: 
   - "windows"
-tags: 
+tag: 
   - "livros"
   - "microsoft"
   - "windows"

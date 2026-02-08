@@ -2,9 +2,9 @@
 title: "Desmistificando o Slackware Linux - Parte 01"
 slug: "desmistificando-o-slackware-linux-parte-01"
 date: 2018-04-18
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "linux"
   - "slackware"
   - "slackware-14-2"

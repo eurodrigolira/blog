@@ -2,10 +2,10 @@
 title: "Zabbix 7 no Slackware 15"
 slug: "zabbix-7-no-slackware-15"
 date: 2024-10-25
-categories: 
+category: 
   - "linux"
   - "monitoramento"
-tags: 
+tag: 
   - "apache"
   - "linux"
   - "mariadb"

@@ -2,9 +2,9 @@
 title: "Utilizando o YUM – Parte 02"
 slug: "utilizando-o-yum-parte-02"
 date: 2018-10-22
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "centos"
   - "linux"
   - "oracle-linux"

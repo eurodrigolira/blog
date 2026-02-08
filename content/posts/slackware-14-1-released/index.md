@@ -2,9 +2,9 @@
 title: "Slackware 14.1 released!"
 slug: "slackware-14-1-released"
 date: 2013-11-08
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "linux"
   - "noticias"
   - "slackware"

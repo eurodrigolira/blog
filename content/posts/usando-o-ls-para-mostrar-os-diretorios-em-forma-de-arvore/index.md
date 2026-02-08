@@ -2,9 +2,9 @@
 title: "Usando o ls para mostrar os diretórios em forma de arvore"
 slug: "usando-o-ls-para-mostrar-os-diretorios-em-forma-de-arvore"
 date: 2013-12-20
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "dicas"
   - "linux"
 ---

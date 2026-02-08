@@ -2,12 +2,12 @@
 title: "Lab VCP6-DCV – Parte 3"
 slug: "lab-vcp6-dcv-parte-3"
 date: 2015-04-18
-categories: 
+category: 
   - "certificacoes"
   - "labs"
   - "storage"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacoes"
   - "nexenta"
   - "storage"

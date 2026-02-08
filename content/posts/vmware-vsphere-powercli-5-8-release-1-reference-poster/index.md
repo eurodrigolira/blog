@@ -2,9 +2,9 @@
 title: "VMware vSphere PowerCLI 5.8 Release 1 Reference Poster"
 slug: "vmware-vsphere-powercli-5-8-release-1-reference-poster"
 date: 2014-10-30
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "dicas"
   - "vmware"
   - "vsphere"

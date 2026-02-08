@@ -2,9 +2,9 @@
 title: "Lab pfSense - Parte 01"
 slug: "lab-pfsense-parte-01"
 date: 2015-12-19
-categories: 
+category: 
   - "bsd1"
-tags: 
+tag: 
   - "bsd2"
   - "labs"
   - "openwrt"

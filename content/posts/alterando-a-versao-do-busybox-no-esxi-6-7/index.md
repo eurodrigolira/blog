@@ -2,10 +2,10 @@
 title: "Alterando a versão do BusyBox no ESXi 6.7"
 slug: "alterando-a-versao-do-busybox-no-esxi-6-7"
 date: 2018-07-19
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "busybox"
   - "esxi"
   - "esxi-6-5"

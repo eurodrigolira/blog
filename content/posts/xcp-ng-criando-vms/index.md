@@ -2,9 +2,9 @@
 title: "XCP-ng - Criando VMs"
 slug: "xcp-ng-criando-vms"
 date: 2021-10-18
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "virtualizacao"
   - "vms"

@@ -2,10 +2,10 @@
 title: "Configurando o Postfix para o usar o Gmail ou Outlook como Relay no CentOS 7/Red Hat 7/Oracle Linux 7"
 slug: "configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7-red-hat-7-oracle-linux-7"
 date: 2018-08-10
-categories: 
+category: 
   - "linux"
   - "scripts"
-tags: 
+tag: 
   - "centos-7"
   - "gmail"
   - "oracle-linux-7"

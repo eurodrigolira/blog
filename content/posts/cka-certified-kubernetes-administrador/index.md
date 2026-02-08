@@ -2,10 +2,10 @@
 title: "CKA - Certified Kubernetes Administrador"
 slug: "cka-certified-kubernetes-administrador"
 date: 2022-06-20
-categories: 
+category: 
   - "certificacoes"
   - "devops"
-tags: 
+tag: 
   - "certificacao"
   - "cka"
   - "k8s"

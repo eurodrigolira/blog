@@ -2,9 +2,9 @@
 title: "Instalação de drivers wireless Broadcom no CentOS 7/Red Hat 7"
 slug: "instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7"
 date: 2018-07-05
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "broadcom"
   - "centos"
   - "centos-7"

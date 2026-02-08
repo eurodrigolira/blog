@@ -2,10 +2,10 @@
 title: "Instalando o Zabbix 4.4 no CentOS 8 sem desabilitar o SELinux"
 slug: "instalando-o-zabbix-4-4-no-centos-8-sem-desabilitar-o-selinux"
 date: 2019-10-28
-categories: 
+category: 
   - "linux"
   - "monitoramento"
-tags: 
+tag: 
   - "httpd"
   - "mariadb"
   - "monitoramento"

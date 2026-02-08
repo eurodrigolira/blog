@@ -2,10 +2,10 @@
 title: "Deploy vCenter Server 6.5 - Error: ovftool is not available"
 slug: "deploy-vcenter-server-6-5-error-ovftool-is-not-available"
 date: 2016-11-22
-categories: 
+category: 
   - "labs"
   - "virtualizacao"
-tags: 
+tag: 
   - "vcenter-server"
   - "vcenter-server-6-5"
   - "vmware-vsphere"

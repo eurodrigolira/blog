@@ -2,9 +2,9 @@
 title: "Agregação de Interfaces no CentOS 6/Red Hat 6/Oracle Linux 6 e derivados"
 slug: "agregacao-de-interfaces-no-centos-6-red-hat-6-oracle-linux-6-e-derivados"
 date: 2018-07-02
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "bond"
   - "centos-6"
   - "lacp"

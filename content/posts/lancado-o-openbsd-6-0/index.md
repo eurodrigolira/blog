@@ -2,9 +2,9 @@
 title: "Lançado o OpenBSD 6.0"
 slug: "lancado-o-openbsd-6-0"
 date: 2016-09-01
-categories: 
+category: 
   - "bsd1"
-tags: 
+tag: 
   - "openbsd"
   - "openbsd-6-0"
 ---

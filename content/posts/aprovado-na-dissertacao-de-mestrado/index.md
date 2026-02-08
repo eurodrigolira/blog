@@ -2,9 +2,9 @@
 title: "Aprovado na Dissertação de Mestrado"
 slug: "aprovado-na-dissertacao-de-mestrado"
 date: 2024-12-19
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "dissertacao"
   - "ifpb"
   - "mestrado"

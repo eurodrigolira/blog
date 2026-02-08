@@ -2,11 +2,11 @@
 title: "Oracle VM Server - P2V / V2V"
 slug: "oracle-vm-server-p2v-v2v"
 date: 2016-12-06
-categories: 
+category: 
   - "labs"
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "homelab"
   - "labs"
   - "oracle"

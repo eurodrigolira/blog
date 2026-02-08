@@ -2,9 +2,9 @@
 title: "Atualização do ESXi via CLI"
 slug: "atualizacao-do-esxi-via-cli"
 date: 2018-05-08
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "update"
   - "upgrade"

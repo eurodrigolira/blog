@@ -2,10 +2,10 @@
 title: "Brasília terá reunião do VMUG"
 slug: "brasilia-tera-reuniao-do-vmug"
 date: 2017-08-03
-categories: 
+category: 
   - "outros"
   - "virtualizacao"
-tags: 
+tag: 
   - "vmug"
   - "vmware"
 ---

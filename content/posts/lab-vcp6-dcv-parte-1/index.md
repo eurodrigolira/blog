@@ -2,11 +2,11 @@
 title: "Lab VCP6-DCV - Parte 1"
 slug: "lab-vcp6-dcv-parte-1"
 date: 2015-04-05
-categories: 
+category: 
   - "certificacoes"
   - "labs"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacoes"
   - "lab"
   - "vcp6-dcv"

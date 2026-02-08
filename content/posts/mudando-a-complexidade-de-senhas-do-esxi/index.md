@@ -2,10 +2,10 @@
 title: "Mudando a complexidade de senhas do ESXi"
 slug: "mudando-a-complexidade-de-senhas-do-esxi"
 date: 2018-04-28
-categories: 
+category: 
   - "seguranca"
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "password"
   - "seguranca"

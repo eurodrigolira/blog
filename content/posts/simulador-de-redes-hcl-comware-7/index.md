@@ -2,9 +2,9 @@
 title: "Simulador de redes HCL (Comware 7)"
 slug: "simulador-de-redes-hcl-comware-7"
 date: 2018-05-10
-categories: 
+category: 
   - "redes"
-tags: 
+tag: 
   - "3com"
   - "comware"
   - "comware-7"

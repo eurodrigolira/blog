@@ -2,10 +2,10 @@
 title: "Instalação do Docker no Oracle Linux 7"
 slug: "instalacao-do-docker-no-oracle-linux-7"
 date: 2017-04-26
-categories: 
+category: 
   - "devops"
   - "linux"
-tags: 
+tag: 
   - "docker"
   - "linux"
   - "oracle"

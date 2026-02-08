@@ -2,10 +2,10 @@
 title: "Instalando o Oracle VM Guest Additions no Oracle Linux 6"
 slug: "instalando-o-oracle-vm-guest-additions-no-oracle-linux-6"
 date: 2019-01-02
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "oracle"
   - "oracle-linux-6"

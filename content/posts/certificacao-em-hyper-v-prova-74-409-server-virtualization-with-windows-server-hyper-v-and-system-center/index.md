@@ -2,10 +2,10 @@
 title: "Certificação em Hyper-V (Prova 74-409 - Server Virtualization with Windows Server Hyper-V and System Center)"
 slug: "certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center"
 date: 2014-04-02
-categories: 
+category: 
   - "certificacoes"
   - "windows"
-tags: 
+tag: 
   - "certificacao"
   - "destaques"
   - "hyper-v"

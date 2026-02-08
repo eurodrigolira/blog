@@ -2,9 +2,9 @@
 title: "Manual Wireshark em Português"
 slug: "manual-wireshark-em-portugues"
 date: 2013-03-01
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "dicas"
   - "livros"
   - "manual"

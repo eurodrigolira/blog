@@ -2,10 +2,10 @@
 title: "Renovação VCP6-DCV"
 slug: "renovacao-vcp6-dcv"
 date: 2017-09-23
-categories: 
+category: 
   - "certificacoes"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacoes"
   - "vcp6"
   - "vcp6-dcv"

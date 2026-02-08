@@ -2,10 +2,10 @@
 title: "Oracle Linux Virtualization Manager – Parte 04 (Adicionando um Host KVM)"
 slug: "oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm"
 date: 2019-09-16
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "oracle"
   - "oracle-linux"
   - "oracle-linux-virtualization-manager"

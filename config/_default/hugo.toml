@@ -21,8 +21,8 @@ enableEmoji = true
   anchor = 'Center'
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+  tag = "tag"
+  category = "category"
   author = "authors"
   series = "series"
 

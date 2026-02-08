@@ -2,10 +2,10 @@
 title: "Conhecendo o exame Red Hat Certified Engineer (EX300)"
 slug: "conhecendo-o-exame-red-hat-certified-engineer-ex300"
 date: 2018-11-05
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "certificaca"
   - "linux"
   - "red-hat"

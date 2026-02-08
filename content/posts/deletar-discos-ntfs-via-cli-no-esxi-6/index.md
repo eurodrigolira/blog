@@ -2,9 +2,9 @@
 title: "Deletar discos NTFS via CLI no ESXi 6"
 slug: "deletar-discos-ntfs-via-cli-no-esxi-6"
 date: 2016-08-28
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "partedutil"
   - "vmware"
   - "vmware-vsphere"

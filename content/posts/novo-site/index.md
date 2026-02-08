@@ -2,9 +2,9 @@
 title: "Novo site!"
 slug: "novo-site"
 date: 2012-12-27
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "noticias"
 ---
 

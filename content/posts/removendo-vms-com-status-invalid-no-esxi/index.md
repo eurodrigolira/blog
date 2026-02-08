@@ -2,9 +2,9 @@
 title: "Removendo VMs com status Invalid no ESXi"
 slug: "removendo-vms-com-status-invalid-no-esxi"
 date: 2022-08-01
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "ssh"
   - "virtualizacao"

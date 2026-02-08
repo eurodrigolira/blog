@@ -2,11 +2,11 @@
 title: "VMware Certified Professional – VMware Cloud (Gratuita)"
 slug: "vmware-certified-professional-vmware-cloud-gratuita"
 date: 2022-12-11
-categories: 
+category: 
   - "certificacoes"
   - "cloud"
   - "virtualizacao"
-tags: 
+tag: 
   - "certificacao"
   - "cloud"
   - "nuvem"

@@ -2,10 +2,10 @@
 title: "VMware Workstation 11 - Parte 1 (Instalação no Slackware 14.1)"
 slug: "vmware-workstation-11-parte-1-instalacao-no-slackware-14-1"
 date: 2015-06-02
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "slackware"
   - "vmware"

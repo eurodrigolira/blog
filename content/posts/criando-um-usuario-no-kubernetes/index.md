@@ -2,10 +2,10 @@
 title: "Criando um usuário no Kubernetes"
 slug: "criando-um-usuario-no-kubernetes"
 date: 2023-02-06
-categories: 
+category: 
   - "devops"
   - "kubernetes"
-tags: 
+tag: 
   - "devops"
   - "kubeconfig"
   - "kubernetes"

@@ -2,9 +2,9 @@
 title: "Lançada edição n.43 da Revista Espírito Livre"
 slug: "lancada-edicao-n-43-da-revista-espirito-livre"
 date: 2013-03-24
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "noticias"
   - "software-livre"
 ---

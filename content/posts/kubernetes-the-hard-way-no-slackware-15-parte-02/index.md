@@ -2,10 +2,10 @@
 title: "Kubernetes The Hard Way no Slackware 15 – Parte 02"
 slug: "kubernetes-the-hard-way-no-slackware-15-parte-02"
 date: 2023-09-24
-categories: 
+category: 
   - "kubernetes"
   - "linux"
-tags: 
+tag: 
   - "cfssl"
   - "cfssljson"
   - "kubectl"

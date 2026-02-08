@@ -2,10 +2,10 @@
 title: "Hardening Red Hat/CentOS 7 – Parte 02 (Controlando o acesso por SSH)"
 slug: "hardening-red-hat-centos-7-parte-02-controlando-o-acesso-por-ssh"
 date: 2018-02-05
-categories: 
+category: 
   - "linux"
   - "seguranca"
-tags: 
+tag: 
   - "centos-7"
   - "hardening"
   - "linux"

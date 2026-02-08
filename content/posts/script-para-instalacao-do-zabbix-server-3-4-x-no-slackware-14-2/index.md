@@ -2,11 +2,11 @@
 title: "Script para instalação do Zabbix Server 3.4.X no Slackware 14.2"
 slug: "script-para-instalacao-do-zabbix-server-3-4-x-no-slackware-14-2"
 date: 2018-09-11
-categories: 
+category: 
   - "linux"
   - "monitoramento"
   - "scripts"
-tags: 
+tag: 
   - "linux"
   - "scripts"
   - "slackware"

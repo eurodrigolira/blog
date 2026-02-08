@@ -2,9 +2,9 @@
 title: "iproute2 - Parte 3"
 slug: "iproute2-parte-3"
 date: 2018-01-26
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "dummy"
   - "iproute2"
   - "linux"

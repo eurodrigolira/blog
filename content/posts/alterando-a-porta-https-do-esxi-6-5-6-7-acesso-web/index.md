@@ -2,9 +2,9 @@
 title: "Alterando a porta HTTPS do ESXi 6.5/6.7 (Acesso Web)"
 slug: "alterando-a-porta-https-do-esxi-6-5-6-7-acesso-web"
 date: 2018-07-18
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "esxi-6-5"
   - "esxi-6-7"

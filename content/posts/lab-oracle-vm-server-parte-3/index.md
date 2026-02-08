@@ -2,11 +2,11 @@
 title: "Lab Oracle VM Server – Parte 3"
 slug: "lab-oracle-vm-server-parte-3"
 date: 2016-06-22
-categories: 
+category: 
   - "labs"
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "labs"
   - "oracle-linux"
   - "oracle-vm-manager"

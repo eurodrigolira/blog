@@ -2,10 +2,10 @@
 title: "Exame RHCE - Aprovado :D"
 slug: "exame-rhce-aprovado-d"
 date: 2019-02-18
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "certificacao"
   - "linux"
   - "red-hat"

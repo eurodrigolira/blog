@@ -2,9 +2,9 @@
 title: "Pocket Book Microsoft Windows Server 2012 - Grátis"
 slug: "pocket-book-microsoft-windows-server-2012-gratis"
 date: 2013-05-21
-categories: 
+category: 
   - "windows"
-tags: 
+tag: 
   - "livros"
   - "microsoft"
   - "windows"

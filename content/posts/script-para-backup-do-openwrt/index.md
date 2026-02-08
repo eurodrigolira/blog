@@ -2,10 +2,10 @@
 title: "Script para backup do OpenWrt"
 slug: "script-para-backup-do-openwrt"
 date: 2015-12-23
-categories: 
+category: 
   - "linux"
   - "scripts"
-tags: 
+tag: 
   - "backup"
   - "linux"
   - "openwrt"

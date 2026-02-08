@@ -2,9 +2,9 @@
 title: "Resolvendo problema na inicialização do Teamviewer 8 no Slackware"
 slug: "resolvendo-problema-na-inicializacao-do-teamviewer-8-no-slackware"
 date: 2013-08-18
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "dicas"
   - "linux"
   - "slackware"

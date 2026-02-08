@@ -2,9 +2,9 @@
 title: "Curso de IPv6"
 slug: "curso-de-ipv6"
 date: 2013-01-09
-categories: 
+category: 
   - "outros"
-tags: 
+tag: 
   - "cursos"
   - "ipv6"
 ---

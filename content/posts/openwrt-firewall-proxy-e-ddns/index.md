@@ -2,9 +2,9 @@
 title: "OpenWRT - Firewall, Proxy e DDNS"
 slug: "openwrt-firewall-proxy-e-ddns"
 date: 2015-06-21
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "ddns"
   - "firewall"
   - "linux"

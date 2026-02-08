@@ -2,10 +2,10 @@
 title: "Webcast: Certificação Microsoft - Visão Geral"
 slug: "webcast-certificacao-microsoft-visao-geral"
 date: 2013-03-22
-categories: 
+category: 
   - "certificacoes"
   - "windows"
-tags: 
+tag: 
   - "dicas"
   - "microsoft"
   - "videos"

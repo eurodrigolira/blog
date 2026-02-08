@@ -2,10 +2,10 @@
 title: "Anunciado Oracle VM 3.4.4"
 slug: "anunciado-oracle-vm-3-4-4"
 date: 2017-08-26
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "oracle-vm"
   - "oracle-vm-manager"
   - "oracle-vm-server"

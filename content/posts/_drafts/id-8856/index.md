@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes The Hard Way no Slackware 15 – Parte 07"
 slug: "kubernetes-the-hard-way-no-slackware-15-–-parte-07"
-categories: 
+category: 
   - "outros"
 draft: true
 ---

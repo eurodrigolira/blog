@@ -2,10 +2,10 @@
 title: "Criar o menu do KDE Fedora Remix na barra de tarefa do Windows"
 slug: "criar-o-menu-do-kde-fedora-remix-na-barra-de-tarefa-do-windows"
 date: 2020-07-06
-categories: 
+category: 
   - "linux"
   - "windows"
-tags: 
+tag: 
   - "kde"
   - "linux"
   - "windows"

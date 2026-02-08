@@ -2,11 +2,11 @@
 title: "Instalando o Grafana 5 no Slackware 14.2"
 slug: "instalando-o-grafana-5-no-slackware-14-2"
 date: 2018-05-28
-categories: 
+category: 
   - "linux"
   - "monitoramento"
   - "scripts"
-tags: 
+tag: 
   - "grafana"
   - "linux"
   - "slackware"

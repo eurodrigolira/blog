@@ -2,10 +2,10 @@
 title: "Zabbix 5.0 Released"
 slug: "zabbix-5-0-released"
 date: 2020-05-12
-categories: 
+category: 
   - "monitoramento"
   - "redes"
-tags: 
+tag: 
   - "monitoramento"
   - "zabbix"
   - "zabbix-5-0"

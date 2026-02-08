@@ -2,10 +2,10 @@
 title: "XCP-ng – Redes"
 slug: "xcp-ng-redes"
 date: 2021-05-06
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "redes"
   - "virtualizacao"

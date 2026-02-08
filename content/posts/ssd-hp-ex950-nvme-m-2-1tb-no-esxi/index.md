@@ -2,9 +2,9 @@
 title: "SSD HP EX950 NVMe M.2 1TB no ESXi"
 slug: "ssd-hp-ex950-nvme-m-2-1tb-no-esxi"
 date: 2021-02-09
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "esxi"
   - "esxi-6-7"
   - "esxi-7-0-1"

@@ -2,10 +2,10 @@
 title: "Oracle VM Server – Backup (VMs) – Parte 02"
 slug: "oracle-vm-server-backup-vms-parte-02"
 date: 2018-07-09
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "backup"
   - "linux"
   - "oracle"

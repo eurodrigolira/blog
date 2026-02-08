@@ -2,9 +2,9 @@
 title: "Ansible - Import vs Include"
 slug: "ansible-import-vs-include"
 date: 2024-03-06
-categories: 
+category: 
   - "devops"
-tags: 
+tag: 
   - "ansible"
   - "devops"
   - "iac"

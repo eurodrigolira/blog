@@ -2,10 +2,10 @@
 title: "Fim do suporte ao Oracle VM Server"
 slug: "fim-do-suporte-ao-oracle-vm-server"
 date: 2020-01-08
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "oracle"
   - "oracle-linux-virtualization-manager"
   - "oracle-vm-server"

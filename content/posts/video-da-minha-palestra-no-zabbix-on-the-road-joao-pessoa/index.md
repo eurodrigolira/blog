@@ -2,11 +2,11 @@
 title: "Vídeo da minha palestra no Zabbix On The Road | João Pessoa"
 slug: "video-da-minha-palestra-no-zabbix-on-the-road-joao-pessoa"
 date: 2019-08-07
-categories: 
+category: 
   - "devops"
   - "eventos"
   - "monitoramento"
-tags: 
+tag: 
   - "ansible"
   - "devops"
   - "eventos"

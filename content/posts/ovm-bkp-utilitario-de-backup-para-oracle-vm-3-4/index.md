@@ -2,9 +2,9 @@
 title: "ovm-bkp - Utilitário de Backup para Oracle VM 3.4"
 slug: "ovm-bkp-utilitario-de-backup-para-oracle-vm-3-4"
 date: 2018-02-16
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "backup"
   - "oracle"
   - "oracle-vm"

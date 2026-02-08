@@ -2,10 +2,10 @@
 title: "Oracle VM Server - Criar uma VM via CLI"
 slug: "oracle-vm-server-criar-uma-vm-via-cli"
 date: 2017-03-08
-categories: 
+category: 
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "linux"
   - "oracle"
   - "oracle-linux"

@@ -2,9 +2,9 @@
 title: "JampaSec"
 slug: "jampasec"
 date: 2015-09-29
-categories: 
+category: 
   - "seguranca"
-tags: 
+tag: 
   - "jampasec"
   - "jampasec-2015"
   - "seguranca"

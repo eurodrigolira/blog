@@ -2,10 +2,10 @@
 title: "Bloqueando dispositivos USB no Linux com USBGuard"
 slug: "bloqueando-dispositivos-usb-no-linux-com-usbguard"
 date: 2020-12-28
-categories: 
+category: 
   - "linux"
   - "seguranca"
-tags: 
+tag: 
   - "centos"
   - "fedora"
   - "linux"

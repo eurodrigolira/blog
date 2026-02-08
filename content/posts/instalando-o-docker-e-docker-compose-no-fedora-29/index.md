@@ -2,10 +2,10 @@
 title: "Instalando o Docker e Docker Compose no Fedora 29"
 slug: "instalando-o-docker-e-docker-compose-no-fedora-29"
 date: 2018-11-21
-categories: 
+category: 
   - "devops"
   - "linux"
-tags: 
+tag: 
   - "docker"
   - "docker-compose"
   - "fedora"

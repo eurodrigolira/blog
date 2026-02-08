@@ -2,11 +2,11 @@
 title: "Reprovado no exame Red Hat Certified Specialist in Ansible Automation (EX407)"
 slug: "reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407"
 date: 2020-02-10
-categories: 
+category: 
   - "certificacoes"
   - "devops"
   - "linux"
-tags: 
+tag: 
   - "ansible"
   - "certificacao"
   - "devops"

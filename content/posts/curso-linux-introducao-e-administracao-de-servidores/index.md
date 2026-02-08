@@ -2,9 +2,9 @@
 title: "Curso - Linux Introdução e Administração de Servidores"
 slug: "curso-linux-introducao-e-administracao-de-servidores"
 date: 2015-01-30
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "curso"
   - "cursos"
   - "linux"

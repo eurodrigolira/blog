@@ -2,10 +2,10 @@
 title: "LPIC-3 Enterprise Virtualization and Containerization (Exam 305 - Beta)"
 slug: "lpic-3-enterprise-virtualization-and-containerization-exam-305-beta"
 date: 2021-05-29
-categories: 
+category: 
   - "certificacoes"
   - "linux"
-tags: 
+tag: 
   - "beta"
   - "certificacao"
   - "certification"

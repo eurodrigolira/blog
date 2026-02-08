@@ -2,9 +2,9 @@
 title: "Oracle VM Server – Error creating clusterHeartbeatDevice ( /dev/mapper/*** already in a cluster)"
 slug: "oracle-vm-server-error-creating-clusterheartbeatdevice-dev-mapper-already-in-a-cluster"
 date: 2019-02-28
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "dev-mapper-already-in-a-cluster"
   - "error-creating-clusterheartbeatdevice"
   - "oracle-vm-server"

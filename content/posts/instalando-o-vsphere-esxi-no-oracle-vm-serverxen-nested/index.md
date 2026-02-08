@@ -2,11 +2,11 @@
 title: "Instalando o vSphere ESXi no Oracle VM Server/Xen (Nested)"
 slug: "instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested"
 date: 2016-10-06
-categories: 
+category: 
   - "labs"
   - "linux"
   - "virtualizacao"
-tags: 
+tag: 
   - "labs"
   - "oracle-vm-manager"
   - "oracle-vm-server"

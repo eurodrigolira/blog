@@ -2,9 +2,9 @@
 title: "Slackware 15.0 release candidate"
 slug: "slackware-15-0-release-candidate"
 date: 2021-08-16
-categories: 
+category: 
   - "linux"
-tags: 
+tag: 
   - "linux"
   - "slackware"
   - "slackwre-15"

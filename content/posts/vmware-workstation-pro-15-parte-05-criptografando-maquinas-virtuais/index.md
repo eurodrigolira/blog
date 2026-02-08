@@ -2,9 +2,9 @@
 title: "VMware Workstation Pro 15 – Parte 05 (Criptografando Máquinas Virtuais)"
 slug: "vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais"
 date: 2019-03-15
-categories: 
+category: 
   - "virtualizacao"
-tags: 
+tag: 
   - "criptografia"
   - "seguranca"
   - "vmware"
