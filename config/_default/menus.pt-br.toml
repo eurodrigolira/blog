@@ -1,6 +1,6 @@
-[[main]]
-none = "none"
-
+#[[main]]
+#none = "none"
+#
 [[main]]
 name = "ÍNICIO"
 pageRef = "/"
@@ -27,17 +27,17 @@ weight = 40
 
 [[main]]
 name = "CATEGORIAS"
-pageRef = "/categories"
+pageRef = "/category"
 identifier = "XLK78KBSzH"
 weight = 50
 
 [[footer]]
   name = "TAGS"
-  pageRef = "tags"
+  pageRef = "tag"
   weight = 10
 
 [[footer]]
   name = "CATEGORIAS"
-  pageRef = "categories"
+  pageRef = "category"
   weight = 20
 
