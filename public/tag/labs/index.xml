@@ -172,16 +172,6 @@
     </item>
     
     <item>
-      <title>Lab pfSense - Parte 01</title>
-      <link>http://localhost:1313/lab-pfsense-parte-01/</link>
-      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/lab-pfsense-parte-01/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou dando inicio a uma nova serie de vídeos, desta vez sobre o pfSense.&lt;/p&gt;&#xA;&lt;p&gt;Ultimamente tenho recebido diversos contatos referente a um vídeo que publiquei sobre a integração do pfSense com captive portal autenticando usuários via RADIUS no Windows Server (&lt;a href=&#34;http://rodrigolira.eti.br/1260/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://rodrigolira.eti.br/1260/&lt;/a&gt;), problemas diversos, desde firewall até configuração errada das politicas no Windows.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Lab VCP6-DCV – Parte 6</title>
       <link>http://localhost:1313/lab-vcp6-dcv-parte-6/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>

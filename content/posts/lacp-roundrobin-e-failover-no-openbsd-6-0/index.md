@@ -3,13 +3,12 @@ title: "LACP, Roundrobin e Failover no OpenBSD 6.0"
 slug: "lacp-roundrobin-e-failover-no-openbsd-6-0"
 date: 2016-10-20
 category: 
-  - "bsd1"
+  - "bsd"
 tag: 
   - "failover"
   - "lacp"
   - "link-aggregation"
   - "openbsd"
-  - "openbsd-6-0"
   - "trunk"
 ---
 

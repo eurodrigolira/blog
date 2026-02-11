@@ -3,12 +3,11 @@ title: "Lançado o OpenBSD 6.2"
 slug: "lancado-o-openbsd-6-2"
 date: 2017-10-10
 category: 
-  - "bsd1"
+  - "bsd"
 tag: 
-  - "bsd2"
-  - "openbsd-6-2"
+  - "openbsd"
   - "pf"
-  - "pf-firewall"
+  - "firewall"
 ---
 
 Salve Salve Pessoal!

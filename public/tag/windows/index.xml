@@ -52,22 +52,12 @@
     </item>
     
     <item>
-      <title>Vídeo pfSense com Captive Portal autenticando usuários via radius no Active Directory</title>
-      <link>http://localhost:1313/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</link>
-      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      <title>Lab pfSense - Parte 01</title>
+      <link>http://localhost:1313/lab-pfsense-parte-01/</link>
+      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;hangout&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 800w, http://localhost:1313/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo o vídeo sobre a aula que eu dei sobre pfSense com Captive Portal autenticando usuários via radius no Active Directory, espero que gostem e participem dos próximos.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Hangout - pfSense com Captive Portal autenticando usuários via radius no Active Directory</title>
-      <link>http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</link>
-      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;hangout&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 800w, http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Seguinte, eu tava pensando em fazer uma vídeo aula mostrando como configurar o Captive Portal do pfSense para autenticar os usuários do Active Directory via Radius.&lt;/p&gt;&#xA;&lt;p&gt;Dai me veio a ideia de fazer um hangout, dessa forma a coisa pode ser ao vivo e vocês podem fazer perguntas, tirar dúvidas e etc.&lt;/p&gt;&#xA;&lt;p&gt;Será uma boa experiência para mim que pretendo realizar outros vídeos ou até mesmo hangouts, vai que da certo :)&lt;/p&gt;&#xA;&lt;p&gt;Neste hangout não vou mostrar como instalar os Sistemas Operacionais, na internet já existe diversos vídeos mostrando como fazer.&lt;/p&gt;&#xA;&lt;p&gt;Porém vou mostrar todos os passos de como habilitar ou instalar os serviços tanto no Windows quanto no pfSense.&lt;/p&gt;&#xA;&lt;p&gt;A imagem abaixo exemplifica um pouco o que vamos fazer:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/lab-pfsense-parte-01/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou dando inicio a uma nova serie de vídeos, desta vez sobre o pfSense.&lt;/p&gt;&#xA;&lt;p&gt;Ultimamente tenho recebido diversos contatos referente a um vídeo que publiquei sobre a integração do pfSense com captive portal autenticando usuários via RADIUS no Windows Server (&lt;a href=&#34;http://rodrigolira.eti.br/1260/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://rodrigolira.eti.br/1260/&lt;/a&gt;), problemas diversos, desde firewall até configuração errada das politicas no Windows.&lt;/p&gt;</description>
       
     </item>
     

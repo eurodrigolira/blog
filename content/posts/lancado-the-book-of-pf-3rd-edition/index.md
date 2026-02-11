@@ -3,12 +3,13 @@ title: "Lançado The Book of PF, 3rd Edition"
 slug: "lancado-the-book-of-pf-3rd-edition"
 date: 2014-10-02
 category: 
-  - "bsd1"
+  - "bsd"
 tag: 
-  - "dicas"
   - "livros"
   - "openbsd"
+  - "freebsd"
   - "pf"
+  - "firewall"
 ---
 
 [![pf](images/pf.png)](http://rodrigolira.eti.br/wp-content/uploads/2014/10/pf.png)Dica rápida!

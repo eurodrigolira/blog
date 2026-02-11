@@ -3,11 +3,9 @@ title: "FreeBSD 11.0 Release"
 slug: "freebsd-11-0-release"
 date: 2016-10-11
 category: 
-  - "bsd1"
+  - "bsd"
 tag: 
-  - "bsd2"
   - "freebsd"
-  - "freebsd-11"
 ---
 
 Salve Salve Pessoal!

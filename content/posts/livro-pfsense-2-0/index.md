@@ -3,12 +3,11 @@ title: "Livro PfSense 2.0"
 slug: "livro-pfsense-2-0"
 date: 2013-03-01
 category: 
-  - "bsd1"
+  - "bsd"
 tag: 
-  - "dicas"
-  - "linux"
-  - "linux-pfsense"
+  - "pfsense"
   - "livros"
+  - "freebsd"
 ---
 
 Salve Salve Galera!

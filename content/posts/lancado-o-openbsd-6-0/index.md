@@ -3,10 +3,9 @@ title: "Lançado o OpenBSD 6.0"
 slug: "lancado-o-openbsd-6-0"
 date: 2016-09-01
 category: 
-  - "bsd1"
+  - "bsd"
 tag: 
   - "openbsd"
-  - "openbsd-6-0"
 ---
 
 [![openbsd6](images/openbsd6.jpg)](http://rodrigolira.eti.br/wp-content/uploads/2016/09/openbsd6.jpg)

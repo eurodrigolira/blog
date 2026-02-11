@@ -3362,21 +3362,11 @@
     </item>
     
     <item>
-      <title>Bsd2</title>
-      <link>http://localhost:1313/tag/bsd2/</link>
+      <title>Openbsd</title>
+      <link>http://localhost:1313/tag/openbsd/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/bsd2/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Openbsd-6-2</title>
-      <link>http://localhost:1313/tag/openbsd-6-2/</link>
-      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/openbsd-6-2/</guid>
+      <guid>http://localhost:1313/tag/openbsd/</guid>
       <description></description>
       
     </item>
@@ -3387,16 +3377,6 @@
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/pf/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pf-Firewall</title>
-      <link>http://localhost:1313/tag/pf-firewall/</link>
-      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/pf-firewall/</guid>
       <description></description>
       
     </item>
@@ -3672,26 +3652,6 @@
     </item>
     
     <item>
-      <title>Openbsd</title>
-      <link>http://localhost:1313/tag/openbsd/</link>
-      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/openbsd/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Openbsd-6-0</title>
-      <link>http://localhost:1313/tag/openbsd-6-0/</link>
-      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/openbsd-6-0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Trunk</title>
       <link>http://localhost:1313/tag/trunk/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
@@ -3732,11 +3692,11 @@
     </item>
     
     <item>
-      <title>Freebsd-11</title>
-      <link>http://localhost:1313/tag/freebsd-11/</link>
-      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      <title>Openbsd-6-0</title>
+      <link>http://localhost:1313/tag/openbsd-6-0/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/freebsd-11/</guid>
+      <guid>http://localhost:1313/tag/openbsd-6-0/</guid>
       <description></description>
       
     </item>
@@ -3822,21 +3782,11 @@
     </item>
     
     <item>
-      <title>Pfsense-2</title>
-      <link>http://localhost:1313/tag/pfsense-2/</link>
+      <title>Pfsense</title>
+      <link>http://localhost:1313/tag/pfsense/</link>
       <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/pfsense-2/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Windows-Server</title>
-      <link>http://localhost:1313/tag/windows-server/</link>
-      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/windows-server/</guid>
+      <guid>http://localhost:1313/tag/pfsense/</guid>
       <description></description>
       
     </item>
@@ -4112,16 +4062,6 @@
     </item>
     
     <item>
-      <title>Openbsd-5-6</title>
-      <link>http://localhost:1313/tag/openbsd-5-6/</link>
-      <pubDate>Wed, 05 Nov 2014 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/openbsd-5-6/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Warning-Error_log-Has-Been-Disabled-for-Security-Reasons-in-Homerodrigo3public_htmlwp-Includeswp-Db-Php-on-Line-1233</title>
       <link>http://localhost:1313/tag/warning-error_log-has-been-disabled-for-security-reasons-in-homerodrigo3public_htmlwp-includeswp-db-php-on-line-1233/</link>
       <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
@@ -4132,21 +4072,21 @@
     </item>
     
     <item>
-      <title>Hangout</title>
-      <link>http://localhost:1313/tag/hangout/</link>
-      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      <title>Captive-Portal</title>
+      <link>http://localhost:1313/tag/captive-portal/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/hangout/</guid>
+      <guid>http://localhost:1313/tag/captive-portal/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Video-Aulas</title>
-      <link>http://localhost:1313/tag/video-aulas/</link>
+      <title>Radius</title>
+      <link>http://localhost:1313/tag/radius/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/video-aulas/</guid>
+      <guid>http://localhost:1313/tag/radius/</guid>
       <description></description>
       
     </item>
@@ -4187,16 +4127,6 @@
       <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/microsoft/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Openbsd-5-5</title>
-      <link>http://localhost:1313/tag/openbsd-5-5/</link>
-      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/openbsd-5-5/</guid>
       <description></description>
       
     </item>
@@ -4332,11 +4262,11 @@
     </item>
     
     <item>
-      <title>Linux-Pfsense</title>
-      <link>http://localhost:1313/tag/linux-pfsense/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <title>Video-Aulas</title>
+      <link>http://localhost:1313/tag/video-aulas/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/linux-pfsense/</guid>
+      <guid>http://localhost:1313/tag/video-aulas/</guid>
       <description></description>
       
     </item>

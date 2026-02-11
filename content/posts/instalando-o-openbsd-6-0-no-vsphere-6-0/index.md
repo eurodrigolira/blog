@@ -3,15 +3,12 @@ title: "Instalando o OpenBSD 6.0 no vSphere 6.0"
 slug: "instalando-o-openbsd-6-0-no-vsphere-6-0"
 date: 2016-10-10
 category: 
-  - "bsd1"
+  - "bsd"
   - "labs"
   - "virtualizacao"
 tag: 
-  - "labs"
   - "openbsd"
-  - "openbsd-6-0"
   - "vmware"
-  - "vmware-vsphere"
   - "vsphere"
 ---
 

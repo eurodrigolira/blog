@@ -3,13 +3,12 @@ title: "Lab pfSense - Parte 01"
 slug: "lab-pfsense-parte-01"
 date: 2015-12-19
 category: 
-  - "bsd1"
-tag: 
-  - "bsd2"
+  - "bsd"
   - "labs"
+tag: 
   - "openwrt"
-  - "pfsense-2"
-  - "windows-server"
+  - "pfsense"
+  - "windows"
 ---
 
 Salve Salve Pessoal!

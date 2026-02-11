@@ -3,14 +3,12 @@ title: "Vídeo pfSense com Captive Portal autenticando usuários via radius no A
 slug: "video-pfSense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory"
 date: 2014-10-05
 category: 
-  - "bsd1"
+  - "bsd"
   - "windows"
 tag: 
   - "dicas"
-  - "hangout"
-  - "pfsense-2"
+  - "pfsense"
   - "videos"
-  - "windows"
 ---
 
 [![hangout](images/hangout.jpg)](http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg)Salve Salve Pessoal!

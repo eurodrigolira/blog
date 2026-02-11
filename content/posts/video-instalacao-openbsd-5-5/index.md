@@ -3,10 +3,9 @@ title: "Vídeo Instalação OpenBSD 5.5"
 slug: "video-instalacao-openbsd-5-5"
 date: 2014-05-06
 category: 
-  - "bsd1"
+  - "bsd"
 tag: 
   - "openbsd"
-  - "openbsd-5-5"
   - "software-livre"
 ---
 
