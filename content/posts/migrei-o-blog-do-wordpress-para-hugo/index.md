@@ -1,7 +1,7 @@
 ---
 title: "Migrei o blog do Wordpress para Hugo"
 date: 2026-02-09
-draft: true
+draft: false
 category: 
   - "outros"
 tag: 
