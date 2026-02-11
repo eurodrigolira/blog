@@ -4,13 +4,11 @@ slug: "meu-lab-vmware-parte-01"
 date: 2014-10-12
 category: 
   - "certificacoes"
+  - "virtualizacao"
   - "labs"
-  - "virtualizacao"
 tag: 
-  - "certificacao"
-  - "virtualizacao"
   - "vmware"
-  - "warning-error_log-has-been-disabled-for-security-reasons-in-homerodrigo3public_htmlwp-includeswp-db-php-on-line-1233"
+  - "vcap"
 ---
 
 [![lab](images/lab.png)](http://rodrigolira.eti.br/wp-content/uploads/2014/10/lab.png)Salve Salve Pessoal!
