@@ -21,6 +21,7 @@ description = "Rodrigo Lira | Linux/BSD SysAdmin"
     { github = "https://github.com/eurodrigolira" },
     { linkedin = "https://linkedin.com/in/eurodrigolira" },
     { x-twitter = "https://x.com/eurodrigolira" },
+    { mastodon = "https://mastodon.social/@eurodrigolira" },
     { youtube = "https://youtube.com/@eurodrigolira" },
     { rss = "https://rodrigolira.eti.br/index.xml" }, 
   ]
