@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/wordpress/</link>
+    <description>Recent content in Wordpress on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Migrei o blog do Wordpress para Hugo</title>
+      <link>http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/images/wp-to-hugo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;564&#34;&#xA;    height=&#34;221&#34;&#xA;    src=&#34;http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/images/wp-to-hugo.png&#34;&#xA;    srcset=&#34;http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/images/wp-to-hugo.png 800w, http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/images/wp-to-hugo.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/images/wp-to-hugo.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Como vocês podem ver, fiz algumas mudanças no blog.&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou falar um pouco sobre a minha decisão de fazer essa migração, como escolhi o tema, os desafios enfrentados nesse processo e o que ainda falta ajustar.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Blog de cara nova :D</title>
+      <link>http://localhost:1313/blog-de-cara-nova-d/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/blog-de-cara-nova-d/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/cara_nova.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;&#34;&#xA;    src=&#34;images/cara_nova-150x150.jpg&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Como vocês podem ver, mudei o tema do blog, já fazia um tempinho que queria mudar o tema mas sempre que fazia algum teste com um novo tema nunca gostava.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Segurança no Wordpress (Parte 2)</title>
+      <link>http://localhost:1313/seguranca-no-wordpress-parte-2/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/seguranca-no-wordpress-parte-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/seguranca.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;seguranca&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;182&#34;&#xA;    src=&#34;http://localhost:1313/seguranca-no-wordpress-parte-2/images/seguranca-300x182.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/seguranca-no-wordpress-parte-2/images/seguranca-300x182.jpg 800w, http://localhost:1313/seguranca-no-wordpress-parte-2/images/seguranca-300x182.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/seguranca-no-wordpress-parte-2/images/seguranca-300x182.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Bem to aqui para falar de mais um plugin para segurança do wordpress, é o &lt;strong&gt;WP Security Scan&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Segurança no Wordpress (Parte 1)</title>
+      <link>http://localhost:1313/seguranca-no-wordpress-parte-1/</link>
+      <pubDate>Tue, 28 May 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/seguranca-no-wordpress-parte-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/05/seguranca.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;seguranca&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;182&#34;&#xA;    src=&#34;http://localhost:1313/seguranca-no-wordpress-parte-1/images/seguranca-300x182.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/seguranca-no-wordpress-parte-1/images/seguranca-300x182.jpg 800w, http://localhost:1313/seguranca-no-wordpress-parte-1/images/seguranca-300x182.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/seguranca-no-wordpress-parte-1/images/seguranca-300x182.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A partir de hoje irei criar vários posts sobre segurança no Wordpress, irei mostrar plugins, falhas e ataques feitos no Wordpress, tudo com muita calma e passo-a-passo. O primeiro plugin do qual vou falar é o Login LockDown, esse é um plugin contra ataque de Brute Force, após a sua instalação as suas configurações poderão ser alteradas em &lt;strong&gt;Painel &amp;gt; Configurações &amp;gt; Login LockDown&lt;/strong&gt;, por padrão ele vem configurado da seguinte forma:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Golpe pode roubar senhas do Wordpress</title>
+      <link>http://localhost:1313/golpe-pode-roubar-senhas-do-wordpress/</link>
+      <pubDate>Sun, 14 Apr 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/golpe-pode-roubar-senhas-do-wordpress/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/04/wordpress.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;wordpress&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;200&#34;&#xA;    src=&#34;http://localhost:1313/golpe-pode-roubar-senhas-do-wordpress/images/wordpress-300x200.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/golpe-pode-roubar-senhas-do-wordpress/images/wordpress-300x200.jpg 800w, http://localhost:1313/golpe-pode-roubar-senhas-do-wordpress/images/wordpress-300x200.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/golpe-pode-roubar-senhas-do-wordpress/images/wordpress-300x200.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;São Paulo - Segundo relatórios do HostGator e CloudFlare, um grande ataque foi lançado na internet para roubar senhas de blogs Wordpress.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

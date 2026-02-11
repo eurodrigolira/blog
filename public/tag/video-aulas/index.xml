@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video-Aulas on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/video-aulas/</link>
+    <description>Recent content in Video-Aulas on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Thu, 02 Oct 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/video-aulas/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hangout - pfSense com Captive Portal autenticando usuários via radius no Active Directory</title>
+      <link>http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;hangout&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 800w, http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Seguinte, eu tava pensando em fazer uma vídeo aula mostrando como configurar o Captive Portal do pfSense para autenticar os usuários do Active Directory via Radius.&lt;/p&gt;&#xA;&lt;p&gt;Dai me veio a ideia de fazer um hangout, dessa forma a coisa pode ser ao vivo e vocês podem fazer perguntas, tirar dúvidas e etc.&lt;/p&gt;&#xA;&lt;p&gt;Será uma boa experiência para mim que pretendo realizar outros vídeos ou até mesmo hangouts, vai que da certo :)&lt;/p&gt;&#xA;&lt;p&gt;Neste hangout não vou mostrar como instalar os Sistemas Operacionais, na internet já existe diversos vídeos mostrando como fazer.&lt;/p&gt;&#xA;&lt;p&gt;Porém vou mostrar todos os passos de como habilitar ou instalar os serviços tanto no Windows quanto no pfSense.&lt;/p&gt;&#xA;&lt;p&gt;A imagem abaixo exemplifica um pouco o que vamos fazer:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Word Wide Events</title>
+      <link>http://localhost:1313/microsoft-word-wide-events/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/microsoft-word-wide-events/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/03/microsoft.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;microsoft&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;122&#34;&#xA;    src=&#34;http://localhost:1313/microsoft-word-wide-events/images/microsoft-300x122.png&#34;&#xA;    srcset=&#34;http://localhost:1313/microsoft-word-wide-events/images/microsoft-300x122.png 800w, http://localhost:1313/microsoft-word-wide-events/images/microsoft-300x122.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/microsoft-word-wide-events/images/microsoft-300x122.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Microsoft Word Wide Events (WWE) é nada mais nada menos do que um site da Microsoft dedicado a eventos. Nele você vai ficar por dentro de eventos presenciais, eventos virtuais, webcasts, podcasts, laboratórios virtuais, e muito mais. Sem contar que isso tudo de graça, ou seja mais uma fonte de estudos pra você que deseja algo mais da Microsoft sem custo algum, corra e faça sua inscrição para ficar por dentro das novidades, segue o link abaixo para o site:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Scrum em menos de 10 minutos</title>
+      <link>http://localhost:1313/scrum-em-menos-de-10-minutos/</link>
+      <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/scrum-em-menos-de-10-minutos/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Postando aqui uma vídeo aula muito legal sobre scrum, o cara apresenta os principais conceitos da ferramenta em menos de 10 minutos, assistam a aula e confiram!&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

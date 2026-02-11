@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/terminal/</link>
+    <description>Recent content in Terminal on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/terminal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>nchat - Um cliente terminal para WhatsApp e Telegram</title>
+      <link>http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;922&#34;&#xA;    height=&#34;650&#34;&#xA;    src=&#34;http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat_hu_471b5c7124c3e9a1.png&#34;&#xA;    srcset=&#34;http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat_hu_471b5c7124c3e9a1.png 800w, http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/images/screenshot-nchat.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Como a maioria do pessoal sabe o &lt;strong&gt;WhatsApp&lt;/strong&gt; não tem um app oficial para &lt;strong&gt;Linux&lt;/strong&gt;, e os apps alternativos que vemos por ai normalmente são baseados em Electron, particularmente eu nunca gostei de nenhum.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

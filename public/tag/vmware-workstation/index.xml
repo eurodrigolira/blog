@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vmware-Workstation on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/vmware-workstation/</link>
+    <description>Recent content in Vmware-Workstation on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/vmware-workstation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instalação do VMware Workstation 17 Pro no Slackware</title>
+      <link>http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/images/Workstation-1920x1080-banner-solid-576x324-1.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;576&#34;&#xA;    height=&#34;324&#34;&#xA;    src=&#34;http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/images/Workstation-1920x1080-banner-solid-576x324-1.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/images/Workstation-1920x1080-banner-solid-576x324-1.png 800w, http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/images/Workstation-1920x1080-banner-solid-576x324-1.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/images/Workstation-1920x1080-banner-solid-576x324-1.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dias atrás foi lançado o &lt;strong&gt;VMware Workstation 17 Pro&lt;/strong&gt; e o &lt;strong&gt;Workstation Player 17&lt;/strong&gt;, ele trouxe algumas novidades, entre elas podemos citar:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 11 (Compartilhando uma Máquina Virtual)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post de nossa série sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vamos ver como podemos compartilhar uma máquina virtual, para que outro computador que esteja executando o VMware Workstation Pro 15 em nossa rede possa ter acesso a essa máquina virtual.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 10 (Mapeando um Disco Virtual)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post de nossa série sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;, nesse post vamos ver como podemos com mapear um disco virtual de uma máquina virtual com o sistema operacional do host.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 09 (Configurações de Rede)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No último post da série vimos quais são os componentes de rede do &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;, hoje vamos ver como podemos configurar esses componentes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 08 (Endentendo os Componentes de Rede)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o VMware Workstation Pro 15, vamos entender os componentes de rede que podemos do VMware Workstation Pro 15.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 07 (Acessando as Máquinas Virtuais via VNC)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post da nossa serie sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vamos ver como podemos acessar nossa máquina virtual através de um conexão remota via &lt;strong&gt;VNC&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 05 (Criptografando Máquinas Virtuais)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o VMware Workstation Pro 15, hoje vamos ver como podemos criptografar nossas máquinas virtuais.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation - Compartilhamento de pastas com vms Linux</title>
+      <link>http://localhost:1313/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No VMware Workstation temos a possibilidade de criar um compartilhamento de pastas entre a maquina física e a maquina virtual.&lt;/p&gt;&#xA;&lt;p&gt;Isso é muito simples de fazer quando a máquina física é um Windows (server/desktop) e a máquina virtual também é Windows (server/desktop).&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o OpenWRT no VMware Workstation</title>
+      <link>http://localhost:1313/instalando-o-openwrt-no-vmware-workstation/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalando-o-openwrt-no-vmware-workstation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/06/openwrt21.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;openwrt21&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/instalando-o-openwrt-no-vmware-workstation/images/openwrt21.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/instalando-o-openwrt-no-vmware-workstation/images/openwrt21.jpg 800w, http://localhost:1313/instalando-o-openwrt-no-vmware-workstation/images/openwrt21.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalando-o-openwrt-no-vmware-workstation/images/openwrt21.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o OpenWRT ele é uma distribuição GNU/Linux para dispositivos embarcados, normalmente roteadores. Para maiores informações segue abaixo o link do projeto:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://wiki.openwrt.org/start&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://wiki.openwrt.org/start&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sendo que nesse post vou mostrar como instalar ele no VMware Workstation, dessa forma você pode realizar laboratórios com o mesmo sem a necessidade de um roteador.&lt;/p&gt;&#xA;&lt;p&gt;A versão atual é a Barrier Breaker 14.07, ela vem com o kernel 3.10 entre outros software, segue link para maiores informações:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://wiki.openwrt.org/doc/barrier.breaker&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://wiki.openwrt.org/doc/barrier.breaker&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vamos ao que interessa, primeiramente é necessário você ter instalado em seu sistema o pacote &lt;strong&gt;qemu-utils&lt;/strong&gt; para poder converter a imagem .img em .vmdk. Faça o download do OpenWRT para x86 no link abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation 11 - Parte 1 (Instalação no Slackware 14.1)</title>
+      <link>http://localhost:1313/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/06/vmw-bnr-workstation11-product1.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;vmw-bnr-workstation11-product&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/images/vmw-bnr-workstation11-product1.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/images/vmw-bnr-workstation11-product1.jpg 800w, http://localhost:1313/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/images/vmw-bnr-workstation11-product1.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/images/vmw-bnr-workstation11-product1.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Resolvi fazer uma serie de posts para mostrar as funcionalidades do VMware Workstation, o mesmo é muito pouco explorado, principalmente quando se trata de realizar alguns laboratórios com a ferramenta, sem contar diversos outros recursos que não são utilizados.&lt;/p&gt;&#xA;&lt;p&gt;Neste primeiro post vou mostrar como instalar ele no Linux, no meu caso no Slackware, a instalação segue o mesmo padrão em outras distribuições, como também no windows.&lt;/p&gt;&#xA;&lt;p&gt;Então vamos lá:&lt;/p&gt;&#xA;&lt;p&gt;Primeiro baixe o VMware Workstation do site da vmware:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation/11_0&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation/11_0&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dê permissão de execução ao arquivo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#chmod +x VMware-Workstation-Full-11.1.0-2496824.x86_64.bundle&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

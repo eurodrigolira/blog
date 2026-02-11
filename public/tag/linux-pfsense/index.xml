@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux-Pfsense on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/linux-pfsense/</link>
+    <description>Recent content in Linux-Pfsense on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/linux-pfsense/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Livro PfSense 2.0</title>
+      <link>http://localhost:1313/livro-pfsense-2-0/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/livro-pfsense-2-0/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui só para postar um link para download do livro sobre PfSense 2.0, segue o link abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.4shared.com/office/ukZXDXBh/Livro_PfSense_20_Pt_br.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.4shared.com/office/ukZXDXBh/Livro_PfSense_20_Pt_br.html&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esxi-7-0-1 on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/esxi-7-0-1/</link>
+    <description>Recent content in Esxi-7-0-1 on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/esxi-7-0-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SSD HP EX950 NVMe M.2 1TB no ESXi</title>
+      <link>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente comprei um novo disco para meu homelab, um &lt;strong&gt;SSD HP EX950 NVMe M.2 1TB&lt;/strong&gt;, porém meu servidor é um &lt;strong&gt;HP ML30 Gen9&lt;/strong&gt; e o mesmo não tem entradas para o disco diretamente na placa mãe, então tive que comprar um apadtador para ele, comprei um &lt;strong&gt;Dual SSD NVME M.2&lt;/strong&gt;, vai que eu compre outro disco no futuro. ;)&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

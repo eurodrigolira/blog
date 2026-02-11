@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manual on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/manual/</link>
+    <description>Recent content in Manual on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/manual/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Manual Wireshark em Português</title>
+      <link>http://localhost:1313/manual-wireshark-em-portugues/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/manual-wireshark-em-portugues/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Nas minhas andanças pela net, acadei descobrindo esse manual em português do wireshark, dando uma olhada rápida deu pra reparar que é muito bem produzido e bem explicativo, divirtam-se com ele.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

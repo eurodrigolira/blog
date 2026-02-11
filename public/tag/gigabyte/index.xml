@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gigabyte on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/gigabyte/</link>
+    <description>Recent content in Gigabyte on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Sat, 14 Nov 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/gigabyte/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Forçando Recovery BIOS Backup Gigabyte Z97M-D3H</title>
+      <link>http://localhost:1313/forcando-recovery-bios-backup-gigabyte-z97m-d3h/</link>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/forcando-recovery-bios-backup-gigabyte-z97m-d3h/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nos últimos dias fiquei sem meu desktop que uso para laboratórios, a placa mãe uma Gigabyte Z97M-D3H v1.0 iniciava, porém na tela da BIOS ela reiniciava.&lt;/p&gt;&#xA;&lt;p&gt;Segue mais detalhes sobre o modelo da mesma:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

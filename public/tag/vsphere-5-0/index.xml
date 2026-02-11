@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vsphere-5-0 on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/vsphere-5-0/</link>
+    <description>Recent content in Vsphere-5-0 on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 29 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/vsphere-5-0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resolvendo problema no vSphere - System logs on host &#34;HOST_VSPHERE&#34; are stored on non-persistent storage</title>
+      <link>http://localhost:1313/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/06/vmware-kb.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;vmware-kb&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/images/vmware-kb.png&#34;&#xA;    srcset=&#34;http://localhost:1313/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/images/vmware-kb.png 800w, http://localhost:1313/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/images/vmware-kb.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/images/vmware-kb.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estava configurando o meu laboratório para VCP6-DCV quando me deparei com a seguintes mensagem &amp;ldquo;System logs on host vsphere-03.lab.local are stored on non-persistent storage&amp;rdquo;, achei estranho e fui pesquisar para saber melhor sobre o problema, que é basicamente o seguinte, os logs não estão sendo gravados em disco, dessa forma você tem que adicionar o caminho manualmente para que os mesmos possam ser gravados em disco.&lt;/p&gt;&#xA;&lt;p&gt;Este problema já foi diagnosticado pela VMware &amp;ldquo;&lt;strong&gt;KB 2032823&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Segue abaixo um passo-a-passo de como resolver o problema:&lt;/p&gt;&#xA;&lt;p&gt;1 - Abra p vSphere Client e selecione o host, no meu caso o vsphere-03.lab.local:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tabela de Features VMware vSphere 5.0 até 6.0</title>
+      <link>http://localhost:1313/tabela-de-features-vmware-vsphere-5-0-ate-6-0/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tabela-de-features-vmware-vsphere-5-0-ate-6-0/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;To compartilhando com vocês essa tabela que vi em um dos grupos de vmware que participo, ela é muito legal porque faz um resumo de algumas features das versões 5.0, 5.1, 5.5 e 6.0.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

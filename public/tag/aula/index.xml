@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aula on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/aula/</link>
+    <description>Recent content in Aula on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Thu, 26 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/aula/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instalando e Atualizando o Slackware 14.1</title>
+      <link>http://localhost:1313/instalando-e-atualizando-o-slackware-14-1/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalando-e-atualizando-o-slackware-14-1/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Como eu prometi a minha turma de Introdução e Administração de Servidores Linux da &lt;a href=&#34;http://linuxfi.com.br&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Linuxfi&lt;/a&gt;, segue o vídeo abaixo de como instalar e atualizar o Slackware 14.1, foi realizado do mesmo modo que fizemos em sala.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

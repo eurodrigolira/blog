@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P2v on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/p2v/</link>
+    <description>Recent content in P2v on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/p2v/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenWrt 18.06.1 no VMware vSphere 6.7</title>
+      <link>http://localhost:1313/openwrt-18-06-1-no-vmware-vsphere-6-7/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/openwrt-18-06-1-no-vmware-vsphere-6-7/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o &lt;strong&gt;OpenWrt&lt;/strong&gt; é um sistema operacional Linux para dispositivos embarcados, normalmente roteadores, onde conseguimos substituir o firmware original por ele, já falei sobre ele em alguns outros posts, abaixo segue a lista de alguns desses posts:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - P2V / V2V</title>
+      <link>http://localhost:1313/oracle-vm-server-p2v-v2v/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-p2v-v2v/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como realizar um p2v (Physical-to-Virtual) ou um v2v (Virtual-to-Virtual) com o Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Diferente do VMware vCenter Converter Standalone, nós precisamos desligar a VM ou Host para a realização do procedimento.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

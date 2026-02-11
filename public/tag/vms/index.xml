@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vms on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/vms/</link>
+    <description>Recent content in Vms on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/vms/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>XCP-ng - Criando VMs</title>
+      <link>http://localhost:1313/xcp-ng-criando-vms/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/xcp-ng-criando-vms/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo da nossa série sobre o XCP-ng vamos criar nossas primeiras máquinas virtuais.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver todos os detalhes da criação de uma máquina virtual no XCP-ng.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

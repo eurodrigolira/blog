@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtualizacao on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/virtualizacao/</link>
+    <description>Recent content in Virtualizacao on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/virtualizacao/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VMware ESXi Free está de volta?!</title>
+      <link>http://localhost:1313/vmware-esxi-free-esta-de-volta/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-esxi-free-esta-de-volta/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje, navegando pelo LinkedIn, me deparei com uma postagem interessante de Duncan Epping, renomado engenheiro da VMware, que atualmente faz parte da Broadcom. Na publicação, ele menciona a volta da versão gratuita do ESXi, algo que muitos profissionais de TI vinham aguardando ansiosamente desde as recentes mudanças na estratégia de licenciamento.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Passei no Exame - EX316 Red Hat Certified Specialist in OpenShift Virtualization</title>
+      <link>http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;258&#34;&#xA;    src=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-300x258.png&#34;&#xA;    srcset=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-300x258.png 800w, http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-300x258.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-300x258.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje fiz o exame &lt;strong&gt;EX316 Red Hat Certified Specialist in OpenShift Virtualization&lt;/strong&gt;, e consegui passar.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-score.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;453&#34;&#xA;    src=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-score-1024x453_hu_ca5c8935d8eb393f.png&#34;&#xA;    srcset=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-score-1024x453_hu_ca5c8935d8eb393f.png 800w, http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-score-1024x453.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/images/openshift-virtualization-score-1024x453.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Tive a oportunidade de fazer o curso oficial para este exame, o mesmo estava em promoção junto com o exame, então acabei pagando apenas 30% do valor.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Fim do VMware ESXi Gratuito</title>
+      <link>http://localhost:1313/fim-do-vmware-esxi-gratuito/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/fim-do-vmware-esxi-gratuito/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muita tristeza que venho fazer esse post. :(&lt;/p&gt;&#xA;&lt;p&gt;Desde de a compra da VMware pela Broadcom, várias mudanças foram anunciadas, produtos que não iriram mais ser comercializados e mudanças na forma do licenciamento das soluções da VMware.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Apresetação do meu artigo no CSBC/SEMISH 2023</title>
+      <link>http://localhost:1313/apresetacao-do-meu-artigo-no-csbc-semish-2023/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/apresetacao-do-meu-artigo-no-csbc-semish-2023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/Logo-CSBC-Atualizada.webp&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;314&#34;&#xA;    height=&#34;246&#34;&#xA;    src=&#34;http://localhost:1313/apresetacao-do-meu-artigo-no-csbc-semish-2023/images/Logo-CSBC-Atualizada-e1691679897307.webp&#34;&#xA;    srcset=&#34;http://localhost:1313/apresetacao-do-meu-artigo-no-csbc-semish-2023/images/Logo-CSBC-Atualizada-e1691679897307.webp 800w, http://localhost:1313/apresetacao-do-meu-artigo-no-csbc-semish-2023/images/Logo-CSBC-Atualizada-e1691679897307.webp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/apresetacao-do-meu-artigo-no-csbc-semish-2023/images/Logo-CSBC-Atualizada-e1691679897307.webp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Essa semana está acontecendo o &lt;a href=&#34;https://csbc.sbc.org.br/2023/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Congresso da Sociedade Brasileira de Computação&lt;/a&gt; (CSBC) que é o maior evento científico em Ciência da Computação da América Latina. Por sorte minha, esse ano ele está acontecendo aqui em João Pessoa/PB.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Montando disco USB no VMware ESXi</title>
+      <link>http://localhost:1313/montando-disco-usb-no-vmware-esxi/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/montando-disco-usb-no-vmware-esxi/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Sempre recebo o contato de pessoas me perguntando como podemos montar um disco USB no VMware ESXi.&lt;/p&gt;&#xA;&lt;p&gt;Mas porque eu usária um disco USB no meu ESXi Rodrigo?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>XCP-ng – Gerência do Cluster e VMs</title>
+      <link>http://localhost:1313/xcp-ng-gerencia-do-cluster-e-vms/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/xcp-ng-gerencia-do-cluster-e-vms/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse último vídeo da nossa série sobre o XCP-ng vamos ver como podemos gerenciar nossas máquinas virtuais e nosso cluster.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver todos os detalhes da configuração do HA, snapshot, clones, templates, ou seja, todo o ciclo de vida de uma máquina virtual.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalação do ESXi 8</title>
+      <link>http://localhost:1313/instalacao-do-esxi-8/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalacao-do-esxi-8/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;494&#34;&#xA;    src=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494_hu_d789ec37a1ee3f37.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494_hu_d789ec37a1ee3f37.png 800w, http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A VMware lançou recentemente o &lt;strong&gt;vSphere 8&lt;/strong&gt;, são diversas novidades e novas features, porém para começar vamos ver como está a nova versão do &lt;strong&gt;ESXi&lt;/strong&gt; rodando em modo standalone.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Atualizando o ESXi via linha de comando.</title>
+      <link>http://localhost:1313/atualizando-o-esxi-via-linha-de-comando/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/atualizando-o-esxi-via-linha-de-comando/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos fazer a atualização do ESXi via linha de comando, normalmente através de uma conexão via SSH, mas o mesmo caso se aplica se você estiver na frente do servidor usando a DCUI/SHELL do ESXi.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Removendo VMs com status Invalid no ESXi</title>
+      <link>http://localhost:1313/removendo-vms-com-status-invalid-no-esxi/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/removendo-vms-com-status-invalid-no-esxi/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Hoje um dos meus clientes perdeu um dos discos do seu servidor.&lt;/p&gt;&#xA;&lt;p&gt;Existiam máquinas virtuais rodando em produção nesse disco. :(&lt;/p&gt;&#xA;&lt;p&gt;Como ESXi perdeu referência com essas máquinas virtuais ficou apresentando um &lt;strong&gt;Status&lt;/strong&gt; de &lt;strong&gt;Invalid&lt;/strong&gt; para essas máquinas virtuais.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>XCP-ng - Criando VMs</title>
+      <link>http://localhost:1313/xcp-ng-criando-vms/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/xcp-ng-criando-vms/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo da nossa série sobre o XCP-ng vamos criar nossas primeiras máquinas virtuais.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver todos os detalhes da criação de uma máquina virtual no XCP-ng.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>LPIC-3 Enterprise Virtualization and Containerization (Exam 305 - Beta)</title>
+      <link>http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/images/lpic-2.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;248&#34;&#xA;    src=&#34;http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/images/lpic-2-300x248.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/images/lpic-2-300x248.jpg 800w, http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/images/lpic-2-300x248.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/images/lpic-2-300x248.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje fiz o novo &lt;strong&gt;Exame 305(beta)&lt;/strong&gt; da &lt;strong&gt;LPI&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;E como vocês podem ver na imagem abaixo, imagino que não foi dessas vez.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>XCP-ng - Storage</title>
+      <link>http://localhost:1313/xcp-ng-storage/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/xcp-ng-storage/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/xcp-ng.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;289&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/xcp-ng-storage/images/xcp-ng-289x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/xcp-ng-storage/images/xcp-ng-289x300.png 800w, http://localhost:1313/xcp-ng-storage/images/xcp-ng-289x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/xcp-ng-storage/images/xcp-ng-289x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo da nossa série sobre o &lt;strong&gt;XCP-ng&lt;/strong&gt; vamos conhecer e configurar os &lt;strong&gt;Storages&lt;/strong&gt; no XCP.&lt;/p&gt;&#xA;&lt;p&gt;Os tipos de &lt;strong&gt;storages&lt;/strong&gt; que podemos configurar e como configurar cada um deles.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>XCP-ng – Redes</title>
+      <link>http://localhost:1313/xcp-ng-redes/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/xcp-ng-redes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/xcp-ng.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;289&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/xcp-ng-redes/images/xcp-ng-289x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/xcp-ng-redes/images/xcp-ng-289x300.png 800w, http://localhost:1313/xcp-ng-redes/images/xcp-ng-289x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/xcp-ng-redes/images/xcp-ng-289x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo de nossa série sobre o &lt;strong&gt;XCP-ng&lt;/strong&gt; vamos conhecer e configurar a parte de redes do XCP.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware vExpert 2021</title>
+      <link>http://localhost:1313/vmware-vexpert-2021/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-vexpert-2021/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem saiu o anúncio do &lt;strong&gt;VMware vExpert 2021&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-vexpert-2021/images/2021-02-11_21-02.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;226&#34;&#xA;    src=&#34;http://localhost:1313/vmware-vexpert-2021/images/2021-02-11_21-02-300x226.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-vexpert-2021/images/2021-02-11_21-02-300x226.png 800w, http://localhost:1313/vmware-vexpert-2021/images/2021-02-11_21-02-300x226.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-vexpert-2021/images/2021-02-11_21-02-300x226.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fui um dos escolhidos e continuo entre essa turma fantástica contribuindo para a comunidade de alguma forma.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>SSD HP EX950 NVMe M.2 1TB no ESXi</title>
+      <link>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente comprei um novo disco para meu homelab, um &lt;strong&gt;SSD HP EX950 NVMe M.2 1TB&lt;/strong&gt;, porém meu servidor é um &lt;strong&gt;HP ML30 Gen9&lt;/strong&gt; e o mesmo não tem entradas para o disco diretamente na placa mãe, então tive que comprar um apadtador para ele, comprei um &lt;strong&gt;Dual SSD NVME M.2&lt;/strong&gt;, vai que eu compre outro disco no futuro. ;)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o Slackware Current no VMware vSphere 7</title>
+      <link>http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/images/slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;329&#34;&#xA;    height=&#34;87&#34;&#xA;    src=&#34;http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/images/slackware.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/images/slackware.png 800w, http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/images/slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/images/slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Faz tempo que não faço um post e não coloco um vídeo no meu canal, outro detalhe, voltei para o tema antigo, o novo estava quebrando algumas coisas. ;)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>XCP-ng - XCP-ng Center</title>
+      <link>http://localhost:1313/xcp-ng-xcp-ng-center/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/xcp-ng-xcp-ng-center/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/xcp-ng.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;289&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/xcp-ng-xcp-ng-center/images/xcp-ng-289x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/xcp-ng-xcp-ng-center/images/xcp-ng-289x300.png 800w, http://localhost:1313/xcp-ng-xcp-ng-center/images/xcp-ng-289x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/xcp-ng-xcp-ng-center/images/xcp-ng-289x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse vídeo de nossa série sobre o XCP-ng vamos conhecer o &lt;strong&gt;XCP-ng Center&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A ferramenta de gerenciamento dos nossos hosts XCP.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Virtualização com XCP-ng – Instalação e Configuração do FreeNAS</title>
+      <link>http://localhost:1313/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/xcp-ng.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;289&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/images/xcp-ng-289x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/images/xcp-ng-289x300.png 800w, http://localhost:1313/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/images/xcp-ng-289x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/images/xcp-ng-289x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Nesse quarto vídeo de nossa serie sobre o XCP-ng mostro como instalar e configurar o FreeNAS que fará o papel do nosso storage em nosso laboratõrio, vamos ver como instalar e configurar as interfaces de rede, como criar os pool de discos e vdevs, criar o compartilhamento iSCSI e NFS.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Virtualização com XCP-ng - Instalando o XCP</title>
+      <link>http://localhost:1313/virtualizacao-com-xcp-ng-instalando-o-xcp/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/virtualizacao-com-xcp-ng-instalando-o-xcp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/xcp-ng.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;289&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-instalando-o-xcp/images/xcp-ng-289x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-instalando-o-xcp/images/xcp-ng-289x300.png 800w, http://localhost:1313/virtualizacao-com-xcp-ng-instalando-o-xcp/images/xcp-ng-289x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-instalando-o-xcp/images/xcp-ng-289x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse terceiro vídeo da nossa série de vídeos sobre o &lt;strong&gt;XCP-ng&lt;/strong&gt; vamos ver todos os passos de instalação e configurações iniciais do nosso XCP.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Virtualização com XCP-ng - Arquitetura do Laboratório</title>
+      <link>http://localhost:1313/xcp-ng-arquitetura-do-laboratorio/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/xcp-ng-arquitetura-do-laboratorio/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/xcp-ng.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;289&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/xcp-ng-arquitetura-do-laboratorio/images/xcp-ng-289x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/xcp-ng-arquitetura-do-laboratorio/images/xcp-ng-289x300.png 800w, http://localhost:1313/xcp-ng-arquitetura-do-laboratorio/images/xcp-ng-289x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/xcp-ng-arquitetura-do-laboratorio/images/xcp-ng-289x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse segundo vídeo de nossa série sobre a solução de virtualização &lt;strong&gt;XCP-ng&lt;/strong&gt; eu mostro como será a arquitetura de nosso laboratório, como criar e configurar as máquinas virtuais no ESXi e o recurso utilizado por cada uma delas.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Virtualização com XCP-ng - Introdução</title>
+      <link>http://localhost:1313/virtualizacao-com-xcp-ng-introducao/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/virtualizacao-com-xcp-ng-introducao/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-introducao/images/xcp-ng.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;289&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-introducao/images/xcp-ng-289x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-introducao/images/xcp-ng-289x300.png 800w, http://localhost:1313/virtualizacao-com-xcp-ng-introducao/images/xcp-ng-289x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/virtualizacao-com-xcp-ng-introducao/images/xcp-ng-289x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou começando uma nova série de vídeos, dessa vez será sobre o sistema de virtualização Open Source &lt;strong&gt;XCP-ng&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Atualizações das ISOs Customizadas do ESXi 6.7 para Update 3</title>
+      <link>http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;826&#34;&#xA;    height=&#34;253&#34;&#xA;    src=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3_hu_674fe77ee4995f9c.png&#34;&#xA;    srcset=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3_hu_674fe77ee4995f9c.png 800w, http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Essa semana fiz a atualização para o &lt;strong&gt;ESXI 6.7&lt;/strong&gt; &lt;strong&gt;Update 3&lt;/strong&gt; das minhas &lt;strong&gt;ISOs&lt;/strong&gt; &lt;strong&gt;Customizadas&lt;/strong&gt; com os drivers de rede de placas realtek, drivers de rede para placas USB e da interface web.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalação e Configuraçao do OpenWrt 19.07.2 no ESXi 6.7</title>
+      <link>http://localhost:1313/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Não é novidade para quem me segue aqui no blog que uso o &lt;strong&gt;OpenWrt&lt;/strong&gt; nos meus equipamentos wifi, mas nesse post vou mostrar como podemos instalar e configurar a versão mais nova do &lt;strong&gt;OpenWrt&lt;/strong&gt; no &lt;strong&gt;ESXi 6.7&lt;/strong&gt; para podermos fazer testes antes de aplicar ao nosso ambiente de produção, no meu caso a minha casa. :D&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Fim do suporte ao Oracle VM Server</title>
+      <link>http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif 800w, http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo sem postar nada devido a falta de tempo por causa de alguns projetos pessoais hoje venho falar um pouco sobre a vida últil do Oracle VM Server.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager – Parte 04 (Adicionando um Host KVM)</title>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie hoje vamos começar a adicionar os hosts em nosso ambiente, mas antes vamos ver os requisitos para instalação do mesmos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager – Parte 03</title>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager-parte-03/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager-parte-03/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-03/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos dar continuidade a nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No último post vimos como fazer a instalação do Oracle Linux 7 hoje vamos fazer a instalação do &lt;strong&gt;Manager&lt;/strong&gt;, se você não leu nenhum dos outros dois posts, acesse os links abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager – Parte 02</title>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager-parte-02/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager-parte-02/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/olvm.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-02/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos ao nosso segundo post da nossa serie de posts sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Se você não viu o primeiro post ainda acesse o link abaixo e leia o mesmo para entender um pouco mais sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt; e nosso cenário:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle Linux Virtualization Manager - Parte 01</title>
+      <link>http://localhost:1313/oracle-linux-virtualization-manager-parte-01/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-linux-virtualization-manager-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/OLVM.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;172&#34;&#xA;    src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 800w, http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-linux-virtualization-manager-parte-01/images/olvm-300x172.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muito prazer que começo mais uma serie de posts, dessa vez vamos falar sobre o &lt;strong&gt;Oracle Linux Virtualization Manager&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anunciado o Oracle Linux Virtualization Manager</title>
+      <link>http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;136&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 800w, http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/oracle-manager-300x136.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Hoje a Oracle anunciou o Oracle Linux Virtualization Manager.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;269&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 800w, http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/images/hqdefault-300x269.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 11 (Compartilhando uma Máquina Virtual)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post de nossa série sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vamos ver como podemos compartilhar uma máquina virtual, para que outro computador que esteja executando o VMware Workstation Pro 15 em nossa rede possa ter acesso a essa máquina virtual.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 10 (Mapeando um Disco Virtual)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post de nossa série sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;, nesse post vamos ver como podemos com mapear um disco virtual de uma máquina virtual com o sistema operacional do host.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 09 (Configurações de Rede)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No último post da série vimos quais são os componentes de rede do &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;, hoje vamos ver como podemos configurar esses componentes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 08 (Endentendo os Componentes de Rede)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o VMware Workstation Pro 15, vamos entender os componentes de rede que podemos do VMware Workstation Pro 15.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - Acessando máquinas virtuais via VNC Client</title>
+      <link>http://localhost:1313/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;2288945.bmp&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/images/2288945.bmp 800w, http://localhost:1313/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos acessar nossas máquinas virtuais via VNC Client no Oracle VM Server.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 07 (Acessando as Máquinas Virtuais via VNC)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post da nossa serie sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vamos ver como podemos acessar nossa máquina virtual através de um conexão remota via &lt;strong&gt;VNC&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 06 (Atualizações)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a serie de posts sobre o &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt;, vamos ver nesse post como podemos checar se existem atualizações no sistema e como configurar a checagem automatica dessas atualizações, e como instalar essas atualizações caso elas existam.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server – Error creating clusterHeartbeatDevice ( /dev/mapper/*** already in a cluster)</title>
+      <link>http://localhost:1313/oracle-vm-server-error-creating-clusterheartbeatdevice-dev-mapper-already-in-a-cluster/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-error-creating-clusterheartbeatdevice-dev-mapper-already-in-a-cluster/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo sem fazer nenhum post sobre o Oracle VM, venho falar sobre um erro que aconteceu comigo.&lt;/p&gt;&#xA;&lt;p&gt;Hoje quando estava criando meu novo ambiente de laboratório para testes do &lt;strong&gt;Oracle VM Server 3.4.6&lt;/strong&gt; tive o seguinte problema:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>OpenWrt 18.06.1 no VMware vSphere 6.7</title>
+      <link>http://localhost:1313/openwrt-18-06-1-no-vmware-vsphere-6-7/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/openwrt-18-06-1-no-vmware-vsphere-6-7/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Para quem não conhece o &lt;strong&gt;OpenWrt&lt;/strong&gt; é um sistema operacional Linux para dispositivos embarcados, normalmente roteadores, onde conseguimos substituir o firmware original por ele, já falei sobre ele em alguns outros posts, abaixo segue a lista de alguns desses posts:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 – Parte 02 (Criando uma máquina virtual)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;No primeiro post dessa serie, vimos como podemos fazer a instalação do &lt;strong&gt;VMware Workstation Pro 15&lt;/strong&gt; no Windows, agora que já instalamos, vamos ver como criar uma máquina virtual e todas as configurações que precisamos realizar.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o Red Hat 8 Beta no VMware vSphere 6.7</title>
+      <link>http://localhost:1313/instalando-o-red-hat-8-beta-no-vmware-vsphere-6-7/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalando-o-red-hat-8-beta-no-vmware-vsphere-6-7/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Em novembro de 2018 a &lt;strong&gt;Red Hat&lt;/strong&gt; anunciou e disponibilizou para download a nova versão (beta) do seu sistema operacional, a versão 8.&lt;/p&gt;&#xA;&lt;p&gt;Como só tive tempo de instalar agora, fiz um vídeo da instalação do mesmo no meu ambiente de laboratório &lt;strong&gt;VMware vSphere 6.7&lt;/strong&gt;, os passos de instalação dessa nova versão são idênticos aos passo da versão 7, então quem for testar essa nova versão não terá problemas com a instalação.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>VMware Workstation Pro 15 - Parte 01 (Instalação)</title>
+      <link>http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;725&#34;&#xA;    height=&#34;376&#34;&#xA;    src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&#xA;    srcset=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 800w, http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/images/VMware-Workstation-Pro-15-Released-with-New-Features.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/images/VMware-Workstation-Pro-15-Released-with-New-Features.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Faz algum tempo que venho querendo falar um pouco sobre o VMware Workstation Pro.&lt;/p&gt;&#xA;&lt;p&gt;Apesar do mesmo ser uma ferramenta voltada para desktop, o mesmo possui várias funcionalidades que são pouco exploradas entre seus usuários, como por exemplo a possibilidade de criptografar o disco, acesso remoto, execução de scripts, gerenciamento via console e etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o Oracle VM Guest Additions no Oracle Linux 6</title>
+      <link>http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif 800w, http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Primeiro post do ano, não tive tempo e acabei me esquecendo de passar por aqui e desejar boas festas para vocês, mas vou aproveitar esse post e desejar um Feliz Ano Novo a todos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalando o VMware Workstation 15 no Fedora 29</title>
+      <link>http://localhost:1313/instalando-o-vmware-workstation-15-no-fedora-29/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalando-o-vmware-workstation-15-no-fedora-29/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como instalar o VMware Workstation 15 no Fedora 29.&lt;/p&gt;&#xA;&lt;p&gt;O processo de instalação do VMware Workstation é bem simples, apesar de ter pessoas que sempre passam por problemas, normalmente porque não instalam as dependências necessárias.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalação do VMware vCenter Server Appliance 6.7</title>
+      <link>http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/images/migrate2vcsa.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;232&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/images/migrate2vcsa-232x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/images/migrate2vcsa-232x300.png 800w, http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/images/migrate2vcsa-232x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/images/migrate2vcsa-232x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um tempo sem um LAB do vSphereEstou refazendo meu LAB, então já estou partindo para a versão VMware vSphere 6.7.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - Backup</title>
+      <link>http://localhost:1313/oracle-vm-server-backup/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-backup/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/oracle-vm-server-backup/images/backup.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;543&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server-backup/images/backup-1024x543_hu_f58a83620ff0e822.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server-backup/images/backup-1024x543_hu_f58a83620ff0e822.jpg 800w, http://localhost:1313/oracle-vm-server-backup/images/backup-1024x543.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server-backup/images/backup-1024x543.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou fazer três posts sobre soluções de backup do Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver as recomendações de backup que a própria Oracle sugeri em cada um dos componentes do Oracle VM Server, vamos falar sobre as ferramentas disponíveis no marcado.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - Error invalid host name resolution</title>
+      <link>http://localhost:1313/oracle-vm-server-error-invalid-host-name-resolution/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-error-invalid-host-name-resolution/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Um dos possíveis erros que podemos cometer na hora da instalação de um sistema operacional, é realizar as configurações de rede da forma incorreta. Pós instalação nós podemos resolver isso sem problemas, indo no arquivo de configuração e corrigindo o que for necessário.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM - Backups com vProtect - Parte 01</title>
+      <link>http://localhost:1313/oracle-vm-backups-com-vprotect-parte-01/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-backups-com-vprotect-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/07/vprotect-logo-big.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;107&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-backups-com-vprotect-parte-01/images/vprotect-logo-big-300x107.png&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-backups-com-vprotect-parte-01/images/vprotect-logo-big-300x107.png 800w, http://localhost:1313/oracle-vm-backups-com-vprotect-parte-01/images/vprotect-logo-big-300x107.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-backups-com-vprotect-parte-01/images/vprotect-logo-big-300x107.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou começar uma serie de posts falando sobre uma ferramenta de backup para máquinas virtuais chamada vProtect.&lt;/p&gt;&#xA;&lt;p&gt;O vProtect é uma solução de backup para ambientes virtuais em plataformas abertas, como Oracle VM, Citrix XenServer, RHEV, oVirt, KVM, etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anunciado Oracle VM 3.4.4</title>
+      <link>http://localhost:1313/anunciado-oracle-vm-3-4-4/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/anunciado-oracle-vm-3-4-4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/05/2288945.bmp&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp 800w, http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-4/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Lançado o Oracle VM 3.4.4, entre as atualizações de segurança que já é normal, podemos citar as seguintes novidades nessa nova versão:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anunciado Oracle VM 3.4.3</title>
+      <link>http://localhost:1313/anunciado-oracle-vm-3-4-3/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/anunciado-oracle-vm-3-4-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/05/2288945.bmp&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;521&#34;&#xA;    height=&#34;254&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp 800w, http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-oracle-vm-3-4-3/images/2288945.bmp&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Foi liberada uma nova versão do Oracle VM, a versão 3.4.3.&lt;/p&gt;&#xA;&lt;p&gt;A nova versão oferece novos recursos, atualizações de segurança e correções de bugs.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - Criar uma VM via CLI</title>
+      <link>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como criar uma maquina virtual via CLI no Oracle VM.&lt;/p&gt;&#xA;&lt;p&gt;Apesar de termos o ambiente web para gerência, podemos realizar todas as tarefas via linha de comando, por exemplo, adicionar servidores, criar pool, criar novas redes e maquinas virtuais.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle VM Server - Tags</title>
+      <link>http://localhost:1313/oracle-vm-server-tags/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-tags/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O uso de tags em grandes ambientes é uma realidade, com ela nós podemos por exemplo, classificar se uma maquina virtual é de um ambiente de desenvolvimento ou de produção.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server – Parte 3</title>
+      <link>http://localhost:1313/lab-oracle-vm-server-parte-3/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/lab-oracle-vm-server-parte-3/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar todo o passo-a-passo de instalação do Oracle VM Manager, que é o cara responsável pelo gerenciamento do nosso ambiente virtualizado, a instalação dele é bem simples, porém existem alguns detalhes que se não prestarmos atenção podem nos tirar bastante tempo na hora da sua implementação. Diferentemente do Oracle VM Server, o Manager não vem em uma ISO já pronta, nesse caso precisamos instalar um Sistema Operacional antes, no caso do nosso lab, instalei um Oracle Linux 7, fiz a atualização de todos os pacotes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server - Parte 2</title>
+      <link>http://localhost:1313/lab-oracle-vm-server-parte-2/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/lab-oracle-vm-server-parte-2/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade ao nosso lab sobre Oracle VM Server, nesse post vou mostrar como realizar a instalação e configurações iniciais do mesmo, a instalação e configuração é bem tranquila, as maquinas(VMs) estão configuradas de como eu falei no primeiro post, caso não tenha visto o mesmo, pode acessa-lo através do link abaixo:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Lab Oracle VM Server - Parte 1</title>
+      <link>http://localhost:1313/oracle-vm-server-lab-01/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/oracle-vm-server-lab-01/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Bem, depois de um bom tempo sem realizar nenhum post sobre laboratórios, venho iniciar uma nova serie, desta vez vamos montar um lab sobre o Oracle VM Server.&lt;/p&gt;&#xA;&lt;p&gt;O Oracle VM Server é a solução de virtualização da Oracle, é uma plataforma totalmente gratuita, ou seja, custo zero, e desenvolvida e mantida por uma das maiores empresas de TI do mundo, a gigante &lt;strong&gt;Oracle&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Meu LAB VMware – Parte 02 (Storage com Nexenta)</title>
+      <link>http://localhost:1313/meu-lab-vmware-parte-02-storage-com-nexenta/</link>
+      <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/meu-lab-vmware-parte-02-storage-com-nexenta/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2015/01/nexenta.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;nexenta&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png&#34;&#xA;    srcset=&#34;http://localhost:1313/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png 800w, http://localhost:1313/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-lab-vmware-parte-02-storage-com-nexenta/images/nexenta.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como instalar e realizar as primeiras configurações do nosso storage virtual, o NEXENTA.&lt;/p&gt;&#xA;&lt;p&gt;Nexenta é um SDDC (Software Defined Data Centers), um dos grandes diferenciais deste sistema é que ele é baseado no OpenSolaris e utiliza como sistema de arquivo o ZFS, além de ser parceiro da VMware, ele possui tanto a versão paga, quanto a versão para comunidade.&lt;/p&gt;&#xA;&lt;p&gt;Não vou entrar em detalhes sobre o sistema, mas segue abaixo vários links para conhecerem ele melhor:&lt;/p&gt;&#xA;&lt;p&gt;Site - &lt;a href=&#34;http://www.nexenta.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.nexenta.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Guia de Instalação - &lt;a href=&#34;http://info01.nexenta.com/rs/nexenta2/images/4.0.3-NexentaStor_Installation_Guide.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://info01.nexenta.com/rs/nexenta2/images/4.0.3-NexentaStor_Installation_Guide.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Livro - &lt;a href=&#34;http://www.nexenta.com/sddcfordummies?utm_source=White%20Paper&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.nexenta.com/sddcfordummies?utm_source=White%20Paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Download Nexenta Community Edition - &lt;a href=&#34;http://www.nexenta.com/products/downloads/nexentastor-community-edition-download&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://www.nexenta.com/products/downloads/nexentastor-community-edition-download&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;ZFS - &lt;a href=&#34;http://docs.oracle.com/cd/E24849_01/html/820-0447/zfsover-2.html&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://docs.oracle.com/cd/E24849_01/html/820-0447/zfsover-2.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Espero que os liks sejam uteis :D&lt;/p&gt;&#xA;&lt;p&gt;Vamos ao que interessa, em &amp;ldquo;&lt;a href=&#34;http://rodrigolira.eti.br/meu-lab-vmware-parte-01/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Meu Lab VMware - Parte 01&lt;/a&gt;&amp;rdquo; mostrei todas as configurações de hardware e como estava configurada cada maquina virtual, hoje vamos instalar e realizar as primeiras configurações do nosso storage virtual.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Top 10! Blogs sobre VMware e Virtualização</title>
+      <link>http://localhost:1313/top-10-blogs-sobre-vmware/</link>
+      <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/top-10-blogs-sobre-vmware/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/11/top-10.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;top-10&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/top-10-blogs-sobre-vmware/images/top-10.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/top-10-blogs-sobre-vmware/images/top-10.jpg 800w, http://localhost:1313/top-10-blogs-sobre-vmware/images/top-10.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/top-10-blogs-sobre-vmware/images/top-10.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou mostrar os 10 blogs sobre VMware e Virtualização que acesso constantemente para ficar por dentro das novidades.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Meu LAB VMware - Parte 01</title>
+      <link>http://localhost:1313/meu-lab-vmware-parte-01/</link>
+      <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/meu-lab-vmware-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/lab.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;lab&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/meu-lab-vmware-parte-01/images/lab.png&#34;&#xA;    srcset=&#34;http://localhost:1313/meu-lab-vmware-parte-01/images/lab.png 800w, http://localhost:1313/meu-lab-vmware-parte-01/images/lab.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-lab-vmware-parte-01/images/lab.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse primeiro de vários posts vou mostrar para vocês um pouco do meu LAB VMware, o qual estou usando para estudar para a prova VCAP5-DCA e uso para estudar para outros fins, vou falar do hardware e do software que utilizo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Passei na Certificação em Hyper-V (Prova 74-409 – Server Virtualization with Windows Server Hyper-V and System Center)</title>
+      <link>http://localhost:1313/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</link>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/04/70409.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;70409&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&#xA;    srcset=&#34;http://localhost:1313/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 800w, http://localhost:1313/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou postando aqui com muita felicidade mais uma certificação conquistada, a batalha foi dura, mas a vitoria foi certa.&lt;/p&gt;&#xA;&lt;p&gt;Como postei no post anterior essa certificação está gratuita até o final do mês de junho, quem tiver a oportunidade de estudar para tirar a mesma estude pois o nível da prova está muito bom, em uma escala de 0 a 100 diria que a prova tem o nível 80, segue abaixo o link para o simulado que usei como base de estudos para a prova.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Certificação em Hyper-V (Prova 74-409 - Server Virtualization with Windows Server Hyper-V and System Center)</title>
+      <link>http://localhost:1313/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/04/70409.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;70409&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&#xA;    srcset=&#34;http://localhost:1313/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 800w, http://localhost:1313/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/images/70409.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Esses últimos dias venho reunindo material para realizar a Prova 74-409 - Server Virtualization with Windows Server Hyper-V and System Center, e sem querer acabei descobrindo que a Microsoft está disponibilizando Vouchers gratuitos para a realização da prova até Junho de 2014. Abaixo estou colocando um passo-a-passo de como obter o voucher e links para downloads dos materiais que já baixei:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Material para prova da certificação VCP5-DCV</title>
+      <link>http://localhost:1313/material-para-prova-vcp5-dcv/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/material-para-prova-vcp5-dcv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/03/vcp5.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;Exam&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/material-para-prova-vcp5-dcv/images/vcp5.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/material-para-prova-vcp5-dcv/images/vcp5.jpg 800w, http://localhost:1313/material-para-prova-vcp5-dcv/images/vcp5.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/material-para-prova-vcp5-dcv/images/vcp5.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou disponibilizando aqui todo o material que estou utilizando para estudar para a prova VCP5-DCV da VMware, não é muita coisa mas já é um bom começo para que quer aprender um pouco mais sobre a ferramenta e para quem está querendo tirar a certificação, assim como eu :)&lt;/p&gt;&#xA;&lt;p&gt;Site Oficial do exame:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Vídeo Aulas gratuitas sobre VMware vSphere</title>
+      <link>http://localhost:1313/video-aulas-gratuitas-sobre-vmware-vsphere/</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/video-aulas-gratuitas-sobre-vmware-vsphere/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2013/09/vsphere_4correct1.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;vsphere_4correct1&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/video-aulas-gratuitas-sobre-vmware-vsphere/images/vsphere_4correct1.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/video-aulas-gratuitas-sobre-vmware-vsphere/images/vsphere_4correct1.jpg 800w, http://localhost:1313/video-aulas-gratuitas-sobre-vmware-vsphere/images/vsphere_4correct1.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/video-aulas-gratuitas-sobre-vmware-vsphere/images/vsphere_4correct1.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um tempinho sem postar nada to eu aqui de volta.&lt;/p&gt;&#xA;&lt;p&gt;Hoje vim apenas deixar uma dica de um site onde você aprende tudo sobre VMware vSphere, e o melhor de tudo isso que é de graça e ministrado por especialistas da própria vmware, a unica dificuldade é que é tudo em inglês.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Três maneiras de ativar o Hyper-V no windows 8</title>
+      <link>http://localhost:1313/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</link>
+      <pubDate>Thu, 21 Feb 2013 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</guid>
+      <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Vou mostrar pra vocês três maneira de ativar o Hyper-V no windows 8.&lt;/p&gt;&#xA;&lt;p&gt;São elas:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1º Prompt de Comando&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2º Power Shell&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3º Modo Gráfico&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Na primeira opção você deve executar o prompt de comando como administrador, ou seja, botão direito do mouse em cima do ícone e executar como administrador, com o prompt de comando aberto basta executar a seguinte linha de comando:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opwnwrt-19-07-2 on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/opwnwrt-19-07-2/</link>
+    <description>Recent content in Opwnwrt-19-07-2 on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/opwnwrt-19-07-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instalação e Configuraçao do OpenWrt 19.07.2 no ESXi 6.7</title>
+      <link>http://localhost:1313/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Não é novidade para quem me segue aqui no blog que uso o &lt;strong&gt;OpenWrt&lt;/strong&gt; nos meus equipamentos wifi, mas nesse post vou mostrar como podemos instalar e configurar a versão mais nova do &lt;strong&gt;OpenWrt&lt;/strong&gt; no &lt;strong&gt;ESXi 6.7&lt;/strong&gt; para podermos fazer testes antes de aplicar ao nosso ambiente de produção, no meu caso a minha casa. :D&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
