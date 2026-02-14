@@ -75,7 +75,7 @@ showAuthorsBadges = true
 showWordCount = true
 showZenMode = false
 heroStyle = ""
-showComments = false
+showComments = true
 sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]

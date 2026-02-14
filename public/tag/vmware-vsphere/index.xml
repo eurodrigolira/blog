@@ -122,16 +122,6 @@
     </item>
     
     <item>
-      <title>Instalando o OpenBSD 6.0 no vSphere 6.0</title>
-      <link>http://localhost:1313/instalando-o-openbsd-6-0-no-vsphere-6-0/</link>
-      <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/instalando-o-openbsd-6-0-no-vsphere-6-0/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Fiz um vídeo mostrando como instalar o OpenBSD 6.0 no vSphere 6.0, o vídeo tem todo o passo-a-passo da configuração da VM até a instalação do OpenBSD 6.0.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Instalando o vSphere ESXi no Oracle VM Server/Xen (Nested)</title>
       <link>http://localhost:1313/instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
