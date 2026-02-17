@@ -1,15 +1,13 @@
 ---
 title: "Linux Performance Tuning"
-date: 2026-02-14
-draft: true
+date: 2026-02-17
+draft: false
 category: 
   - "linux"
 tag: 
   - "performance"
   - "tuning"
   - "ajustes"
-  - "conceitos"
-  - "ferramentas"
 ---
 
 Salve Salve Pessoal!
