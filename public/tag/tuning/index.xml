@@ -9,7 +9,17 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/tuning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/tuning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux Performance Tuning</title>
+      <link>http://localhost:1313/linux-performance-tuning/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/linux-performance-tuning/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou começar uma &lt;strong&gt;série de posts focada exclusivamente em Performance Tuning no Linux&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A ideia é abordar metodologias, conceitos fundamentais, livros e ferramentas, e também como pensar ajustes  performance de forma estruturada.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Reprovado no Exame - EX442 Red Hat Certified Specialist in Linux Performance Tuning</title>
