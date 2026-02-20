@@ -9,12 +9,12 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ajustes</title>
       <link>http://localhost:1313/tag/ajustes/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ajustes/</guid>
       <description></description>
@@ -22,29 +22,9 @@
     </item>
     
     <item>
-      <title>Conceitos</title>
-      <link>http://localhost:1313/tag/conceitos/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/conceitos/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ferramentas</title>
-      <link>http://localhost:1313/tag/ferramentas/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/ferramentas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Performance</title>
       <link>http://localhost:1313/tag/performance/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/performance/</guid>
       <description></description>
@@ -54,7 +34,7 @@
     <item>
       <title>Tuning</title>
       <link>http://localhost:1313/tag/tuning/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/tuning/</guid>
       <description></description>
@@ -1747,6 +1727,16 @@
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/redes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ferramentas</title>
+      <link>http://localhost:1313/tag/ferramentas/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/ferramentas/</guid>
       <description></description>
       
     </item>

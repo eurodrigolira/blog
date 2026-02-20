@@ -3,20 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/linux-performance-tuning/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/linux-performance-tuning-livros/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/linux-performance-tuning/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2069,41 +2075,6 @@
   <url>
     <loc>http://localhost:1313/novo-site/</loc>
     <lastmod>2012-12-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ansible-introdu%C3%A7%C3%A3o/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/convertendo-imagens-de-m%C3%A1quinas-virtuais/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/oracle-linux-virtualization-manager--parte-05-configurando-as-interfaces-de-rede/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/passthrough-de-interfaces-de-rede-no-esxi/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/slackware-no-xcp-ng/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upgrade-do-centos-7-para-o-centos-8/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

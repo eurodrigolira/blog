@@ -9,15 +9,25 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux Performance Tuning (Livros)</title>
+      <link>http://localhost:1313/linux-performance-tuning-livros/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/linux-performance-tuning-livros/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Linux Performance Tuning</title>
       <link>http://localhost:1313/linux-performance-tuning/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/linux-performance-tuning/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou começar uma &lt;strong&gt;série de posts focada exclusivamente em Performance Tuning no Linux&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A ideia é abordar metodologias, conceitos fundamentais, livros e ferramentas, e também como pensar ajustes  performance de forma estruturada.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vou começar uma &lt;strong&gt;série de posts focada exclusivamente em Performance Tuning no Linux&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A ideia é abordar metodologias, conceitos fundamentais, livros e ferramentas, além de discutir como pensar em ajustes de performance de forma estruturada.&lt;/p&gt;</description>
       
     </item>
     
@@ -3438,76 +3448,6 @@
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/novo-site/</guid>
       <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Bem como vocês perceberam todo o conteúdo do site foi  perdido hehehehe, aconteceu um probleminha com o servidor que nos hospeda e eu não tinha backup e deu no que deu, mas sem stress, sem bronca que vamos postar todos os conteúdos que tinha e até bem mais e melhores agora decidi fazer alguns posts com passo a passo para certificação LPIC, como instalar e remover programas no linux e etc, valeu galerinha por enquanto é só isso e até o nosso primeiro post de verdade fui.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Ansible - Introdução</title>
-      <link>http://localhost:1313/ansible-introdu%C3%A7%C3%A3o/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/ansible-introdu%C3%A7%C3%A3o/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Convertendo imagens de Máquinas Virtuais.</title>
-      <link>http://localhost:1313/convertendo-imagens-de-m%C3%A1quinas-virtuais/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/convertendo-imagens-de-m%C3%A1quinas-virtuais/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Kubernetes The Hard Way no Slackware 15 – Parte 07</title>
-      <link>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/images/k8s-slackware.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;261&#34;&#xA;    height=&#34;161&#34;&#xA;    src=&#34;http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/images/k8s-slackware.png&#34;&#xA;    srcset=&#34;http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/images/k8s-slackware.png 800w, http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/images/k8s-slackware.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/kubernetes-the-hard-way-no-slackware-15--parte-07/images/k8s-slackware.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Oracle Linux Virtualization Manager – Parte 05 (Configurando as Interfaces de Rede)</title>
-      <link>http://localhost:1313/oracle-linux-virtualization-manager--parte-05-configurando-as-interfaces-de-rede/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/oracle-linux-virtualization-manager--parte-05-configurando-as-interfaces-de-rede/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Passthrough de Interfaces de Rede no ESXi</title>
-      <link>http://localhost:1313/passthrough-de-interfaces-de-rede-no-esxi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/passthrough-de-interfaces-de-rede-no-esxi/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Slackware no XCP-ng</title>
-      <link>http://localhost:1313/slackware-no-xcp-ng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/slackware-no-xcp-ng/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Upgrade do CentOS 7 para o CentOS 8</title>
-      <link>http://localhost:1313/upgrade-do-centos-7-para-o-centos-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/upgrade-do-centos-7-para-o-centos-8/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;</description>
       
     </item>
     
