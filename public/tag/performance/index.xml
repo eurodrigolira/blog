@@ -9,7 +9,17 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/performance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux Performance Tuning (Livros)</title>
+      <link>http://localhost:1313/linux-performance-tuning-livros/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/linux-performance-tuning-livros/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade à nossa série de posts sobre &lt;strong&gt;Performance Tuning no Linux&lt;/strong&gt;, hoje vou compartilhar alguns livros que tenho na minha estante e que também servirão como referência ao longo dos próximos posts.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Linux Performance Tuning</title>

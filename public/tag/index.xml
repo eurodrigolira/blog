@@ -9,12 +9,32 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cgroups</title>
+      <link>http://localhost:1313/tag/cgroups/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/cgroups/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Slackware</title>
+      <link>http://localhost:1313/tag/slackware/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/slackware/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ajustes</title>
       <link>http://localhost:1313/tag/ajustes/</link>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ajustes/</guid>
       <description></description>
@@ -22,9 +42,19 @@
     </item>
     
     <item>
+      <title>Livros</title>
+      <link>http://localhost:1313/tag/livros/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/livros/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Performance</title>
       <link>http://localhost:1313/tag/performance/</link>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/performance/</guid>
       <description></description>
@@ -34,7 +64,7 @@
     <item>
       <title>Tuning</title>
       <link>http://localhost:1313/tag/tuning/</link>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/tuning/</guid>
       <description></description>
@@ -157,16 +187,6 @@
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/monitoramento/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Slackware</title>
-      <link>http://localhost:1313/tag/slackware/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/slackware/</guid>
       <description></description>
       
     </item>
@@ -757,16 +777,6 @@
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/carreira/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Livros</title>
-      <link>http://localhost:1313/tag/livros/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/livros/</guid>
       <description></description>
       
     </item>

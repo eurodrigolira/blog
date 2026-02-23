@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cgroups on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/cgroups/</link>
+    <description>Recent content in Cgroups on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/cgroups/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cgroups v2 no Slackware</title>
+      <link>http://localhost:1313/cgroups-v2-no-slackware/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/cgroups-v2-no-slackware/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;Cgroups versão 2&lt;/strong&gt; só foi implementado no &lt;strong&gt;Slackware&lt;/strong&gt; em &lt;strong&gt;Janeiro de 2025&lt;/strong&gt;, para ser mais exato, no &lt;strong&gt;dia 26&lt;/strong&gt;. Mas por padrão ainda é sugerido usar a &lt;strong&gt;versão 1&lt;/strong&gt;, a menos que você tenha uma necessidade em particular, que é meu caso, pois estou tentando subir meu cluster kubernetes de teste no Slackware, mas isso é tema para outro post.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
