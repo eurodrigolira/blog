@@ -1,6 +1,6 @@
 ---
 title: "Cgroups v2 no Slackware"
-date: 2026-02-21
+date: 2026-02-23
 draft: false
 category: 
   - "linux"
