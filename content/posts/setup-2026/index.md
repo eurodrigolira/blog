@@ -33,7 +33,7 @@ Atualmente, estou utilizando os seguintes hardwares:
 **Desktop** - [OptiPlex Micro 7020](https://www.dell.com/pt-br/shop/computadores-all-in-ones-e-workstations/desktop-optiplex-micro/spd/optiplex-7020-micro)
 
 **Processador:** Intel i5-14500T (até 4,8 GHz, 20 núcleos)  
-**Memória**: 64 GiB (2 módulos de 32 GB, 4800 MT/s)  
+**Memória**: 64 GiB DDR5 (2 módulos de 32 GB, 4800 MT/s)  
 **Vídeo**: UHD Graphics 770 (onboard)  
 **Armazenamento**: NVMe SK hynix PVC10 de 512 GB e NVMe Crucial P3 Plus de 4 TB  
 
