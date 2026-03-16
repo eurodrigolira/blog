@@ -1,7 +1,7 @@
 ---
 title: "Compartilhamento de Pastas entre Linux e Windows usando Virt-Manager (QEMU/KVM)"
 date: 2026-03-16
-draft: true
+draft: false
 category: 
   - "virtualizacao"
 tag:
