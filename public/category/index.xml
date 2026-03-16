@@ -9,14 +9,14 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/category/linux/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <title>Virtualizacao</title>
+      <link>http://localhost:1313/category/virtualizacao/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/category/linux/</guid>
+      <guid>http://localhost:1313/category/virtualizacao/</guid>
       <description></description>
       
     </item>
@@ -24,9 +24,19 @@
     <item>
       <title>Outros</title>
       <link>http://localhost:1313/category/outros/</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/category/outros/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/category/linux/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/category/linux/</guid>
       <description></description>
       
     </item>
@@ -57,16 +67,6 @@
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/category/monitoramento/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Virtualizacao</title>
-      <link>http://localhost:1313/category/virtualizacao/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/category/virtualizacao/</guid>
       <description></description>
       
     </item>

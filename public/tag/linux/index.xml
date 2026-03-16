@@ -9,7 +9,17 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Compartilhamento de Pastas entre Linux e Windows usando Virt-Manager (QEMU/KVM)</title>
+      <link>http://localhost:1313/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Aqui no blog já escrevi alguns posts sobre o &lt;strong&gt;VMware Workstation&lt;/strong&gt;. Quem utiliza a ferramenta sabe como é simples realizar o compartilhamento de diretórios entre o &lt;strong&gt;sistema operacional hospedeiro&lt;/strong&gt; e o &lt;strong&gt;sistema operacional convidado&lt;/strong&gt;. Inclusive, já mostrei como fazer esse procedimento no post abaixo:&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Aprovado no Exame – EX442 Red Hat Certified Specialist in Linux Performance Tuning</title>

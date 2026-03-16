@@ -9,14 +9,34 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Cgroups</title>
-      <link>http://localhost:1313/tag/cgroups/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <title>Kvm</title>
+      <link>http://localhost:1313/tag/kvm/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/cgroups/</guid>
+      <guid>http://localhost:1313/tag/kvm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tag/linux/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qemu</title>
+      <link>http://localhost:1313/tag/qemu/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/qemu/</guid>
       <description></description>
       
     </item>
@@ -24,9 +44,119 @@
     <item>
       <title>Slackware</title>
       <link>http://localhost:1313/tag/slackware/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/slackware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Virt-Manager</title>
+      <link>http://localhost:1313/tag/virt-manager/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/virt-manager/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/tag/windows/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dell</title>
+      <link>http://localhost:1313/tag/dell/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/dell/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Homelab</title>
+      <link>http://localhost:1313/tag/homelab/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/homelab/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hyperx</title>
+      <link>http://localhost:1313/tag/hyperx/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/hyperx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Keychron</title>
+      <link>http://localhost:1313/tag/keychron/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/keychron/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Logitech</title>
+      <link>http://localhost:1313/tag/logitech/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/logitech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Openwrt</title>
+      <link>http://localhost:1313/tag/openwrt/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/openwrt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Setup</title>
+      <link>http://localhost:1313/tag/setup/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/setup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unifi</title>
+      <link>http://localhost:1313/tag/unifi/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/unifi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cgroups</title>
+      <link>http://localhost:1313/tag/cgroups/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/cgroups/</guid>
       <description></description>
       
     </item>
@@ -117,16 +247,6 @@
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ex442/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/tag/linux/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/linux/</guid>
       <description></description>
       
     </item>
@@ -407,26 +527,6 @@
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ntfs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Windows</title>
-      <link>http://localhost:1313/tag/windows/</link>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/windows/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Homelab</title>
-      <link>http://localhost:1313/tag/homelab/</link>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/homelab/</guid>
       <description></description>
       
     </item>
@@ -907,36 +1007,6 @@
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/4k/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dell</title>
-      <link>http://localhost:1313/tag/dell/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/dell/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Keychron</title>
-      <link>http://localhost:1313/tag/keychron/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/keychron/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Setup</title>
-      <link>http://localhost:1313/tag/setup/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/setup/</guid>
       <description></description>
       
     </item>
@@ -2422,16 +2492,6 @@
     </item>
     
     <item>
-      <title>Openwrt</title>
-      <link>http://localhost:1313/tag/openwrt/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/openwrt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Opwnwrt-19-07-2</title>
       <link>http://localhost:1313/tag/opwnwrt-19-07-2/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
@@ -2497,16 +2557,6 @@
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/fedora-31/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Kvm</title>
-      <link>http://localhost:1313/tag/kvm/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/kvm/</guid>
       <description></description>
       
     </item>
