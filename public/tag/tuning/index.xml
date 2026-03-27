@@ -9,7 +9,17 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/tuning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/tuning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux Performance Tuning (Unidades de Medida)</title>
+      <link>http://localhost:1313/linux-performance-tuning-unidades-de-medida/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/linux-performance-tuning-unidades-de-medida/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade à série sobre &lt;strong&gt;Performance Tuning no Linux&lt;/strong&gt;, este artigo aborda um conceito fundamental para análise de métricas: unidades de medida computacionais. Embora seja um tema conceitual, o seu entendimento é essencial para evitar interpretações incorretas durante análises de desempenho e troubleshooting.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Linux Performance Tuning (Livros)</title>
@@ -37,7 +47,7 @@
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/</guid>
-      <description>&lt;p&gt;Salve, salve, pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje fiz o exame &lt;strong&gt;EX442 – Red Hat Certified Specialist in Linux Performance Tuning&lt;/strong&gt;, e infelizmente não passei.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1542&#34;&#xA;    height=&#34;698&#34;&#xA;    src=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442_hu_f5219bcf7c4ad0d.png&#34;&#xA;    srcset=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442_hu_f5219bcf7c4ad0d.png 800w, http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442_hu_ca7729b5708654b9.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Salve, salve, pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje fiz o exame &lt;strong&gt;EX442 – Red Hat Certified Specialist in Linux Performance Tuning&lt;/strong&gt;, e infelizmente não passei.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1542&#34;&#xA;    height=&#34;698&#34;&#xA;    src=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442_hu_845c617de162f83a.png&#34;&#xA;    srcset=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442_hu_845c617de162f83a.png 800w, http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442_hu_593fbc480b4566f7.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/images/resultado-ex442.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     

@@ -9,7 +9,17 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/category/linux/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/category/linux/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Virtualizacao</title>
@@ -27,16 +37,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/category/outros/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/category/linux/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/category/linux/</guid>
       <description></description>
       
     </item>

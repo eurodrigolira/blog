@@ -9,7 +9,77 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ajustes</title>
+      <link>http://localhost:1313/tag/ajustes/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/ajustes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bc</title>
+      <link>http://localhost:1313/tag/bc/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/bc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dc</title>
+      <link>http://localhost:1313/tag/dc/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/dc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numfmt</title>
+      <link>http://localhost:1313/tag/numfmt/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/numfmt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>http://localhost:1313/tag/performance/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/performance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tuning</title>
+      <link>http://localhost:1313/tag/tuning/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/tuning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Units</title>
+      <link>http://localhost:1313/tag/units/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/units/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Kvm</title>
@@ -162,41 +232,11 @@
     </item>
     
     <item>
-      <title>Ajustes</title>
-      <link>http://localhost:1313/tag/ajustes/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/ajustes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Livros</title>
       <link>http://localhost:1313/tag/livros/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/livros/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Performance</title>
-      <link>http://localhost:1313/tag/performance/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/performance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tuning</title>
-      <link>http://localhost:1313/tag/tuning/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/tuning/</guid>
       <description></description>
       
     </item>
