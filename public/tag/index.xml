@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag on RODRIGO LIRA</title>
+    <title>tag on RODRIGO LIRA</title>
     <link>http://localhost:1313/tag/</link>
-    <description>Recent content in Tag on RODRIGO LIRA</description>
+    <description>Recent content in tag on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Ajustes</title>
+      <title>ajustes</title>
       <link>http://localhost:1313/tag/ajustes/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ajustes/</guid>
       <description></description>
@@ -22,39 +22,19 @@
     </item>
     
     <item>
-      <title>Bc</title>
-      <link>http://localhost:1313/tag/bc/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <title>hardware</title>
+      <link>http://localhost:1313/tag/hardware/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/bc/</guid>
+      <guid>http://localhost:1313/tag/hardware/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Dc</title>
-      <link>http://localhost:1313/tag/dc/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/dc/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Numfmt</title>
-      <link>http://localhost:1313/tag/numfmt/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/numfmt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Performance</title>
+      <title>performance</title>
       <link>http://localhost:1313/tag/performance/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/performance/</guid>
       <description></description>
@@ -62,9 +42,9 @@
     </item>
     
     <item>
-      <title>Tuning</title>
+      <title>tuning</title>
       <link>http://localhost:1313/tag/tuning/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/tuning/</guid>
       <description></description>
@@ -72,9 +52,59 @@
     </item>
     
     <item>
-      <title>Units</title>
+      <title>bc</title>
+      <link>http://localhost:1313/tag/bc/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/bc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>dc</title>
+      <link>http://localhost:1313/tag/dc/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/dc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>iec</title>
+      <link>http://localhost:1313/tag/iec/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/iec/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>numfmt</title>
+      <link>http://localhost:1313/tag/numfmt/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/numfmt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>si</title>
+      <link>http://localhost:1313/tag/si/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/si/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>units</title>
       <link>http://localhost:1313/tag/units/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/units/</guid>
       <description></description>
@@ -82,7 +112,7 @@
     </item>
     
     <item>
-      <title>Kvm</title>
+      <title>kvm</title>
       <link>http://localhost:1313/tag/kvm/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -92,7 +122,7 @@
     </item>
     
     <item>
-      <title>Linux</title>
+      <title>linux</title>
       <link>http://localhost:1313/tag/linux/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -102,7 +132,7 @@
     </item>
     
     <item>
-      <title>Qemu</title>
+      <title>qemu</title>
       <link>http://localhost:1313/tag/qemu/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -112,7 +142,7 @@
     </item>
     
     <item>
-      <title>Slackware</title>
+      <title>slackware</title>
       <link>http://localhost:1313/tag/slackware/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -122,7 +152,7 @@
     </item>
     
     <item>
-      <title>Virt-Manager</title>
+      <title>virt-manager</title>
       <link>http://localhost:1313/tag/virt-manager/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -132,7 +162,7 @@
     </item>
     
     <item>
-      <title>Windows</title>
+      <title>windows</title>
       <link>http://localhost:1313/tag/windows/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -142,7 +172,7 @@
     </item>
     
     <item>
-      <title>Dell</title>
+      <title>dell</title>
       <link>http://localhost:1313/tag/dell/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -152,7 +182,7 @@
     </item>
     
     <item>
-      <title>Homelab</title>
+      <title>homelab</title>
       <link>http://localhost:1313/tag/homelab/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -162,7 +192,7 @@
     </item>
     
     <item>
-      <title>Hyperx</title>
+      <title>hyperx</title>
       <link>http://localhost:1313/tag/hyperx/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -172,7 +202,7 @@
     </item>
     
     <item>
-      <title>Keychron</title>
+      <title>keychron</title>
       <link>http://localhost:1313/tag/keychron/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -182,7 +212,7 @@
     </item>
     
     <item>
-      <title>Logitech</title>
+      <title>logitech</title>
       <link>http://localhost:1313/tag/logitech/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -192,7 +222,7 @@
     </item>
     
     <item>
-      <title>Openwrt</title>
+      <title>openwrt</title>
       <link>http://localhost:1313/tag/openwrt/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -202,7 +232,7 @@
     </item>
     
     <item>
-      <title>Setup</title>
+      <title>setup</title>
       <link>http://localhost:1313/tag/setup/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -212,7 +242,7 @@
     </item>
     
     <item>
-      <title>Unifi</title>
+      <title>unifi</title>
       <link>http://localhost:1313/tag/unifi/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -222,7 +252,7 @@
     </item>
     
     <item>
-      <title>Cgroups</title>
+      <title>cgroups</title>
       <link>http://localhost:1313/tag/cgroups/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -232,7 +262,7 @@
     </item>
     
     <item>
-      <title>Livros</title>
+      <title>livros</title>
       <link>http://localhost:1313/tag/livros/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -252,7 +282,7 @@
     </item>
     
     <item>
-      <title>Migracao</title>
+      <title>migracao</title>
       <link>http://localhost:1313/tag/migracao/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -262,7 +292,7 @@
     </item>
     
     <item>
-      <title>Wordpress</title>
+      <title>wordpress</title>
       <link>http://localhost:1313/tag/wordpress/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -272,7 +302,7 @@
     </item>
     
     <item>
-      <title>Certificacoes</title>
+      <title>certificacoes</title>
       <link>http://localhost:1313/tag/certificacoes/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -282,7 +312,7 @@
     </item>
     
     <item>
-      <title>Ex442</title>
+      <title>ex442</title>
       <link>http://localhost:1313/tag/ex442/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -292,7 +322,7 @@
     </item>
     
     <item>
-      <title>Redhat</title>
+      <title>redhat</title>
       <link>http://localhost:1313/tag/redhat/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -302,7 +332,7 @@
     </item>
     
     <item>
-      <title>Tunning</title>
+      <title>tunning</title>
       <link>http://localhost:1313/tag/tunning/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -312,7 +342,7 @@
     </item>
     
     <item>
-      <title>Certified-Specialist</title>
+      <title>certified-specialist</title>
       <link>http://localhost:1313/tag/certified-specialist/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -322,7 +352,7 @@
     </item>
     
     <item>
-      <title>Red-Hat</title>
+      <title>red-hat</title>
       <link>http://localhost:1313/tag/red-hat/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -332,7 +362,7 @@
     </item>
     
     <item>
-      <title>Grafana</title>
+      <title>grafana</title>
       <link>http://localhost:1313/tag/grafana/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -342,7 +372,7 @@
     </item>
     
     <item>
-      <title>Monitoramento</title>
+      <title>monitoramento</title>
       <link>http://localhost:1313/tag/monitoramento/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -352,7 +382,7 @@
     </item>
     
     <item>
-      <title>Zabbix</title>
+      <title>zabbix</title>
       <link>http://localhost:1313/tag/zabbix/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -362,7 +392,7 @@
     </item>
     
     <item>
-      <title>Armazenamento</title>
+      <title>armazenamento</title>
       <link>http://localhost:1313/tag/armazenamento/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -372,7 +402,7 @@
     </item>
     
     <item>
-      <title>D35m2</title>
+      <title>d35m2</title>
       <link>http://localhost:1313/tag/d35m2/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -382,7 +412,7 @@
     </item>
     
     <item>
-      <title>Docking-Station</title>
+      <title>docking-station</title>
       <link>http://localhost:1313/tag/docking-station/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -392,7 +422,7 @@
     </item>
     
     <item>
-      <title>Nvme</title>
+      <title>nvme</title>
       <link>http://localhost:1313/tag/nvme/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -402,7 +432,7 @@
     </item>
     
     <item>
-      <title>Orico</title>
+      <title>orico</title>
       <link>http://localhost:1313/tag/orico/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -412,7 +442,7 @@
     </item>
     
     <item>
-      <title>Sata</title>
+      <title>sata</title>
       <link>http://localhost:1313/tag/sata/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -422,7 +452,7 @@
     </item>
     
     <item>
-      <title>Ssd</title>
+      <title>ssd</title>
       <link>http://localhost:1313/tag/ssd/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -432,7 +462,7 @@
     </item>
     
     <item>
-      <title>Storage</title>
+      <title>storage</title>
       <link>http://localhost:1313/tag/storage/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -442,7 +472,7 @@
     </item>
     
     <item>
-      <title>Broadcom</title>
+      <title>broadcom</title>
       <link>http://localhost:1313/tag/broadcom/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -452,7 +482,7 @@
     </item>
     
     <item>
-      <title>Esxi</title>
+      <title>esxi</title>
       <link>http://localhost:1313/tag/esxi/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -462,7 +492,7 @@
     </item>
     
     <item>
-      <title>Free</title>
+      <title>free</title>
       <link>http://localhost:1313/tag/free/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -472,7 +502,7 @@
     </item>
     
     <item>
-      <title>Hypervisor</title>
+      <title>hypervisor</title>
       <link>http://localhost:1313/tag/hypervisor/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -482,7 +512,7 @@
     </item>
     
     <item>
-      <title>Virtualizacao</title>
+      <title>virtualizacao</title>
       <link>http://localhost:1313/tag/virtualizacao/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -492,7 +522,7 @@
     </item>
     
     <item>
-      <title>Vmware</title>
+      <title>vmware</title>
       <link>http://localhost:1313/tag/vmware/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -502,7 +532,7 @@
     </item>
     
     <item>
-      <title>Vsphere</title>
+      <title>vsphere</title>
       <link>http://localhost:1313/tag/vsphere/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -512,7 +542,7 @@
     </item>
     
     <item>
-      <title>Bitlocker</title>
+      <title>bitlocker</title>
       <link>http://localhost:1313/tag/bitlocker/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -522,7 +552,7 @@
     </item>
     
     <item>
-      <title>Criptografia</title>
+      <title>criptografia</title>
       <link>http://localhost:1313/tag/criptografia/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -532,7 +562,7 @@
     </item>
     
     <item>
-      <title>Cryptsetup</title>
+      <title>cryptsetup</title>
       <link>http://localhost:1313/tag/cryptsetup/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -542,7 +572,7 @@
     </item>
     
     <item>
-      <title>Dislocker</title>
+      <title>dislocker</title>
       <link>http://localhost:1313/tag/dislocker/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -552,7 +582,7 @@
     </item>
     
     <item>
-      <title>Luks</title>
+      <title>luks</title>
       <link>http://localhost:1313/tag/luks/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -562,7 +592,7 @@
     </item>
     
     <item>
-      <title>Ntfs</title>
+      <title>ntfs</title>
       <link>http://localhost:1313/tag/ntfs/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -572,7 +602,7 @@
     </item>
     
     <item>
-      <title>Ovh</title>
+      <title>ovh</title>
       <link>http://localhost:1313/tag/ovh/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -582,7 +612,7 @@
     </item>
     
     <item>
-      <title>Proxmox</title>
+      <title>proxmox</title>
       <link>http://localhost:1313/tag/proxmox/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -592,7 +622,7 @@
     </item>
     
     <item>
-      <title>Centos-7</title>
+      <title>centos-7</title>
       <link>http://localhost:1313/tag/centos-7/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -602,7 +632,7 @@
     </item>
     
     <item>
-      <title>Rocky-Linux-8</title>
+      <title>rocky-linux-8</title>
       <link>http://localhost:1313/tag/rocky-linux-8/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -612,7 +642,7 @@
     </item>
     
     <item>
-      <title>Upgrade</title>
+      <title>upgrade</title>
       <link>http://localhost:1313/tag/upgrade/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -622,7 +652,7 @@
     </item>
     
     <item>
-      <title>Active-Directory</title>
+      <title>active-directory</title>
       <link>http://localhost:1313/tag/active-directory/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -632,7 +662,7 @@
     </item>
     
     <item>
-      <title>Password</title>
+      <title>password</title>
       <link>http://localhost:1313/tag/password/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -642,7 +672,7 @@
     </item>
     
     <item>
-      <title>Samba</title>
+      <title>samba</title>
       <link>http://localhost:1313/tag/samba/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -652,7 +682,7 @@
     </item>
     
     <item>
-      <title>Senha</title>
+      <title>senha</title>
       <link>http://localhost:1313/tag/senha/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -662,7 +692,7 @@
     </item>
     
     <item>
-      <title>Smbpasswd</title>
+      <title>smbpasswd</title>
       <link>http://localhost:1313/tag/smbpasswd/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -672,7 +702,7 @@
     </item>
     
     <item>
-      <title>Dissertacao</title>
+      <title>dissertacao</title>
       <link>http://localhost:1313/tag/dissertacao/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -682,7 +712,7 @@
     </item>
     
     <item>
-      <title>Ifpb</title>
+      <title>ifpb</title>
       <link>http://localhost:1313/tag/ifpb/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -692,7 +722,7 @@
     </item>
     
     <item>
-      <title>Mestrado</title>
+      <title>mestrado</title>
       <link>http://localhost:1313/tag/mestrado/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -702,7 +732,7 @@
     </item>
     
     <item>
-      <title>Chat</title>
+      <title>chat</title>
       <link>http://localhost:1313/tag/chat/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -712,7 +742,7 @@
     </item>
     
     <item>
-      <title>Client</title>
+      <title>client</title>
       <link>http://localhost:1313/tag/client/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -722,7 +752,7 @@
     </item>
     
     <item>
-      <title>Nchat</title>
+      <title>nchat</title>
       <link>http://localhost:1313/tag/nchat/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -732,7 +762,7 @@
     </item>
     
     <item>
-      <title>Slackbuilds</title>
+      <title>slackbuilds</title>
       <link>http://localhost:1313/tag/slackbuilds/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -742,7 +772,7 @@
     </item>
     
     <item>
-      <title>Telgram</title>
+      <title>telgram</title>
       <link>http://localhost:1313/tag/telgram/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -752,7 +782,7 @@
     </item>
     
     <item>
-      <title>Terminal</title>
+      <title>terminal</title>
       <link>http://localhost:1313/tag/terminal/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -762,7 +792,7 @@
     </item>
     
     <item>
-      <title>Whatsapp</title>
+      <title>whatsapp</title>
       <link>http://localhost:1313/tag/whatsapp/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -772,7 +802,7 @@
     </item>
     
     <item>
-      <title>Apache</title>
+      <title>apache</title>
       <link>http://localhost:1313/tag/apache/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -782,7 +812,7 @@
     </item>
     
     <item>
-      <title>Mariadb</title>
+      <title>mariadb</title>
       <link>http://localhost:1313/tag/mariadb/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -792,7 +822,7 @@
     </item>
     
     <item>
-      <title>Php</title>
+      <title>php</title>
       <link>http://localhost:1313/tag/php/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -802,7 +832,7 @@
     </item>
     
     <item>
-      <title>Zabbix-Agent</title>
+      <title>zabbix-agent</title>
       <link>http://localhost:1313/tag/zabbix-agent/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -812,7 +842,7 @@
     </item>
     
     <item>
-      <title>Zabbix-Agent-2</title>
+      <title>zabbix-agent-2</title>
       <link>http://localhost:1313/tag/zabbix-agent-2/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -822,7 +852,7 @@
     </item>
     
     <item>
-      <title>Certificacao</title>
+      <title>certificacao</title>
       <link>http://localhost:1313/tag/certificacao/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -832,7 +862,7 @@
     </item>
     
     <item>
-      <title>Ex316</title>
+      <title>ex316</title>
       <link>http://localhost:1313/tag/ex316/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -842,7 +872,7 @@
     </item>
     
     <item>
-      <title>Kubernetes</title>
+      <title>kubernetes</title>
       <link>http://localhost:1313/tag/kubernetes/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -852,7 +882,7 @@
     </item>
     
     <item>
-      <title>Openshift</title>
+      <title>openshift</title>
       <link>http://localhost:1313/tag/openshift/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -862,7 +892,7 @@
     </item>
     
     <item>
-      <title>Red-Hat-Certified-Specialist</title>
+      <title>red-hat-certified-specialist</title>
       <link>http://localhost:1313/tag/red-hat-certified-specialist/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -872,7 +902,7 @@
     </item>
     
     <item>
-      <title>Red-Hat-Certified-Specialist-in-Openshift-Virtualization</title>
+      <title>red-hat-certified-specialist-in-openshift-virtualization</title>
       <link>http://localhost:1313/tag/red-hat-certified-specialist-in-openshift-virtualization/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -882,7 +912,7 @@
     </item>
     
     <item>
-      <title>Virtualization</title>
+      <title>virtualization</title>
       <link>http://localhost:1313/tag/virtualization/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -892,7 +922,7 @@
     </item>
     
     <item>
-      <title>Packages</title>
+      <title>packages</title>
       <link>http://localhost:1313/tag/packages/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -902,7 +932,7 @@
     </item>
     
     <item>
-      <title>Pacotes</title>
+      <title>pacotes</title>
       <link>http://localhost:1313/tag/pacotes/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -912,7 +942,7 @@
     </item>
     
     <item>
-      <title>Carreira</title>
+      <title>carreira</title>
       <link>http://localhost:1313/tag/carreira/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -922,7 +952,7 @@
     </item>
     
     <item>
-      <title>Seguranca</title>
+      <title>seguranca</title>
       <link>http://localhost:1313/tag/seguranca/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -932,7 +962,7 @@
     </item>
     
     <item>
-      <title>Firewall</title>
+      <title>firewall</title>
       <link>http://localhost:1313/tag/firewall/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -942,7 +972,7 @@
     </item>
     
     <item>
-      <title>Iptables</title>
+      <title>iptables</title>
       <link>http://localhost:1313/tag/iptables/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -952,7 +982,7 @@
     </item>
     
     <item>
-      <title>Libvirt</title>
+      <title>libvirt</title>
       <link>http://localhost:1313/tag/libvirt/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -962,7 +992,7 @@
     </item>
     
     <item>
-      <title>Libvirt-10-4</title>
+      <title>libvirt-10-4</title>
       <link>http://localhost:1313/tag/libvirt-10-4/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -972,7 +1002,7 @@
     </item>
     
     <item>
-      <title>Nftables</title>
+      <title>nftables</title>
       <link>http://localhost:1313/tag/nftables/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -982,7 +1012,7 @@
     </item>
     
     <item>
-      <title>Cks</title>
+      <title>cks</title>
       <link>http://localhost:1313/tag/cks/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -992,7 +1022,7 @@
     </item>
     
     <item>
-      <title>Ansible</title>
+      <title>ansible</title>
       <link>http://localhost:1313/tag/ansible/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1002,7 +1032,7 @@
     </item>
     
     <item>
-      <title>Devops</title>
+      <title>devops</title>
       <link>http://localhost:1313/tag/devops/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1012,7 +1042,7 @@
     </item>
     
     <item>
-      <title>Iac</title>
+      <title>iac</title>
       <link>http://localhost:1313/tag/iac/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1022,7 +1052,7 @@
     </item>
     
     <item>
-      <title>Import</title>
+      <title>import</title>
       <link>http://localhost:1313/tag/import/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1032,7 +1062,7 @@
     </item>
     
     <item>
-      <title>Include</title>
+      <title>include</title>
       <link>http://localhost:1313/tag/include/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1052,7 +1082,7 @@
     </item>
     
     <item>
-      <title>Thinkapd</title>
+      <title>thinkapd</title>
       <link>http://localhost:1313/tag/thinkapd/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1062,7 +1092,7 @@
     </item>
     
     <item>
-      <title>Ts150</title>
+      <title>ts150</title>
       <link>http://localhost:1313/tag/ts150/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1072,7 +1102,7 @@
     </item>
     
     <item>
-      <title>Cka</title>
+      <title>cka</title>
       <link>http://localhost:1313/tag/cka/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1082,7 +1112,7 @@
     </item>
     
     <item>
-      <title>Lpic</title>
+      <title>lpic</title>
       <link>http://localhost:1313/tag/lpic/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1092,7 +1122,7 @@
     </item>
     
     <item>
-      <title>Rhca</title>
+      <title>rhca</title>
       <link>http://localhost:1313/tag/rhca/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1102,7 +1132,7 @@
     </item>
     
     <item>
-      <title>Rhce</title>
+      <title>rhce</title>
       <link>http://localhost:1313/tag/rhce/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1112,7 +1142,7 @@
     </item>
     
     <item>
-      <title>Kubernetes-the-Hard-Way</title>
+      <title>kubernetes-the-hard-way</title>
       <link>http://localhost:1313/tag/kubernetes-the-hard-way/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1122,7 +1152,7 @@
     </item>
     
     <item>
-      <title>Ca</title>
+      <title>ca</title>
       <link>http://localhost:1313/tag/ca/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1132,7 +1162,7 @@
     </item>
     
     <item>
-      <title>Pki</title>
+      <title>pki</title>
       <link>http://localhost:1313/tag/pki/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1142,7 +1172,7 @@
     </item>
     
     <item>
-      <title>Tls</title>
+      <title>tls</title>
       <link>http://localhost:1313/tag/tls/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1152,7 +1182,7 @@
     </item>
     
     <item>
-      <title>Cfssl</title>
+      <title>cfssl</title>
       <link>http://localhost:1313/tag/cfssl/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1162,7 +1192,7 @@
     </item>
     
     <item>
-      <title>Cfssljson</title>
+      <title>cfssljson</title>
       <link>http://localhost:1313/tag/cfssljson/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1172,7 +1202,7 @@
     </item>
     
     <item>
-      <title>Kubectl</title>
+      <title>kubectl</title>
       <link>http://localhost:1313/tag/kubectl/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1182,7 +1212,7 @@
     </item>
     
     <item>
-      <title>Orquestracao</title>
+      <title>orquestracao</title>
       <link>http://localhost:1313/tag/orquestracao/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1192,7 +1222,7 @@
     </item>
     
     <item>
-      <title>Esxi-8</title>
+      <title>esxi-8</title>
       <link>http://localhost:1313/tag/esxi-8/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1202,7 +1232,7 @@
     </item>
     
     <item>
-      <title>Intel-L225-Lm</title>
+      <title>intel-l225-lm</title>
       <link>http://localhost:1313/tag/intel-l225-lm/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1212,7 +1242,7 @@
     </item>
     
     <item>
-      <title>Network</title>
+      <title>network</title>
       <link>http://localhost:1313/tag/network/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1222,7 +1252,7 @@
     </item>
     
     <item>
-      <title>Artigo</title>
+      <title>artigo</title>
       <link>http://localhost:1313/tag/artigo/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1232,7 +1262,7 @@
     </item>
     
     <item>
-      <title>Csbc</title>
+      <title>csbc</title>
       <link>http://localhost:1313/tag/csbc/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1242,7 +1272,7 @@
     </item>
     
     <item>
-      <title>Semish</title>
+      <title>semish</title>
       <link>http://localhost:1313/tag/semish/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1252,7 +1282,7 @@
     </item>
     
     <item>
-      <title>Disco</title>
+      <title>disco</title>
       <link>http://localhost:1313/tag/disco/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1262,7 +1292,7 @@
     </item>
     
     <item>
-      <title>Scripts</title>
+      <title>scripts</title>
       <link>http://localhost:1313/tag/scripts/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1272,7 +1302,7 @@
     </item>
     
     <item>
-      <title>Usb</title>
+      <title>usb</title>
       <link>http://localhost:1313/tag/usb/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1292,7 +1322,7 @@
     </item>
     
     <item>
-      <title>Vexpert</title>
+      <title>vexpert</title>
       <link>http://localhost:1313/tag/vexpert/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1302,7 +1332,7 @@
     </item>
     
     <item>
-      <title>Exames</title>
+      <title>exames</title>
       <link>http://localhost:1313/tag/exames/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1312,7 +1342,7 @@
     </item>
     
     <item>
-      <title>Free-Retake</title>
+      <title>free-retake</title>
       <link>http://localhost:1313/tag/free-retake/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1322,7 +1352,7 @@
     </item>
     
     <item>
-      <title>Kubeconfig</title>
+      <title>kubeconfig</title>
       <link>http://localhost:1313/tag/kubeconfig/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1332,7 +1362,7 @@
     </item>
     
     <item>
-      <title>Role</title>
+      <title>role</title>
       <link>http://localhost:1313/tag/role/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1342,7 +1372,7 @@
     </item>
     
     <item>
-      <title>Rolebinding</title>
+      <title>rolebinding</title>
       <link>http://localhost:1313/tag/rolebinding/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1352,7 +1382,7 @@
     </item>
     
     <item>
-      <title>Usuario</title>
+      <title>usuario</title>
       <link>http://localhost:1313/tag/usuario/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1362,7 +1392,7 @@
     </item>
     
     <item>
-      <title>Curl</title>
+      <title>curl</title>
       <link>http://localhost:1313/tag/curl/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1372,7 +1402,7 @@
     </item>
     
     <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>http://localhost:1313/tag/blog/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1382,7 +1412,7 @@
     </item>
     
     <item>
-      <title>Tema</title>
+      <title>tema</title>
       <link>http://localhost:1313/tag/tema/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1392,7 +1422,7 @@
     </item>
     
     <item>
-      <title>Novidades</title>
+      <title>novidades</title>
       <link>http://localhost:1313/tag/novidades/</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1402,7 +1432,7 @@
     </item>
     
     <item>
-      <title>Xcp</title>
+      <title>xcp</title>
       <link>http://localhost:1313/tag/xcp/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1412,7 +1442,7 @@
     </item>
     
     <item>
-      <title>Xcp-Ng</title>
+      <title>xcp-ng</title>
       <link>http://localhost:1313/tag/xcp-ng/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1422,7 +1452,7 @@
     </item>
     
     <item>
-      <title>Cloud</title>
+      <title>cloud</title>
       <link>http://localhost:1313/tag/cloud/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1432,7 +1462,7 @@
     </item>
     
     <item>
-      <title>Nuvem</title>
+      <title>nuvem</title>
       <link>http://localhost:1313/tag/nuvem/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1442,7 +1472,7 @@
     </item>
     
     <item>
-      <title>Vcp</title>
+      <title>vcp</title>
       <link>http://localhost:1313/tag/vcp/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1452,7 +1482,7 @@
     </item>
     
     <item>
-      <title>Vcp-Vmc</title>
+      <title>vcp-vmc</title>
       <link>http://localhost:1313/tag/vcp-vmc/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1462,7 +1492,7 @@
     </item>
     
     <item>
-      <title>Vmware-Workstation</title>
+      <title>vmware-workstation</title>
       <link>http://localhost:1313/tag/vmware-workstation/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1472,7 +1502,7 @@
     </item>
     
     <item>
-      <title>Vsphere-8</title>
+      <title>vsphere-8</title>
       <link>http://localhost:1313/tag/vsphere-8/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1482,7 +1512,7 @@
     </item>
     
     <item>
-      <title>Bucket</title>
+      <title>bucket</title>
       <link>http://localhost:1313/tag/bucket/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1492,7 +1522,7 @@
     </item>
     
     <item>
-      <title>Minio</title>
+      <title>minio</title>
       <link>http://localhost:1313/tag/minio/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1502,7 +1532,7 @@
     </item>
     
     <item>
-      <title>Object-Storage</title>
+      <title>object-storage</title>
       <link>http://localhost:1313/tag/object-storage/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1512,7 +1542,7 @@
     </item>
     
     <item>
-      <title>S3</title>
+      <title>s3</title>
       <link>http://localhost:1313/tag/s3/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1522,7 +1552,7 @@
     </item>
     
     <item>
-      <title>Atualizacao</title>
+      <title>atualizacao</title>
       <link>http://localhost:1313/tag/atualizacao/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1532,7 +1562,7 @@
     </item>
     
     <item>
-      <title>Esxi-6-7</title>
+      <title>esxi-6-7</title>
       <link>http://localhost:1313/tag/esxi-6-7/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1542,7 +1572,7 @@
     </item>
     
     <item>
-      <title>Esxi-7</title>
+      <title>esxi-7</title>
       <link>http://localhost:1313/tag/esxi-7/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1552,7 +1582,7 @@
     </item>
     
     <item>
-      <title>Esxi-Free</title>
+      <title>esxi-free</title>
       <link>http://localhost:1313/tag/esxi-free/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1562,7 +1592,7 @@
     </item>
     
     <item>
-      <title>Update</title>
+      <title>update</title>
       <link>http://localhost:1313/tag/update/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1572,7 +1602,7 @@
     </item>
     
     <item>
-      <title>Ssh</title>
+      <title>ssh</title>
       <link>http://localhost:1313/tag/ssh/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1582,7 +1612,7 @@
     </item>
     
     <item>
-      <title>Vm</title>
+      <title>vm</title>
       <link>http://localhost:1313/tag/vm/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1592,7 +1622,7 @@
     </item>
     
     <item>
-      <title>K8s</title>
+      <title>k8s</title>
       <link>http://localhost:1313/tag/k8s/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1602,7 +1632,7 @@
     </item>
     
     <item>
-      <title>Argocd</title>
+      <title>argocd</title>
       <link>http://localhost:1313/tag/argocd/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1612,7 +1642,7 @@
     </item>
     
     <item>
-      <title>Cd</title>
+      <title>cd</title>
       <link>http://localhost:1313/tag/cd/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1622,7 +1652,7 @@
     </item>
     
     <item>
-      <title>Continuous-Delivery</title>
+      <title>continuous-delivery</title>
       <link>http://localhost:1313/tag/continuous-delivery/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1632,7 +1662,7 @@
     </item>
     
     <item>
-      <title>Contour</title>
+      <title>contour</title>
       <link>http://localhost:1313/tag/contour/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1642,7 +1672,7 @@
     </item>
     
     <item>
-      <title>Ingress</title>
+      <title>ingress</title>
       <link>http://localhost:1313/tag/ingress/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1652,7 +1682,7 @@
     </item>
     
     <item>
-      <title>Slackware-15-0</title>
+      <title>slackware-15-0</title>
       <link>http://localhost:1313/tag/slackware-15-0/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1662,7 +1692,7 @@
     </item>
     
     <item>
-      <title>Nmon</title>
+      <title>nmon</title>
       <link>http://localhost:1313/tag/nmon/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1672,7 +1702,7 @@
     </item>
     
     <item>
-      <title>Nmonchart</title>
+      <title>nmonchart</title>
       <link>http://localhost:1313/tag/nmonchart/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1682,7 +1712,7 @@
     </item>
     
     <item>
-      <title>Container</title>
+      <title>container</title>
       <link>http://localhost:1313/tag/container/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1692,7 +1722,7 @@
     </item>
     
     <item>
-      <title>Dublin-Traceroute</title>
+      <title>dublin-traceroute</title>
       <link>http://localhost:1313/tag/dublin-traceroute/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1702,7 +1732,7 @@
     </item>
     
     <item>
-      <title>Route</title>
+      <title>route</title>
       <link>http://localhost:1313/tag/route/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1712,7 +1742,7 @@
     </item>
     
     <item>
-      <title>Traceroute</title>
+      <title>traceroute</title>
       <link>http://localhost:1313/tag/traceroute/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1722,7 +1752,7 @@
     </item>
     
     <item>
-      <title>Bash</title>
+      <title>bash</title>
       <link>http://localhost:1313/tag/bash/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1732,7 +1762,7 @@
     </item>
     
     <item>
-      <title>Bashtop</title>
+      <title>bashtop</title>
       <link>http://localhost:1313/tag/bashtop/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1742,7 +1772,7 @@
     </item>
     
     <item>
-      <title>Vms</title>
+      <title>vms</title>
       <link>http://localhost:1313/tag/vms/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1752,7 +1782,7 @@
     </item>
     
     <item>
-      <title>Xen</title>
+      <title>xen</title>
       <link>http://localhost:1313/tag/xen/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1762,7 +1792,7 @@
     </item>
     
     <item>
-      <title>Rhce8</title>
+      <title>rhce8</title>
       <link>http://localhost:1313/tag/rhce8/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1772,7 +1802,7 @@
     </item>
     
     <item>
-      <title>Acme-Sh</title>
+      <title>acme-sh</title>
       <link>http://localhost:1313/tag/acme-sh/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1782,7 +1812,7 @@
     </item>
     
     <item>
-      <title>Certificados</title>
+      <title>certificados</title>
       <link>http://localhost:1313/tag/certificados/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1792,7 +1822,7 @@
     </item>
     
     <item>
-      <title>Lets-Encrypt</title>
+      <title>lets-encrypt</title>
       <link>http://localhost:1313/tag/lets-encrypt/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1802,7 +1832,7 @@
     </item>
     
     <item>
-      <title>Ssl</title>
+      <title>ssl</title>
       <link>http://localhost:1313/tag/ssl/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1812,7 +1842,7 @@
     </item>
     
     <item>
-      <title>Slackwre-15</title>
+      <title>slackwre-15</title>
       <link>http://localhost:1313/tag/slackwre-15/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1822,7 +1852,7 @@
     </item>
     
     <item>
-      <title>Bmon</title>
+      <title>bmon</title>
       <link>http://localhost:1313/tag/bmon/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1832,7 +1862,7 @@
     </item>
     
     <item>
-      <title>Interfaces</title>
+      <title>interfaces</title>
       <link>http://localhost:1313/tag/interfaces/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1842,7 +1872,7 @@
     </item>
     
     <item>
-      <title>Redes</title>
+      <title>redes</title>
       <link>http://localhost:1313/tag/redes/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1852,7 +1882,7 @@
     </item>
     
     <item>
-      <title>Ferramentas</title>
+      <title>ferramentas</title>
       <link>http://localhost:1313/tag/ferramentas/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1862,7 +1892,7 @@
     </item>
     
     <item>
-      <title>Nload</title>
+      <title>nload</title>
       <link>http://localhost:1313/tag/nload/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1872,7 +1902,7 @@
     </item>
     
     <item>
-      <title>Axel</title>
+      <title>axel</title>
       <link>http://localhost:1313/tag/axel/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1882,7 +1912,7 @@
     </item>
     
     <item>
-      <title>Download</title>
+      <title>download</title>
       <link>http://localhost:1313/tag/download/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1892,7 +1922,7 @@
     </item>
     
     <item>
-      <title>Beta</title>
+      <title>beta</title>
       <link>http://localhost:1313/tag/beta/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1902,7 +1932,7 @@
     </item>
     
     <item>
-      <title>Certification</title>
+      <title>certification</title>
       <link>http://localhost:1313/tag/certification/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1912,7 +1942,7 @@
     </item>
     
     <item>
-      <title>Containers</title>
+      <title>containers</title>
       <link>http://localhost:1313/tag/containers/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1922,7 +1952,7 @@
     </item>
     
     <item>
-      <title>Docker</title>
+      <title>docker</title>
       <link>http://localhost:1313/tag/docker/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1932,7 +1962,7 @@
     </item>
     
     <item>
-      <title>Exam-305</title>
+      <title>exam-305</title>
       <link>http://localhost:1313/tag/exam-305/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1942,7 +1972,7 @@
     </item>
     
     <item>
-      <title>Exame-305</title>
+      <title>exame-305</title>
       <link>http://localhost:1313/tag/exame-305/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1952,7 +1982,7 @@
     </item>
     
     <item>
-      <title>Slackware-15</title>
+      <title>slackware-15</title>
       <link>http://localhost:1313/tag/slackware-15/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1962,7 +1992,7 @@
     </item>
     
     <item>
-      <title>Esxi-7-0-1</title>
+      <title>esxi-7-0-1</title>
       <link>http://localhost:1313/tag/esxi-7-0-1/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1972,7 +2002,7 @@
     </item>
     
     <item>
-      <title>Hp</title>
+      <title>hp</title>
       <link>http://localhost:1313/tag/hp/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1982,7 +2012,7 @@
     </item>
     
     <item>
-      <title>Hp-Ex950-Nvme-M-2</title>
+      <title>hp-ex950-nvme-m-2</title>
       <link>http://localhost:1313/tag/hp-ex950-nvme-m-2/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -1992,7 +2022,7 @@
     </item>
     
     <item>
-      <title>M2</title>
+      <title>m2</title>
       <link>http://localhost:1313/tag/m2/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2002,7 +2032,7 @@
     </item>
     
     <item>
-      <title>Drivers</title>
+      <title>drivers</title>
       <link>http://localhost:1313/tag/drivers/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2012,7 +2042,7 @@
     </item>
     
     <item>
-      <title>Placa-De-Rede</title>
+      <title>placa-de-rede</title>
       <link>http://localhost:1313/tag/placa-de-rede/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2022,7 +2052,7 @@
     </item>
     
     <item>
-      <title>Realtek</title>
+      <title>realtek</title>
       <link>http://localhost:1313/tag/realtek/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2032,7 +2062,7 @@
     </item>
     
     <item>
-      <title>Tp-Link</title>
+      <title>tp-link</title>
       <link>http://localhost:1313/tag/tp-link/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2042,7 +2072,7 @@
     </item>
     
     <item>
-      <title>Centos</title>
+      <title>centos</title>
       <link>http://localhost:1313/tag/centos/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2052,7 +2082,7 @@
     </item>
     
     <item>
-      <title>Centos-Linux-8</title>
+      <title>centos-linux-8</title>
       <link>http://localhost:1313/tag/centos-linux-8/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2062,7 +2092,7 @@
     </item>
     
     <item>
-      <title>Centos-Stream</title>
+      <title>centos-stream</title>
       <link>http://localhost:1313/tag/centos-stream/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2072,7 +2102,7 @@
     </item>
     
     <item>
-      <title>Fedora</title>
+      <title>fedora</title>
       <link>http://localhost:1313/tag/fedora/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2082,7 +2112,7 @@
     </item>
     
     <item>
-      <title>Oracle</title>
+      <title>oracle</title>
       <link>http://localhost:1313/tag/oracle/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2092,7 +2122,7 @@
     </item>
     
     <item>
-      <title>Usbguard</title>
+      <title>usbguard</title>
       <link>http://localhost:1313/tag/usbguard/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2102,7 +2132,7 @@
     </item>
     
     <item>
-      <title>Acesso-Remoto</title>
+      <title>acesso-remoto</title>
       <link>http://localhost:1313/tag/acesso-remoto/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2112,7 +2142,7 @@
     </item>
     
     <item>
-      <title>Gerenciador-De-Senhas</title>
+      <title>gerenciador-de-senhas</title>
       <link>http://localhost:1313/tag/gerenciador-de-senhas/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2122,7 +2152,7 @@
     </item>
     
     <item>
-      <title>Keepass</title>
+      <title>keepass</title>
       <link>http://localhost:1313/tag/keepass/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2132,7 +2162,7 @@
     </item>
     
     <item>
-      <title>Keepassxc</title>
+      <title>keepassxc</title>
       <link>http://localhost:1313/tag/keepassxc/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2142,7 +2172,7 @@
     </item>
     
     <item>
-      <title>Rdp</title>
+      <title>rdp</title>
       <link>http://localhost:1313/tag/rdp/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2152,7 +2182,7 @@
     </item>
     
     <item>
-      <title>Senhas</title>
+      <title>senhas</title>
       <link>http://localhost:1313/tag/senhas/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2162,7 +2192,7 @@
     </item>
     
     <item>
-      <title>Do180</title>
+      <title>do180</title>
       <link>http://localhost:1313/tag/do180/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2172,7 +2202,7 @@
     </item>
     
     <item>
-      <title>Podman</title>
+      <title>podman</title>
       <link>http://localhost:1313/tag/podman/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2182,7 +2212,7 @@
     </item>
     
     <item>
-      <title>Slackware-Current</title>
+      <title>slackware-current</title>
       <link>http://localhost:1313/tag/slackware-current/</link>
       <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2192,7 +2222,7 @@
     </item>
     
     <item>
-      <title>Zabbix-5</title>
+      <title>zabbix-5</title>
       <link>http://localhost:1313/tag/zabbix-5/</link>
       <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2202,7 +2232,7 @@
     </item>
     
     <item>
-      <title>Open-Source</title>
+      <title>open-source</title>
       <link>http://localhost:1313/tag/open-source/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2212,7 +2242,7 @@
     </item>
     
     <item>
-      <title>Xenserver</title>
+      <title>xenserver</title>
       <link>http://localhost:1313/tag/xenserver/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2222,7 +2252,7 @@
     </item>
     
     <item>
-      <title>Esxi-7-0</title>
+      <title>esxi-7-0</title>
       <link>http://localhost:1313/tag/esxi-7-0/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2232,7 +2262,7 @@
     </item>
     
     <item>
-      <title>Vcp-Dcv</title>
+      <title>vcp-dcv</title>
       <link>http://localhost:1313/tag/vcp-dcv/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2242,7 +2272,7 @@
     </item>
     
     <item>
-      <title>Vcp-Dcv-2020</title>
+      <title>vcp-dcv-2020</title>
       <link>http://localhost:1313/tag/vcp-dcv-2020/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2252,7 +2282,7 @@
     </item>
     
     <item>
-      <title>Vsphere-7</title>
+      <title>vsphere-7</title>
       <link>http://localhost:1313/tag/vsphere-7/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2262,7 +2292,7 @@
     </item>
     
     <item>
-      <title>Isos</title>
+      <title>isos</title>
       <link>http://localhost:1313/tag/isos/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2272,7 +2302,7 @@
     </item>
     
     <item>
-      <title>Vmklinux</title>
+      <title>vmklinux</title>
       <link>http://localhost:1313/tag/vmklinux/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2282,7 +2312,7 @@
     </item>
     
     <item>
-      <title>Kde</title>
+      <title>kde</title>
       <link>http://localhost:1313/tag/kde/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2292,7 +2322,7 @@
     </item>
     
     <item>
-      <title>Windows-10</title>
+      <title>windows-10</title>
       <link>http://localhost:1313/tag/windows-10/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2302,7 +2332,7 @@
     </item>
     
     <item>
-      <title>Wsl</title>
+      <title>wsl</title>
       <link>http://localhost:1313/tag/wsl/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2312,7 +2342,7 @@
     </item>
     
     <item>
-      <title>Wsl2</title>
+      <title>wsl2</title>
       <link>http://localhost:1313/tag/wsl2/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2322,7 +2352,7 @@
     </item>
     
     <item>
-      <title>Fedora-Remix</title>
+      <title>fedora-remix</title>
       <link>http://localhost:1313/tag/fedora-remix/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2332,7 +2362,7 @@
     </item>
     
     <item>
-      <title>X410</title>
+      <title>x410</title>
       <link>http://localhost:1313/tag/x410/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2342,7 +2372,7 @@
     </item>
     
     <item>
-      <title>Oci</title>
+      <title>oci</title>
       <link>http://localhost:1313/tag/oci/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2352,7 +2382,7 @@
     </item>
     
     <item>
-      <title>Oracle-Linux</title>
+      <title>oracle-linux</title>
       <link>http://localhost:1313/tag/oracle-linux/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2362,7 +2392,7 @@
     </item>
     
     <item>
-      <title>Ex200</title>
+      <title>ex200</title>
       <link>http://localhost:1313/tag/ex200/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2372,7 +2402,7 @@
     </item>
     
     <item>
-      <title>Ex280</title>
+      <title>ex280</title>
       <link>http://localhost:1313/tag/ex280/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2382,7 +2412,7 @@
     </item>
     
     <item>
-      <title>Ex288</title>
+      <title>ex288</title>
       <link>http://localhost:1313/tag/ex288/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2392,7 +2422,7 @@
     </item>
     
     <item>
-      <title>Ex294</title>
+      <title>ex294</title>
       <link>http://localhost:1313/tag/ex294/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2402,7 +2432,7 @@
     </item>
     
     <item>
-      <title>Zabbix-5-0</title>
+      <title>zabbix-5-0</title>
       <link>http://localhost:1313/tag/zabbix-5-0/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2412,7 +2442,7 @@
     </item>
     
     <item>
-      <title>Centos-8</title>
+      <title>centos-8</title>
       <link>http://localhost:1313/tag/centos-8/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2422,7 +2452,7 @@
     </item>
     
     <item>
-      <title>Git</title>
+      <title>git</title>
       <link>http://localhost:1313/tag/git/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2432,7 +2462,7 @@
     </item>
     
     <item>
-      <title>Gitlab</title>
+      <title>gitlab</title>
       <link>http://localhost:1313/tag/gitlab/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2442,7 +2472,7 @@
     </item>
     
     <item>
-      <title>Oracle-Linux-8</title>
+      <title>oracle-linux-8</title>
       <link>http://localhost:1313/tag/oracle-linux-8/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2452,7 +2482,7 @@
     </item>
     
     <item>
-      <title>Rhel-8</title>
+      <title>rhel-8</title>
       <link>http://localhost:1313/tag/rhel-8/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2462,7 +2492,7 @@
     </item>
     
     <item>
-      <title>Dig</title>
+      <title>dig</title>
       <link>http://localhost:1313/tag/dig/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2472,7 +2502,7 @@
     </item>
     
     <item>
-      <title>Dns</title>
+      <title>dns</title>
       <link>http://localhost:1313/tag/dns/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2482,7 +2512,7 @@
     </item>
     
     <item>
-      <title>Master</title>
+      <title>master</title>
       <link>http://localhost:1313/tag/master/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2492,7 +2522,7 @@
     </item>
     
     <item>
-      <title>Powerdns</title>
+      <title>powerdns</title>
       <link>http://localhost:1313/tag/powerdns/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2502,7 +2532,7 @@
     </item>
     
     <item>
-      <title>Powerdns-Admin</title>
+      <title>powerdns-admin</title>
       <link>http://localhost:1313/tag/powerdns-admin/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2512,7 +2542,7 @@
     </item>
     
     <item>
-      <title>Slave</title>
+      <title>slave</title>
       <link>http://localhost:1313/tag/slave/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2522,7 +2552,7 @@
     </item>
     
     <item>
-      <title>Customizadas</title>
+      <title>customizadas</title>
       <link>http://localhost:1313/tag/customizadas/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2532,7 +2562,7 @@
     </item>
     
     <item>
-      <title>Opwnwrt-19-07-2</title>
+      <title>opwnwrt-19-07-2</title>
       <link>http://localhost:1313/tag/opwnwrt-19-07-2/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2542,7 +2572,7 @@
     </item>
     
     <item>
-      <title>Starwind</title>
+      <title>starwind</title>
       <link>http://localhost:1313/tag/starwind/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2552,7 +2582,7 @@
     </item>
     
     <item>
-      <title>V2v</title>
+      <title>v2v</title>
       <link>http://localhost:1313/tag/v2v/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2562,7 +2592,7 @@
     </item>
     
     <item>
-      <title>Ex407</title>
+      <title>ex407</title>
       <link>http://localhost:1313/tag/ex407/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2572,7 +2602,7 @@
     </item>
     
     <item>
-      <title>Oracle-Linux-Virtualization-Manager</title>
+      <title>oracle-linux-virtualization-manager</title>
       <link>http://localhost:1313/tag/oracle-linux-virtualization-manager/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2582,7 +2612,7 @@
     </item>
     
     <item>
-      <title>Oracle-Vm-Server</title>
+      <title>oracle-vm-server</title>
       <link>http://localhost:1313/tag/oracle-vm-server/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2592,7 +2622,7 @@
     </item>
     
     <item>
-      <title>Fedora-31</title>
+      <title>fedora-31</title>
       <link>http://localhost:1313/tag/fedora-31/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2602,7 +2632,7 @@
     </item>
     
     <item>
-      <title>Mikikube</title>
+      <title>mikikube</title>
       <link>http://localhost:1313/tag/mikikube/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2612,7 +2642,7 @@
     </item>
     
     <item>
-      <title>Httpd</title>
+      <title>httpd</title>
       <link>http://localhost:1313/tag/httpd/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2622,7 +2652,7 @@
     </item>
     
     <item>
-      <title>Selinux</title>
+      <title>selinux</title>
       <link>http://localhost:1313/tag/selinux/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2632,7 +2662,7 @@
     </item>
     
     <item>
-      <title>Lede</title>
+      <title>lede</title>
       <link>http://localhost:1313/tag/lede/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2642,7 +2672,7 @@
     </item>
     
     <item>
-      <title>Torrent</title>
+      <title>torrent</title>
       <link>http://localhost:1313/tag/torrent/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2652,7 +2682,7 @@
     </item>
     
     <item>
-      <title>Transmission</title>
+      <title>transmission</title>
       <link>http://localhost:1313/tag/transmission/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2662,7 +2692,7 @@
     </item>
     
     <item>
-      <title>Mysql</title>
+      <title>mysql</title>
       <link>http://localhost:1313/tag/mysql/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2672,7 +2702,7 @@
     </item>
     
     <item>
-      <title>Oracle-Vm</title>
+      <title>oracle-vm</title>
       <link>http://localhost:1313/tag/oracle-vm/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2682,7 +2712,7 @@
     </item>
     
     <item>
-      <title>Oracle-Vm-Manager</title>
+      <title>oracle-vm-manager</title>
       <link>http://localhost:1313/tag/oracle-vm-manager/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2692,7 +2722,7 @@
     </item>
     
     <item>
-      <title>Ovm_statistic</title>
+      <title>ovm_statistic</title>
       <link>http://localhost:1313/tag/ovm_statistic/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2702,7 +2732,7 @@
     </item>
     
     <item>
-      <title>Eventos</title>
+      <title>eventos</title>
       <link>http://localhost:1313/tag/eventos/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2712,7 +2742,7 @@
     </item>
     
     <item>
-      <title>Palestra</title>
+      <title>palestra</title>
       <link>http://localhost:1313/tag/palestra/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2722,7 +2752,7 @@
     </item>
     
     <item>
-      <title>Meetup</title>
+      <title>meetup</title>
       <link>http://localhost:1313/tag/meetup/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2732,7 +2762,7 @@
     </item>
     
     <item>
-      <title>Cloud-Native</title>
+      <title>cloud-native</title>
       <link>http://localhost:1313/tag/cloud-native/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2742,7 +2772,7 @@
     </item>
     
     <item>
-      <title>Cursos</title>
+      <title>cursos</title>
       <link>http://localhost:1313/tag/cursos/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2752,7 +2782,7 @@
     </item>
     
     <item>
-      <title>Helm</title>
+      <title>helm</title>
       <link>http://localhost:1313/tag/helm/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2762,7 +2792,7 @@
     </item>
     
     <item>
-      <title>Kata</title>
+      <title>kata</title>
       <link>http://localhost:1313/tag/kata/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2772,7 +2802,7 @@
     </item>
     
     <item>
-      <title>Ovirt</title>
+      <title>ovirt</title>
       <link>http://localhost:1313/tag/ovirt/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2782,7 +2812,7 @@
     </item>
     
     <item>
-      <title>Prometheus</title>
+      <title>prometheus</title>
       <link>http://localhost:1313/tag/prometheus/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2792,7 +2822,7 @@
     </item>
     
     <item>
-      <title>Esxi-Embedded-Host-Client</title>
+      <title>esxi-embedded-host-client</title>
       <link>http://localhost:1313/tag/esxi-embedded-host-client/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2802,7 +2832,7 @@
     </item>
     
     <item>
-      <title>Usb-Network-Native-Driver-for-Esxi</title>
+      <title>usb-network-native-driver-for-esxi</title>
       <link>http://localhost:1313/tag/usb-network-native-driver-for-esxi/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2812,7 +2842,7 @@
     </item>
     
     <item>
-      <title>Vmware-Vsphere</title>
+      <title>vmware-vsphere</title>
       <link>http://localhost:1313/tag/vmware-vsphere/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2822,7 +2852,7 @@
     </item>
     
     <item>
-      <title>Vmware-Vsphere-6-5</title>
+      <title>vmware-vsphere-6-5</title>
       <link>http://localhost:1313/tag/vmware-vsphere-6-5/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2832,7 +2862,7 @@
     </item>
     
     <item>
-      <title>Vmware-Vsphere-6-7</title>
+      <title>vmware-vsphere-6-7</title>
       <link>http://localhost:1313/tag/vmware-vsphere-6-7/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2842,7 +2872,7 @@
     </item>
     
     <item>
-      <title>Vmware-Workstation-Pro-15</title>
+      <title>vmware-workstation-pro-15</title>
       <link>http://localhost:1313/tag/vmware-workstation-pro-15/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2852,7 +2882,7 @@
     </item>
     
     <item>
-      <title>Vnc</title>
+      <title>vnc</title>
       <link>http://localhost:1313/tag/vnc/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2862,7 +2892,7 @@
     </item>
     
     <item>
-      <title>Vmware-Wokstation</title>
+      <title>vmware-wokstation</title>
       <link>http://localhost:1313/tag/vmware-wokstation/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2872,7 +2902,7 @@
     </item>
     
     <item>
-      <title>Vmware-Vexpert-2019</title>
+      <title>vmware-vexpert-2019</title>
       <link>http://localhost:1313/tag/vmware-vexpert-2019/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2882,7 +2912,7 @@
     </item>
     
     <item>
-      <title>Dev-Mapper-Already-in-a-Cluster</title>
+      <title>dev-mapper-already-in-a-cluster</title>
       <link>http://localhost:1313/tag/dev-mapper-already-in-a-cluster/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2892,7 +2922,7 @@
     </item>
     
     <item>
-      <title>Error-Creating-Clusterheartbeatdevice</title>
+      <title>error-creating-clusterheartbeatdevice</title>
       <link>http://localhost:1313/tag/error-creating-clusterheartbeatdevice/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2902,7 +2932,7 @@
     </item>
     
     <item>
-      <title>Oracle-Vm-Server-3-4-6</title>
+      <title>oracle-vm-server-3-4-6</title>
       <link>http://localhost:1313/tag/oracle-vm-server-3-4-6/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2912,7 +2942,7 @@
     </item>
     
     <item>
-      <title>Open-Vmware-Tools</title>
+      <title>open-vmware-tools</title>
       <link>http://localhost:1313/tag/open-vmware-tools/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2922,7 +2952,7 @@
     </item>
     
     <item>
-      <title>P2v</title>
+      <title>p2v</title>
       <link>http://localhost:1313/tag/p2v/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2932,7 +2962,7 @@
     </item>
     
     <item>
-      <title>Vmware-Tools</title>
+      <title>vmware-tools</title>
       <link>http://localhost:1313/tag/vmware-tools/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2942,7 +2972,7 @@
     </item>
     
     <item>
-      <title>Red-Hat-8</title>
+      <title>red-hat-8</title>
       <link>http://localhost:1313/tag/red-hat-8/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2952,7 +2982,7 @@
     </item>
     
     <item>
-      <title>Oracle-Linux-6</title>
+      <title>oracle-linux-6</title>
       <link>http://localhost:1313/tag/oracle-linux-6/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2962,7 +2992,7 @@
     </item>
     
     <item>
-      <title>Docker-Compose</title>
+      <title>docker-compose</title>
       <link>http://localhost:1313/tag/docker-compose/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2972,7 +3002,7 @@
     </item>
     
     <item>
-      <title>Fedora-29</title>
+      <title>fedora-29</title>
       <link>http://localhost:1313/tag/fedora-29/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2982,7 +3012,7 @@
     </item>
     
     <item>
-      <title>Vmware-Workstation-15</title>
+      <title>vmware-workstation-15</title>
       <link>http://localhost:1313/tag/vmware-workstation-15/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -2992,7 +3022,7 @@
     </item>
     
     <item>
-      <title>Certificaca</title>
+      <title>certificaca</title>
       <link>http://localhost:1313/tag/certificaca/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3002,7 +3032,7 @@
     </item>
     
     <item>
-      <title>Rhcsa</title>
+      <title>rhcsa</title>
       <link>http://localhost:1313/tag/rhcsa/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3012,7 +3042,7 @@
     </item>
     
     <item>
-      <title>Yum</title>
+      <title>yum</title>
       <link>http://localhost:1313/tag/yum/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3022,7 +3052,7 @@
     </item>
     
     <item>
-      <title>Slackware-14-2</title>
+      <title>slackware-14-2</title>
       <link>http://localhost:1313/tag/slackware-14-2/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3032,7 +3062,7 @@
     </item>
     
     <item>
-      <title>Zabbix-4</title>
+      <title>zabbix-4</title>
       <link>http://localhost:1313/tag/zabbix-4/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3042,7 +3072,7 @@
     </item>
     
     <item>
-      <title>Zabbix-3-4-X</title>
+      <title>zabbix-3-4-x</title>
       <link>http://localhost:1313/tag/zabbix-3-4-x/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3052,7 +3082,7 @@
     </item>
     
     <item>
-      <title>Gmail</title>
+      <title>gmail</title>
       <link>http://localhost:1313/tag/gmail/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3062,7 +3092,7 @@
     </item>
     
     <item>
-      <title>Oracle-Linux-7</title>
+      <title>oracle-linux-7</title>
       <link>http://localhost:1313/tag/oracle-linux-7/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3072,7 +3102,7 @@
     </item>
     
     <item>
-      <title>Outlook</title>
+      <title>outlook</title>
       <link>http://localhost:1313/tag/outlook/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3082,7 +3112,7 @@
     </item>
     
     <item>
-      <title>Postfix</title>
+      <title>postfix</title>
       <link>http://localhost:1313/tag/postfix/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3092,7 +3122,7 @@
     </item>
     
     <item>
-      <title>Red-Hat-7</title>
+      <title>red-hat-7</title>
       <link>http://localhost:1313/tag/red-hat-7/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3102,7 +3132,7 @@
     </item>
     
     <item>
-      <title>Relay</title>
+      <title>relay</title>
       <link>http://localhost:1313/tag/relay/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3112,7 +3142,7 @@
     </item>
     
     <item>
-      <title>Smtp</title>
+      <title>smtp</title>
       <link>http://localhost:1313/tag/smtp/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3122,7 +3152,7 @@
     </item>
     
     <item>
-      <title>Labs</title>
+      <title>labs</title>
       <link>http://localhost:1313/tag/labs/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3132,7 +3162,7 @@
     </item>
     
     <item>
-      <title>Vcsa</title>
+      <title>vcsa</title>
       <link>http://localhost:1313/tag/vcsa/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3142,7 +3172,7 @@
     </item>
     
     <item>
-      <title>Vcsa-6-7</title>
+      <title>vcsa-6-7</title>
       <link>http://localhost:1313/tag/vcsa-6-7/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3152,7 +3182,7 @@
     </item>
     
     <item>
-      <title>Vsphere-6-7</title>
+      <title>vsphere-6-7</title>
       <link>http://localhost:1313/tag/vsphere-6-7/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3172,7 +3202,7 @@
     </item>
     
     <item>
-      <title>Oracle-Vm-3-0-for-X86-Essentials</title>
+      <title>oracle-vm-3-0-for-x86-essentials</title>
       <link>http://localhost:1313/tag/oracle-vm-3-0-for-x86-essentials/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3182,7 +3212,7 @@
     </item>
     
     <item>
-      <title>Busybox</title>
+      <title>busybox</title>
       <link>http://localhost:1313/tag/busybox/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3192,7 +3222,7 @@
     </item>
     
     <item>
-      <title>Esxi-6-5</title>
+      <title>esxi-6-5</title>
       <link>http://localhost:1313/tag/esxi-6-5/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3202,7 +3232,7 @@
     </item>
     
     <item>
-      <title>Https</title>
+      <title>https</title>
       <link>http://localhost:1313/tag/https/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3212,7 +3242,7 @@
     </item>
     
     <item>
-      <title>Clone-Vm-Sh</title>
+      <title>clone-vm-sh</title>
       <link>http://localhost:1313/tag/clone-vm-sh/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3222,7 +3252,7 @@
     </item>
     
     <item>
-      <title>Backup</title>
+      <title>backup</title>
       <link>http://localhost:1313/tag/backup/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3232,7 +3262,7 @@
     </item>
     
     <item>
-      <title>Ovm-Bkp</title>
+      <title>ovm-bkp</title>
       <link>http://localhost:1313/tag/ovm-bkp/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3242,7 +3272,7 @@
     </item>
     
     <item>
-      <title>Wireless</title>
+      <title>wireless</title>
       <link>http://localhost:1313/tag/wireless/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3252,7 +3282,7 @@
     </item>
     
     <item>
-      <title>Bond</title>
+      <title>bond</title>
       <link>http://localhost:1313/tag/bond/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3262,7 +3292,7 @@
     </item>
     
     <item>
-      <title>Centos-6</title>
+      <title>centos-6</title>
       <link>http://localhost:1313/tag/centos-6/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3272,7 +3302,7 @@
     </item>
     
     <item>
-      <title>Lacp</title>
+      <title>lacp</title>
       <link>http://localhost:1313/tag/lacp/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3282,7 +3312,7 @@
     </item>
     
     <item>
-      <title>Link-Aggregation</title>
+      <title>link-aggregation</title>
       <link>http://localhost:1313/tag/link-aggregation/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3292,7 +3322,7 @@
     </item>
     
     <item>
-      <title>Red-Hat-6</title>
+      <title>red-hat-6</title>
       <link>http://localhost:1313/tag/red-hat-6/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3312,7 +3342,7 @@
     </item>
     
     <item>
-      <title>Comware</title>
+      <title>comware</title>
       <link>http://localhost:1313/tag/comware/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3322,7 +3352,7 @@
     </item>
     
     <item>
-      <title>Comware-7</title>
+      <title>comware-7</title>
       <link>http://localhost:1313/tag/comware-7/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3332,7 +3362,7 @@
     </item>
     
     <item>
-      <title>H3c</title>
+      <title>h3c</title>
       <link>http://localhost:1313/tag/h3c/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3342,7 +3372,7 @@
     </item>
     
     <item>
-      <title>Hcl</title>
+      <title>hcl</title>
       <link>http://localhost:1313/tag/hcl/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3352,7 +3382,7 @@
     </item>
     
     <item>
-      <title>Simulador</title>
+      <title>simulador</title>
       <link>http://localhost:1313/tag/simulador/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3362,7 +3392,7 @@
     </item>
     
     <item>
-      <title>Zabbix-Server</title>
+      <title>zabbix-server</title>
       <link>http://localhost:1313/tag/zabbix-server/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3372,7 +3402,7 @@
     </item>
     
     <item>
-      <title>Oracle-Vm-3-4</title>
+      <title>oracle-vm-3-4</title>
       <link>http://localhost:1313/tag/oracle-vm-3-4/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3382,7 +3412,7 @@
     </item>
     
     <item>
-      <title>Virtulizacao</title>
+      <title>virtulizacao</title>
       <link>http://localhost:1313/tag/virtulizacao/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3392,7 +3422,7 @@
     </item>
     
     <item>
-      <title>Hardening</title>
+      <title>hardening</title>
       <link>http://localhost:1313/tag/hardening/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3402,7 +3432,7 @@
     </item>
     
     <item>
-      <title>Dummy</title>
+      <title>dummy</title>
       <link>http://localhost:1313/tag/dummy/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3412,7 +3442,7 @@
     </item>
     
     <item>
-      <title>Iproute2</title>
+      <title>iproute2</title>
       <link>http://localhost:1313/tag/iproute2/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3422,7 +3452,7 @@
     </item>
     
     <item>
-      <title>Macvlan</title>
+      <title>macvlan</title>
       <link>http://localhost:1313/tag/macvlan/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3432,7 +3462,7 @@
     </item>
     
     <item>
-      <title>Qinq</title>
+      <title>qinq</title>
       <link>http://localhost:1313/tag/qinq/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3442,7 +3472,7 @@
     </item>
     
     <item>
-      <title>Vlan</title>
+      <title>vlan</title>
       <link>http://localhost:1313/tag/vlan/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3452,7 +3482,7 @@
     </item>
     
     <item>
-      <title>Vcp6-5-Dcv</title>
+      <title>vcp6-5-dcv</title>
       <link>http://localhost:1313/tag/vcp6-5-dcv/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3462,7 +3492,7 @@
     </item>
     
     <item>
-      <title>Docker-Ce</title>
+      <title>docker-ce</title>
       <link>http://localhost:1313/tag/docker-ce/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3472,7 +3502,7 @@
     </item>
     
     <item>
-      <title>Openbsd</title>
+      <title>openbsd</title>
       <link>http://localhost:1313/tag/openbsd/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3482,7 +3512,7 @@
     </item>
     
     <item>
-      <title>Pf</title>
+      <title>pf</title>
       <link>http://localhost:1313/tag/pf/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3492,7 +3522,7 @@
     </item>
     
     <item>
-      <title>Core-Netwrok</title>
+      <title>core-netwrok</title>
       <link>http://localhost:1313/tag/core-netwrok/</link>
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3502,7 +3532,7 @@
     </item>
     
     <item>
-      <title>Vcp6</title>
+      <title>vcp6</title>
       <link>http://localhost:1313/tag/vcp6/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3512,7 +3542,7 @@
     </item>
     
     <item>
-      <title>Vcp6-Dcv</title>
+      <title>vcp6-dcv</title>
       <link>http://localhost:1313/tag/vcp6-dcv/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3522,7 +3552,7 @@
     </item>
     
     <item>
-      <title>Vmug</title>
+      <title>vmug</title>
       <link>http://localhost:1313/tag/vmug/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3532,7 +3562,7 @@
     </item>
     
     <item>
-      <title>Vmugsp</title>
+      <title>vmugsp</title>
       <link>http://localhost:1313/tag/vmugsp/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3542,7 +3572,7 @@
     </item>
     
     <item>
-      <title>Cli</title>
+      <title>cli</title>
       <link>http://localhost:1313/tag/cli/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3552,7 +3582,7 @@
     </item>
     
     <item>
-      <title>Curso-Oracle-Vm-Server</title>
+      <title>curso-oracle-vm-server</title>
       <link>http://localhost:1313/tag/curso-oracle-vm-server/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3562,7 +3592,7 @@
     </item>
     
     <item>
-      <title>Non-Sparse</title>
+      <title>non-sparse</title>
       <link>http://localhost:1313/tag/non-sparse/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3572,7 +3602,7 @@
     </item>
     
     <item>
-      <title>Ocfs2</title>
+      <title>ocfs2</title>
       <link>http://localhost:1313/tag/ocfs2/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3582,7 +3612,7 @@
     </item>
     
     <item>
-      <title>Sparse</title>
+      <title>sparse</title>
       <link>http://localhost:1313/tag/sparse/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3592,7 +3622,7 @@
     </item>
     
     <item>
-      <title>Vprotect</title>
+      <title>vprotect</title>
       <link>http://localhost:1313/tag/vprotect/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3602,7 +3632,7 @@
     </item>
     
     <item>
-      <title>Telegram</title>
+      <title>telegram</title>
       <link>http://localhost:1313/tag/telegram/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3612,7 +3642,7 @@
     </item>
     
     <item>
-      <title>Kernel</title>
+      <title>kernel</title>
       <link>http://localhost:1313/tag/kernel/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3622,7 +3652,7 @@
     </item>
     
     <item>
-      <title>Uek</title>
+      <title>uek</title>
       <link>http://localhost:1313/tag/uek/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3632,7 +3662,7 @@
     </item>
     
     <item>
-      <title>Dicas</title>
+      <title>dicas</title>
       <link>http://localhost:1313/tag/dicas/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3642,7 +3672,7 @@
     </item>
     
     <item>
-      <title>Pwmake</title>
+      <title>pwmake</title>
       <link>http://localhost:1313/tag/pwmake/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3652,7 +3682,7 @@
     </item>
     
     <item>
-      <title>Keepalived</title>
+      <title>keepalived</title>
       <link>http://localhost:1313/tag/keepalived/</link>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3662,7 +3692,7 @@
     </item>
     
     <item>
-      <title>Centos2ol-Sh</title>
+      <title>centos2ol-sh</title>
       <link>http://localhost:1313/tag/centos2ol-sh/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3672,7 +3702,7 @@
     </item>
     
     <item>
-      <title>Scientific-Linux</title>
+      <title>scientific-linux</title>
       <link>http://localhost:1313/tag/scientific-linux/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3682,7 +3712,7 @@
     </item>
     
     <item>
-      <title>Ipv6</title>
+      <title>ipv6</title>
       <link>http://localhost:1313/tag/ipv6/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3692,7 +3722,7 @@
     </item>
     
     <item>
-      <title>Oracle-Vm-Cli</title>
+      <title>oracle-vm-cli</title>
       <link>http://localhost:1313/tag/oracle-vm-cli/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3702,7 +3732,7 @@
     </item>
     
     <item>
-      <title>Vexpert-2017</title>
+      <title>vexpert-2017</title>
       <link>http://localhost:1313/tag/vexpert-2017/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3712,7 +3742,7 @@
     </item>
     
     <item>
-      <title>Vcenter-Server</title>
+      <title>vcenter-server</title>
       <link>http://localhost:1313/tag/vcenter-server/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3722,7 +3752,7 @@
     </item>
     
     <item>
-      <title>Vcenter-Server-6-5</title>
+      <title>vcenter-server-6-5</title>
       <link>http://localhost:1313/tag/vcenter-server-6-5/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3732,7 +3762,7 @@
     </item>
     
     <item>
-      <title>Jampasec</title>
+      <title>jampasec</title>
       <link>http://localhost:1313/tag/jampasec/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3742,7 +3772,7 @@
     </item>
     
     <item>
-      <title>Jampasec-2016</title>
+      <title>jampasec-2016</title>
       <link>http://localhost:1313/tag/jampasec-2016/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3752,7 +3782,7 @@
     </item>
     
     <item>
-      <title>Failover</title>
+      <title>failover</title>
       <link>http://localhost:1313/tag/failover/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3762,7 +3792,7 @@
     </item>
     
     <item>
-      <title>Trunk</title>
+      <title>trunk</title>
       <link>http://localhost:1313/tag/trunk/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3772,7 +3802,7 @@
     </item>
     
     <item>
-      <title>Vsphere-6-5</title>
+      <title>vsphere-6-5</title>
       <link>http://localhost:1313/tag/vsphere-6-5/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3782,7 +3812,7 @@
     </item>
     
     <item>
-      <title>Esxi-Embedded</title>
+      <title>esxi-embedded</title>
       <link>http://localhost:1313/tag/esxi-embedded/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3792,7 +3822,7 @@
     </item>
     
     <item>
-      <title>Freebsd</title>
+      <title>freebsd</title>
       <link>http://localhost:1313/tag/freebsd/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3802,7 +3832,7 @@
     </item>
     
     <item>
-      <title>Nexenta</title>
+      <title>nexenta</title>
       <link>http://localhost:1313/tag/nexenta/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3812,7 +3842,7 @@
     </item>
     
     <item>
-      <title>Nexentastor</title>
+      <title>nexentastor</title>
       <link>http://localhost:1313/tag/nexentastor/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3822,7 +3852,7 @@
     </item>
     
     <item>
-      <title>Dhcp-Server</title>
+      <title>dhcp-server</title>
       <link>http://localhost:1313/tag/dhcp-server/</link>
       <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3832,7 +3862,7 @@
     </item>
     
     <item>
-      <title>Dns-Server</title>
+      <title>dns-server</title>
       <link>http://localhost:1313/tag/dns-server/</link>
       <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3842,7 +3872,7 @@
     </item>
     
     <item>
-      <title>Partedutil</title>
+      <title>partedutil</title>
       <link>http://localhost:1313/tag/partedutil/</link>
       <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3852,7 +3882,7 @@
     </item>
     
     <item>
-      <title>Vexpert-2016</title>
+      <title>vexpert-2016</title>
       <link>http://localhost:1313/tag/vexpert-2016/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3862,7 +3892,7 @@
     </item>
     
     <item>
-      <title>Videos</title>
+      <title>videos</title>
       <link>http://localhost:1313/tag/videos/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3872,7 +3902,7 @@
     </item>
     
     <item>
-      <title>Script</title>
+      <title>script</title>
       <link>http://localhost:1313/tag/script/</link>
       <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3882,7 +3912,7 @@
     </item>
     
     <item>
-      <title>Pfsense</title>
+      <title>pfsense</title>
       <link>http://localhost:1313/tag/pfsense/</link>
       <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3892,7 +3922,7 @@
     </item>
     
     <item>
-      <title>Gigabyte</title>
+      <title>gigabyte</title>
       <link>http://localhost:1313/tag/gigabyte/</link>
       <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3902,7 +3932,7 @@
     </item>
     
     <item>
-      <title>Recovery-Bios</title>
+      <title>recovery-bios</title>
       <link>http://localhost:1313/tag/recovery-bios/</link>
       <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3912,7 +3942,7 @@
     </item>
     
     <item>
-      <title>Z97m-D3h</title>
+      <title>z97m-d3h</title>
       <link>http://localhost:1313/tag/z97m-d3h/</link>
       <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3922,7 +3952,7 @@
     </item>
     
     <item>
-      <title>Jampasec-2015</title>
+      <title>jampasec-2015</title>
       <link>http://localhost:1313/tag/jampasec-2015/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3932,7 +3962,7 @@
     </item>
     
     <item>
-      <title>Vsphere-5-5</title>
+      <title>vsphere-5-5</title>
       <link>http://localhost:1313/tag/vsphere-5-5/</link>
       <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3942,7 +3972,7 @@
     </item>
     
     <item>
-      <title>Vsphere-6</title>
+      <title>vsphere-6</title>
       <link>http://localhost:1313/tag/vsphere-6/</link>
       <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3952,7 +3982,7 @@
     </item>
     
     <item>
-      <title>Cursos-Vmware</title>
+      <title>cursos-vmware</title>
       <link>http://localhost:1313/tag/cursos-vmware/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3962,7 +3992,7 @@
     </item>
     
     <item>
-      <title>Nsx</title>
+      <title>nsx</title>
       <link>http://localhost:1313/tag/nsx/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3972,7 +4002,7 @@
     </item>
     
     <item>
-      <title>Kb-2032823</title>
+      <title>kb-2032823</title>
       <link>http://localhost:1313/tag/kb-2032823/</link>
       <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3982,7 +4012,7 @@
     </item>
     
     <item>
-      <title>Vsphere-5-0</title>
+      <title>vsphere-5-0</title>
       <link>http://localhost:1313/tag/vsphere-5-0/</link>
       <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -3992,7 +4022,7 @@
     </item>
     
     <item>
-      <title>Vsphere-5-1</title>
+      <title>vsphere-5-1</title>
       <link>http://localhost:1313/tag/vsphere-5-1/</link>
       <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4002,7 +4032,7 @@
     </item>
     
     <item>
-      <title>Ddns</title>
+      <title>ddns</title>
       <link>http://localhost:1313/tag/ddns/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4012,7 +4042,7 @@
     </item>
     
     <item>
-      <title>Proxy</title>
+      <title>proxy</title>
       <link>http://localhost:1313/tag/proxy/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4022,7 +4052,7 @@
     </item>
     
     <item>
-      <title>Core-Nework-Emulator</title>
+      <title>core-nework-emulator</title>
       <link>http://localhost:1313/tag/core-nework-emulator/</link>
       <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4032,7 +4062,7 @@
     </item>
     
     <item>
-      <title>Network-Virtualization</title>
+      <title>network-virtualization</title>
       <link>http://localhost:1313/tag/network-virtualization/</link>
       <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4042,7 +4072,7 @@
     </item>
     
     <item>
-      <title>Vcp-Nv</title>
+      <title>vcp-nv</title>
       <link>http://localhost:1313/tag/vcp-nv/</link>
       <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4052,7 +4082,7 @@
     </item>
     
     <item>
-      <title>Vmware-Nsx</title>
+      <title>vmware-nsx</title>
       <link>http://localhost:1313/tag/vmware-nsx/</link>
       <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4062,7 +4092,7 @@
     </item>
     
     <item>
-      <title>Vcenter</title>
+      <title>vcenter</title>
       <link>http://localhost:1313/tag/vcenter/</link>
       <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4072,7 +4102,7 @@
     </item>
     
     <item>
-      <title>Zentyal</title>
+      <title>zentyal</title>
       <link>http://localhost:1313/tag/zentyal/</link>
       <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4082,7 +4112,7 @@
     </item>
     
     <item>
-      <title>Lab</title>
+      <title>lab</title>
       <link>http://localhost:1313/tag/lab/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4092,7 +4122,7 @@
     </item>
     
     <item>
-      <title>Vsphere6</title>
+      <title>vsphere6</title>
       <link>http://localhost:1313/tag/vsphere6/</link>
       <pubDate>Sun, 29 Mar 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4102,7 +4132,7 @@
     </item>
     
     <item>
-      <title>Aula</title>
+      <title>aula</title>
       <link>http://localhost:1313/tag/aula/</link>
       <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4112,7 +4142,7 @@
     </item>
     
     <item>
-      <title>Linuxfi</title>
+      <title>linuxfi</title>
       <link>http://localhost:1313/tag/linuxfi/</link>
       <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4122,7 +4152,7 @@
     </item>
     
     <item>
-      <title>Video</title>
+      <title>video</title>
       <link>http://localhost:1313/tag/video/</link>
       <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4132,7 +4162,7 @@
     </item>
     
     <item>
-      <title>Sddc</title>
+      <title>sddc</title>
       <link>http://localhost:1313/tag/sddc/</link>
       <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4142,7 +4172,7 @@
     </item>
     
     <item>
-      <title>Curso</title>
+      <title>curso</title>
       <link>http://localhost:1313/tag/curso/</link>
       <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4152,7 +4182,7 @@
     </item>
     
     <item>
-      <title>Software-Livre</title>
+      <title>software-livre</title>
       <link>http://localhost:1313/tag/software-livre/</link>
       <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4162,7 +4192,7 @@
     </item>
     
     <item>
-      <title>Vcap</title>
+      <title>vcap</title>
       <link>http://localhost:1313/tag/vcap/</link>
       <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4172,7 +4202,7 @@
     </item>
     
     <item>
-      <title>Captive-Portal</title>
+      <title>captive-portal</title>
       <link>http://localhost:1313/tag/captive-portal/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4182,7 +4212,7 @@
     </item>
     
     <item>
-      <title>Radius</title>
+      <title>radius</title>
       <link>http://localhost:1313/tag/radius/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4192,7 +4222,7 @@
     </item>
     
     <item>
-      <title>Vcp5-Dcv</title>
+      <title>vcp5-dcv</title>
       <link>http://localhost:1313/tag/vcp5-dcv/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4202,7 +4232,7 @@
     </item>
     
     <item>
-      <title>Multilib</title>
+      <title>multilib</title>
       <link>http://localhost:1313/tag/multilib/</link>
       <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4212,7 +4242,7 @@
     </item>
     
     <item>
-      <title>Hyper-V</title>
+      <title>hyper-v</title>
       <link>http://localhost:1313/tag/hyper-v/</link>
       <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4222,7 +4252,7 @@
     </item>
     
     <item>
-      <title>Microsoft</title>
+      <title>microsoft</title>
       <link>http://localhost:1313/tag/microsoft/</link>
       <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4232,7 +4262,7 @@
     </item>
     
     <item>
-      <title>Destaques</title>
+      <title>destaques</title>
       <link>http://localhost:1313/tag/destaques/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4242,7 +4272,7 @@
     </item>
     
     <item>
-      <title>Jogos</title>
+      <title>jogos</title>
       <link>http://localhost:1313/tag/jogos/</link>
       <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4252,7 +4282,7 @@
     </item>
     
     <item>
-      <title>Itil</title>
+      <title>itil</title>
       <link>http://localhost:1313/tag/itil/</link>
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4262,7 +4292,7 @@
     </item>
     
     <item>
-      <title>Lilo</title>
+      <title>lilo</title>
       <link>http://localhost:1313/tag/lilo/</link>
       <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4272,7 +4302,7 @@
     </item>
     
     <item>
-      <title>Noticias</title>
+      <title>noticias</title>
       <link>http://localhost:1313/tag/noticias/</link>
       <pubDate>Fri, 08 Nov 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4282,7 +4312,7 @@
     </item>
     
     <item>
-      <title>Slackware-14-1</title>
+      <title>slackware-14-1</title>
       <link>http://localhost:1313/tag/slackware-14-1/</link>
       <pubDate>Fri, 08 Nov 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4292,7 +4322,7 @@
     </item>
     
     <item>
-      <title>Shell</title>
+      <title>shell</title>
       <link>http://localhost:1313/tag/shell/</link>
       <pubDate>Thu, 29 Aug 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4302,7 +4332,7 @@
     </item>
     
     <item>
-      <title>Produtividade</title>
+      <title>produtividade</title>
       <link>http://localhost:1313/tag/produtividade/</link>
       <pubDate>Tue, 27 Aug 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4312,7 +4342,7 @@
     </item>
     
     <item>
-      <title>Ebook</title>
+      <title>ebook</title>
       <link>http://localhost:1313/tag/ebook/</link>
       <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4322,7 +4352,7 @@
     </item>
     
     <item>
-      <title>Lpi</title>
+      <title>lpi</title>
       <link>http://localhost:1313/tag/lpi/</link>
       <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4332,7 +4362,7 @@
     </item>
     
     <item>
-      <title>Plugins</title>
+      <title>plugins</title>
       <link>http://localhost:1313/tag/plugins/</link>
       <pubDate>Tue, 28 May 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4342,7 +4372,7 @@
     </item>
     
     <item>
-      <title>Debian</title>
+      <title>debian</title>
       <link>http://localhost:1313/tag/debian/</link>
       <pubDate>Sun, 05 May 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4352,7 +4382,7 @@
     </item>
     
     <item>
-      <title>Windows-Server-2012</title>
+      <title>windows-server-2012</title>
       <link>http://localhost:1313/tag/windows-server-2012/</link>
       <pubDate>Tue, 16 Apr 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4362,7 +4392,7 @@
     </item>
     
     <item>
-      <title>Video-Aulas</title>
+      <title>video-aulas</title>
       <link>http://localhost:1313/tag/video-aulas/</link>
       <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4372,7 +4402,7 @@
     </item>
     
     <item>
-      <title>Manual</title>
+      <title>manual</title>
       <link>http://localhost:1313/tag/manual/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4382,7 +4412,7 @@
     </item>
     
     <item>
-      <title>Wireshark</title>
+      <title>wireshark</title>
       <link>http://localhost:1313/tag/wireshark/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4392,7 +4422,7 @@
     </item>
     
     <item>
-      <title>Windows-8</title>
+      <title>windows-8</title>
       <link>http://localhost:1313/tag/windows-8/</link>
       <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4402,7 +4432,7 @@
     </item>
     
     <item>
-      <title>Slax</title>
+      <title>slax</title>
       <link>http://localhost:1313/tag/slax/</link>
       <pubDate>Fri, 08 Feb 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4412,7 +4442,7 @@
     </item>
     
     <item>
-      <title>Skype</title>
+      <title>skype</title>
       <link>http://localhost:1313/tag/skype/</link>
       <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4422,7 +4452,7 @@
     </item>
     
     <item>
-      <title>Uncategorized</title>
+      <title>uncategorized</title>
       <link>http://localhost:1313/tag/uncategorized/</link>
       <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
@@ -4432,7 +4462,7 @@
     </item>
     
     <item>
-      <title>Nmap</title>
+      <title>nmap</title>
       <link>http://localhost:1313/tag/nmap/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>

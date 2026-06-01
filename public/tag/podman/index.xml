@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Podman on RODRIGO LIRA</title>
+    <title>podman on RODRIGO LIRA</title>
     <link>http://localhost:1313/tag/podman/</link>
-    <description>Recent content in Podman on RODRIGO LIRA</description>
+    <description>Recent content in podman on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>

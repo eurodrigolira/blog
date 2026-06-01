@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slackware on RODRIGO LIRA</title>
+    <title>slackware on RODRIGO LIRA</title>
     <link>http://localhost:1313/tag/slackware/</link>
-    <description>Recent content in Slackware on RODRIGO LIRA</description>
+    <description>Recent content in slackware on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
@@ -28,7 +28,7 @@
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/setup-2026/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui para falar um pouco sobre o meu &lt;strong&gt;Setup 2026&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Não utilizo mais notebook, atualmente estou apenas com um mini desktop. Também deixei de ter um &lt;strong&gt;homelab&lt;/strong&gt; dedicado, todos os meus laboratórios estão sendo executados no próprio desktop, que, até o momento, está dando conta de todas as demandas sem dificuldades.&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/setup-2026/featured.jpeg" />
     </item>
     
     <item>

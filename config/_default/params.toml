@@ -38,7 +38,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
@@ -47,7 +47,7 @@ cardView = false
 cardViewScreenWidth = true
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
-homepageImage = "perfil.jpeg"
+homepageImage = "background.png"
 
 [article]
 showDate = true
@@ -57,9 +57,9 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
 showHero = true
-layoutBackgroundBlur = true
+layoutBackgroundBlur = false
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -74,16 +74,24 @@ showCategoryOnly = false
 showAuthorsBadges = true
 showWordCount = true
 showZenMode = false
-heroStyle = ""
+heroStyle = "background"
 showComments = true
-sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+sharingLinks = [
+  "linkedin",
+  "twitter",
+  "whatsapp",
+  "pinterest",
+  "reddit",
+  "facebook",
+  "email"
+]
 
 [list]
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false

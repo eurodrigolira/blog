@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bc on RODRIGO LIRA</title>
+    <title>bc on RODRIGO LIRA</title>
     <link>http://localhost:1313/tag/bc/</link>
-    <description>Recent content in Bc on RODRIGO LIRA</description>
+    <description>Recent content in bc on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/bc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/bc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Linux Performance Tuning (Unidades de Medida)</title>
       <link>http://localhost:1313/linux-performance-tuning-unidades-de-medida/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/linux-performance-tuning-unidades-de-medida/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade à série sobre &lt;strong&gt;Performance Tuning no Linux&lt;/strong&gt;, este artigo aborda um conceito fundamental para análise de métricas: unidades de medida computacionais. Embora seja um tema conceitual, o seu entendimento é essencial para evitar interpretações incorretas durante análises de desempenho e troubleshooting.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade à série sobre &lt;strong&gt;Performance Tuning no Linux&lt;/strong&gt;, este post aborda um conceito fundamental para análise de métricas, as &lt;strong&gt;Unidades de Medida Computacionais&lt;/strong&gt;. Embora seja um tema conceitual, o seu entendimento é essencial para evitar interpretações incorretas durante análises de desempenho e troubleshooting.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/linux-performance-tuning-unidades-de-medida/featured.png" />
     </item>
     
   </channel>
