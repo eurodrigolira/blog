@@ -2,261 +2,261 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>esxi on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/esxi/</link>
+    <link>http://localhost:52927/tag/esxi/</link>
     <description>Recent content in esxi on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/esxi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/esxi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VMware ESXi Free está de volta?!</title>
-      <link>http://localhost:1313/vmware-esxi-free-esta-de-volta/</link>
+      <link>http://localhost:52927/vmware-esxi-free-esta-de-volta/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/vmware-esxi-free-esta-de-volta/</guid>
+      <guid>http://localhost:52927/vmware-esxi-free-esta-de-volta/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje, navegando pelo LinkedIn, me deparei com uma postagem interessante de Duncan Epping, renomado engenheiro da VMware, que atualmente faz parte da Broadcom. Na publicação, ele menciona a volta da versão gratuita do ESXi, algo que muitos profissionais de TI vinham aguardando ansiosamente desde as recentes mudanças na estratégia de licenciamento.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Fim do VMware ESXi Gratuito</title>
-      <link>http://localhost:1313/fim-do-vmware-esxi-gratuito/</link>
+      <link>http://localhost:52927/fim-do-vmware-esxi-gratuito/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/fim-do-vmware-esxi-gratuito/</guid>
+      <guid>http://localhost:52927/fim-do-vmware-esxi-gratuito/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;É com muita tristeza que venho fazer esse post. :(&lt;/p&gt;&#xA;&lt;p&gt;Desde de a compra da VMware pela Broadcom, várias mudanças foram anunciadas, produtos que não iriram mais ser comercializados e mudanças na forma do licenciamento das soluções da VMware.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Placas de rede de baixo custo para o ESXi 8</title>
-      <link>http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/</link>
+      <link>http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225.jpeg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;253&#34;&#xA;    src=&#34;http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg&#34;&#xA;    srcset=&#34;http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg 800w, http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Desde o lançamento do &lt;strong&gt;VMware ESXi 7.0&lt;/strong&gt;, nós não conseguimos mais inserir drivers da comunidade com suporte a chipsets realtek, isso é um problema para as pessoas que possuem pequenos ambientes ou até mesmo seus homelabs.&lt;/p&gt;</description>
+      <guid>http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225.jpeg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;253&#34;&#xA;    src=&#34;http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg&#34;&#xA;    srcset=&#34;http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg 800w, http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/images/l225-300x253.jpeg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Desde o lançamento do &lt;strong&gt;VMware ESXi 7.0&lt;/strong&gt;, nós não conseguimos mais inserir drivers da comunidade com suporte a chipsets realtek, isso é um problema para as pessoas que possuem pequenos ambientes ou até mesmo seus homelabs.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Montando disco USB no VMware ESXi</title>
-      <link>http://localhost:1313/montando-disco-usb-no-vmware-esxi/</link>
+      <link>http://localhost:52927/montando-disco-usb-no-vmware-esxi/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/montando-disco-usb-no-vmware-esxi/</guid>
+      <guid>http://localhost:52927/montando-disco-usb-no-vmware-esxi/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Sempre recebo o contato de pessoas me perguntando como podemos montar um disco USB no VMware ESXi.&lt;/p&gt;&#xA;&lt;p&gt;Mas porque eu usária um disco USB no meu ESXi Rodrigo?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do ESXi 8</title>
-      <link>http://localhost:1313/instalacao-do-esxi-8/</link>
+      <link>http://localhost:52927/instalacao-do-esxi-8/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/instalacao-do-esxi-8/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;494&#34;&#xA;    src=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494_hu_9f3c5bc9a4bce17d.png&#34;&#xA;    srcset=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494_hu_9f3c5bc9a4bce17d.png 800w, http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A VMware lançou recentemente o &lt;strong&gt;vSphere 8&lt;/strong&gt;, são diversas novidades e novas features, porém para começar vamos ver como está a nova versão do &lt;strong&gt;ESXi&lt;/strong&gt; rodando em modo standalone.&lt;/p&gt;</description>
+      <guid>http://localhost:52927/instalacao-do-esxi-8/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/instalacao-do-esxi-8/images/2022-10-18_22-10.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;494&#34;&#xA;    src=&#34;http://localhost:52927/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494_hu_9f3c5bc9a4bce17d.png&#34;&#xA;    srcset=&#34;http://localhost:52927/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494_hu_9f3c5bc9a4bce17d.png 800w, http://localhost:52927/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/instalacao-do-esxi-8/images/2022-10-18_22-10-1024x494.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;A VMware lançou recentemente o &lt;strong&gt;vSphere 8&lt;/strong&gt;, são diversas novidades e novas features, porém para começar vamos ver como está a nova versão do &lt;strong&gt;ESXi&lt;/strong&gt; rodando em modo standalone.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Atualizando o ESXi via linha de comando.</title>
-      <link>http://localhost:1313/atualizando-o-esxi-via-linha-de-comando/</link>
+      <link>http://localhost:52927/atualizando-o-esxi-via-linha-de-comando/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/atualizando-o-esxi-via-linha-de-comando/</guid>
+      <guid>http://localhost:52927/atualizando-o-esxi-via-linha-de-comando/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos fazer a atualização do ESXi via linha de comando, normalmente através de uma conexão via SSH, mas o mesmo caso se aplica se você estiver na frente do servidor usando a DCUI/SHELL do ESXi.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Removendo VMs com status Invalid no ESXi</title>
-      <link>http://localhost:1313/removendo-vms-com-status-invalid-no-esxi/</link>
+      <link>http://localhost:52927/removendo-vms-com-status-invalid-no-esxi/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/removendo-vms-com-status-invalid-no-esxi/</guid>
+      <guid>http://localhost:52927/removendo-vms-com-status-invalid-no-esxi/</guid>
       <description>&lt;p&gt;Salve Salve Pessoa!&lt;/p&gt;&#xA;&lt;p&gt;Hoje um dos meus clientes perdeu um dos discos do seu servidor.&lt;/p&gt;&#xA;&lt;p&gt;Existiam máquinas virtuais rodando em produção nesse disco. :(&lt;/p&gt;&#xA;&lt;p&gt;Como ESXi perdeu referência com essas máquinas virtuais ficou apresentando um &lt;strong&gt;Status&lt;/strong&gt; de &lt;strong&gt;Invalid&lt;/strong&gt; para essas máquinas virtuais.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>SSD HP EX950 NVMe M.2 1TB no ESXi</title>
-      <link>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</link>
+      <link>http://localhost:52927/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</guid>
+      <guid>http://localhost:52927/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Recentemente comprei um novo disco para meu homelab, um &lt;strong&gt;SSD HP EX950 NVMe M.2 1TB&lt;/strong&gt;, porém meu servidor é um &lt;strong&gt;HP ML30 Gen9&lt;/strong&gt; e o mesmo não tem entradas para o disco diretamente na placa mãe, então tive que comprar um apadtador para ele, comprei um &lt;strong&gt;Dual SSD NVME M.2&lt;/strong&gt;, vai que eu compre outro disco no futuro. ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Adaptadores USB para Ethernet no ESXi 7</title>
-      <link>http://localhost:1313/adaptadores-usb-para-ethernet-no-esxi-7/</link>
+      <link>http://localhost:52927/adaptadores-usb-para-ethernet-no-esxi-7/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
+      <guid>http://localhost:52927/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muita gente sabe que com o &lt;strong&gt;ESXi 7&lt;/strong&gt; não podemos mais usar placas de rede do tipo PCI não homologadas pela VMware, normalmente essas placas de rede vem com chipsets &lt;strong&gt;Realtek&lt;/strong&gt;, precisamos instalar os drivers manualmente e eram usadas em labs ou pequenos ambientes, particularmente tenho vários clientes usando.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Lab VCP-DCV 2020 - Introdução</title>
-      <link>http://localhost:1313/lab-vcp-dcv-2020-introducao/</link>
+      <link>http://localhost:52927/lab-vcp-dcv-2020-introducao/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/lab-vcp-dcv-2020-introducao/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:1313/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png&#34;&#xA;    srcset=&#34;http://localhost:1313/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png 800w, http://localhost:1313/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Rescentemente a &lt;strong&gt;VMware&lt;/strong&gt; lançou a nova versão do exame &lt;strong&gt;VCP-DCV 2020&lt;/strong&gt; baseado no &lt;strong&gt;VMware vSphere 7&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Com esse novo lançamento eu resolvi atualizar a minha certificação. ;)&lt;/p&gt;</description>
+      <guid>http://localhost:52927/lab-vcp-dcv-2020-introducao/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;300&#34;&#xA;    src=&#34;http://localhost:52927/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png&#34;&#xA;    srcset=&#34;http://localhost:52927/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png 800w, http://localhost:52927/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/lab-vcp-dcv-2020-introducao/images/vmw-vcp-dcv-color-300x300.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Rescentemente a &lt;strong&gt;VMware&lt;/strong&gt; lançou a nova versão do exame &lt;strong&gt;VCP-DCV 2020&lt;/strong&gt; baseado no &lt;strong&gt;VMware vSphere 7&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Com esse novo lançamento eu resolvi atualizar a minha certificação. ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ISOs Customizadas do ESXi 7</title>
-      <link>http://localhost:1313/isos-customizadas-do-esxi-7/</link>
+      <link>http://localhost:52927/isos-customizadas-do-esxi-7/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/isos-customizadas-do-esxi-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/isos-customizadas-do-esxi-7/images/vsphere7_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;525&#34;&#xA;    height=&#34;350&#34;&#xA;    src=&#34;http://localhost:1313/isos-customizadas-do-esxi-7/images/vsphere7_logo.png&#34;&#xA;    srcset=&#34;http://localhost:1313/isos-customizadas-do-esxi-7/images/vsphere7_logo.png 800w, http://localhost:1313/isos-customizadas-do-esxi-7/images/vsphere7_logo.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/isos-customizadas-do-esxi-7/images/vsphere7_logo.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muitas pessoas estão vindo me perguntar quando irei disponibilizar uma ISO do &lt;strong&gt;ESXi 7 Customizada&lt;/strong&gt; com os drivers de rede com chipsets da realtek.&lt;/p&gt;</description>
+      <guid>http://localhost:52927/isos-customizadas-do-esxi-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/isos-customizadas-do-esxi-7/images/vsphere7_logo.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;525&#34;&#xA;    height=&#34;350&#34;&#xA;    src=&#34;http://localhost:52927/isos-customizadas-do-esxi-7/images/vsphere7_logo.png&#34;&#xA;    srcset=&#34;http://localhost:52927/isos-customizadas-do-esxi-7/images/vsphere7_logo.png 800w, http://localhost:52927/isos-customizadas-do-esxi-7/images/vsphere7_logo.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/isos-customizadas-do-esxi-7/images/vsphere7_logo.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muitas pessoas estão vindo me perguntar quando irei disponibilizar uma ISO do &lt;strong&gt;ESXi 7 Customizada&lt;/strong&gt; com os drivers de rede com chipsets da realtek.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Atualizações das ISOs Customizadas do ESXi 6.7 para Update 3</title>
-      <link>http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</link>
+      <link>http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;826&#34;&#xA;    height=&#34;253&#34;&#xA;    src=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3_hu_13381b033d137e65.png&#34;&#xA;    srcset=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3_hu_13381b033d137e65.png 800w, http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Essa semana fiz a atualização para o &lt;strong&gt;ESXI 6.7&lt;/strong&gt; &lt;strong&gt;Update 3&lt;/strong&gt; das minhas &lt;strong&gt;ISOs&lt;/strong&gt; &lt;strong&gt;Customizadas&lt;/strong&gt; com os drivers de rede de placas realtek, drivers de rede para placas USB e da interface web.&lt;/p&gt;</description>
+      <guid>http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;826&#34;&#xA;    height=&#34;253&#34;&#xA;    src=&#34;http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3_hu_13381b033d137e65.png&#34;&#xA;    srcset=&#34;http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3_hu_13381b033d137e65.png 800w, http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/images/esxi-u3.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Essa semana fiz a atualização para o &lt;strong&gt;ESXI 6.7&lt;/strong&gt; &lt;strong&gt;Update 3&lt;/strong&gt; das minhas &lt;strong&gt;ISOs&lt;/strong&gt; &lt;strong&gt;Customizadas&lt;/strong&gt; com os drivers de rede de placas realtek, drivers de rede para placas USB e da interface web.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação e Configuraçao do OpenWrt 19.07.2 no ESXi 6.7</title>
-      <link>http://localhost:1313/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</link>
+      <link>http://localhost:52927/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</guid>
+      <guid>http://localhost:52927/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Não é novidade para quem me segue aqui no blog que uso o &lt;strong&gt;OpenWrt&lt;/strong&gt; nos meus equipamentos wifi, mas nesse post vou mostrar como podemos instalar e configurar a versão mais nova do &lt;strong&gt;OpenWrt&lt;/strong&gt; no &lt;strong&gt;ESXi 6.7&lt;/strong&gt; para podermos fazer testes antes de aplicar ao nosso ambiente de produção, no meu caso a minha casa. :D&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ISOs ESXi Customizadas (Update 06/2019)</title>
-      <link>http://localhost:1313/isos-esxi-customizadas-update-06-2019/</link>
+      <link>http://localhost:52927/isos-esxi-customizadas-update-06-2019/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/isos-esxi-customizadas-update-06-2019/</guid>
+      <guid>http://localhost:52927/isos-esxi-customizadas-update-06-2019/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de uma boa reformulada no blog, venho com mais uma boa notícia.&lt;/p&gt;&#xA;&lt;p&gt;Criei uma área dedicada as ISOs customizadas do ESXI.&lt;/p&gt;&#xA;&lt;p&gt;Alem disso, também inclui os drivers em diversas imagens da Lenovo e HP, dessa forma você pode baixar a ISO com os drivers da HP e Lenovo e já com os drivers da Realtek e etc.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Update ESXi Embedded Host Client v1.32.0</title>
-      <link>http://localhost:1313/update-esxi-embedded-host-client-v1-32-0/</link>
+      <link>http://localhost:52927/update-esxi-embedded-host-client-v1-32-0/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/update-esxi-embedded-host-client-v1-32-0/</guid>
+      <guid>http://localhost:52927/update-esxi-embedded-host-client-v1-32-0/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nova versão do &lt;strong&gt;ESXi Embedded Host Client,&lt;/strong&gt; &lt;strong&gt;versão 1.32.0&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Se você está com a versão &lt;strong&gt;1.31.0&lt;/strong&gt;, logo que logar no ambiente será exibida uma tela informando sobre a nova versão, basta clicar em &lt;strong&gt;Update.&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Update ESXi Embedded Host Client v1.31.0</title>
-      <link>http://localhost:1313/update-esxi-embedded-host-client-v1-31-0/</link>
+      <link>http://localhost:52927/update-esxi-embedded-host-client-v1-31-0/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/update-esxi-embedded-host-client-v1-31-0/</guid>
+      <guid>http://localhost:52927/update-esxi-embedded-host-client-v1-31-0/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nova versão do &lt;strong&gt;ESXi Embedded Host Client,&lt;/strong&gt; &lt;strong&gt;versão 1.31.0&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Se você está com a versão &lt;strong&gt;1.29.0&lt;/strong&gt;, logo que logar no ambiente será exibida uma tela informando sobre a nova versão, basta clicar em &lt;strong&gt;Update.&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Alterando a versão do BusyBox no ESXi 6.7</title>
-      <link>http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/</link>
+      <link>http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;215&#34;&#xA;    height=&#34;175&#34;&#xA;    src=&#34;http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png&#34;&#xA;    srcset=&#34;http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png 800w, http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiaridade muito grade de comandos com um Linux, porém também vemos que não existem diversos comandos que encontramos no Linux.&lt;/p&gt;</description>
+      <guid>http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;215&#34;&#xA;    height=&#34;175&#34;&#xA;    src=&#34;http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png&#34;&#xA;    srcset=&#34;http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png 800w, http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/images/BusyBox-Google-Chrome-2018-07-19-11.27.24.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiaridade muito grade de comandos com um Linux, porém também vemos que não existem diversos comandos que encontramos no Linux.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Alterando a porta HTTPS do ESXi 6.5/6.7 (Acesso Web)</title>
-      <link>http://localhost:1313/alterando-a-porta-https-do-esxi-6-5-6-7-acesso-web/</link>
+      <link>http://localhost:52927/alterando-a-porta-https-do-esxi-6-5-6-7-acesso-web/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/alterando-a-porta-https-do-esxi-6-5-6-7-acesso-web/</guid>
+      <guid>http://localhost:52927/alterando-a-porta-https-do-esxi-6-5-6-7-acesso-web/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Alguns leitores do blog sempre me perguntaram como alterar a porta do &lt;strong&gt;HTTPS&lt;/strong&gt; do &lt;strong&gt;ESXi&lt;/strong&gt;, nunca tive a necessidade de fazer essa alteração, mas devido a pedidos, resolvi fazer esse post.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Script para clonar VM no ESXi - Versão 1.1</title>
-      <link>http://localhost:1313/script-para-clonar-vm-no-esxi-versao-1-1/</link>
+      <link>http://localhost:52927/script-para-clonar-vm-no-esxi-versao-1-1/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/script-para-clonar-vm-no-esxi-versao-1-1/</guid>
+      <guid>http://localhost:52927/script-para-clonar-vm-no-esxi-versao-1-1/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Algum tempo atrás fiz um script para clonar máquinas virtuais no ESXi Free, segue o link abaixo para o post sobre o mesmo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rodrigolira.eti.br/script-para-clonar-vm-no-esxi-versao-1-0/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://rodrigolira.eti.br/script-para-clonar-vm-no-esxi-versao-1-0/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fiz algumas pequenas alterações nele para ficar um pouco mais amigável.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ISOs do ESXi com drivers Realtek (Update ESXi 6.7)</title>
-      <link>http://localhost:1313/isos-do-esxi-com-drivers-realtek-update-esxi-6-7/</link>
+      <link>http://localhost:52927/isos-do-esxi-com-drivers-realtek-update-esxi-6-7/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/isos-do-esxi-com-drivers-realtek-update-esxi-6-7/</guid>
+      <guid>http://localhost:52927/isos-do-esxi-com-drivers-realtek-update-esxi-6-7/</guid>
       <description>&lt;p&gt;Para imagens atualizadas visite a página abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rodrigolira.eti.br/isos-esxi-customizadas/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://rodrigolira.eti.br/isos-esxi-customizadas/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Algum tempo atrás criei ISOs personalizadas do ESXi com os drivers Realtek e disponibilizei para download, acessem o post pelo link abaixo:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Atualização do ESXi via CLI</title>
-      <link>http://localhost:1313/atualizacao-do-esxi-via-cli/</link>
+      <link>http://localhost:52927/atualizacao-do-esxi-via-cli/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/atualizacao-do-esxi-via-cli/</guid>
+      <guid>http://localhost:52927/atualizacao-do-esxi-via-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como podemos fazer a atualização do ESXi via CLI.&lt;/p&gt;&#xA;&lt;p&gt;Eu possuo vários clientes de pequeno e médio porte que rodam o esxi free em seus ambientes, ou seja, a versão que não utiliza o vCenter Server e etc, então o processo de atualização do sistema é manual, diferentemente de quando usamos o vCenter com Update Manager.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Mudando a complexidade de senhas do ESXi</title>
-      <link>http://localhost:1313/mudando-a-complexidade-de-senhas-do-esxi/</link>
+      <link>http://localhost:52927/mudando-a-complexidade-de-senhas-do-esxi/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/mudando-a-complexidade-de-senhas-do-esxi/</guid>
+      <guid>http://localhost:52927/mudando-a-complexidade-de-senhas-do-esxi/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou falar sobre a complexidade se senhas do ESXi.&lt;/p&gt;&#xA;&lt;p&gt;Por padrão, quando vamos instalar um novo servidor ESXi, nós podemos configurar uma senha com baixa complexidade, o único pré-requisito que ela precisa atender é que tenha no mínimo 7 caracteres.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Script para clonar VM no ESXi - Versão 1.0</title>
-      <link>http://localhost:1313/script-para-clonar-vm-no-esxi-versao-1-0/</link>
+      <link>http://localhost:52927/script-para-clonar-vm-no-esxi-versao-1-0/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/script-para-clonar-vm-no-esxi-versao-1-0/</guid>
+      <guid>http://localhost:52927/script-para-clonar-vm-no-esxi-versao-1-0/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo, enfim terminei meu script para clonar vms no ESXi :D&lt;/p&gt;&#xA;&lt;p&gt;Segue o link do mesmo no GitHub - &lt;a href=&#34;https://github.com/eurodrigolira/esxi&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/eurodrigolira/esxi&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tenho vários clientes que utilizam a solução gratuita da VMware como solução de virtualização, normalmente empresas de pequeno porte, como no ESXi Hypervisor(free) não utilizamos o vCenter Server, não temos a opção nativa de clonar uma VM, dessa forma é necessário fazermos esse processo manual, seja através de scripts, ou através de &lt;strong&gt;Ctrl+c&lt;/strong&gt; e &lt;strong&gt;Ctrl+v&lt;/strong&gt;, sendo que dessa forma gera uma mão de obra desnecessária.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ISOs do ESXi com drivers Realtek</title>
-      <link>http://localhost:1313/isos-do-esxi-com-drivers-realtek/</link>
+      <link>http://localhost:52927/isos-do-esxi-com-drivers-realtek/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/isos-do-esxi-com-drivers-realtek/</guid>
+      <guid>http://localhost:52927/isos-do-esxi-com-drivers-realtek/</guid>
       <description>&lt;p&gt;Para imagens atualizadas visite a página abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rodrigolira.eti.br/isos-esxi-customizadas/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://rodrigolira.eti.br/isos-esxi-customizadas/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Diversas pessoas chegam até mim pedindo a imagem personalizada do ESXi porque não estão conseguindo utilizar o script &lt;strong&gt;ESXi-Customizer-PS&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do VMware ESXi 6.5</title>
-      <link>http://localhost:1313/instalacao-do-vmware-esxi-6-5/</link>
+      <link>http://localhost:52927/instalacao-do-vmware-esxi-6-5/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/instalacao-do-vmware-esxi-6-5/</guid>
+      <guid>http://localhost:52927/instalacao-do-vmware-esxi-6-5/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou atualizando o meu homelab para a nova versão do ESXi (6.5) que foi disponibilizada a poucos dias para download. Dessa forma resolvi fazer um post sobre a instalação da mesma, na verdade não mudou em nada a instalação, os passos a seguir são os mesmos que a versão 6.0, mas como nunca fiz um post com os passos de instalação, resolvi fazer esse ;)&lt;/p&gt;</description>
       
     </item>

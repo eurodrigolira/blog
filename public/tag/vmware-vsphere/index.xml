@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vmware-vsphere on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/vmware-vsphere/</link>
+    <link>http://localhost:52927/tag/vmware-vsphere/</link>
     <description>Recent content in vmware-vsphere on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/vmware-vsphere/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/vmware-vsphere/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ISOs ESXi Customizadas (Update 06/2019)</title>
-      <link>http://localhost:1313/isos-esxi-customizadas-update-06-2019/</link>
+      <link>http://localhost:52927/isos-esxi-customizadas-update-06-2019/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/isos-esxi-customizadas-update-06-2019/</guid>
+      <guid>http://localhost:52927/isos-esxi-customizadas-update-06-2019/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de uma boa reformulada no blog, venho com mais uma boa notícia.&lt;/p&gt;&#xA;&lt;p&gt;Criei uma área dedicada as ISOs customizadas do ESXI.&lt;/p&gt;&#xA;&lt;p&gt;Alem disso, também inclui os drivers em diversas imagens da Lenovo e HP, dessa forma você pode baixar a ISO com os drivers da HP e Lenovo e já com os drivers da Realtek e etc.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ISOs do ESXi com drivers Realtek</title>
-      <link>http://localhost:1313/isos-do-esxi-com-drivers-realtek/</link>
+      <link>http://localhost:52927/isos-do-esxi-com-drivers-realtek/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/isos-do-esxi-com-drivers-realtek/</guid>
+      <guid>http://localhost:52927/isos-do-esxi-com-drivers-realtek/</guid>
       <description>&lt;p&gt;Para imagens atualizadas visite a página abaixo:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rodrigolira.eti.br/isos-esxi-customizadas/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://rodrigolira.eti.br/isos-esxi-customizadas/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Diversas pessoas chegam até mim pedindo a imagem personalizada do ESXi porque não estão conseguindo utilizar o script &lt;strong&gt;ESXi-Customizer-PS&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Update ESXi Embedded Host Client v1.16.0</title>
-      <link>http://localhost:1313/update-esxi-embedded-host-client-v1-16-0/</link>
+      <link>http://localhost:52927/update-esxi-embedded-host-client-v1-16-0/</link>
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/update-esxi-embedded-host-client-v1-16-0/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/01/Captura-de-tela-de-2017-01-25-142742.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;143&#34;&#xA;    src=&#34;http://localhost:1313/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png&#34;&#xA;    srcset=&#34;http://localhost:1313/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png 800w, http://localhost:1313/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Mais uma nova versão do &lt;strong&gt;ESXi Embedded Host Client&lt;/strong&gt; a &lt;strong&gt;versão 1.16.0.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A forma de atualização pode ser feita via interface web, como mostrei em outro post, clique &lt;a href=&#34;http://rodrigolira.eti.br/update-esxi-embedded-host-client-v1-9-1/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;AQUI&lt;/a&gt; para acessar e ver como atualizar.&lt;/p&gt;</description>
+      <guid>http://localhost:52927/update-esxi-embedded-host-client-v1-16-0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/01/Captura-de-tela-de-2017-01-25-142742.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;143&#34;&#xA;    src=&#34;http://localhost:52927/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png&#34;&#xA;    srcset=&#34;http://localhost:52927/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png 800w, http://localhost:52927/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/update-esxi-embedded-host-client-v1-16-0/images/Captura-de-tela-de-2017-01-25-142742-300x143.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Mais uma nova versão do &lt;strong&gt;ESXi Embedded Host Client&lt;/strong&gt; a &lt;strong&gt;versão 1.16.0.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A forma de atualização pode ser feita via interface web, como mostrei em outro post, clique &lt;a href=&#34;http://rodrigolira.eti.br/update-esxi-embedded-host-client-v1-9-1/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;AQUI&lt;/a&gt; para acessar e ver como atualizar.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Permissões no vCenter Server 6.5 - Parte 01</title>
-      <link>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-01/</link>
+      <link>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-01/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-01/</guid>
+      <guid>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-01/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje em dia se fala muito de segurança, e uma das suas boas práticas é darmos ao usuário apenas as permissões necessárias ao mesmo.&lt;/p&gt;&#xA;&lt;p&gt;Nessa serie de posts, vou mostrar as permissões que o vCenter Server tem nativamente, como criar permissões personalizadas , como criar novos usuários e grupos e como darmos permissões especificas a cada usuário ou grupo, também vou mostrar como darmos permissão apenas a determinados objetos do nosso vCenter Server.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Permissões no vCenter Server 6.5 – Parte 02</title>
-      <link>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-02/</link>
+      <link>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-02/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-02/</guid>
+      <guid>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-02/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nessa segunda parte da serie Permissões no vCenter Server 6.5, nós vamos ver o segundo cenário.&lt;/p&gt;&#xA;&lt;p&gt;Nós vamos criar uma permissão personalizada chamada Power-On, criar usuário chamado estagiário02, depois criar um grupo chamado estagiarios, e adicionar o usuário estagiario02 ao grupo estagiarios e delegar a permissão Power-On ao grupo estagiarios.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Permissões no vCenter Server 6.5 – Parte 03</title>
-      <link>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-03/</link>
+      <link>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-03/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-03/</guid>
+      <guid>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-03/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nessa terceira parte da serie Permissões no vCenter Server 6.5, nós vamos ver o terceiro cenário.&lt;/p&gt;&#xA;&lt;p&gt;Vamos criar um usuário chamado estagiário03 e vamos dar permissão em apenas um objeto do nosso vCenter Server, nesse caso em uma VM, dessa forma quando o estagiario03 logar no vCenter Server, só estará disponível para o mesmo este objeto(VM).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação vCenter Server Appliance 6.5 (VCSA)</title>
-      <link>http://localhost:1313/instalacao-vcenter-server-appliance-6-5-vcsa/</link>
+      <link>http://localhost:52927/instalacao-vcenter-server-appliance-6-5-vcsa/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/instalacao-vcenter-server-appliance-6-5-vcsa/</guid>
+      <guid>http://localhost:52927/instalacao-vcenter-server-appliance-6-5-vcsa/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como realizar a instalação e configuração do vCenter Server Appliance 6.5 (VCSA). Na versão 6.5 o processo está dividido em duas partes. A primeira é a parte de instalação e a segunda parte é a configuração.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Deploy vCenter Server 6.5 - Error: ovftool is not available</title>
-      <link>http://localhost:1313/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</link>
+      <link>http://localhost:52927/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</guid>
+      <guid>http://localhost:52927/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</guid>
       <description>&lt;p&gt;Salve Salve pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Quando estava fazendo o deploy do vCenter Server 6.5 no meu lab através do meu MacBook, tive alguns problemas durante o processo, acontece que o processo de instalação informava que o &lt;strong&gt;ovftool&lt;/strong&gt; não estava disponível, sendo que o mesmo está dentro da ISO do VCSA 6.5.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação do VMware ESXi 6.5</title>
-      <link>http://localhost:1313/instalacao-do-vmware-esxi-6-5/</link>
+      <link>http://localhost:52927/instalacao-do-vmware-esxi-6-5/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/instalacao-do-vmware-esxi-6-5/</guid>
+      <guid>http://localhost:52927/instalacao-do-vmware-esxi-6-5/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Estou atualizando o meu homelab para a nova versão do ESXi (6.5) que foi disponibilizada a poucos dias para download. Dessa forma resolvi fazer um post sobre a instalação da mesma, na verdade não mudou em nada a instalação, os passos a seguir são os mesmos que a versão 6.0, mas como nunca fiz um post com os passos de instalação, resolvi fazer esse ;)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anunciado VMware vSphere 6.5</title>
-      <link>http://localhost:1313/anunciado-vmware-vsphere-6-5/</link>
+      <link>http://localhost:52927/anunciado-vmware-vsphere-6-5/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/anunciado-vmware-vsphere-6-5/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/10/vSphere-65.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;vsphere-65&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;410&#34;&#xA;    src=&#34;http://localhost:1313/anunciado-vmware-vsphere-6-5/images/vSphere-65.png&#34;&#xA;    srcset=&#34;http://localhost:1313/anunciado-vmware-vsphere-6-5/images/vSphere-65.png 800w, http://localhost:1313/anunciado-vmware-vsphere-6-5/images/vSphere-65.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/anunciado-vmware-vsphere-6-5/images/vSphere-65.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje foi anunciado o VMware vSphere 6.5, não irei entrar em detalhes porque o Pedro Calixto &lt;a href=&#34;https://twitter.com/BlogPCalixto&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;@BlogPCalixto&lt;/a&gt;, fez um ótimo post sobre as novidades dessa nova versão, acessem o link abaixo e confiram:&lt;/p&gt;</description>
+      <guid>http://localhost:52927/anunciado-vmware-vsphere-6-5/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/10/vSphere-65.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;vsphere-65&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;410&#34;&#xA;    src=&#34;http://localhost:52927/anunciado-vmware-vsphere-6-5/images/vSphere-65.png&#34;&#xA;    srcset=&#34;http://localhost:52927/anunciado-vmware-vsphere-6-5/images/vSphere-65.png 800w, http://localhost:52927/anunciado-vmware-vsphere-6-5/images/vSphere-65.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/anunciado-vmware-vsphere-6-5/images/vSphere-65.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje foi anunciado o VMware vSphere 6.5, não irei entrar em detalhes porque o Pedro Calixto &lt;a href=&#34;https://twitter.com/BlogPCalixto&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;@BlogPCalixto&lt;/a&gt;, fez um ótimo post sobre as novidades dessa nova versão, acessem o link abaixo e confiram:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Update ESXi Embedded Host Client v1.10.1</title>
-      <link>http://localhost:1313/update-esxi-embedded-host-client-v1-10-1/</link>
+      <link>http://localhost:52927/update-esxi-embedded-host-client-v1-10-1/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/update-esxi-embedded-host-client-v1-10-1/</guid>
+      <guid>http://localhost:52927/update-esxi-embedded-host-client-v1-10-1/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2016/10/Captura-de-Tela-2016-10-10-a?s-23.11.14.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;captura-de-tela-2016-10-10-as-23-11-14&#34;&#xA;    src=&#34;images/Captura-de-Tela-2016-10-10-a&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje saiu uma nova versão do &lt;strong&gt;ESXi Embedded Host Client&lt;/strong&gt; a &lt;strong&gt;versão 1.10.1&lt;/strong&gt;, o que aconteceu com a 1.10.0? Lançaram no dia 06/10 e eu não vi, por isso eu não postei aqui no blog :(&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalando o vSphere ESXi no Oracle VM Server/Xen (Nested)</title>
-      <link>http://localhost:1313/instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested/</link>
+      <link>http://localhost:52927/instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested/</guid>
+      <guid>http://localhost:52927/instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo pesquisando, várias tentativas e erros, consegui fazer o VMware vSphere ESXi funcionar como guest dentro do Oracle VM Server. O procedimento é um pouco chato, porque nós vamos ter que editar o arquivo de configuração da VM manualmente, e um detalhe muito importante, se formos fazer qualquer alteração da VM com o Oracle VM Manager, as configurações manuais que colocamos são excluídas, por isso temos que ficar atentos a qualquer modificação realizada na VM.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Deletar discos NTFS via CLI no ESXi 6</title>
-      <link>http://localhost:1313/deletar-discos-ntfs-via-cli-no-esxi-6/</link>
+      <link>http://localhost:52927/deletar-discos-ntfs-via-cli-no-esxi-6/</link>
       <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/deletar-discos-ntfs-via-cli-no-esxi-6/</guid>
+      <guid>http://localhost:52927/deletar-discos-ntfs-via-cli-no-esxi-6/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;De vez em quando, vem um conhecido ou outro me dizendo que colocou um novo disco no ambiente deles e o disco não foi reconhecido pelo vSphere, quando pergunto a eles se esse disco já tinha sido utilizado, na maioria das vezes sim e estão formatados com o sistemas de arquivos NTFS. Então dessa forma decide fazer esse post para mostrar como deletar esse sistema de arquivos para que o disco apareça no seu vSphere e que você possa formata-lo normalmente via interface web.&lt;/p&gt;</description>
       
     </item>

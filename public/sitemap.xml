@@ -3,2107 +3,2101 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/linux-performance-tuning-recursos-de-hardware/</loc>
-    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/linux-performance-tuning-unidades-de-medida/</loc>
+    <loc>http://localhost:52927/linux-performance-tuning-unidades-de-medida/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</loc>
+    <loc>http://localhost:52927/posts/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:52927/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:52927/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/setup-2026/</loc>
+    <loc>http://localhost:52927/setup-2026/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cgroups-v2-no-slackware/</loc>
+    <loc>http://localhost:52927/cgroups-v2-no-slackware/</loc>
     <lastmod>2026-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/linux-performance-tuning-livros/</loc>
+    <loc>http://localhost:52927/linux-performance-tuning-livros/</loc>
     <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/linux-performance-tuning/</loc>
+    <loc>http://localhost:52927/linux-performance-tuning/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/migrei-o-blog-do-wordpress-para-hugo/</loc>
+    <loc>http://localhost:52927/migrei-o-blog-do-wordpress-para-hugo/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/aprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/</loc>
+    <loc>http://localhost:52927/aprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/</loc>
+    <loc>http://localhost:52927/reprovado-no-exame-ex442-red-hat-certified-specialist-in-linux-performance-tuning/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/atualizacao-dos-pacotes-do-zabbix-e-grafana/</loc>
+    <loc>http://localhost:52927/atualizacao-dos-pacotes-do-zabbix-e-grafana/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docking-station-orico-d35m2/</loc>
+    <loc>http://localhost:52927/docking-station-orico-d35m2/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-esxi-free-esta-de-volta/</loc>
+    <loc>http://localhost:52927/vmware-esxi-free-esta-de-volta/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/como-montar-particoes-ntfs-com-bitlocker-usando-cryptsetup-no-slackware/</loc>
+    <loc>http://localhost:52927/como-montar-particoes-ntfs-com-bitlocker-usando-cryptsetup-no-slackware/</loc>
     <lastmod>2025-04-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/homelab-2025/</loc>
+    <loc>http://localhost:52927/homelab-2025/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/migrando-do-centos-7-para-o-rocky-linux-8/</loc>
+    <loc>http://localhost:52927/migrando-do-centos-7-para-o-rocky-linux-8/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alterando-a-senha-de-usuario-do-active-directory-via-linux/</loc>
+    <loc>http://localhost:52927/alterando-a-senha-de-usuario-do-active-directory-via-linux/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/aprovado-na-dissertacao-de-mestrado/</loc>
+    <loc>http://localhost:52927/aprovado-na-dissertacao-de-mestrado/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/nchat-um-cliente-terminal-para-whatsapp-e-telegram/</loc>
+    <loc>http://localhost:52927/nchat-um-cliente-terminal-para-whatsapp-e-telegram/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/zabbix-7-no-slackware-15/</loc>
+    <loc>http://localhost:52927/zabbix-7-no-slackware-15/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/</loc>
+    <loc>http://localhost:52927/passei-no-exame-ex316-red-hat-certified-specialist-in-openshift-virtualization/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/meus-pacotes-para-o-slackware/</loc>
+    <loc>http://localhost:52927/meus-pacotes-para-o-slackware/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/livro-construindo-uma-carreira-em-ciberseguranca/</loc>
+    <loc>http://localhost:52927/livro-construindo-uma-carreira-em-ciberseguranca/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/libvirt-10-4-slackware-current-iptables/</loc>
+    <loc>http://localhost:52927/libvirt-10-4-slackware-current-iptables/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/reprovado-no-exame-cks/</loc>
+    <loc>http://localhost:52927/reprovado-no-exame-cks/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ansible-import-vs-include/</loc>
+    <loc>http://localhost:52927/ansible-import-vs-include/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/setup-e-homelab-2024/</loc>
+    <loc>http://localhost:52927/setup-e-homelab-2024/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/certificacoes-em-2024/</loc>
+    <loc>http://localhost:52927/certificacoes-em-2024/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/fim-do-vmware-esxi-gratuito/</loc>
+    <loc>http://localhost:52927/fim-do-vmware-esxi-gratuito/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15-parte-06/</loc>
+    <loc>http://localhost:52927/kubernetes-the-hard-way-no-slackware-15-parte-06/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15-parte-05/</loc>
+    <loc>http://localhost:52927/kubernetes-the-hard-way-no-slackware-15-parte-05/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15-parte-04/</loc>
+    <loc>http://localhost:52927/kubernetes-the-hard-way-no-slackware-15-parte-04/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15-parte-03/</loc>
+    <loc>http://localhost:52927/kubernetes-the-hard-way-no-slackware-15-parte-03/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15-parte-02/</loc>
+    <loc>http://localhost:52927/kubernetes-the-hard-way-no-slackware-15-parte-02/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kubernetes-the-hard-way-no-slackware-15-parte-01/</loc>
+    <loc>http://localhost:52927/kubernetes-the-hard-way-no-slackware-15-parte-01/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/placas-de-rede-de-baixo-custo-para-o-esxi-8/</loc>
+    <loc>http://localhost:52927/placas-de-rede-de-baixo-custo-para-o-esxi-8/</loc>
     <lastmod>2023-08-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/apresetacao-do-meu-artigo-no-csbc-semish-2023/</loc>
+    <loc>http://localhost:52927/apresetacao-do-meu-artigo-no-csbc-semish-2023/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/montando-disco-usb-no-vmware-esxi/</loc>
+    <loc>http://localhost:52927/montando-disco-usb-no-vmware-esxi/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vexpert-2023/</loc>
+    <loc>http://localhost:52927/vmware-vexpert-2023/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/certificacoes-da-red-hat-com-retake-free/</loc>
+    <loc>http://localhost:52927/certificacoes-da-red-hat-com-retake-free/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/criando-um-usuario-no-kubernetes/</loc>
+    <loc>http://localhost:52927/criando-um-usuario-no-kubernetes/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/</loc>
+    <loc>http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/novo-tema-para-o-blog/</loc>
+    <loc>http://localhost:52927/novo-tema-para-o-blog/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/o-que-esperar-do-blog-em-2023/</loc>
+    <loc>http://localhost:52927/o-que-esperar-do-blog-em-2023/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/xcp-ng-gerencia-do-cluster-e-vms/</loc>
+    <loc>http://localhost:52927/xcp-ng-gerencia-do-cluster-e-vms/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-certified-professional-vmware-cloud-gratuita/</loc>
+    <loc>http://localhost:52927/vmware-certified-professional-vmware-cloud-gratuita/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-vmware-workstation-17-pro-no-slackware/</loc>
+    <loc>http://localhost:52927/instalacao-do-vmware-workstation-17-pro-no-slackware/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-esxi-8/</loc>
+    <loc>http://localhost:52927/instalacao-do-esxi-8/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-e-configuracao-do-minio-parte-02-ssl-tls/</loc>
+    <loc>http://localhost:52927/instalacao-e-configuracao-do-minio-parte-02-ssl-tls/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/atualizando-o-esxi-via-linha-de-comando/</loc>
+    <loc>http://localhost:52927/atualizando-o-esxi-via-linha-de-comando/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-e-configuracao-do-minio/</loc>
+    <loc>http://localhost:52927/instalacao-e-configuracao-do-minio/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/removendo-vms-com-status-invalid-no-esxi/</loc>
+    <loc>http://localhost:52927/removendo-vms-com-status-invalid-no-esxi/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cka-certified-kubernetes-administrador/</loc>
+    <loc>http://localhost:52927/cka-certified-kubernetes-administrador/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/contour-ingress-com-status-de-processing-na-verificacao-de-integridade-do-argocd/</loc>
+    <loc>http://localhost:52927/contour-ingress-com-status-de-processing-na-verificacao-de-integridade-do-argocd/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lancado-o-slackware-15-0/</loc>
+    <loc>http://localhost:52927/lancado-o-slackware-15-0/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/classificado-para-o-mestrado-em-tecnologia-da-informacao-do-ifpb/</loc>
+    <loc>http://localhost:52927/classificado-para-o-mestrado-em-tecnologia-da-informacao-do-ifpb/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-nmon/</loc>
+    <loc>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-nmon/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-dublin-traceroute/</loc>
+    <loc>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-dublin-traceroute/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-bashtop/</loc>
+    <loc>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-bashtop/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/xcp-ng-criando-vms/</loc>
+    <loc>http://localhost:52927/xcp-ng-criando-vms/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rhce-8-ex294-aprovado-d/</loc>
+    <loc>http://localhost:52927/rhce-8-ex294-aprovado-d/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-acme-sh-lets-encrypt/</loc>
+    <loc>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-acme-sh-lets-encrypt/</loc>
     <lastmod>2021-08-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/slackware-15-0-release-candidate/</loc>
+    <loc>http://localhost:52927/slackware-15-0-release-candidate/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-bmon/</loc>
+    <loc>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-bmon/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-nload/</loc>
+    <loc>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-nload/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-axel/</loc>
+    <loc>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-axel/</loc>
     <lastmod>2021-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/</loc>
+    <loc>http://localhost:52927/lpic-3-enterprise-virtualization-and-containerization-exam-305-beta/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/xcp-ng-storage/</loc>
+    <loc>http://localhost:52927/xcp-ng-storage/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/xcp-ng-redes/</loc>
+    <loc>http://localhost:52927/xcp-ng-redes/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/slackware-15-0-alpha1/</loc>
+    <loc>http://localhost:52927/slackware-15-0-alpha1/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vexpert-2021/</loc>
+    <loc>http://localhost:52927/vmware-vexpert-2021/</loc>
     <lastmod>2021-02-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</loc>
+    <loc>http://localhost:52927/ssd-hp-ex950-nvme-m-2-1tb-no-esxi/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/adaptadores-usb-para-ethernet-no-esxi-7/</loc>
+    <loc>http://localhost:52927/adaptadores-usb-para-ethernet-no-esxi-7/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/migrando-do-centos-linux-8-para-o-centos-stream-8/</loc>
+    <loc>http://localhost:52927/migrando-do-centos-linux-8-para-o-centos-stream-8/</loc>
     <lastmod>2020-12-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/</loc>
+    <loc>http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/acesso-remoto-usando-o-keepassxc/</loc>
+    <loc>http://localhost:52927/acesso-remoto-usando-o-keepassxc/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/zabbix-5-2-no-slackware-current/</loc>
+    <loc>http://localhost:52927/zabbix-5-2-no-slackware-current/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-slackware-current-no-vmware-vsphere-7/</loc>
+    <loc>http://localhost:52927/instalando-o-slackware-current-no-vmware-vsphere-7/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/</loc>
+    <loc>http://localhost:52927/aprovado-no-exame-red-hat-certified-specialist-in-container-for-kubernetes-do180/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/zabbix-5-no-slackware-current/</loc>
+    <loc>http://localhost:52927/zabbix-5-no-slackware-current/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/xcp-ng-xcp-ng-center/</loc>
+    <loc>http://localhost:52927/xcp-ng-xcp-ng-center/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-vcp-dcv-2020-introducao/</loc>
+    <loc>http://localhost:52927/lab-vcp-dcv-2020-introducao/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/isos-customizadas-do-esxi-7/</loc>
+    <loc>http://localhost:52927/isos-customizadas-do-esxi-7/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/</loc>
+    <loc>http://localhost:52927/virtualizacao-com-xcp-ng-instalacao-e-configuracao-do-freenas/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/virtualizacao-com-xcp-ng-instalando-o-xcp/</loc>
+    <loc>http://localhost:52927/virtualizacao-com-xcp-ng-instalando-o-xcp/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/criar-o-menu-do-kde-fedora-remix-na-barra-de-tarefa-do-windows/</loc>
+    <loc>http://localhost:52927/criar-o-menu-do-kde-fedora-remix-na-barra-de-tarefa-do-windows/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/xcp-ng-arquitetura-do-laboratorio/</loc>
+    <loc>http://localhost:52927/xcp-ng-arquitetura-do-laboratorio/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/virtualizacao-com-xcp-ng-introducao/</loc>
+    <loc>http://localhost:52927/virtualizacao-com-xcp-ng-introducao/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/windows-10-wsl2-fedora-remix-kde-x410/</loc>
+    <loc>http://localhost:52927/windows-10-wsl2-fedora-remix-kde-x410/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-cloud-free-tier-modo-gratuito/</loc>
+    <loc>http://localhost:52927/oracle-cloud-free-tier-modo-gratuito/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/exames-da-red-hat-online/</loc>
+    <loc>http://localhost:52927/exames-da-red-hat-online/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/zabbix-5-0-released/</loc>
+    <loc>http://localhost:52927/zabbix-5-0-released/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-gitlab-community-edition-no-centos-8-oracle-linux-8-rhel-8/</loc>
+    <loc>http://localhost:52927/instalando-o-gitlab-community-edition-no-centos-8-oracle-linux-8-rhel-8/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/configurando-o-powerdns-para-funcionar-como-master-e-slave/</loc>
+    <loc>http://localhost:52927/configurando-o-powerdns-para-funcionar-como-master-e-slave/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/gerenciando-o-powerdns-com-o-powerdns-admin/</loc>
+    <loc>http://localhost:52927/gerenciando-o-powerdns-com-o-powerdns-admin/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-powerdns-4-3-authoritative-no-centos-8-oracle-linux-8-rhel-8/</loc>
+    <loc>http://localhost:52927/instalando-o-powerdns-4-3-authoritative-no-centos-8-oracle-linux-8-rhel-8/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</loc>
+    <loc>http://localhost:52927/atualizacoes-das-isos-customizadas-do-esxi-6-7-para-update-3/</loc>
     <lastmod>2020-04-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</loc>
+    <loc>http://localhost:52927/instalacao-e-configuracao-do-openwrt-19-07-2-no-esxi-6-7/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vexpert-2020/</loc>
+    <loc>http://localhost:52927/vmware-vexpert-2020/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</loc>
+    <loc>http://localhost:52927/reprovado-no-exame-red-hat-certified-specialist-in-ansible-automation-ex407/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/fim-do-suporte-ao-oracle-vm-server/</loc>
+    <loc>http://localhost:52927/fim-do-suporte-ao-oracle-vm-server/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-minikube-e-kubectl-no-fedora-31/</loc>
+    <loc>http://localhost:52927/instalando-o-minikube-e-kubectl-no-fedora-31/</loc>
     <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-zabbix-4-4-no-centos-8-sem-desabilitar-o-selinux/</loc>
+    <loc>http://localhost:52927/instalando-o-zabbix-4-4-no-centos-8-sem-desabilitar-o-selinux/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/openwrt-criando-um-servidor-de-torrent-com-transmission/</loc>
+    <loc>http://localhost:52927/openwrt-criando-um-servidor-de-torrent-com-transmission/</loc>
     <lastmod>2019-10-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</loc>
+    <loc>http://localhost:52927/oracle-linux-virtualization-manager-parte-04-adicionando-um-host-kvm/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/</loc>
     <lastmod>2019-08-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-linux-virtualization-manager-parte-03/</loc>
+    <loc>http://localhost:52927/oracle-linux-virtualization-manager-parte-03/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/video-da-minha-palestra-no-zabbix-on-the-road-joao-pessoa/</loc>
+    <loc>http://localhost:52927/video-da-minha-palestra-no-zabbix-on-the-road-joao-pessoa/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-linux-virtualization-manager-parte-02/</loc>
+    <loc>http://localhost:52927/oracle-linux-virtualization-manager-parte-02/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/slides-da-minha-palestra-no-zabbix-on-the-road-joao-pessoa/</loc>
+    <loc>http://localhost:52927/slides-da-minha-palestra-no-zabbix-on-the-road-joao-pessoa/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-linux-virtualization-manager-parte-01/</loc>
+    <loc>http://localhost:52927/oracle-linux-virtualization-manager-parte-01/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/treinamento-gratuito-em-oracle-linux-cloud-native/</loc>
+    <loc>http://localhost:52927/treinamento-gratuito-em-oracle-linux-cloud-native/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/zabbix-on-the-road-joao-pessoa/</loc>
+    <loc>http://localhost:52927/zabbix-on-the-road-joao-pessoa/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/isos-esxi-customizadas-update-06-2019/</loc>
+    <loc>http://localhost:52927/isos-esxi-customizadas-update-06-2019/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog-de-cara-nova-d/</loc>
+    <loc>http://localhost:52927/blog-de-cara-nova-d/</loc>
     <lastmod>2019-06-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/anunciado-o-oracle-linux-virtualization-manager/</loc>
+    <loc>http://localhost:52927/anunciado-o-oracle-linux-virtualization-manager/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-11-compartilhando-um-maquina-virtual/</loc>
     <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-10-mapeando-um-disco-virtual/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-09-configuracoes-de-rede/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-08-endentendo-os-componentes-de-rede/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-acessando-maquinas-virtuais-via-vnc-client/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-07-acessando-as-maquinas-virtuais-via-vnc/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-05-criptografando-maquinas-virtuais/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-06-atualizacoes/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-06-atualizacoes/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vexpert-2019/</loc>
+    <loc>http://localhost:52927/vmware-vexpert-2019/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-error-creating-clusterheartbeatdevice-dev-mapper-already-in-a-cluster/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-error-creating-clusterheartbeatdevice-dev-mapper-already-in-a-cluster/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/exame-rhce-aprovado-d/</loc>
+    <loc>http://localhost:52927/exame-rhce-aprovado-d/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-04-instalando-o-open-vm-tools-no-linux/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-04-instalando-o-open-vm-tools-no-linux/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/openwrt-18-06-1-no-vmware-vsphere-6-7/</loc>
+    <loc>http://localhost:52927/openwrt-18-06-1-no-vmware-vsphere-6-7/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-03-instalando-o-vmware-tools-no-windows/</loc>
     <lastmod>2019-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-02-criando-uma-maquina-virtual/</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-red-hat-8-beta-no-vmware-vsphere-6-7/</loc>
+    <loc>http://localhost:52927/instalando-o-red-hat-8-beta-no-vmware-vsphere-6-7/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-pro-15-parte-01-instalacao/</loc>
+    <loc>http://localhost:52927/vmware-workstation-pro-15-parte-01-instalacao/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</loc>
+    <loc>http://localhost:52927/instalando-o-oracle-vm-guest-additions-no-oracle-linux-6/</loc>
     <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/openwrt-montando-um-pendrive-como-particao-raiz/</loc>
+    <loc>http://localhost:52927/openwrt-montando-um-pendrive-como-particao-raiz/</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-docker-e-docker-compose-no-fedora-29/</loc>
+    <loc>http://localhost:52927/instalando-o-docker-e-docker-compose-no-fedora-29/</loc>
     <lastmod>2018-11-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-vmware-workstation-15-no-fedora-29/</loc>
+    <loc>http://localhost:52927/instalando-o-vmware-workstation-15-no-fedora-29/</loc>
     <lastmod>2018-11-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/update-esxi-embedded-host-client-v1-32-0/</loc>
+    <loc>http://localhost:52927/update-esxi-embedded-host-client-v1-32-0/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/conhecendo-o-exame-red-hat-certified-engineer-ex300/</loc>
+    <loc>http://localhost:52927/conhecendo-o-exame-red-hat-certified-engineer-ex300/</loc>
     <lastmod>2018-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/utilizando-o-yum-parte-03/</loc>
+    <loc>http://localhost:52927/utilizando-o-yum-parte-03/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/utilizando-o-yum-parte-02/</loc>
+    <loc>http://localhost:52927/utilizando-o-yum-parte-02/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/script-para-instalacao-do-zabbix-server-4-0-x-no-slackware-14-2/</loc>
+    <loc>http://localhost:52927/script-para-instalacao-do-zabbix-server-4-0-x-no-slackware-14-2/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lancado-vmware-workstation-player-15/</loc>
+    <loc>http://localhost:52927/lancado-vmware-workstation-player-15/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/script-para-instalacao-do-zabbix-server-3-4-x-no-slackware-14-2/</loc>
+    <loc>http://localhost:52927/script-para-instalacao-do-zabbix-server-3-4-x-no-slackware-14-2/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/utilizando-o-yum-parte-01/</loc>
+    <loc>http://localhost:52927/utilizando-o-yum-parte-01/</loc>
     <lastmod>2018-08-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7-red-hat-7-oracle-linux-7/</loc>
+    <loc>http://localhost:52927/configurando-o-postfix-para-o-usar-o-gmail-ou-outlook-como-relay-no-centos-7-red-hat-7-oracle-linux-7/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-vmware-vcenter-server-appliance-6-7/</loc>
+    <loc>http://localhost:52927/instalacao-do-vmware-vcenter-server-appliance-6-7/</loc>
     <lastmod>2018-08-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-no-exame-do-oracle-vm-3-0-for-x86-essentials-1z0-590/</loc>
+    <loc>http://localhost:52927/passei-no-exame-do-oracle-vm-3-0-for-x86-essentials-1z0-590/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/update-esxi-embedded-host-client-v1-31-0/</loc>
+    <loc>http://localhost:52927/update-esxi-embedded-host-client-v1-31-0/</loc>
     <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/</loc>
+    <loc>http://localhost:52927/alterando-a-versao-do-busybox-no-esxi-6-7/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alterando-a-porta-https-do-esxi-6-5-6-7-acesso-web/</loc>
+    <loc>http://localhost:52927/alterando-a-porta-https-do-esxi-6-5-6-7-acesso-web/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/script-para-clonar-vm-no-esxi-versao-1-1/</loc>
+    <loc>http://localhost:52927/script-para-clonar-vm-no-esxi-versao-1-1/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-backup-vms-parte-02/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-backup-vms-parte-02/</loc>
     <lastmod>2018-07-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-backup-vms-parte-01/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-backup-vms-parte-01/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</loc>
+    <loc>http://localhost:52927/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/agregacao-de-interfaces-no-centos-6-red-hat-6-oracle-linux-6-e-derivados/</loc>
+    <loc>http://localhost:52927/agregacao-de-interfaces-no-centos-6-red-hat-6-oracle-linux-6-e-derivados/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-backup-manager/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-backup-manager/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-backup-servers/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-backup-servers/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/anunciado-oracle-vm-3-4-5/</loc>
+    <loc>http://localhost:52927/anunciado-oracle-vm-3-4-5/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-grafana-5-no-slackware-14-2/</loc>
+    <loc>http://localhost:52927/instalando-o-grafana-5-no-slackware-14-2/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/isos-do-esxi-com-drivers-realtek-update-esxi-6-7/</loc>
+    <loc>http://localhost:52927/isos-do-esxi-com-drivers-realtek-update-esxi-6-7/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/simulador-de-redes-hcl-comware-7/</loc>
+    <loc>http://localhost:52927/simulador-de-redes-hcl-comware-7/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/atualizacao-do-esxi-via-cli/</loc>
+    <loc>http://localhost:52927/atualizacao-do-esxi-via-cli/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mudando-a-complexidade-de-senhas-do-esxi/</loc>
+    <loc>http://localhost:52927/mudando-a-complexidade-de-senhas-do-esxi/</loc>
     <lastmod>2018-04-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/desmistificando-o-slackware-linux-parte-02/</loc>
+    <loc>http://localhost:52927/desmistificando-o-slackware-linux-parte-02/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/desmistificando-o-slackware-linux-parte-01/</loc>
+    <loc>http://localhost:52927/desmistificando-o-slackware-linux-parte-01/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-zabbix-3-4-no-slackware-14-2/</loc>
+    <loc>http://localhost:52927/instalando-o-zabbix-3-4-no-slackware-14-2/</loc>
     <lastmod>2018-04-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-backup/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-backup/</loc>
     <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-error-invalid-host-name-resolution/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-error-invalid-host-name-resolution/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/exame-rhce-reprovado/</loc>
+    <loc>http://localhost:52927/exame-rhce-reprovado/</loc>
     <lastmod>2018-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vexpert-2018/</loc>
+    <loc>http://localhost:52927/vmware-vexpert-2018/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ovm-bkp-utilitario-de-backup-para-oracle-vm-3-4/</loc>
+    <loc>http://localhost:52927/ovm-bkp-utilitario-de-backup-para-oracle-vm-3-4/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hardening-red-hat-centos-7-parte-02-controlando-o-acesso-por-ssh/</loc>
+    <loc>http://localhost:52927/hardening-red-hat-centos-7-parte-02-controlando-o-acesso-por-ssh/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hardening-red-hat-centos-7-parte-01-controlando-o-acesso-de-root/</loc>
+    <loc>http://localhost:52927/hardening-red-hat-centos-7-parte-01-controlando-o-acesso-de-root/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/iproute2-parte-3/</loc>
+    <loc>http://localhost:52927/iproute2-parte-3/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/iproute2-parte-02/</loc>
+    <loc>http://localhost:52927/iproute2-parte-02/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/iproute2-parte-01/</loc>
+    <loc>http://localhost:52927/iproute2-parte-01/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guia-de-estudos-para-vcp6-5-dcv/</loc>
+    <loc>http://localhost:52927/guia-de-estudos-para-vcp6-5-dcv/</loc>
     <lastmod>2017-12-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-docker-ce-no-red-hat-7/</loc>
+    <loc>http://localhost:52927/instalacao-do-docker-ce-no-red-hat-7/</loc>
     <lastmod>2017-12-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/script-para-clonar-vm-no-esxi-versao-1-0/</loc>
+    <loc>http://localhost:52927/script-para-clonar-vm-no-esxi-versao-1-0/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</loc>
+    <loc>http://localhost:52927/vmware-workstation-compartilhamento-de-pastas-com-vms-linux/</loc>
     <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lancado-o-openbsd-6-2/</loc>
+    <loc>http://localhost:52927/lancado-o-openbsd-6-2/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-core-network-emulator-4-8-no-slackware-14-2/</loc>
+    <loc>http://localhost:52927/instalacao-core-network-emulator-4-8-no-slackware-14-2/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/renovacao-vcp6-dcv/</loc>
+    <loc>http://localhost:52927/renovacao-vcp6-dcv/</loc>
     <lastmod>2017-09-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/save-the-date-reuniao-vmug-sp-outubro-2017/</loc>
+    <loc>http://localhost:52927/save-the-date-reuniao-vmug-sp-outubro-2017/</loc>
     <lastmod>2017-09-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/discos-sparse-e-non-sparse-no-oracle-vm/</loc>
+    <loc>http://localhost:52927/discos-sparse-e-non-sparse-no-oracle-vm/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-backups-com-vprotect-parte-01/</loc>
+    <loc>http://localhost:52927/oracle-vm-backups-com-vprotect-parte-01/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/canal-oracle-vm-no-telegram/</loc>
+    <loc>http://localhost:52927/canal-oracle-vm-no-telegram/</loc>
     <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/anunciado-oracle-vm-3-4-4/</loc>
+    <loc>http://localhost:52927/anunciado-oracle-vm-3-4-4/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-erro-no-object-of-type-vm-with-id-null/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-erro-no-object-of-type-vm-with-id-null/</loc>
     <lastmod>2017-08-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/brasilia-tera-reuniao-do-vmug/</loc>
+    <loc>http://localhost:52927/brasilia-tera-reuniao-do-vmug/</loc>
     <lastmod>2017-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-anti-affinity-group/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-anti-affinity-group/</loc>
     <lastmod>2017-07-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alterando-o-kernel-do-oracle-linux-7/</loc>
+    <loc>http://localhost:52927/alterando-o-kernel-do-oracle-linux-7/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/descobrindo-seu-ip-real-pelo-terminal/</loc>
+    <loc>http://localhost:52927/descobrindo-seu-ip-real-pelo-terminal/</loc>
     <lastmod>2017-07-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-core-network-no-oracle-linux-7/</loc>
+    <loc>http://localhost:52927/instalacao-do-core-network-no-oracle-linux-7/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/</loc>
+    <loc>http://localhost:52927/checando-a-qualidade-de-senha-no-oracle-linux-7-com-o-pwscore/</loc>
     <lastmod>2017-06-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alta-disponibilidade-com-keepalived-no-oracle-linux-7/</loc>
+    <loc>http://localhost:52927/alta-disponibilidade-com-keepalived-no-oracle-linux-7/</loc>
     <lastmod>2017-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/gerando-senhas-aleatorias-no-oracle-linux-7-com-pwmake/</loc>
+    <loc>http://localhost:52927/gerando-senhas-aleatorias-no-oracle-linux-7-com-pwmake/</loc>
     <lastmod>2017-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-apache-no-oracle-linux-7/</loc>
+    <loc>http://localhost:52927/instalacao-do-apache-no-oracle-linux-7/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/curso-de-oracle-vm-server-x86-engie-brasil/</loc>
+    <loc>http://localhost:52927/curso-de-oracle-vm-server-x86-engie-brasil/</loc>
     <lastmod>2017-06-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/isos-do-esxi-com-drivers-realtek/</loc>
+    <loc>http://localhost:52927/isos-do-esxi-com-drivers-realtek/</loc>
     <lastmod>2017-06-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/transformando-o-centos-em-oracle-linux/</loc>
+    <loc>http://localhost:52927/transformando-o-centos-em-oracle-linux/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/anunciado-oracle-vm-3-4-3/</loc>
+    <loc>http://localhost:52927/anunciado-oracle-vm-3-4-3/</loc>
     <lastmod>2017-05-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/desabilitar-ipv6-no-oracle-linux-7/</loc>
+    <loc>http://localhost:52927/desabilitar-ipv6-no-oracle-linux-7/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-docker-no-oracle-linux-7/</loc>
+    <loc>http://localhost:52927/instalacao-do-docker-no-oracle-linux-7/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-criar-uma-vm-via-cli/</loc>
     <lastmod>2017-03-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-tags/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-tags/</loc>
     <lastmod>2017-03-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vexpert-2017/</loc>
+    <loc>http://localhost:52927/vmware-vexpert-2017/</loc>
     <lastmod>2017-02-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/update-esxi-embedded-host-client-v1-16-0/</loc>
+    <loc>http://localhost:52927/update-esxi-embedded-host-client-v1-16-0/</loc>
     <lastmod>2017-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/exame-1z0-590-oracle-vm-3-0-for-x86-essentials/</loc>
+    <loc>http://localhost:52927/exame-1z0-590-oracle-vm-3-0-for-x86-essentials/</loc>
     <lastmod>2017-01-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/desabilitando-o-ipv6-no-slackware-14-2/</loc>
+    <loc>http://localhost:52927/desabilitando-o-ipv6-no-slackware-14-2/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-p2v-v2v/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-p2v-v2v/</loc>
     <lastmod>2016-12-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-01/</loc>
+    <loc>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-01/</loc>
     <lastmod>2016-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-02/</loc>
+    <loc>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-02/</loc>
     <lastmod>2016-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/permissoes-no-vcenter-server-6-5-parte-03/</loc>
+    <loc>http://localhost:52927/permissoes-no-vcenter-server-6-5-parte-03/</loc>
     <lastmod>2016-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-vcenter-server-appliance-6-5-vcsa/</loc>
+    <loc>http://localhost:52927/instalacao-vcenter-server-appliance-6-5-vcsa/</loc>
     <lastmod>2016-11-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</loc>
+    <loc>http://localhost:52927/deploy-vcenter-server-6-5-error-ovftool-is-not-available/</loc>
     <lastmod>2016-11-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-command-line-interface-cli/</loc>
+    <loc>http://localhost:52927/oracle-vm-command-line-interface-cli/</loc>
     <lastmod>2016-11-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-do-vmware-esxi-6-5/</loc>
+    <loc>http://localhost:52927/instalacao-do-vmware-esxi-6-5/</loc>
     <lastmod>2016-11-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interface-bond-no-oracle-vm-server/</loc>
+    <loc>http://localhost:52927/interface-bond-no-oracle-vm-server/</loc>
     <lastmod>2016-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jampasec-2016/</loc>
+    <loc>http://localhost:52927/jampasec-2016/</loc>
     <lastmod>2016-11-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lacp-roundrobin-e-failover-no-openbsd-6-0/</loc>
+    <loc>http://localhost:52927/lacp-roundrobin-e-failover-no-openbsd-6-0/</loc>
     <lastmod>2016-10-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/anunciado-vmware-vsphere-6-5/</loc>
+    <loc>http://localhost:52927/anunciado-vmware-vsphere-6-5/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/freebsd-11-0-release/</loc>
+    <loc>http://localhost:52927/freebsd-11-0-release/</loc>
     <lastmod>2016-10-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/update-esxi-embedded-host-client-v1-10-1/</loc>
+    <loc>http://localhost:52927/update-esxi-embedded-host-client-v1-10-1/</loc>
     <lastmod>2016-10-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-openbsd-6-0-no-vsphere-6-0/</loc>
+    <loc>http://localhost:52927/instalando-o-openbsd-6-0-no-vsphere-6-0/</loc>
     <lastmod>2016-10-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested/</loc>
+    <loc>http://localhost:52927/instalando-o-vsphere-esxi-no-oracle-vm-serverxen-nested/</loc>
     <lastmod>2016-10-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/grupo-de-usuarios-de-vmware-chega-a-sao-paulo/</loc>
+    <loc>http://localhost:52927/grupo-de-usuarios-de-vmware-chega-a-sao-paulo/</loc>
     <lastmod>2016-10-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-3-4-2-released/</loc>
+    <loc>http://localhost:52927/oracle-vm-3-4-2-released/</loc>
     <lastmod>2016-09-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/update-esxi-embedded-host-client-v1-9-1/</loc>
+    <loc>http://localhost:52927/update-esxi-embedded-host-client-v1-9-1/</loc>
     <lastmod>2016-09-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/nexentastor-nao-responde-via-web-nms/</loc>
+    <loc>http://localhost:52927/nexentastor-nao-responde-via-web-nms/</loc>
     <lastmod>2016-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/update-esxi-embedded-host-client/</loc>
+    <loc>http://localhost:52927/update-esxi-embedded-host-client/</loc>
     <lastmod>2016-09-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/openwrt-como-gateway-do-meu-lab/</loc>
+    <loc>http://localhost:52927/openwrt-como-gateway-do-meu-lab/</loc>
     <lastmod>2016-09-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lancado-o-openbsd-6-0/</loc>
+    <loc>http://localhost:52927/lancado-o-openbsd-6-0/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/deletar-discos-ntfs-via-cli-no-esxi-6/</loc>
+    <loc>http://localhost:52927/deletar-discos-ntfs-via-cli-no-esxi-6/</loc>
     <lastmod>2016-08-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vexpert-2016/</loc>
+    <loc>http://localhost:52927/vmware-vexpert-2016/</loc>
     <lastmod>2016-08-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-na-rhcsa/</loc>
+    <loc>http://localhost:52927/passei-na-rhcsa/</loc>
     <lastmod>2016-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-oracle-vm-server-parte-5/</loc>
+    <loc>http://localhost:52927/lab-oracle-vm-server-parte-5/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/nexenta-expert-mode-shell/</loc>
+    <loc>http://localhost:52927/nexenta-expert-mode-shell/</loc>
     <lastmod>2016-07-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-oracle-vm-server-parte-4/</loc>
+    <loc>http://localhost:52927/lab-oracle-vm-server-parte-4/</loc>
     <lastmod>2016-07-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-oracle-vm-server-parte-3/</loc>
+    <loc>http://localhost:52927/lab-oracle-vm-server-parte-3/</loc>
     <lastmod>2016-06-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-oracle-vm-server-parte-2/</loc>
+    <loc>http://localhost:52927/lab-oracle-vm-server-parte-2/</loc>
     <lastmod>2016-06-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/nexenta-link-aggregation/</loc>
+    <loc>http://localhost:52927/nexenta-link-aggregation/</loc>
     <lastmod>2016-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oracle-vm-server-lab-01/</loc>
+    <loc>http://localhost:52927/oracle-vm-server-lab-01/</loc>
     <lastmod>2016-05-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-hands-on-labs-em-portugues/</loc>
+    <loc>http://localhost:52927/vmware-hands-on-labs-em-portugues/</loc>
     <lastmod>2016-03-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/script-para-backup-do-openwrt/</loc>
+    <loc>http://localhost:52927/script-para-backup-do-openwrt/</loc>
     <lastmod>2015-12-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-pfsense-parte-01/</loc>
+    <loc>http://localhost:52927/lab-pfsense-parte-01/</loc>
     <lastmod>2015-12-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/atualizando-o-nexentastor-4-0-3-para-4-0-4/</loc>
+    <loc>http://localhost:52927/atualizando-o-nexentastor-4-0-3-para-4-0-4/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/forcando-recovery-bios-backup-gigabyte-z97m-d3h/</loc>
+    <loc>http://localhost:52927/forcando-recovery-bios-backup-gigabyte-z97m-d3h/</loc>
     <lastmod>2015-11-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jampasec/</loc>
+    <loc>http://localhost:52927/jampasec/</loc>
     <lastmod>2015-09-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-na-vcp6-dcv/</loc>
+    <loc>http://localhost:52927/passei-na-vcp6-dcv/</loc>
     <lastmod>2015-09-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vsphere-web-client-sem-vcenter/</loc>
+    <loc>http://localhost:52927/vsphere-web-client-sem-vcenter/</loc>
     <lastmod>2015-08-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jampasec-2015/</loc>
+    <loc>http://localhost:52927/jampasec-2015/</loc>
     <lastmod>2015-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cursos-gratuitos-vmware/</loc>
+    <loc>http://localhost:52927/cursos-gratuitos-vmware/</loc>
     <lastmod>2015-07-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/</loc>
+    <loc>http://localhost:52927/resolvendo-problema-no-vsphere-system-logs-on-host-host-vsphere-are-stored-on-non-persistent-storage/</loc>
     <lastmod>2015-06-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/openwrt-firewall-proxy-e-ddns/</loc>
+    <loc>http://localhost:52927/openwrt-firewall-proxy-e-ddns/</loc>
     <lastmod>2015-06-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tabela-de-features-vmware-vsphere-5-0-ate-6-0/</loc>
+    <loc>http://localhost:52927/tabela-de-features-vmware-vsphere-5-0-ate-6-0/</loc>
     <lastmod>2015-06-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-openwrt-no-vmware-workstation/</loc>
+    <loc>http://localhost:52927/instalando-o-openwrt-no-vmware-workstation/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/</loc>
+    <loc>http://localhost:52927/vmware-workstation-11-parte-1-instalacao-no-slackware-14-1/</loc>
     <lastmod>2015-06-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalacao-core-network-emulator-no-slackware-14-1/</loc>
+    <loc>http://localhost:52927/instalacao-core-network-emulator-no-slackware-14-1/</loc>
     <lastmod>2015-05-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-na-vcp6-nv/</loc>
+    <loc>http://localhost:52927/passei-na-vcp6-nv/</loc>
     <lastmod>2015-05-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/comunidade-para-certificacoes-vmware-no-facebook/</loc>
+    <loc>http://localhost:52927/comunidade-para-certificacoes-vmware-no-facebook/</loc>
     <lastmod>2015-05-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-vcp6-dcv-parte-6/</loc>
+    <loc>http://localhost:52927/lab-vcp6-dcv-parte-6/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-vcp6-dcv-parte-4/</loc>
+    <loc>http://localhost:52927/lab-vcp6-dcv-parte-4/</loc>
     <lastmod>2015-04-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-vcp6-dcv-parte-5/</loc>
+    <loc>http://localhost:52927/lab-vcp6-dcv-parte-5/</loc>
     <lastmod>2015-04-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-zentyal-parte-1/</loc>
+    <loc>http://localhost:52927/lab-zentyal-parte-1/</loc>
     <lastmod>2015-04-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-vcp6-dcv-parte-2/</loc>
+    <loc>http://localhost:52927/lab-vcp6-dcv-parte-2/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-vcp6-dcv-parte-3/</loc>
+    <loc>http://localhost:52927/lab-vcp6-dcv-parte-3/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lab-vcp6-dcv-parte-1/</loc>
+    <loc>http://localhost:52927/lab-vcp6-dcv-parte-1/</loc>
     <lastmod>2015-04-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-vsphere-6/</loc>
+    <loc>http://localhost:52927/instalando-vsphere-6/</loc>
     <lastmod>2015-03-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-e-atualizando-o-slackware-14-1/</loc>
+    <loc>http://localhost:52927/instalando-e-atualizando-o-slackware-14-1/</loc>
     <lastmod>2015-03-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/meu-lab-vmware-parte-02-storage-com-nexenta/</loc>
+    <loc>http://localhost:52927/meu-lab-vmware-parte-02-storage-com-nexenta/</loc>
     <lastmod>2015-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/curso-linux-introducao-e-administracao-de-servidores/</loc>
+    <loc>http://localhost:52927/curso-linux-introducao-e-administracao-de-servidores/</loc>
     <lastmod>2015-01-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-na-lpic-3-exame-303-security/</loc>
+    <loc>http://localhost:52927/passei-na-lpic-3-exame-303-security/</loc>
     <lastmod>2014-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/top-10-blogs-sobre-vmware/</loc>
+    <loc>http://localhost:52927/top-10-blogs-sobre-vmware/</loc>
     <lastmod>2014-11-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/openbsd-5-6/</loc>
+    <loc>http://localhost:52927/openbsd-5-6/</loc>
     <lastmod>2014-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-vsphere-powercli-5-8-release-1-reference-poster/</loc>
+    <loc>http://localhost:52927/vmware-vsphere-powercli-5-8-release-1-reference-poster/</loc>
     <lastmod>2014-10-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/meu-lab-vmware-parte-01/</loc>
+    <loc>http://localhost:52927/meu-lab-vmware-parte-01/</loc>
     <lastmod>2014-10-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</loc>
+    <loc>http://localhost:52927/video-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</loc>
     <lastmod>2014-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vmware-hands-on-labs/</loc>
+    <loc>http://localhost:52927/vmware-hands-on-labs/</loc>
     <lastmod>2014-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</loc>
+    <loc>http://localhost:52927/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</loc>
     <lastmod>2014-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lancado-the-book-of-pf-3rd-edition/</loc>
+    <loc>http://localhost:52927/lancado-the-book-of-pf-3rd-edition/</loc>
     <lastmod>2014-10-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/gigabyte-z97m-dh3-vmware-vsphere/</loc>
+    <loc>http://localhost:52927/gigabyte-z97m-dh3-vmware-vsphere/</loc>
     <lastmod>2014-08-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cyanogenmod-10-2-com-android-4-3-no-galaxy-s3/</loc>
+    <loc>http://localhost:52927/cyanogenmod-10-2-com-android-4-3-no-galaxy-s3/</loc>
     <lastmod>2014-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-na-certificacao-vcp5-dcv/</loc>
+    <loc>http://localhost:52927/passei-na-certificacao-vcp5-dcv/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/script-para-instalacao-da-multilib-no-slackware-64bits/</loc>
+    <loc>http://localhost:52927/script-para-instalacao-da-multilib-no-slackware-64bits/</loc>
     <lastmod>2014-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</loc>
+    <loc>http://localhost:52927/passei-na-certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</loc>
     <lastmod>2014-05-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/video-instalacao-openbsd-5-5/</loc>
+    <loc>http://localhost:52927/video-instalacao-openbsd-5-5/</loc>
     <lastmod>2014-05-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</loc>
+    <loc>http://localhost:52927/certificacao-em-hyper-v-prova-74-409-server-virtualization-with-windows-server-hyper-v-and-system-center/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/material-para-prova-vcp5-dcv/</loc>
+    <loc>http://localhost:52927/material-para-prova-vcp5-dcv/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/o-cangaco-e-um-jogo-de-acao-e-estrategia-em-tempo-real/</loc>
+    <loc>http://localhost:52927/o-cangaco-e-um-jogo-de-acao-e-estrategia-em-tempo-real/</loc>
     <lastmod>2014-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/usando-o-ls-para-mostrar-os-diretorios-em-forma-de-arvore/</loc>
+    <loc>http://localhost:52927/usando-o-ls-para-mostrar-os-diretorios-em-forma-de-arvore/</loc>
     <lastmod>2013-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/certificacao-itil/</loc>
+    <loc>http://localhost:52927/certificacao-itil/</loc>
     <lastmod>2013-12-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/recuperando-o-lilo-no-slackware/</loc>
+    <loc>http://localhost:52927/recuperando-o-lilo-no-slackware/</loc>
     <lastmod>2013-11-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/slackware-14-1-released/</loc>
+    <loc>http://localhost:52927/slackware-14-1-released/</loc>
     <lastmod>2013-11-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/3-sites-para-consulta-de-livros/</loc>
+    <loc>http://localhost:52927/3-sites-para-consulta-de-livros/</loc>
     <lastmod>2013-10-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog-de-cara-nova-2/</loc>
+    <loc>http://localhost:52927/blog-de-cara-nova-2/</loc>
     <lastmod>2013-10-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/video-aulas-gratuitas-sobre-vmware-vsphere/</loc>
+    <loc>http://localhost:52927/video-aulas-gratuitas-sobre-vmware-vsphere/</loc>
     <lastmod>2013-09-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/explainshell-com/</loc>
+    <loc>http://localhost:52927/explainshell-com/</loc>
     <lastmod>2013-08-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/turbine-sua-produtividade-com-symphonical/</loc>
+    <loc>http://localhost:52927/turbine-sua-produtividade-com-symphonical/</loc>
     <lastmod>2013-08-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/instalando-o-zabbix-2-no-slackware-14-0/</loc>
+    <loc>http://localhost:52927/instalando-o-zabbix-2-no-slackware-14-0/</loc>
     <lastmod>2013-08-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resolvendo-problema-na-inicializacao-do-teamviewer-8-no-slackware/</loc>
+    <loc>http://localhost:52927/resolvendo-problema-na-inicializacao-do-teamviewer-8-no-slackware/</loc>
     <lastmod>2013-08-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/documentacao-sobre-o-slackware/</loc>
+    <loc>http://localhost:52927/documentacao-sobre-o-slackware/</loc>
     <lastmod>2013-08-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mudando-o-idioma-padrao-do-slackware/</loc>
+    <loc>http://localhost:52927/mudando-o-idioma-padrao-do-slackware/</loc>
     <lastmod>2013-08-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lancada-edicao-n-52-da-revista-espirito-livre/</loc>
+    <loc>http://localhost:52927/lancada-edicao-n-52-da-revista-espirito-livre/</loc>
     <lastmod>2013-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/pacotes-tgztxz-para-o-slackware/</loc>
+    <loc>http://localhost:52927/pacotes-tgztxz-para-o-slackware/</loc>
     <lastmod>2013-07-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/gnulinux-distribution-timeline/</loc>
+    <loc>http://localhost:52927/gnulinux-distribution-timeline/</loc>
     <lastmod>2013-07-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vagas-de-trabalho-na-ibm/</loc>
+    <loc>http://localhost:52927/vagas-de-trabalho-na-ibm/</loc>
     <lastmod>2013-07-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mapa-de-cabos-submarinos/</loc>
+    <loc>http://localhost:52927/mapa-de-cabos-submarinos/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ebook-gratuito-windows-7-power-users-guide/</loc>
+    <loc>http://localhost:52927/ebook-gratuito-windows-7-power-users-guide/</loc>
     <lastmod>2013-06-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ebooks-microsoft-para-download/</loc>
+    <loc>http://localhost:52927/ebooks-microsoft-para-download/</loc>
     <lastmod>2013-06-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/seguranca-no-wordpress-parte-2/</loc>
+    <loc>http://localhost:52927/seguranca-no-wordpress-parte-2/</loc>
     <lastmod>2013-06-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/prova-lpi-2/</loc>
+    <loc>http://localhost:52927/prova-lpi-2/</loc>
     <lastmod>2013-06-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/nginx-http-server-1-3-9-1-4-0-chuncked-encoding-stack-buffer-overflow/</loc>
+    <loc>http://localhost:52927/nginx-http-server-1-3-9-1-4-0-chuncked-encoding-stack-buffer-overflow/</loc>
     <lastmod>2013-05-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/seguranca-no-wordpress-parte-1/</loc>
+    <loc>http://localhost:52927/seguranca-no-wordpress-parte-1/</loc>
     <lastmod>2013-05-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/pocket-book-microsoft-windows-server-2012-gratis/</loc>
+    <loc>http://localhost:52927/pocket-book-microsoft-windows-server-2012-gratis/</loc>
     <lastmod>2013-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/msp-techday-ultimo-dia/</loc>
+    <loc>http://localhost:52927/msp-techday-ultimo-dia/</loc>
     <lastmod>2013-05-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/debian-7-lancado/</loc>
+    <loc>http://localhost:52927/debian-7-lancado/</loc>
     <lastmod>2013-05-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/flisol-joao-pessoa/</loc>
+    <loc>http://localhost:52927/flisol-joao-pessoa/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/microsoft-lanca-disco-de-recuperacao-para-o-kb2823324-e-kb2782476-kb2840165/</loc>
+    <loc>http://localhost:52927/microsoft-lanca-disco-de-recuperacao-para-o-kb2823324-e-kb2782476-kb2840165/</loc>
     <lastmod>2013-04-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/livro-windows-server-2012/</loc>
+    <loc>http://localhost:52927/livro-windows-server-2012/</loc>
     <lastmod>2013-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/documentario-a-revolucao-dos-nerds-completo-e-dubladolegendado-gnt/</loc>
+    <loc>http://localhost:52927/documentario-a-revolucao-dos-nerds-completo-e-dubladolegendado-gnt/</loc>
     <lastmod>2013-04-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/como-denunciar-uma-foto-ou-video-no-facebook/</loc>
+    <loc>http://localhost:52927/como-denunciar-uma-foto-ou-video-no-facebook/</loc>
     <lastmod>2013-04-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/golpe-pode-roubar-senhas-do-wordpress/</loc>
+    <loc>http://localhost:52927/golpe-pode-roubar-senhas-do-wordpress/</loc>
     <lastmod>2013-04-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/adicionar-botoes-shutdownrestartlogoff-no-windows-8-via-power-shell/</loc>
+    <loc>http://localhost:52927/adicionar-botoes-shutdownrestartlogoff-no-windows-8-via-power-shell/</loc>
     <lastmod>2013-04-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog-de-cara-nova/</loc>
+    <loc>http://localhost:52927/blog-de-cara-nova/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/e-book-gratuito-de-powershell/</loc>
+    <loc>http://localhost:52927/e-book-gratuito-de-powershell/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mtr-tracerouteping-em-uma-unica-ferramenta/</loc>
+    <loc>http://localhost:52927/mtr-tracerouteping-em-uma-unica-ferramenta/</loc>
     <lastmod>2013-03-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/</loc>
+    <loc>http://localhost:52927/webcast-ferramentas-de-suporte-para-o-seu-dia-a-dia/</loc>
     <lastmod>2013-03-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lancada-edicao-n-43-da-revista-espirito-livre/</loc>
+    <loc>http://localhost:52927/lancada-edicao-n-43-da-revista-espirito-livre/</loc>
     <lastmod>2013-03-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/webcast-certificacao-microsoft-visao-geral/</loc>
+    <loc>http://localhost:52927/webcast-certificacao-microsoft-visao-geral/</loc>
     <lastmod>2013-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/falta-de-profissionais-de-ti-se-agravara-no-brasil-diz-idc/</loc>
+    <loc>http://localhost:52927/falta-de-profissionais-de-ti-se-agravara-no-brasil-diz-idc/</loc>
     <lastmod>2013-03-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/microsoft-word-wide-events/</loc>
+    <loc>http://localhost:52927/microsoft-word-wide-events/</loc>
     <lastmod>2013-03-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/livro-pfsense-2-0/</loc>
+    <loc>http://localhost:52927/livro-pfsense-2-0/</loc>
     <lastmod>2013-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/manual-wireshark-em-portugues/</loc>
+    <loc>http://localhost:52927/manual-wireshark-em-portugues/</loc>
     <lastmod>2013-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/criando-um-botao-de-desligar-no-windows-8/</loc>
+    <loc>http://localhost:52927/criando-um-botao-de-desligar-no-windows-8/</loc>
     <lastmod>2013-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mudando-a-inicializacao-do-windows/</loc>
+    <loc>http://localhost:52927/mudando-a-inicializacao-do-windows/</loc>
     <lastmod>2013-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/telehack-um-jogo-para-hackers/</loc>
+    <loc>http://localhost:52927/telehack-um-jogo-para-hackers/</loc>
     <lastmod>2013-02-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</loc>
+    <loc>http://localhost:52927/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</loc>
     <lastmod>2013-02-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/slax-linux-o-sistema-operacional-de-bolso/</loc>
+    <loc>http://localhost:52927/slax-linux-o-sistema-operacional-de-bolso/</loc>
     <lastmod>2013-02-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/slackware-eleito-o-melhor-so-para-desktop-e-servidores-de-2012-pelo-linux-questions/</loc>
+    <loc>http://localhost:52927/slackware-eleito-o-melhor-so-para-desktop-e-servidores-de-2012-pelo-linux-questions/</loc>
     <lastmod>2013-02-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/revisao-nas-provas-da-lpic-2-e-lpic-3/</loc>
+    <loc>http://localhost:52927/revisao-nas-provas-da-lpic-2-e-lpic-3/</loc>
     <lastmod>2013-01-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/scrum-em-menos-de-10-minutos/</loc>
+    <loc>http://localhost:52927/scrum-em-menos-de-10-minutos/</loc>
     <lastmod>2013-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/vai-se-o-msn-messenger-e-fica-o-skype/</loc>
+    <loc>http://localhost:52927/vai-se-o-msn-messenger-e-fica-o-skype/</loc>
     <lastmod>2013-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ebook-gratuito-introducao-ao-windows-8-para-profissionais-em-ti/</loc>
+    <loc>http://localhost:52927/ebook-gratuito-introducao-ao-windows-8-para-profissionais-em-ti/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/nmap-30-exemplos-de-comandos-para-administradores-de-rede/</loc>
+    <loc>http://localhost:52927/nmap-30-exemplos-de-comandos-para-administradores-de-rede/</loc>
     <lastmod>2013-01-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/carreiras-microsoft/</loc>
+    <loc>http://localhost:52927/carreiras-microsoft/</loc>
     <lastmod>2013-01-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/curso-de-ipv6/</loc>
+    <loc>http://localhost:52927/curso-de-ipv6/</loc>
     <lastmod>2013-01-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/novo-site/</loc>
+    <loc>http://localhost:52927/novo-site/</loc>
     <lastmod>2012-12-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

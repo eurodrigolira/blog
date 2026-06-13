@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>free on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/free/</link>
+    <link>http://localhost:52927/tag/free/</link>
     <description>Recent content in free on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/free/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/free/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VMware ESXi Free está de volta?!</title>
-      <link>http://localhost:1313/vmware-esxi-free-esta-de-volta/</link>
+      <link>http://localhost:52927/vmware-esxi-free-esta-de-volta/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/vmware-esxi-free-esta-de-volta/</guid>
+      <guid>http://localhost:52927/vmware-esxi-free-esta-de-volta/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje, navegando pelo LinkedIn, me deparei com uma postagem interessante de Duncan Epping, renomado engenheiro da VMware, que atualmente faz parte da Broadcom. Na publicação, ele menciona a volta da versão gratuita do ESXi, algo que muitos profissionais de TI vinham aguardando ansiosamente desde as recentes mudanças na estratégia de licenciamento.&lt;/p&gt;</description>
       
     </item>

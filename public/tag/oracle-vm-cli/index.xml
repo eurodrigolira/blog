@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oracle-vm-cli on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/oracle-vm-cli/</link>
+    <link>http://localhost:52927/tag/oracle-vm-cli/</link>
     <description>Recent content in oracle-vm-cli on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/oracle-vm-cli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/oracle-vm-cli/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Oracle VM Server - Criar uma VM via CLI</title>
-      <link>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</link>
+      <link>http://localhost:52927/oracle-vm-server-criar-uma-vm-via-cli/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/oracle-vm-server-criar-uma-vm-via-cli/</guid>
+      <guid>http://localhost:52927/oracle-vm-server-criar-uma-vm-via-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como criar uma maquina virtual via CLI no Oracle VM.&lt;/p&gt;&#xA;&lt;p&gt;Apesar de termos o ambiente web para gerência, podemos realizar todas as tarefas via linha de comando, por exemplo, adicionar servidores, criar pool, criar novas redes e maquinas virtuais.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Oracle VM Command Line Interface (CLI)</title>
-      <link>http://localhost:1313/oracle-vm-command-line-interface-cli/</link>
+      <link>http://localhost:52927/oracle-vm-command-line-interface-cli/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/oracle-vm-command-line-interface-cli/</guid>
+      <guid>http://localhost:52927/oracle-vm-command-line-interface-cli/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Este é o primeiro de uma serie de posts que quero fazer falando sobre o &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;O &lt;strong&gt;Oracle VM Command Line Interface (CLI)&lt;/strong&gt; oferece os mesmo recursos que o ambiente web, dessa forma podemos gerenciar nossos hosts e nosso manager por linha de comando.&lt;/p&gt;</description>
       
     </item>

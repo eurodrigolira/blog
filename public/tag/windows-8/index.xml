@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>windows-8 on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/windows-8/</link>
+    <link>http://localhost:52927/tag/windows-8/</link>
     <description>Recent content in windows-8 on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 26 Feb 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/windows-8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Feb 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/windows-8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Criando um botão de desligar no Windows 8</title>
-      <link>http://localhost:1313/criando-um-botao-de-desligar-no-windows-8/</link>
+      <link>http://localhost:52927/criando-um-botao-de-desligar-no-windows-8/</link>
       <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/criando-um-botao-de-desligar-no-windows-8/</guid>
+      <guid>http://localhost:52927/criando-um-botao-de-desligar-no-windows-8/</guid>
       <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Seguinte, to colando um vídeo bem simples que mostra como criar um botão de desligar para Windows 8, o vídeo não tem áudio mais é muito claro sobre como realizar o procedimentos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Três maneiras de ativar o Hyper-V no windows 8</title>
-      <link>http://localhost:1313/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</link>
+      <link>http://localhost:52927/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</link>
       <pubDate>Thu, 21 Feb 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</guid>
+      <guid>http://localhost:52927/tres-maneiras-de-ativar-o-hyper-v-no-windows-8/</guid>
       <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Vou mostrar pra vocês três maneira de ativar o Hyper-V no windows 8.&lt;/p&gt;&#xA;&lt;p&gt;São elas:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1º Prompt de Comando&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2º Power Shell&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3º Modo Gráfico&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Na primeira opção você deve executar o prompt de comando como administrador, ou seja, botão direito do mouse em cima do ícone e executar como administrador, com o prompt de comando aberto basta executar a seguinte linha de comando:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Ebook Gratuito - Introdução ao Windows 8 para profissionais em TI</title>
-      <link>http://localhost:1313/ebook-gratuito-introducao-ao-windows-8-para-profissionais-em-ti/</link>
+      <link>http://localhost:52927/ebook-gratuito-introducao-ao-windows-8-para-profissionais-em-ti/</link>
       <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/ebook-gratuito-introducao-ao-windows-8-para-profissionais-em-ti/</guid>
+      <guid>http://localhost:52927/ebook-gratuito-introducao-ao-windows-8-para-profissionais-em-ti/</guid>
       <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;&#34;&#xA;    src=&#34;images/0160.image_5F00_5186E8A3.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Passando só para mostrar esse ebook free que a microsoft disponibilizou para download. Segue o link para download.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://blogs.msdn.com/b/microsoft_press/archive/2012/11/13/free-ebook-introducing-windows-8-an-overview-for-it-professionals-final-edition.aspx?goback=%2Egde_3722785_member_205826704&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://blogs.msdn.com/b/microsoft_press/archive/2012/11/13/free-ebook-introducing-windows-8-an-overview-for-it-professionals-final-edition.aspx?goback=%2Egde_3722785_member_205826704&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>

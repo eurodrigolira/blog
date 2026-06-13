@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>active-directory on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/active-directory/</link>
+    <link>http://localhost:52927/tag/active-directory/</link>
     <description>Recent content in active-directory on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/active-directory/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alterando a Senha de Usuário do Active Directory via Linux</title>
-      <link>http://localhost:1313/alterando-a-senha-de-usuario-do-active-directory-via-linux/</link>
+      <link>http://localhost:52927/alterando-a-senha-de-usuario-do-active-directory-via-linux/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/alterando-a-senha-de-usuario-do-active-directory-via-linux/</guid>
+      <guid>http://localhost:52927/alterando-a-senha-de-usuario-do-active-directory-via-linux/</guid>
       <description>&lt;p&gt;Salve, salve, pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muita gente não sabe, mas é possível alterar a senha do seu usuário no Active Directory diretamente pelo terminal do Linux, mesmo que a senha esteja expirada.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Hangout - pfSense com Captive Portal autenticando usuários via radius no Active Directory</title>
-      <link>http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</link>
+      <link>http://localhost:52927/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;hangout&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 800w, http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Seguinte, eu tava pensando em fazer uma vídeo aula mostrando como configurar o Captive Portal do pfSense para autenticar os usuários do Active Directory via Radius.&lt;/p&gt;&#xA;&lt;p&gt;Dai me veio a ideia de fazer um hangout, dessa forma a coisa pode ser ao vivo e vocês podem fazer perguntas, tirar dúvidas e etc.&lt;/p&gt;&#xA;&lt;p&gt;Será uma boa experiência para mim que pretendo realizar outros vídeos ou até mesmo hangouts, vai que da certo :)&lt;/p&gt;&#xA;&lt;p&gt;Neste hangout não vou mostrar como instalar os Sistemas Operacionais, na internet já existe diversos vídeos mostrando como fazer.&lt;/p&gt;&#xA;&lt;p&gt;Porém vou mostrar todos os passos de como habilitar ou instalar os serviços tanto no Windows quanto no pfSense.&lt;/p&gt;&#xA;&lt;p&gt;A imagem abaixo exemplifica um pouco o que vamos fazer:&lt;/p&gt;</description>
+      <guid>http://localhost:52927/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2014/10/hangout.jpg&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;hangout&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;140&#34;&#xA;    src=&#34;http://localhost:52927/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&#xA;    srcset=&#34;http://localhost:52927/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 800w, http://localhost:52927/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/hangout-pfsense-com-captive-portal-autenticando-usuarios-via-radius-no-active-directory/images/hangout.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Seguinte, eu tava pensando em fazer uma vídeo aula mostrando como configurar o Captive Portal do pfSense para autenticar os usuários do Active Directory via Radius.&lt;/p&gt;&#xA;&lt;p&gt;Dai me veio a ideia de fazer um hangout, dessa forma a coisa pode ser ao vivo e vocês podem fazer perguntas, tirar dúvidas e etc.&lt;/p&gt;&#xA;&lt;p&gt;Será uma boa experiência para mim que pretendo realizar outros vídeos ou até mesmo hangouts, vai que da certo :)&lt;/p&gt;&#xA;&lt;p&gt;Neste hangout não vou mostrar como instalar os Sistemas Operacionais, na internet já existe diversos vídeos mostrando como fazer.&lt;/p&gt;&#xA;&lt;p&gt;Porém vou mostrar todos os passos de como habilitar ou instalar os serviços tanto no Windows quanto no pfSense.&lt;/p&gt;&#xA;&lt;p&gt;A imagem abaixo exemplifica um pouco o que vamos fazer:&lt;/p&gt;</description>
       
     </item>
     

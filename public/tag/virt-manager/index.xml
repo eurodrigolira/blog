@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>virt-manager on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/virt-manager/</link>
+    <link>http://localhost:52927/tag/virt-manager/</link>
     <description>Recent content in virt-manager on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/virt-manager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/virt-manager/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Compartilhamento de Pastas entre Linux e Windows usando Virt-Manager (QEMU/KVM)</title>
-      <link>http://localhost:1313/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</link>
+      <link>http://localhost:52927/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</guid>
+      <guid>http://localhost:52927/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Aqui no blog já escrevi alguns posts sobre o &lt;strong&gt;VMware Workstation&lt;/strong&gt;. Quem utiliza a ferramenta sabe como é simples realizar o compartilhamento de diretórios entre o &lt;strong&gt;sistema operacional hospedeiro&lt;/strong&gt; e o &lt;strong&gt;sistema operacional convidado&lt;/strong&gt;. Inclusive, já mostrei como fazer esse procedimento no post abaixo:&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52927/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/featured.png" />
     </item>
     
   </channel>

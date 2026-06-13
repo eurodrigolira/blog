@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>usb on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/usb/</link>
+    <link>http://localhost:52927/tag/usb/</link>
     <description>Recent content in usb on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/usb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/usb/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Montando disco USB no VMware ESXi</title>
-      <link>http://localhost:1313/montando-disco-usb-no-vmware-esxi/</link>
+      <link>http://localhost:52927/montando-disco-usb-no-vmware-esxi/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/montando-disco-usb-no-vmware-esxi/</guid>
+      <guid>http://localhost:52927/montando-disco-usb-no-vmware-esxi/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Sempre recebo o contato de pessoas me perguntando como podemos montar um disco USB no VMware ESXi.&lt;/p&gt;&#xA;&lt;p&gt;Mas porque eu usária um disco USB no meu ESXi Rodrigo?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Adaptadores USB para Ethernet no ESXi 7</title>
-      <link>http://localhost:1313/adaptadores-usb-para-ethernet-no-esxi-7/</link>
+      <link>http://localhost:52927/adaptadores-usb-para-ethernet-no-esxi-7/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
+      <guid>http://localhost:52927/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muita gente sabe que com o &lt;strong&gt;ESXi 7&lt;/strong&gt; não podemos mais usar placas de rede do tipo PCI não homologadas pela VMware, normalmente essas placas de rede vem com chipsets &lt;strong&gt;Realtek&lt;/strong&gt;, precisamos instalar os drivers manualmente e eram usadas em labs ou pequenos ambientes, particularmente tenho vários clientes usando.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Bloqueando dispositivos USB no Linux com USBGuard</title>
-      <link>http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/</link>
+      <link>http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;962&#34;&#xA;    height=&#34;193&#34;&#xA;    src=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png&#34;&#xA;    srcset=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png 800w, http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como podemos bloquear ou liberar dispositivos do tipo &lt;strong&gt;USB&lt;/strong&gt; no Linux com &lt;strong&gt;USBGuard&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;962&#34;&#xA;    height=&#34;193&#34;&#xA;    src=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png&#34;&#xA;    srcset=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png 800w, http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como podemos bloquear ou liberar dispositivos do tipo &lt;strong&gt;USB&lt;/strong&gt; no Linux com &lt;strong&gt;USBGuard&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ISOs ESXi Customizadas (Update 06/2019)</title>
-      <link>http://localhost:1313/isos-esxi-customizadas-update-06-2019/</link>
+      <link>http://localhost:52927/isos-esxi-customizadas-update-06-2019/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/isos-esxi-customizadas-update-06-2019/</guid>
+      <guid>http://localhost:52927/isos-esxi-customizadas-update-06-2019/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de uma boa reformulada no blog, venho com mais uma boa notícia.&lt;/p&gt;&#xA;&lt;p&gt;Criei uma área dedicada as ISOs customizadas do ESXI.&lt;/p&gt;&#xA;&lt;p&gt;Alem disso, também inclui os drivers em diversas imagens da Lenovo e HP, dessa forma você pode baixar a ISO com os drivers da HP e Lenovo e já com os drivers da Realtek e etc.&lt;/p&gt;</description>
       
     </item>

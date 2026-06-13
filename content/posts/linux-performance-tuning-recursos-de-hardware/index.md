@@ -32,23 +32,47 @@ O dmesg exibe as mensagens do buffer do kernel, sendo uma das primeiras ferramen
 
 Com ele, conseguimos visualizar o processo de detecção de dispositivos durante o boot, incluindo CPUs, memória, discos e drivers carregados. Também é extremamente útil para identificar erros ou falhas de hardware.
 
-### getconf
+Em sua saída padrão ele exibe todo o buffer, mas podemos fazer filtros simples com o **grep** e filtrar por determinados tipos de recursos.
 
-O getconf -a retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.
+```bash
+dmesg | grep -i disk --color
+```
 
-Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis (_NPROCESSORS_ONLN) e outras configurações que impactam diretamente na performance.
+![](/images/dmesg1.png)
+
+Por padrão ele não exibe a hora em formato legivel, então podemos usar o **-T** para ele converter.
+
+```bash
+dmesg -T
+```
+
+![](/images/dmesg2.png)
 
 ### dmidecode
 
-O dmidecode acessa informações da BIOS/UEFI através da tabela DMI (Desktop Management Interface).
+O dmidecode acessa informações da BIOS Gerenciamento de sistema
+(SMBIOS, System Management BIOS) e Interface gerenciamento de área de trabalho (DMI,
+Desktop Management Interface).
 
-Com ele, conseguimos obter detalhes como fabricante do servidor, modelo, versão da BIOS, quantidade de memória instalada, slots disponíveis e até informações sobre CPUs. É uma ferramenta essencial para inventário de hardware físico.
+Com ele, conseguimos obter detalhes como fabricante do servidor, modelo, versão da BIOS, quantidade de memória instalada, slots disponíveis, informações sobre CPUs, etc. É uma ferramenta essencial para inventário de hardware físico.
+
+Os dados exibidos na saída do comando podem ser encontrados no diretório **/sys/class/dmi/id** e são obtidos pelo sistema de arquivos **sysfs**.
+
+![](/images/dmidecode.png)
 
 ### lscpu
 
 O lscpu apresenta informações detalhadas sobre a arquitetura da CPU.
 
 Entre os dados disponíveis, temos número de sockets, cores, threads, frequência, flags de CPU e informações sobre NUMA. É uma ferramenta indispensável para entender como o processamento está organizado no sistema.
+
+A opção -e exibe:
+
+![](/images/lscpu-e.png)
+
+A opção -p exibe:
+
+![](/images/lscpu-p.png)
 
 ### lsusb
 
@@ -85,6 +109,13 @@ Ele mostra métricas relacionadas a exits de virtualização, que ajudam a enten
 O perf-kvm é uma extensão do perf voltada para análise de performance em ambientes KVM.
 
 Com ele, é possível analisar eventos tanto no host quanto nas VMs, permitindo identificar gargalos mais profundos relacionados à virtualização, como latência de CPU e comportamento de instruções.
+
+### getconf
+
+O getconf -a retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.
+
+Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis (_NPROCESSORS_ONLN) e outras configurações que impactam diretamente na performance.
+
 
 ## Conclusão
 

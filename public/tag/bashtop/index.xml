@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bashtop on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/bashtop/</link>
+    <link>http://localhost:52927/tag/bashtop/</link>
     <description>Recent content in bashtop on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/bashtop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/bashtop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ferramentas do dia a dia com Linux – BASHTOP</title>
-      <link>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-bashtop/</link>
+      <link>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-bashtop/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/ferramentas-do-dia-a-dia-com-linux-bashtop/</guid>
+      <guid>http://localhost:52927/ferramentas-do-dia-a-dia-com-linux-bashtop/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade as ferramentas do dia a dia com Linux, hoje eu vou falar do &lt;strong&gt;BASHTOP&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;BASHTOP&lt;/strong&gt; é um monitor de recursos do sistema operacional.&lt;/p&gt;&#xA;&lt;p&gt;Com ele você consegui visualizar o uso de recursos do processador, disco, memória, rede e processos em execução.&lt;/p&gt;</description>
       
     </item>

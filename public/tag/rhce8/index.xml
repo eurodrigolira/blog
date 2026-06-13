@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rhce8 on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/rhce8/</link>
+    <link>http://localhost:52927/tag/rhce8/</link>
     <description>Recent content in rhce8 on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/rhce8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/rhce8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RHCE 8 (EX294) – Aprovado :D</title>
-      <link>http://localhost:1313/rhce-8-ex294-aprovado-d/</link>
+      <link>http://localhost:52927/rhce-8-ex294-aprovado-d/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/rhce-8-ex294-aprovado-d/</guid>
+      <guid>http://localhost:52927/rhce-8-ex294-aprovado-d/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui rapidinho para informar que nesse dia das crianças (12/10/2021) fui aprovado no exame RHCE 8 (EX294).&lt;/p&gt;&#xA;&lt;p&gt;Diferentemente do RHCE 7 (EX300) este exame é baseado no &lt;strong&gt;Ansible 2.8&lt;/strong&gt; e &lt;strong&gt;Red Hat 8,&lt;/strong&gt; mais para frente escrevo um post com maiores detalhes sobre o exame.&lt;/p&gt;</description>
       
     </item>

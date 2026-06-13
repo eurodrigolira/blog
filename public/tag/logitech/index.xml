@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>logitech on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/logitech/</link>
+    <link>http://localhost:52927/tag/logitech/</link>
     <description>Recent content in logitech on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/logitech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/logitech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Setup 2026</title>
-      <link>http://localhost:1313/setup-2026/</link>
+      <link>http://localhost:52927/setup-2026/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/setup-2026/</guid>
+      <guid>http://localhost:52927/setup-2026/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Passando aqui para falar um pouco sobre o meu &lt;strong&gt;Setup 2026&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Não utilizo mais notebook, atualmente estou apenas com um mini desktop. Também deixei de ter um &lt;strong&gt;homelab&lt;/strong&gt; dedicado, todos os meus laboratórios estão sendo executados no próprio desktop, que, até o momento, está dando conta de todas as demandas sem dificuldades.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/setup-2026/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52927/setup-2026/featured.jpeg" />
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>trunk on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/trunk/</link>
+    <link>http://localhost:52927/tag/trunk/</link>
     <description>Recent content in trunk on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/trunk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/trunk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>LACP, Roundrobin e Failover no OpenBSD 6.0</title>
-      <link>http://localhost:1313/lacp-roundrobin-e-failover-no-openbsd-6-0/</link>
+      <link>http://localhost:52927/lacp-roundrobin-e-failover-no-openbsd-6-0/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/lacp-roundrobin-e-failover-no-openbsd-6-0/</guid>
+      <guid>http://localhost:52927/lacp-roundrobin-e-failover-no-openbsd-6-0/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Nesse post vou mostrar como configurar uma interface trunk no OpenBSD. Ops, Trunk??? Sim, trunk!&lt;/p&gt;&#xA;&lt;p&gt;Trunk é o nome usado para interface virtual que é criada no OpenBSD, então não se confundam com &amp;ldquo;VLAN Trunk&amp;rdquo; e etc. ;)&lt;/p&gt;</description>
       
     </item>

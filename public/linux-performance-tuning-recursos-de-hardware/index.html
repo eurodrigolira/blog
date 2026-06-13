@@ -259,7 +259,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "695"
+    "wordCount": "784"
   }]
   </script>
 
@@ -687,8 +687,6 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
 
 
 
-    <div id="hero" class="h-[150px] md:h-[200px]"></div>
-  
   <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom">
     
     
@@ -708,6 +706,19 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
       class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal"></div>
   </div>
 
+  
+    <div
+      id="background-blur"
+      class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-xl bg-neutral-100/75 dark:bg-neutral-800/60"></div>
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js"
+      integrity="sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W&#43;5DcKnbOMMOI&#43;f7IvMGNsVvUfj&#43;ooJ13n6EqqcGEz2FKMVvHLGwWPQ=="
+      data-blur-id="background-blur"
+      data-image-id="background-image"
+      data-image-url="/linux-performance-tuning-recursos-de-hardware/featured_hu_ab3f86e508fd21de.png"></script>
   
       
     
@@ -799,7 +810,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-05-31T00:00:00&#43;00:00">31 maio 2026</time><span class="px-2 text-primary-500">&middot;</span><span>695 palavras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de leitura">4 minutos</span>
+      <time datetime="2026-05-31T00:00:00&#43;00:00">31 maio 2026</time><span class="px-2 text-primary-500">&middot;</span><span>784 palavras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de leitura">4 minutos</span>
     
 
     
@@ -1092,7 +1103,6 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     <li><a href="#ferramentas">Ferramentas</a>
       <ul>
         <li><a href="#dmesg">dmesg</a></li>
-        <li><a href="#getconf">getconf</a></li>
         <li><a href="#dmidecode">dmidecode</a></li>
         <li><a href="#lscpu">lscpu</a></li>
         <li><a href="#lsusb">lsusb</a></li>
@@ -1101,6 +1111,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
         <li><a href="#virsh-dumpxml">virsh dumpxml</a></li>
         <li><a href="#kvm_stat">kvm_stat</a></li>
         <li><a href="#perf-kvm">perf-kvm</a></li>
+        <li><a href="#getconf">getconf</a></li>
       </ul>
     </li>
     <li><a href="#conclusão">Conclusão</a></li>
@@ -1122,7 +1133,6 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     <li><a href="#ferramentas">Ferramentas</a>
       <ul>
         <li><a href="#dmesg">dmesg</a></li>
-        <li><a href="#getconf">getconf</a></li>
         <li><a href="#dmidecode">dmidecode</a></li>
         <li><a href="#lscpu">lscpu</a></li>
         <li><a href="#lsusb">lsusb</a></li>
@@ -1131,6 +1141,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
         <li><a href="#virsh-dumpxml">virsh dumpxml</a></li>
         <li><a href="#kvm_stat">kvm_stat</a></li>
         <li><a href="#perf-kvm">perf-kvm</a></li>
+        <li><a href="#getconf">getconf</a></li>
       </ul>
     </li>
     <li><a href="#conclusão">Conclusão</a></li>
@@ -1188,18 +1199,34 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
 </h3>
 <p>O dmesg exibe as mensagens do buffer do kernel, sendo uma das primeiras ferramentas que devemos consultar ao investigar o hardware.</p>
 <p>Com ele, conseguimos visualizar o processo de detecção de dispositivos durante o boot, incluindo CPUs, memória, discos e drivers carregados. Também é extremamente útil para identificar erros ou falhas de hardware.</p>
-
-<h3 class="relative group">getconf
-    <div id="getconf" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#getconf" aria-label="Âncora">#</a>
-    </span>
-    
-</h3>
-<p>O getconf -a retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.</p>
-<p>Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis (_NPROCESSORS_ONLN) e outras configurações que impactam diretamente na performance.</p>
+<p>Em sua saída padrão ele exibe todo o buffer, mas podemos fazer filtros simples com o <strong>grep</strong> e filtrar por determinados tipos de recursos.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">dmesg <span class="p">|</span> grep -i disk --color</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1870"
+    height="204"
+    src="/linux-performance-tuning-recursos-de-hardware/images/dmesg1_hu_ca64fa3bfa01939c.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/dmesg1_hu_ca64fa3bfa01939c.png 800w, /linux-performance-tuning-recursos-de-hardware/images/dmesg1_hu_b0376d9b10ea874c.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/dmesg1.png"></figure>
+<p>Por padrão ele não exibe a hora em formato legivel, então podemos usar o <strong>-T</strong> para ele converter.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">dmesg -T</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="2916"
+    height="312"
+    src="/linux-performance-tuning-recursos-de-hardware/images/dmesg2_hu_fa83f84f47277a96.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/dmesg2_hu_fa83f84f47277a96.png 800w, /linux-performance-tuning-recursos-de-hardware/images/dmesg2_hu_d9120663acb42fb.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/dmesg2.png"></figure>
 
 <h3 class="relative group">dmidecode
     <div id="dmidecode" class="anchor"></div>
@@ -1210,8 +1237,23 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     </span>
     
 </h3>
-<p>O dmidecode acessa informações da BIOS/UEFI através da tabela DMI (Desktop Management Interface).</p>
-<p>Com ele, conseguimos obter detalhes como fabricante do servidor, modelo, versão da BIOS, quantidade de memória instalada, slots disponíveis e até informações sobre CPUs. É uma ferramenta essencial para inventário de hardware físico.</p>
+<p>O dmidecode acessa informações da BIOS Gerenciamento de sistema
+(SMBIOS, System Management BIOS) e Interface gerenciamento de área de trabalho (DMI,
+Desktop Management Interface).</p>
+<p>Com ele, conseguimos obter detalhes como fabricante do servidor, modelo, versão da BIOS, quantidade de memória instalada, slots disponíveis, informações sobre CPUs, etc. É uma ferramenta essencial para inventário de hardware físico.</p>
+<p>Os dados exibidos na saída do comando podem ser encontrados no diretório <strong>/sys/class/dmi/id</strong> e são obtidos pelo sistema de arquivos <strong>sysfs</strong>.</p>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="2250"
+    height="214"
+    src="/linux-performance-tuning-recursos-de-hardware/images/dmidecode_hu_43bbe278917e3175.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/dmidecode_hu_43bbe278917e3175.png 800w, /linux-performance-tuning-recursos-de-hardware/images/dmidecode_hu_97c971b25f2cae70.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/dmidecode.png"></figure>
 
 <h3 class="relative group">lscpu
     <div id="lscpu" class="anchor"></div>
@@ -1224,6 +1266,32 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
 </h3>
 <p>O lscpu apresenta informações detalhadas sobre a arquitetura da CPU.</p>
 <p>Entre os dados disponíveis, temos número de sockets, cores, threads, frequência, flags de CPU e informações sobre NUMA. É uma ferramenta indispensável para entender como o processamento está organizado no sistema.</p>
+<p>A opção -e exibe:</p>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1224"
+    height="296"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lscpu-e_hu_7c71d7465ba1e859.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lscpu-e_hu_7c71d7465ba1e859.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lscpu-e.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lscpu-e.png"></figure>
+<p>A opção -p exibe:</p>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1486"
+    height="388"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lscpu-p_hu_ad488b56917f6e09.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lscpu-p_hu_ad488b56917f6e09.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lscpu-p_hu_dd054dab353c87ef.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lscpu-p.png"></figure>
 
 <h3 class="relative group">lsusb
     <div id="lsusb" class="anchor"></div>
@@ -1296,6 +1364,18 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
 </h3>
 <p>O perf-kvm é uma extensão do perf voltada para análise de performance em ambientes KVM.</p>
 <p>Com ele, é possível analisar eventos tanto no host quanto nas VMs, permitindo identificar gargalos mais profundos relacionados à virtualização, como latência de CPU e comportamento de instruções.</p>
+
+<h3 class="relative group">getconf
+    <div id="getconf" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#getconf" aria-label="Âncora">#</a>
+    </span>
+    
+</h3>
+<p>O getconf -a retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.</p>
+<p>Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis (_NPROCESSORS_ONLN) e outras configurações que impactam diretamente na performance.</p>
 
 <h2 class="relative group">Conclusão
     <div id="conclusão" class="anchor"></div>

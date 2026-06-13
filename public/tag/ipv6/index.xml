@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ipv6 on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/ipv6/</link>
+    <link>http://localhost:52927/tag/ipv6/</link>
     <description>Recent content in ipv6 on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 03 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/ipv6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Desabilitar IPv6 no Oracle Linux 7</title>
-      <link>http://localhost:1313/desabilitar-ipv6-no-oracle-linux-7/</link>
+      <link>http://localhost:52927/desabilitar-ipv6-no-oracle-linux-7/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/desabilitar-ipv6-no-oracle-linux-7/</guid>
+      <guid>http://localhost:52927/desabilitar-ipv6-no-oracle-linux-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Uma das coisas que faço por padrão quando faço uma nova instalação de um sistema operacional, é desabilitar o IPv6, nunca tive a necessidade de usa-lo, dessa forma quando preciso resolver algum problema referente a rede, os comando &lt;strong&gt;ifconfig&lt;/strong&gt; ou &lt;strong&gt;ip&lt;/strong&gt; ficam mais limpos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Desabilitando o IPv6 no Slackware 14.2</title>
-      <link>http://localhost:1313/desabilitando-o-ipv6-no-slackware-14-2/</link>
+      <link>http://localhost:52927/desabilitando-o-ipv6-no-slackware-14-2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/desabilitando-o-ipv6-no-slackware-14-2/</guid>
+      <guid>http://localhost:52927/desabilitando-o-ipv6-no-slackware-14-2/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Depois de um bom tempo sem usar o bom e velho Slackware, estou voltando para ele. (Um bom filho a casa torna :D )&lt;/p&gt;&#xA;&lt;p&gt;Uma das coisas que sempre desabilito por padrão é o IPv6.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Curso de IPv6</title>
-      <link>http://localhost:1313/curso-de-ipv6/</link>
+      <link>http://localhost:52927/curso-de-ipv6/</link>
       <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/curso-de-ipv6/</guid>
+      <guid>http://localhost:52927/curso-de-ipv6/</guid>
       <description>&lt;p&gt;Salve Salve Galera!&lt;/p&gt;&#xA;&lt;p&gt;Nas andanças pela net, acabei descobrindo um curso gratuito de IPv6, o curso é em formato e-learning ou você pode baixa-lo para assistir depois, o curso é bastante interessante e bom para quem quer aprender um pouco mais sobre IPv6, segue o link para o curso.&lt;/p&gt;</description>
       
     </item>

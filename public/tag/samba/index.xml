@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>samba on RODRIGO LIRA</title>
-    <link>http://localhost:1313/tag/samba/</link>
+    <link>http://localhost:52927/tag/samba/</link>
     <description>Recent content in samba on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/samba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/samba/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alterando a Senha de Usuário do Active Directory via Linux</title>
-      <link>http://localhost:1313/alterando-a-senha-de-usuario-do-active-directory-via-linux/</link>
+      <link>http://localhost:52927/alterando-a-senha-de-usuario-do-active-directory-via-linux/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/alterando-a-senha-de-usuario-do-active-directory-via-linux/</guid>
+      <guid>http://localhost:52927/alterando-a-senha-de-usuario-do-active-directory-via-linux/</guid>
       <description>&lt;p&gt;Salve, salve, pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muita gente não sabe, mas é possível alterar a senha do seu usuário no Active Directory diretamente pelo terminal do Linux, mesmo que a senha esteja expirada.&lt;/p&gt;</description>
       
     </item>
