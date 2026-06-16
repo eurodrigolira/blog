@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>curl on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/curl/</link>
+    <link>http://localhost:1313/tag/curl/</link>
     <description>Recent content in curl on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/curl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/curl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Problema com Zabbix &#43; Curl 7.87.0 no Slackware 15 e Current</title>
-      <link>http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/</link>
+      <link>http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/</guid>
-      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje quando fui atualizar o meu &lt;strong&gt;Zabbix Server&lt;/strong&gt; para a versão &lt;strong&gt;6.0.12&lt;/strong&gt; recebi um erro na hora de criar o pacote para o &lt;strong&gt;Slackware&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;518&#34;&#xA;    src=&#34;http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518_hu_134e3dd79c6cac32.png&#34;&#xA;    srcset=&#34;http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518_hu_134e3dd79c6cac32.png 800w, http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Pesquisando um pouco sobre o problema, já cai na página de suporte da Zabbix.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje quando fui atualizar o meu &lt;strong&gt;Zabbix Server&lt;/strong&gt; para a versão &lt;strong&gt;6.0.12&lt;/strong&gt; recebi um erro na hora de criar o pacote para o &lt;strong&gt;Slackware&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;1024&#34;&#xA;    height=&#34;518&#34;&#xA;    src=&#34;http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518_hu_134e3dd79c6cac32.png&#34;&#xA;    srcset=&#34;http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518_hu_134e3dd79c6cac32.png 800w, http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/problema-com-zabbix-curl-7-87-0-no-slackware-15-e-current/images/2023-01-05_11-21-1024x518.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;Pesquisando um pouco sobre o problema, já cai na página de suporte da Zabbix.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Descobrindo seu IP REAL pelo Terminal</title>
-      <link>http://localhost:52927/descobrindo-seu-ip-real-pelo-terminal/</link>
+      <link>http://localhost:1313/descobrindo-seu-ip-real-pelo-terminal/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/descobrindo-seu-ip-real-pelo-terminal/</guid>
+      <guid>http://localhost:1313/descobrindo-seu-ip-real-pelo-terminal/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje vou dar uma dica bem simples, como descobrir seu IP real pelo terminal.&lt;/p&gt;&#xA;&lt;p&gt;Existe um site chamado &lt;strong&gt;ifconfig.me,&lt;/strong&gt; que quando acessamos ele pelo navegador, ele nos informa o nosso IP Real.&lt;/p&gt;</description>
       
     </item>

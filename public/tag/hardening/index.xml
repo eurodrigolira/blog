@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hardening on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/hardening/</link>
+    <link>http://localhost:1313/tag/hardening/</link>
     <description>Recent content in hardening on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/hardening/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/hardening/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hardening Red Hat/CentOS 7 – Parte 02 (Controlando o acesso por SSH)</title>
-      <link>http://localhost:52927/hardening-red-hat-centos-7-parte-02-controlando-o-acesso-por-ssh/</link>
+      <link>http://localhost:1313/hardening-red-hat-centos-7-parte-02-controlando-o-acesso-por-ssh/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/hardening-red-hat-centos-7-parte-02-controlando-o-acesso-por-ssh/</guid>
+      <guid>http://localhost:1313/hardening-red-hat-centos-7-parte-02-controlando-o-acesso-por-ssh/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Vamos para mais um post da serie de Hardening em &lt;strong&gt;Red Hat/CentOS 7&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No post anterior vimos como controlar o acesso de root em diversas formas de login. até mesmo por SSH, se não viu o primeiro post, sugiro que acesse e leia, segue o link:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Hardening Red Hat/CentOS 7 - Parte 01 (Controlando o acesso de root)</title>
-      <link>http://localhost:52927/hardening-red-hat-centos-7-parte-01-controlando-o-acesso-de-root/</link>
+      <link>http://localhost:1313/hardening-red-hat-centos-7-parte-01-controlando-o-acesso-de-root/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/hardening-red-hat-centos-7-parte-01-controlando-o-acesso-de-root/</guid>
+      <guid>http://localhost:1313/hardening-red-hat-centos-7-parte-01-controlando-o-acesso-de-root/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Antes de começar essa serie de posts, vamos começar entendendo um pouco o que é o &lt;strong&gt;hardening&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;p&gt;Segundo a Wikipédia: &lt;em&gt;&lt;strong&gt;Hardening&lt;/strong&gt;&lt;/em&gt; é um processo de mapeamento das ameaças, mitigação dos riscos e execução das atividades corretivas, com foco na infraestrutura e objetivo principal de torná-la preparada para enfrentar tentativas de ataque.&lt;/p&gt;</description>
       
     </item>

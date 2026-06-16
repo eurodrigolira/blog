@@ -2,181 +2,181 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>category on RODRIGO LIRA</title>
-    <link>http://localhost:52927/category/</link>
+    <link>http://localhost:1313/category/</link>
     <description>Recent content in category on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>linux</title>
-      <link>http://localhost:52927/category/linux/</link>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/category/linux/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/linux/</guid>
+      <guid>http://localhost:1313/category/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>virtualizacao</title>
-      <link>http://localhost:52927/category/virtualizacao/</link>
+      <link>http://localhost:1313/category/virtualizacao/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/virtualizacao/</guid>
+      <guid>http://localhost:1313/category/virtualizacao/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>outros</title>
-      <link>http://localhost:52927/category/outros/</link>
+      <link>http://localhost:1313/category/outros/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/outros/</guid>
+      <guid>http://localhost:1313/category/outros/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>certificacoes</title>
-      <link>http://localhost:52927/category/certificacoes/</link>
+      <link>http://localhost:1313/category/certificacoes/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/certificacoes/</guid>
+      <guid>http://localhost:1313/category/certificacoes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>livros</title>
-      <link>http://localhost:52927/category/livros/</link>
+      <link>http://localhost:1313/category/livros/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/livros/</guid>
+      <guid>http://localhost:1313/category/livros/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>monitoramento</title>
-      <link>http://localhost:52927/category/monitoramento/</link>
+      <link>http://localhost:1313/category/monitoramento/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/monitoramento/</guid>
+      <guid>http://localhost:1313/category/monitoramento/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>seguranca</title>
-      <link>http://localhost:52927/category/seguranca/</link>
+      <link>http://localhost:1313/category/seguranca/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/seguranca/</guid>
+      <guid>http://localhost:1313/category/seguranca/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>windows</title>
-      <link>http://localhost:52927/category/windows/</link>
+      <link>http://localhost:1313/category/windows/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/windows/</guid>
+      <guid>http://localhost:1313/category/windows/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>scripts</title>
-      <link>http://localhost:52927/category/scripts/</link>
+      <link>http://localhost:1313/category/scripts/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/scripts/</guid>
+      <guid>http://localhost:1313/category/scripts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>kubernetes</title>
-      <link>http://localhost:52927/category/kubernetes/</link>
+      <link>http://localhost:1313/category/kubernetes/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/kubernetes/</guid>
+      <guid>http://localhost:1313/category/kubernetes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>devops</title>
-      <link>http://localhost:52927/category/devops/</link>
+      <link>http://localhost:1313/category/devops/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/devops/</guid>
+      <guid>http://localhost:1313/category/devops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>cloud</title>
-      <link>http://localhost:52927/category/cloud/</link>
+      <link>http://localhost:1313/category/cloud/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/cloud/</guid>
+      <guid>http://localhost:1313/category/cloud/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>storage</title>
-      <link>http://localhost:52927/category/storage/</link>
+      <link>http://localhost:1313/category/storage/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/storage/</guid>
+      <guid>http://localhost:1313/category/storage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>redes</title>
-      <link>http://localhost:52927/category/redes/</link>
+      <link>http://localhost:1313/category/redes/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/redes/</guid>
+      <guid>http://localhost:1313/category/redes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>eventos</title>
-      <link>http://localhost:52927/category/eventos/</link>
+      <link>http://localhost:1313/category/eventos/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/eventos/</guid>
+      <guid>http://localhost:1313/category/eventos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>labs</title>
-      <link>http://localhost:52927/category/labs/</link>
+      <link>http://localhost:1313/category/labs/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/labs/</guid>
+      <guid>http://localhost:1313/category/labs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>bsd</title>
-      <link>http://localhost:52927/category/bsd/</link>
+      <link>http://localhost:1313/category/bsd/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/category/bsd/</guid>
+      <guid>http://localhost:1313/category/bsd/</guid>
       <description></description>
       
     </item>

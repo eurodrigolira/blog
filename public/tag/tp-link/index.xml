@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tp-link on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/tp-link/</link>
+    <link>http://localhost:1313/tag/tp-link/</link>
     <description>Recent content in tp-link on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/tp-link/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/tp-link/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Adaptadores USB para Ethernet no ESXi 7</title>
-      <link>http://localhost:52927/adaptadores-usb-para-ethernet-no-esxi-7/</link>
+      <link>http://localhost:1313/adaptadores-usb-para-ethernet-no-esxi-7/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
+      <guid>http://localhost:1313/adaptadores-usb-para-ethernet-no-esxi-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Muita gente sabe que com o &lt;strong&gt;ESXi 7&lt;/strong&gt; não podemos mais usar placas de rede do tipo PCI não homologadas pela VMware, normalmente essas placas de rede vem com chipsets &lt;strong&gt;Realtek&lt;/strong&gt;, precisamos instalar os drivers manualmente e eram usadas em labs ou pequenos ambientes, particularmente tenho vários clientes usando.&lt;/p&gt;</description>
       
     </item>

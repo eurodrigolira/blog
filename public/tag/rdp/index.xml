@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rdp on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/rdp/</link>
+    <link>http://localhost:1313/tag/rdp/</link>
     <description>Recent content in rdp on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/rdp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/rdp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Acesso Remoto usando o KeePassXC</title>
-      <link>http://localhost:52927/acesso-remoto-usando-o-keepassxc/</link>
+      <link>http://localhost:1313/acesso-remoto-usando-o-keepassxc/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/acesso-remoto-usando-o-keepassxc/</guid>
+      <guid>http://localhost:1313/acesso-remoto-usando-o-keepassxc/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Algumas pessoas sempre chegam até mim e perguntam qual programa de acesso remoto para Linux que eu uso para acessar os servidores remotamente, seja via RDP (Windows) ou SSH (Linux, BSD, etc).&lt;/p&gt;</description>
       
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>packages on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/packages/</link>
+    <link>http://localhost:1313/tag/packages/</link>
     <description>Recent content in packages on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/packages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/packages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Meus pacotes para o Slackware</title>
-      <link>http://localhost:52927/meus-pacotes-para-o-slackware/</link>
+      <link>http://localhost:1313/meus-pacotes-para-o-slackware/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/meus-pacotes-para-o-slackware/</guid>
+      <guid>http://localhost:1313/meus-pacotes-para-o-slackware/</guid>
       <description>&lt;p&gt;Salve Salve pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Faz algum tempo que já crio meus próprios pacotes para o &lt;strong&gt;Slackware&lt;/strong&gt;, sejam eles baseados nos scripts do slackbuilds ou criados por mim mesmo.&lt;/p&gt;&#xA;&lt;p&gt;Aos poucos estou submetendo os scripts para criar esses pacotes para o slackbuilds, é o caso do &lt;strong&gt;Grafana&lt;/strong&gt; e do &lt;strong&gt;Teleport Connect&lt;/strong&gt;, que vocês podem encontara nos links abaixo:&lt;/p&gt;</description>
       
     </item>

@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>centos on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/centos/</link>
+    <link>http://localhost:1313/tag/centos/</link>
     <description>Recent content in centos on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/centos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/centos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Migrando do CentOS Linux 8 para o CentOS Stream 8</title>
-      <link>http://localhost:52927/migrando-do-centos-linux-8-para-o-centos-stream-8/</link>
+      <link>http://localhost:1313/migrando-do-centos-linux-8-para-o-centos-stream-8/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/migrando-do-centos-linux-8-para-o-centos-stream-8/</guid>
+      <guid>http://localhost:1313/migrando-do-centos-linux-8-para-o-centos-stream-8/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Para quem acompanha o mundo Linux viu que o projeto CentOS Linux 8 só terá suporte até Dezembro de 2021, pois todos os esforços serão concentrados no CentOS Stream.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Bloqueando dispositivos USB no Linux com USBGuard</title>
-      <link>http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/</link>
+      <link>http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;962&#34;&#xA;    height=&#34;193&#34;&#xA;    src=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png&#34;&#xA;    srcset=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png 800w, http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como podemos bloquear ou liberar dispositivos do tipo &lt;strong&gt;USB&lt;/strong&gt; no Linux com &lt;strong&gt;USBGuard&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;962&#34;&#xA;    height=&#34;193&#34;&#xA;    src=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png&#34;&#xA;    srcset=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard_hu_15bdd48cca4e131c.png 800w, http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/bloqueando-dispositivos-usb-no-linux-com-usbguard/images/usbguard.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post vou mostrar como podemos bloquear ou liberar dispositivos do tipo &lt;strong&gt;USB&lt;/strong&gt; no Linux com &lt;strong&gt;USBGuard&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Utilizando o YUM – Parte 03</title>
-      <link>http://localhost:52927/utilizando-o-yum-parte-03/</link>
+      <link>http://localhost:1313/utilizando-o-yum-parte-03/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/utilizando-o-yum-parte-03/</guid>
+      <guid>http://localhost:1313/utilizando-o-yum-parte-03/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o &lt;strong&gt;YUM&lt;/strong&gt;, hoje vamos falar sobre o &lt;strong&gt;yum&lt;/strong&gt; &lt;strong&gt;history&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para quem não leu os outros posts, aconselho que façam isso, vocês podem ler os outros posts nos links abaixo:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Utilizando o YUM – Parte 02</title>
-      <link>http://localhost:52927/utilizando-o-yum-parte-02/</link>
+      <link>http://localhost:1313/utilizando-o-yum-parte-02/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/utilizando-o-yum-parte-02/</guid>
+      <guid>http://localhost:1313/utilizando-o-yum-parte-02/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Dando continuidade a nossa serie de posts sobre o YUM, vamos ver nesse post como podemos fazer pesquisa e obter informações sobre pacotes disponíveis e instalados em nosso sistema, vamos ver também como podemos instalar, remover e atualizar um ou vários pacotes do nosso sistema.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Utilizando o YUM - Parte 01</title>
-      <link>http://localhost:52927/utilizando-o-yum-parte-01/</link>
+      <link>http://localhost:1313/utilizando-o-yum-parte-01/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/utilizando-o-yum-parte-01/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/utilizando-o-yum-parte-01/images/yum.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;139&#34;&#xA;    src=&#34;http://localhost:52927/utilizando-o-yum-parte-01/images/yum.jpg&#34;&#xA;    srcset=&#34;http://localhost:52927/utilizando-o-yum-parte-01/images/yum.jpg 800w, http://localhost:52927/utilizando-o-yum-parte-01/images/yum.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/utilizando-o-yum-parte-01/images/yum.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Resolvi fazer uma serie de posts sobre como utilizar &lt;strong&gt;YUM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Muitas pessoas utilizam está ferramenta diariamente para instalação ou remoção de pacotes, mas não sabem de várias coisas que podemos fazer com ela.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/utilizando-o-yum-parte-01/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;300&#34;&#xA;    height=&#34;139&#34;&#xA;    src=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg&#34;&#xA;    srcset=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg 800w, http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/utilizando-o-yum-parte-01/images/yum.jpg&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Resolvi fazer uma serie de posts sobre como utilizar &lt;strong&gt;YUM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Muitas pessoas utilizam está ferramenta diariamente para instalação ou remoção de pacotes, mas não sabem de várias coisas que podemos fazer com ela.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação de drivers wireless Broadcom no CentOS 7/Red Hat 7</title>
-      <link>http://localhost:52927/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</link>
+      <link>http://localhost:1313/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</guid>
+      <guid>http://localhost:1313/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Por padrão o &lt;strong&gt;CentOS&lt;/strong&gt; e &lt;strong&gt;Red Hat&lt;/strong&gt; não vem com drivers wireless da &lt;strong&gt;Broadcom&lt;/strong&gt; disponíveis em sua arvore de repositórios, também não é possível encontrar em repositórios de terceiros devido a questões de licenciamento.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Transformando o CentOS em Oracle Linux</title>
-      <link>http://localhost:52927/transformando-o-centos-em-oracle-linux/</link>
+      <link>http://localhost:1313/transformando-o-centos-em-oracle-linux/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/transformando-o-centos-em-oracle-linux/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/04/oraclelinux.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;256&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://localhost:52927/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&#xA;    srcset=&#34;http://localhost:52927/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 800w, http://localhost:52927/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Já imaginou poder transformar seu servidor &lt;strong&gt;CentOS&lt;/strong&gt; em um &lt;strong&gt;Oracle Linux&lt;/strong&gt; rodando apenas um script, sem precisar reinstalar todo o sistema novamente.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/transformando-o-centos-em-oracle-linux/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://rodrigolira.eti.br/wp-content/uploads/2017/04/oraclelinux.png&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;256&#34;&#xA;    height=&#34;256&#34;&#xA;    src=&#34;http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&#xA;    srcset=&#34;http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 800w, http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/transformando-o-centos-em-oracle-linux/images/oraclelinux.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Já imaginou poder transformar seu servidor &lt;strong&gt;CentOS&lt;/strong&gt; em um &lt;strong&gt;Oracle Linux&lt;/strong&gt; rodando apenas um script, sem precisar reinstalar todo o sistema novamente.&lt;/p&gt;</description>
       
     </item>
     

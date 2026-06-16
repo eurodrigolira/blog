@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virsh dumpxml on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/virsh-dumpxml/</link>
+    <description>Recent content in virsh dumpxml on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/virsh-dumpxml/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux Performance Tuning (Recursos de Hardware)</title>
+      <link>http://localhost:1313/linux-performance-tuning-recursos-de-hardware/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/linux-performance-tuning-recursos-de-hardware/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos ver algumas ferramentas básicas que podemos identificar e visualizar qual o hardware que nós estamos trabalhando.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/linux-performance-tuning-recursos-de-hardware/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

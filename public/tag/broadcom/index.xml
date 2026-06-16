@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>broadcom on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/broadcom/</link>
+    <link>http://localhost:1313/tag/broadcom/</link>
     <description>Recent content in broadcom on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/broadcom/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/broadcom/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VMware ESXi Free está de volta?!</title>
-      <link>http://localhost:52927/vmware-esxi-free-esta-de-volta/</link>
+      <link>http://localhost:1313/vmware-esxi-free-esta-de-volta/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/vmware-esxi-free-esta-de-volta/</guid>
+      <guid>http://localhost:1313/vmware-esxi-free-esta-de-volta/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Hoje, navegando pelo LinkedIn, me deparei com uma postagem interessante de Duncan Epping, renomado engenheiro da VMware, que atualmente faz parte da Broadcom. Na publicação, ele menciona a volta da versão gratuita do ESXi, algo que muitos profissionais de TI vinham aguardando ansiosamente desde as recentes mudanças na estratégia de licenciamento.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Instalação de drivers wireless Broadcom no CentOS 7/Red Hat 7</title>
-      <link>http://localhost:52927/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</link>
+      <link>http://localhost:1313/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</guid>
+      <guid>http://localhost:1313/instalacao-de-drivers-wireless-broadcom-no-centos-7-red-hat-7/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Por padrão o &lt;strong&gt;CentOS&lt;/strong&gt; e &lt;strong&gt;Red Hat&lt;/strong&gt; não vem com drivers wireless da &lt;strong&gt;Broadcom&lt;/strong&gt; disponíveis em sua arvore de repositórios, também não é possível encontrar em repositórios de terceiros devido a questões de licenciamento.&lt;/p&gt;</description>
       
     </item>

@@ -1,14 +1,20 @@
 ---
 title: "Linux Performance Tuning (Recursos de Hardware)"
-date: 2026-05-31
-draft: true
+date: 2026-06-16
+draft: false
 category: 
   - "linux"
 tag: 
   - "performance"
   - "tuning"
   - "ajustes"
-  - "hardware"
+  - "dmesg"
+  - "dmidecode"
+  - "lscpu"
+  - "lsusb"
+  - "lspci"
+  - "lstopo"
+  - "lshw"
 
 ---
 
@@ -28,7 +34,7 @@ Felizmente, o Linux disponibiliza uma série de ferramentas que nos permitem ins
 
 ### dmesg
 
-O dmesg exibe as mensagens do buffer do kernel, sendo uma das primeiras ferramentas que devemos consultar ao investigar o hardware.
+O **dmesg** exibe as mensagens do buffer do kernel, sendo uma das primeiras ferramentas que devemos consultar ao investigar o hardware.
 
 Com ele, conseguimos visualizar o processo de detecção de dispositivos durante o boot, incluindo CPUs, memória, discos e drivers carregados. Também é extremamente útil para identificar erros ou falhas de hardware.
 
@@ -40,7 +46,7 @@ dmesg | grep -i disk --color
 
 ![](/images/dmesg1.png)
 
-Por padrão ele não exibe a hora em formato legivel, então podemos usar o **-T** para ele converter.
+Por padrão ele não exibe a hora em formato legível, então podemos usar o **-T** para ele converter.
 
 ```bash
 dmesg -T
@@ -50,7 +56,7 @@ dmesg -T
 
 ### dmidecode
 
-O dmidecode acessa informações da BIOS Gerenciamento de sistema
+O **dmidecode** acessa informações da BIOS Gerenciamento de sistema
 (SMBIOS, System Management BIOS) e Interface gerenciamento de área de trabalho (DMI,
 Desktop Management Interface).
 
@@ -62,78 +68,126 @@ Os dados exibidos na saída do comando podem ser encontrados no diretório **/sy
 
 ### lscpu
 
-O lscpu apresenta informações detalhadas sobre a arquitetura da CPU.
+O **lscpu** apresenta informações detalhadas sobre a arquitetura da CPU.
+
+```bash
+lscpu
+```
+
+![](/images/lscpu.png)
 
 Entre os dados disponíveis, temos número de sockets, cores, threads, frequência, flags de CPU e informações sobre NUMA. É uma ferramenta indispensável para entender como o processamento está organizado no sistema.
 
-A opção -e exibe:
+Com a opção **-e** exibe informações detalhadas da distribuição de cache por CPU.
+
+```bash
+lscpu -e
+```
 
 ![](/images/lscpu-e.png)
 
-A opção -p exibe:
-
-![](/images/lscpu-p.png)
-
 ### lsusb
 
-O lsusb lista todos os dispositivos conectados às portas USB.
+O **lsusb** lista todos os dispositivos conectados às portas USB.
 
 Apesar de simples, pode ser útil para identificar dispositivos externos que podem impactar performance, como adaptadores de rede, storage externo ou dispositivos específicos utilizados pela aplicação.
 
+```bash
+lsusb
+```
+
+![](/images/lsusb.png)
+
+### lspci
+
+O **lspci** lista todos os dispositivos conectados ao barramento PCI/PCIe do sistema.
+
+Através dele, podemos identificar controladoras de armazenamento, placas de rede, GPUs, controladoras RAID, adaptadores Fibre Channel e diversos outros componentes fundamentais para a análise de desempenho.
+
+```bash
+lspci
+```
+
+![](/images/lsusb.png)
+
+Uma das grandes vantagens do **lspci** é a possibilidade de visualizar informações detalhadas sobre cada dispositivo, incluindo o driver em uso e os módulos do kernel associados, utilizando opções como:
+
+```bash
+lspci -v
+lspci -vv
+lspci -k
+```
+
 ### lstopo
 
-Parte do pacote hwloc, o lstopo fornece uma visualização da topologia do hardware.
+Parte do pacote **hwloc**, o lstopo fornece uma visualização da topologia do hardware.
 
 Ele mostra de forma hierárquica como CPUs, caches, memória e dispositivos estão organizados, sendo extremamente útil para entender ambientes com NUMA e otimizar o uso de CPU e memória.
 
+Nós temos a opção com interface gráfica, que visualmente é mais fácil o entendimento.
+
+```bash
+lstopo
+```
+
+![](/images/lstopo.png)
+
+Também temos a opção sem interface gráfica, mostrando a saída direto no console.
+
+```bash
+lstopo-no-graphics
+```
+
+![](/images/lstopo-no-graphics.png)
+
 ### lshw
 
-O lshw é uma ferramenta bastante completa para listar informações detalhadas de hardware.
+O **lshw** é uma ferramenta bastante completa para listar informações detalhadas de hardware.
 
 Ele apresenta uma visão abrangente de CPU, memória, discos, interfaces de rede e outros dispositivos, incluindo capacidades, configurações e estado atual.
 
+```bash
+lshw
+```
+
+![](/images/lshw.png)
+
+### getconf
+
+O **getconf** retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.
+
+Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis e outras configurações que impactam diretamente na performance.
+
+```bash
+getconf -a
+```
+
+![](/images/getconf.png)
+
 ### virsh dumpxml
 
-Para ambientes virtualizados com KVM/libvirt, o virsh dumpxml permite visualizar a configuração completa de uma máquina virtual.
+Para ambientes virtualizados com **KVM/libvirt**, o **virsh dumpxml** permite visualizar a configuração completa de uma máquina virtual.
 
 Através dele, conseguimos entender quantas CPUs estão alocadas, quantidade de memória, tipo de disco, interfaces de rede e diversas outras configurações que impactam diretamente na performance da VM.
 
 ### kvm_stat
 
-O kvm_stat fornece estatísticas em tempo real sobre o funcionamento do KVM.
+O **kvm_stat** fornece estatísticas em tempo real sobre o funcionamento do KVM.
 
-Ele mostra métricas relacionadas a exits de virtualização, que ajudam a entender como o hypervisor está interagindo com a VM — informação valiosa para troubleshooting de performance em ambientes virtualizados.
+Ele mostra métricas relacionadas a exits de virtualização, que ajudam a entender como o hypervisor está interagindo com a VM, informação valiosa para troubleshooting de performance em ambientes virtualizados.
 
 ### perf-kvm
 
-O perf-kvm é uma extensão do perf voltada para análise de performance em ambientes KVM.
+O **perf-kvm** é uma extensão do **perf** voltada para análise de performance em ambientes KVM.
 
 Com ele, é possível analisar eventos tanto no host quanto nas VMs, permitindo identificar gargalos mais profundos relacionados à virtualização, como latência de CPU e comportamento de instruções.
 
-### getconf
-
-O getconf -a retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.
-
-Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis (_NPROCESSORS_ONLN) e outras configurações que impactam diretamente na performance.
-
-
 ## Conclusão
 
-Como vimos, antes de qualquer ajuste de performance, é essencial conhecer bem o terreno onde estamos pisando. Essas ferramentas nos dão uma visão clara e detalhada do hardware — seja físico ou virtual — permitindo tomar decisões mais assertivas durante o processo de tuning.
+Vale lembrar que este post teve como objetivo apresentar as principais ferramentas e seus casos de uso de forma introdutória. Cada uma delas possui diversas opções, parâmetros e funcionalidades avançadas que não foram abordadas aqui. Por isso, sempre que precisar aprofundar seus conhecimentos ou realizar uma análise mais detalhada, consulte a documentação oficial através das páginas de manual (**man pages**), que continuam sendo uma das melhores fontes de informação disponíveis no Linux.
 
-Nos próximos posts, vamos sair um pouco dessa visão mais estática do ambiente e começar a explorar ferramentas que nos mostram o comportamento do sistema em tempo real, analisando consumo de CPU, memória, disco e rede.
+Além disso, recomendo fortemente o hábito de explorar as opções de cada comando utilizando **--help** e a própria documentação do projeto responsável pela ferramenta. Muitas vezes, recursos extremamente úteis passam despercebidos simplesmente por não consultarmos a documentação.
 
 Até o próximo post!
 
 🖖🖖🖖
-
-## Referências
-
-* man dmesg
-* man getconf
-* man dmidecode
-* man lscpu
-* man lsusb
-* man lshw
-* man virsh
-* man perf

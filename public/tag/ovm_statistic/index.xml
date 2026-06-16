@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ovm_statistic on RODRIGO LIRA</title>
-    <link>http://localhost:52927/tag/ovm_statistic/</link>
+    <link>http://localhost:1313/tag/ovm_statistic/</link>
     <description>Recent content in ovm_statistic on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52927/tag/ovm_statistic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/ovm_statistic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Oracle VM Server - Problema com a tabela OVM_STATISTIC do Manager</title>
-      <link>http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/</link>
+      <link>http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif 800w, http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:52927/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem tive um problema em um dos clientes, de uma hora para outra o Oracle VM Manager dele parou de funcionar, o serviço ovmm não iniciava mais e acabou que ele não conseguia mais gerenciar suas máquinas virtuais.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;200&#34;&#xA;    height=&#34;98&#34;&#xA;    src=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif&#34;&#xA;    srcset=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif 800w, http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/oracle-vm-server-problema-com-a-tabela-ovm-statistic-do-manager/images/oracle_vm.gif&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Ontem tive um problema em um dos clientes, de uma hora para outra o Oracle VM Manager dele parou de funcionar, o serviço ovmm não iniciava mais e acabou que ele não conseguia mais gerenciar suas máquinas virtuais.&lt;/p&gt;</description>
       
     </item>
     

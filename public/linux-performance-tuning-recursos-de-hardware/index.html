@@ -259,7 +259,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "784"
+    "wordCount": "910"
   }]
   </script>
 
@@ -810,7 +810,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-05-31T00:00:00&#43;00:00">31 maio 2026</time><span class="px-2 text-primary-500">&middot;</span><span>784 palavras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de leitura">4 minutos</span>
+      <time datetime="2026-05-31T00:00:00&#43;00:00">31 maio 2026</time><span class="px-2 text-primary-500">&middot;</span><span>910 palavras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de leitura">5 minutos</span>
     
 
     
@@ -898,11 +898,71 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/tag/hardware/">
+              <a class="relative mt-[0.5rem] me-2" href="/tag/dmesg/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    hardware
+    dmesg
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tag/dmidecode/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    dmidecode
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tag/lscpu/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    lscpu
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tag/lsusb/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    lsusb
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tag/lspci/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    lspci
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tag/lstopo/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    lstopo
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tag/lshw/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    lshw
   </span>
 </span>
 
@@ -1106,16 +1166,16 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
         <li><a href="#dmidecode">dmidecode</a></li>
         <li><a href="#lscpu">lscpu</a></li>
         <li><a href="#lsusb">lsusb</a></li>
+        <li><a href="#lspci">lspci</a></li>
         <li><a href="#lstopo">lstopo</a></li>
         <li><a href="#lshw">lshw</a></li>
+        <li><a href="#getconf">getconf</a></li>
         <li><a href="#virsh-dumpxml">virsh dumpxml</a></li>
         <li><a href="#kvm_stat">kvm_stat</a></li>
         <li><a href="#perf-kvm">perf-kvm</a></li>
-        <li><a href="#getconf">getconf</a></li>
       </ul>
     </li>
     <li><a href="#conclusão">Conclusão</a></li>
-    <li><a href="#referências">Referências</a></li>
   </ul>
 </nav>
   </div>
@@ -1136,16 +1196,16 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
         <li><a href="#dmidecode">dmidecode</a></li>
         <li><a href="#lscpu">lscpu</a></li>
         <li><a href="#lsusb">lsusb</a></li>
+        <li><a href="#lspci">lspci</a></li>
         <li><a href="#lstopo">lstopo</a></li>
         <li><a href="#lshw">lshw</a></li>
+        <li><a href="#getconf">getconf</a></li>
         <li><a href="#virsh-dumpxml">virsh dumpxml</a></li>
         <li><a href="#kvm_stat">kvm_stat</a></li>
         <li><a href="#perf-kvm">perf-kvm</a></li>
-        <li><a href="#getconf">getconf</a></li>
       </ul>
     </li>
     <li><a href="#conclusão">Conclusão</a></li>
-    <li><a href="#referências">Referências</a></li>
   </ul>
 </nav>
   </div>
@@ -1197,7 +1257,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     </span>
     
 </h3>
-<p>O dmesg exibe as mensagens do buffer do kernel, sendo uma das primeiras ferramentas que devemos consultar ao investigar o hardware.</p>
+<p>O <strong>dmesg</strong> exibe as mensagens do buffer do kernel, sendo uma das primeiras ferramentas que devemos consultar ao investigar o hardware.</p>
 <p>Com ele, conseguimos visualizar o processo de detecção de dispositivos durante o boot, incluindo CPUs, memória, discos e drivers carregados. Também é extremamente útil para identificar erros ou falhas de hardware.</p>
 <p>Em sua saída padrão ele exibe todo o buffer, mas podemos fazer filtros simples com o <strong>grep</strong> e filtrar por determinados tipos de recursos.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">dmesg <span class="p">|</span> grep -i disk --color</span></span></code></pre></div></div>
@@ -1213,7 +1273,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     srcset="/linux-performance-tuning-recursos-de-hardware/images/dmesg1_hu_ca64fa3bfa01939c.png 800w, /linux-performance-tuning-recursos-de-hardware/images/dmesg1_hu_b0376d9b10ea874c.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/dmesg1.png"></figure>
-<p>Por padrão ele não exibe a hora em formato legivel, então podemos usar o <strong>-T</strong> para ele converter.</p>
+<p>Por padrão ele não exibe a hora em formato legível, então podemos usar o <strong>-T</strong> para ele converter.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">dmesg -T</span></span></code></pre></div></div>
 <figure><img
     class="my-0 rounded-md"
@@ -1237,7 +1297,7 @@ Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos 
     </span>
     
 </h3>
-<p>O dmidecode acessa informações da BIOS Gerenciamento de sistema
+<p>O <strong>dmidecode</strong> acessa informações da BIOS Gerenciamento de sistema
 (SMBIOS, System Management BIOS) e Interface gerenciamento de área de trabalho (DMI,
 Desktop Management Interface).</p>
 <p>Com ele, conseguimos obter detalhes como fabricante do servidor, modelo, versão da BIOS, quantidade de memória instalada, slots disponíveis, informações sobre CPUs, etc. É uma ferramenta essencial para inventário de hardware físico.</p>
@@ -1264,9 +1324,23 @@ Desktop Management Interface).</p>
     </span>
     
 </h3>
-<p>O lscpu apresenta informações detalhadas sobre a arquitetura da CPU.</p>
+<p>O <strong>lscpu</strong> apresenta informações detalhadas sobre a arquitetura da CPU.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lscpu</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1788"
+    height="1004"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lscpu_hu_6f028965eef50255.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lscpu_hu_6f028965eef50255.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lscpu_hu_ec6537fdefd07d4d.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lscpu.png"></figure>
 <p>Entre os dados disponíveis, temos número de sockets, cores, threads, frequência, flags de CPU e informações sobre NUMA. É uma ferramenta indispensável para entender como o processamento está organizado no sistema.</p>
-<p>A opção -e exibe:</p>
+<p>Com a opção <strong>-e</strong> exibe informações detalhadas da distribuição de cache por CPU.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lscpu -e</span></span></code></pre></div></div>
 <figure><img
     class="my-0 rounded-md"
     loading="lazy"
@@ -1279,19 +1353,6 @@ Desktop Management Interface).</p>
     srcset="/linux-performance-tuning-recursos-de-hardware/images/lscpu-e_hu_7c71d7465ba1e859.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lscpu-e.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lscpu-e.png"></figure>
-<p>A opção -p exibe:</p>
-<figure><img
-    class="my-0 rounded-md"
-    loading="lazy"
-    decoding="async"
-    fetchpriority="auto"
-    alt=""
-    width="1486"
-    height="388"
-    src="/linux-performance-tuning-recursos-de-hardware/images/lscpu-p_hu_ad488b56917f6e09.png"
-    srcset="/linux-performance-tuning-recursos-de-hardware/images/lscpu-p_hu_ad488b56917f6e09.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lscpu-p_hu_dd054dab353c87ef.png 1280w"
-    sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lscpu-p.png"></figure>
 
 <h3 class="relative group">lsusb
     <div id="lsusb" class="anchor"></div>
@@ -1302,8 +1363,50 @@ Desktop Management Interface).</p>
     </span>
     
 </h3>
-<p>O lsusb lista todos os dispositivos conectados às portas USB.</p>
+<p>O <strong>lsusb</strong> lista todos os dispositivos conectados às portas USB.</p>
 <p>Apesar de simples, pode ser útil para identificar dispositivos externos que podem impactar performance, como adaptadores de rede, storage externo ou dispositivos específicos utilizados pela aplicação.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lsusb</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1530"
+    height="428"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lsusb_hu_6462b7aa8a33009d.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lsusb_hu_6462b7aa8a33009d.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lsusb_hu_9400b75eff8005ea.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lsusb.png"></figure>
+
+<h3 class="relative group">lspci
+    <div id="lspci" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#lspci" aria-label="Âncora">#</a>
+    </span>
+    
+</h3>
+<p>O <strong>lspci</strong> lista todos os dispositivos conectados ao barramento PCI/PCIe do sistema.</p>
+<p>Através dele, podemos identificar controladoras de armazenamento, placas de rede, GPUs, controladoras RAID, adaptadores Fibre Channel e diversos outros componentes fundamentais para a análise de desempenho.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lspci</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1530"
+    height="428"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lsusb_hu_6462b7aa8a33009d.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lsusb_hu_6462b7aa8a33009d.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lsusb_hu_9400b75eff8005ea.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lsusb.png"></figure>
+<p>Uma das grandes vantagens do <strong>lspci</strong> é a possibilidade de visualizar informações detalhadas sobre cada dispositivo, incluindo o driver em uso e os módulos do kernel associados, utilizando opções como:</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lspci -v
+</span></span><span class="line"><span class="cl">lspci -vv
+</span></span><span class="line"><span class="cl">lspci -k</span></span></code></pre></div></div>
 
 <h3 class="relative group">lstopo
     <div id="lstopo" class="anchor"></div>
@@ -1314,8 +1417,36 @@ Desktop Management Interface).</p>
     </span>
     
 </h3>
-<p>Parte do pacote hwloc, o lstopo fornece uma visualização da topologia do hardware.</p>
+<p>Parte do pacote <strong>hwloc</strong>, o lstopo fornece uma visualização da topologia do hardware.</p>
 <p>Ele mostra de forma hierárquica como CPUs, caches, memória e dispositivos estão organizados, sendo extremamente útil para entender ambientes com NUMA e otimizar o uso de CPU e memória.</p>
+<p>Nós temos a opção com interface gráfica, que visualmente é mais fácil o entendimento.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lstopo</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="944"
+    height="574"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lstopo_hu_bb9bffce0c83c7e3.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lstopo_hu_bb9bffce0c83c7e3.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lstopo.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lstopo.png"></figure>
+<p>Também temos a opção sem interface gráfica, mostrando a saída direto no console.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lstopo-no-graphics</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1884"
+    height="810"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lstopo-no-graphics_hu_40f93d35dad13396.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lstopo-no-graphics_hu_40f93d35dad13396.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lstopo-no-graphics_hu_2cf7df18d25e8d5e.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lstopo-no-graphics.png"></figure>
 
 <h3 class="relative group">lshw
     <div id="lshw" class="anchor"></div>
@@ -1326,8 +1457,46 @@ Desktop Management Interface).</p>
     </span>
     
 </h3>
-<p>O lshw é uma ferramenta bastante completa para listar informações detalhadas de hardware.</p>
+<p>O <strong>lshw</strong> é uma ferramenta bastante completa para listar informações detalhadas de hardware.</p>
 <p>Ele apresenta uma visão abrangente de CPU, memória, discos, interfaces de rede e outros dispositivos, incluindo capacidades, configurações e estado atual.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lshw</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1884"
+    height="1222"
+    src="/linux-performance-tuning-recursos-de-hardware/images/lshw_hu_cbba1f32477de2f0.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/lshw_hu_cbba1f32477de2f0.png 800w, /linux-performance-tuning-recursos-de-hardware/images/lshw_hu_8d80c12cae3cfd5d.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/lshw.png"></figure>
+
+<h3 class="relative group">getconf
+    <div id="getconf" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#getconf" aria-label="Âncora">#</a>
+    </span>
+    
+</h3>
+<p>O <strong>getconf</strong> retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.</p>
+<p>Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis e outras configurações que impactam diretamente na performance.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">getconf -a</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="auto"
+    alt=""
+    width="1772"
+    height="658"
+    src="/linux-performance-tuning-recursos-de-hardware/images/getconf_hu_2543c2a14a8d3a70.png"
+    srcset="/linux-performance-tuning-recursos-de-hardware/images/getconf_hu_2543c2a14a8d3a70.png 800w, /linux-performance-tuning-recursos-de-hardware/images/getconf_hu_8a22be06f833075f.png 1280w"
+    sizes="(min-width: 768px) 50vw, 65vw"
+    data-zoom-src="/linux-performance-tuning-recursos-de-hardware/images/getconf.png"></figure>
 
 <h3 class="relative group">virsh dumpxml
     <div id="virsh-dumpxml" class="anchor"></div>
@@ -1338,7 +1507,7 @@ Desktop Management Interface).</p>
     </span>
     
 </h3>
-<p>Para ambientes virtualizados com KVM/libvirt, o virsh dumpxml permite visualizar a configuração completa de uma máquina virtual.</p>
+<p>Para ambientes virtualizados com <strong>KVM/libvirt</strong>, o <strong>virsh dumpxml</strong> permite visualizar a configuração completa de uma máquina virtual.</p>
 <p>Através dele, conseguimos entender quantas CPUs estão alocadas, quantidade de memória, tipo de disco, interfaces de rede e diversas outras configurações que impactam diretamente na performance da VM.</p>
 
 <h3 class="relative group">kvm_stat
@@ -1350,8 +1519,8 @@ Desktop Management Interface).</p>
     </span>
     
 </h3>
-<p>O kvm_stat fornece estatísticas em tempo real sobre o funcionamento do KVM.</p>
-<p>Ele mostra métricas relacionadas a exits de virtualização, que ajudam a entender como o hypervisor está interagindo com a VM — informação valiosa para troubleshooting de performance em ambientes virtualizados.</p>
+<p>O <strong>kvm_stat</strong> fornece estatísticas em tempo real sobre o funcionamento do KVM.</p>
+<p>Ele mostra métricas relacionadas a exits de virtualização, que ajudam a entender como o hypervisor está interagindo com a VM, informação valiosa para troubleshooting de performance em ambientes virtualizados.</p>
 
 <h3 class="relative group">perf-kvm
     <div id="perf-kvm" class="anchor"></div>
@@ -1362,20 +1531,8 @@ Desktop Management Interface).</p>
     </span>
     
 </h3>
-<p>O perf-kvm é uma extensão do perf voltada para análise de performance em ambientes KVM.</p>
+<p>O <strong>perf-kvm</strong> é uma extensão do <strong>perf</strong> voltada para análise de performance em ambientes KVM.</p>
 <p>Com ele, é possível analisar eventos tanto no host quanto nas VMs, permitindo identificar gargalos mais profundos relacionados à virtualização, como latência de CPU e comportamento de instruções.</p>
-
-<h3 class="relative group">getconf
-    <div id="getconf" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#getconf" aria-label="Âncora">#</a>
-    </span>
-    
-</h3>
-<p>O getconf -a retorna parâmetros de configuração do sistema, incluindo limites e capacidades definidas pelo POSIX e pelo kernel.</p>
-<p>Embora não seja uma ferramenta exclusivamente de hardware, ela fornece informações importantes como número de processadores disponíveis (_NPROCESSORS_ONLN) e outras configurações que impactam diretamente na performance.</p>
 
 <h2 class="relative group">Conclusão
     <div id="conclusão" class="anchor"></div>
@@ -1386,30 +1543,10 @@ Desktop Management Interface).</p>
     </span>
     
 </h2>
-<p>Como vimos, antes de qualquer ajuste de performance, é essencial conhecer bem o terreno onde estamos pisando. Essas ferramentas nos dão uma visão clara e detalhada do hardware — seja físico ou virtual — permitindo tomar decisões mais assertivas durante o processo de tuning.</p>
-<p>Nos próximos posts, vamos sair um pouco dessa visão mais estática do ambiente e começar a explorar ferramentas que nos mostram o comportamento do sistema em tempo real, analisando consumo de CPU, memória, disco e rede.</p>
+<p>Vale lembrar que este post teve como objetivo apresentar as principais ferramentas e seus casos de uso de forma introdutória. Cada uma delas possui diversas opções, parâmetros e funcionalidades avançadas que não foram abordadas aqui. Por isso, sempre que precisar aprofundar seus conhecimentos ou realizar uma análise mais detalhada, consulte a documentação oficial através das páginas de manual (<strong>man pages</strong>), que continuam sendo uma das melhores fontes de informação disponíveis no Linux.</p>
+<p>Além disso, recomendo fortemente o hábito de explorar as opções de cada comando utilizando <strong>&ndash;help</strong> e a própria documentação do projeto responsável pela ferramenta. Muitas vezes, recursos extremamente úteis passam despercebidos simplesmente por não consultarmos a documentação.</p>
 <p>Até o próximo post!</p>
 <p>🖖🖖🖖</p>
-
-<h2 class="relative group">Referências
-    <div id="referências" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#refer%c3%aancias" aria-label="Âncora">#</a>
-    </span>
-    
-</h2>
-<ul>
-<li>man dmesg</li>
-<li>man getconf</li>
-<li>man dmidecode</li>
-<li>man lscpu</li>
-<li>man lsusb</li>
-<li>man lshw</li>
-<li>man virsh</li>
-<li>man perf</li>
-</ul>
 
           
           
