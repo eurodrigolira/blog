@@ -9,12 +9,62 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ansible</title>
+      <link>http://localhost:1313/tag/ansible/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/ansible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>automation-manager</title>
+      <link>http://localhost:1313/tag/automation-manager/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/automation-manager/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>eventos</title>
+      <link>http://localhost:1313/tag/eventos/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/eventos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>oracle</title>
+      <link>http://localhost:1313/tag/oracle/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/oracle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>private-hub</title>
+      <link>http://localhost:1313/tag/private-hub/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/private-hub/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>ajustes</title>
       <link>http://localhost:1313/tag/ajustes/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ajustes/</guid>
       <description></description>
@@ -24,7 +74,7 @@
     <item>
       <title>dmesg</title>
       <link>http://localhost:1313/tag/dmesg/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/dmesg/</guid>
       <description></description>
@@ -34,7 +84,7 @@
     <item>
       <title>dmidecode</title>
       <link>http://localhost:1313/tag/dmidecode/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/dmidecode/</guid>
       <description></description>
@@ -44,7 +94,7 @@
     <item>
       <title>lscpu</title>
       <link>http://localhost:1313/tag/lscpu/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/lscpu/</guid>
       <description></description>
@@ -54,7 +104,7 @@
     <item>
       <title>lshw</title>
       <link>http://localhost:1313/tag/lshw/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/lshw/</guid>
       <description></description>
@@ -64,7 +114,7 @@
     <item>
       <title>lspci</title>
       <link>http://localhost:1313/tag/lspci/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/lspci/</guid>
       <description></description>
@@ -74,7 +124,7 @@
     <item>
       <title>lstopo</title>
       <link>http://localhost:1313/tag/lstopo/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/lstopo/</guid>
       <description></description>
@@ -84,7 +134,7 @@
     <item>
       <title>lsusb</title>
       <link>http://localhost:1313/tag/lsusb/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/lsusb/</guid>
       <description></description>
@@ -94,7 +144,7 @@
     <item>
       <title>performance</title>
       <link>http://localhost:1313/tag/performance/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/performance/</guid>
       <description></description>
@@ -104,7 +154,7 @@
     <item>
       <title>tuning</title>
       <link>http://localhost:1313/tag/tuning/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/tuning/</guid>
       <description></description>
@@ -1077,16 +1127,6 @@
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/cks/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ansible</title>
-      <link>http://localhost:1313/tag/ansible/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/ansible/</guid>
       <description></description>
       
     </item>
@@ -2172,16 +2212,6 @@
     </item>
     
     <item>
-      <title>oracle</title>
-      <link>http://localhost:1313/tag/oracle/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/oracle/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>usbguard</title>
       <link>http://localhost:1313/tag/usbguard/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
@@ -2787,16 +2817,6 @@
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ovm_statistic/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>eventos</title>
-      <link>http://localhost:1313/tag/eventos/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/eventos/</guid>
       <description></description>
       
     </item>
@@ -4527,56 +4547,6 @@
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/nmap/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>getconf</title>
-      <link>http://localhost:1313/tag/getconf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/getconf/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>hardware</title>
-      <link>http://localhost:1313/tag/hardware/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/hardware/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>kvm_stat</title>
-      <link>http://localhost:1313/tag/kvm_stat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/kvm_stat/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>perf-kvm</title>
-      <link>http://localhost:1313/tag/perf-kvm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/perf-kvm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>virsh dumpxml</title>
-      <link>http://localhost:1313/tag/virsh-dumpxml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/virsh-dumpxml/</guid>
       <description></description>
       
     </item>

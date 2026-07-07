@@ -9,12 +9,12 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/lsusb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/lsusb/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Linux Performance Tuning (Recursos de Hardware)</title>
       <link>http://localhost:1313/linux-performance-tuning-recursos-de-hardware/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/linux-performance-tuning-recursos-de-hardware/</guid>
       <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Continuando nossa série de posts sobre Performance Tuning no Linux, hoje vamos ver algumas ferramentas básicas que podemos identificar e visualizar qual o hardware que nós estamos trabalhando.&lt;/p&gt;</description>
