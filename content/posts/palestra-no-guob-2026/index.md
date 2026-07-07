@@ -1,7 +1,7 @@
 ---
 title: "Palestra no GUOB Community Day 2026"
-date: 2026-07-06
-draft: true
+date: 2026-07-07
+draft: false
 category: 
   - "palestras"
 tag: 
