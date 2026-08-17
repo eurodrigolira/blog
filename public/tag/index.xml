@@ -9,12 +9,12 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ansible</title>
       <link>http://localhost:1313/tag/ansible/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ansible/</guid>
       <description></description>
@@ -22,9 +22,59 @@
     </item>
     
     <item>
+      <title>automation</title>
+      <link>http://localhost:1313/tag/automation/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/automation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>certificacoes</title>
+      <link>http://localhost:1313/tag/certificacoes/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/certificacoes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ex358</title>
+      <link>http://localhost:1313/tag/ex358/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/ex358/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>http://localhost:1313/tag/linux/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redhat</title>
+      <link>http://localhost:1313/tag/redhat/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/redhat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>automation-manager</title>
       <link>http://localhost:1313/tag/automation-manager/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/automation-manager/</guid>
       <description></description>
@@ -34,7 +84,7 @@
     <item>
       <title>eventos</title>
       <link>http://localhost:1313/tag/eventos/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/eventos/</guid>
       <description></description>
@@ -44,7 +94,7 @@
     <item>
       <title>oracle</title>
       <link>http://localhost:1313/tag/oracle/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/oracle/</guid>
       <description></description>
@@ -54,7 +104,7 @@
     <item>
       <title>private-hub</title>
       <link>http://localhost:1313/tag/private-hub/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/private-hub/</guid>
       <description></description>
@@ -232,16 +282,6 @@
     </item>
     
     <item>
-      <title>linux</title>
-      <link>http://localhost:1313/tag/linux/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>qemu</title>
       <link>http://localhost:1313/tag/qemu/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
@@ -412,31 +452,11 @@
     </item>
     
     <item>
-      <title>certificacoes</title>
-      <link>http://localhost:1313/tag/certificacoes/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/certificacoes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>ex442</title>
       <link>http://localhost:1313/tag/ex442/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ex442/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>redhat</title>
-      <link>http://localhost:1313/tag/redhat/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/redhat/</guid>
       <description></description>
       
     </item>

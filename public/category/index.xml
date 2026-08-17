@@ -9,14 +9,14 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>palestras</title>
-      <link>http://localhost:1313/category/palestras/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <title>certificacoes</title>
+      <link>http://localhost:1313/category/certificacoes/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/category/palestras/</guid>
+      <guid>http://localhost:1313/category/certificacoes/</guid>
       <description></description>
       
     </item>
@@ -24,9 +24,19 @@
     <item>
       <title>linux</title>
       <link>http://localhost:1313/category/linux/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/category/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>palestras</title>
+      <link>http://localhost:1313/category/palestras/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/category/palestras/</guid>
       <description></description>
       
     </item>
@@ -47,16 +57,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/category/outros/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>certificacoes</title>
-      <link>http://localhost:1313/category/certificacoes/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/category/certificacoes/</guid>
       <description></description>
       
     </item>

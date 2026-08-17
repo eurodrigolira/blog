@@ -3,20 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/palestra-no-guob-community-day-2026/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/aprovado-no-exame-ex358-red-hat-certified-specialist-in-services-management-and-automation/</loc>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/palestra-no-guob-community-day-2026/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

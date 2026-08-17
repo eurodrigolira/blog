@@ -9,7 +9,17 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aprovado no exame - EX358 (Red Hat Certified Specialist in Services Management and Automation)</title>
+      <link>http://localhost:1313/aprovado-no-exame-ex358-red-hat-certified-specialist-in-services-management-and-automation/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/aprovado-no-exame-ex358-red-hat-certified-specialist-in-services-management-and-automation/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;No início deste mês dei mais um passo importante na minha caminhada rumo ao &lt;strong&gt;RHCA&lt;/strong&gt;, fui aprovado no exame &lt;strong&gt;Red Hat Certified Specialist in Services Management and Automation (EX358)&lt;/strong&gt;!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aprovado-no-exame-ex358-red-hat-certified-specialist-in-services-management-and-automation/featured.png" />
+    </item>
     
     <item>
       <title>Compartilhamento de Pastas entre Linux e Windows usando Virt-Manager (QEMU/KVM)</title>
