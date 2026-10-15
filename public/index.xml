@@ -9,7 +9,17 @@
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aprovado no exame - EX188 (Red Hat Certified Developer in Cloud-native Applications)</title>
+      <link>http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Mais um passo importante na minha caminhada rumo ao &lt;strong&gt;RHCA&lt;/strong&gt;, fui aprovado no exame &lt;strong&gt;Red Hat Certified Developer in Cloud-native Applications (EX188)&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/images/ex188.png&#34; &gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;799&#34;&#xA;    height=&#34;616&#34;&#xA;    src=&#34;http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/images/ex188.png&#34;&#xA;    srcset=&#34;http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/images/ex188.png 800w, http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/images/ex188.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/images/ex188.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/featured.png" />
+    </item>
     
     <item>
       <title>Aprovado no exame - EX358 (Red Hat Certified Specialist in Services Management and Automation)</title>

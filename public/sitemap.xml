@@ -3,20 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/aprovado-no-exame-ex358-red-hat-certified-specialist-in-services-management-and-automation/</loc>
-    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/</loc>
+    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/aprovado-no-exame-ex358-red-hat-certified-specialist-in-services-management-and-automation/</loc>
+    <lastmod>2026-08-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
