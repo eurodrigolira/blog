@@ -2,42 +2,42 @@
 #none = "none"
 #
 [[main]]
-name = "INÍCIO"
+name = "Início"
 pageRef = "/"
 identifier = "r1o0NT52zu"
 weight = 10
 
 [[main]]
-name = "POSTS"
+name = "Posts"
 pageRef = "/posts"
 identifier = "ELpNGOazZR"
 weight = 20
 
-[[main]]
-name = "SLACKBUILDS"
-url = "https://github.com/eurodrigolira/slackbuilds"
-identifier = "PsCQ91j983"
-weight = 30
+#[[main]]
+#name = "SLACKBUILDS"
+#url = "https://github.com/eurodrigolira/slackbuilds"
+#identifier = "PsCQ91j983"
+#weight = 30
+
+#[[main]]
+#name = "ISOS"
+#url = "https://drive.google.com/drive/folders/1cDEcISAO-t-P0jh3clw-UPQMAQS5ej3X?usp=drive_link"
+#identifier = "mOx4trG62W"
+#weight = 40
 
 [[main]]
-name = "ISOS"
-url = "https://drive.google.com/drive/folders/1cDEcISAO-t-P0jh3clw-UPQMAQS5ej3X?usp=drive_link"
-identifier = "mOx4trG62W"
-weight = 40
-
-[[main]]
-name = "CATEGORIAS"
+name = "Categorias"
 pageRef = "/category"
 identifier = "XLK78KBSzH"
 weight = 50
 
 [[footer]]
-  name = "TAGS"
+  name = "Tags"
   pageRef = "tag"
   weight = 10
 
 [[footer]]
-  name = "CATEGORIAS"
+  name = "Categorias"
   pageRef = "category"
   weight = 20
 

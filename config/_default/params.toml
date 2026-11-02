@@ -22,10 +22,10 @@ rssnext = { }
 advertisement = { }
 highlightCurrentMenuArea = ""
 
-[buymeacoffee]
-identifier = "https://buymeacoffee.com/eurodrigolira"
-globalWidget = true
-globalWidgetColor = ""
+#[buymeacoffee]
+#identifier = "https://buymeacoffee.com/eurodrigolira"
+#globalWidget = true
+#globalWidgetColor = ""
 
 [header]
 layout = "fixed"
@@ -51,6 +51,7 @@ homepageImage = "background.png"
 
 [article]
 showDate = true
+showComments = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
@@ -74,7 +75,6 @@ showCategoryOnly = false
 showAuthorsBadges = true
 showWordCount = true
 showZenMode = false
-showComments = true
 heroStyle = "background"
 sharingLinks = [
   "linkedin",
