@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/instala%C3%A7%C3%A3o-do-okd-single-node/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/aprovado-no-exame-ex188-red-hat-certified-developer-in-cloud-native-applications/</loc>
     <lastmod>2026-10-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -57,7 +63,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu/kvm/</loc>
+    <loc>http://localhost:1313/compartilhamento-de-pastas-entre-linux-e-windows-usando-virt-manager-qemu-kvm/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

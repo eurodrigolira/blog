@@ -1,13 +1,13 @@
 <!doctype html>
 <html
-  lang="pb-br"
+  lang="pt-BR"
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="dark"
   data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
-    <meta http-equiv="content-language" content="pt-br">
+    <meta http-equiv="content-language" content="pt-BR">
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -21,12 +21,24 @@
 
   
   
+  
+  
+  
+    
+  
+    
+  
+    
+  
+  
     <meta name="description" content="Rodrigo Lira | Linux/BSD SysAdmin">
   
   
   
   
   <link rel="canonical" href="http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/">
+  
+  
   
 
   
@@ -79,20 +91,20 @@
 
   
   <meta property="og:url" content="http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/">
-  <meta property="og:site_name" content="RODRIGO LIRA">
-  <meta property="og:title" content="Alterando a versão do BusyBox no ESXi 6.7">
-  <meta property="og:description" content="Salve Salve Pessoal!
+	<meta property="og:site_name" content="RODRIGO LIRA">
+	<meta property="og:title" content="Alterando a versão do BusyBox no ESXi 6.7">
+	<meta property="og:description" content="Salve Salve Pessoal!
 Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiaridade muito grade de comandos com um Linux, porém também vemos que não existem diversos comandos que encontramos no Linux.">
-  <meta property="og:locale" content="pt_br">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2018-07-19T00:00:00+00:00">
-    <meta property="article:modified_time" content="2018-07-19T00:00:00+00:00">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="article">
+		<meta property="article:section" content="posts">
+		<meta property="article:published_time" content="2018-07-19T00:00:00+00:00">
+		<meta property="article:modified_time" content="2018-07-19T00:00:00+00:00">
 
   
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Alterando a versão do BusyBox no ESXi 6.7">
-  <meta name="twitter:description" content="Salve Salve Pessoal!
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Alterando a versão do BusyBox no ESXi 6.7">
+	<meta name="twitter:description" content="Salve Salve Pessoal!
 Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiaridade muito grade de comandos com um Linux, porém também vemos que não existem diversos comandos que encontramos no Linux.">
 
   
@@ -138,15 +150,18 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.ab019b470a037de88534469a63d83f2ae827f1a4f6cc1652eb35e9cfb8ee0b755fb78707ef83dad4c389ff60bccc0bf2b16a8f86a7fca77fb6b5a2a36e9b266a.css"
-    integrity="sha512-qwGbRwoDfeiFNEaaY9g/Kugn8aT2zBZS6zXpz7juC3Vft4cH74Pa1MOJ/2C8zAvysWqPhqf8p3&#43;2taKjbpsmag==">
+    href="/css/main.bundle.min.d69ab9f3742b9ee2a2896d2c8951a5a6c17a4b86894ee79b15820e010cb5435272b55ac61f88b48162105a01246e0c06f177c73a6f9605537904e7078b7fe208.css"
+    integrity="sha512-1pq583QrnuKiiW0siVGlpsF6S4aJTuebFYIOAQy1Q1JytVrGH4i0gWIQWgEkbgwG8XfHOm&#43;WBVN5BOcHi3/iCA==">
 
   
   
   <script
     type="text/javascript"
-    src="/js/appearance.min.6f41174b3a05b680820fe08cadbfa5fb7a7ca347b76a0955cdc68b9d8aca1ce24f0547e138cea33bcc7904d551a90afcb1cc7f2d9fe8557075d501419046c08c.js"
-    integrity="sha512-b0EXSzoFtoCCD&#43;CMrb&#43;l&#43;3p8o0e3aglVzcaLnYrKHOJPBUfhOM6jO8x5BNVRqQr8scx/LZ/oVXB11QFBkEbAjA=="></script>
+    src="/js/appearance.min.013b3cd56c20b123f9231798354a6d6ec1b3f60c33b8f83b6997d50082b79e3bc2869c56395d24b64a828313a07bfda38cfcba092baf6b9e3586122067e95164.js"
+    integrity="sha512-ATs81WwgsSP5IxeYNUptbsGz9gwzuPg7aZfVAIK3njvChpxWOV0ktkqCgxOge/2jjPy6CSuva541hhIgZ&#43;lRZA=="></script>
+  
+
+
   
   
   
@@ -154,7 +169,12 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   
   
     
-    <script src="/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js" integrity="sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7&#43;kfJ6kKCJxQGC&#43;8wm&#43;Bz9JucDjDTGNew=="></script>
+    <script defer src="/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js" integrity="sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7&#43;kfJ6kKCJxQGC&#43;8wm&#43;Bz9JucDjDTGNew=="></script>
+    
+    <script defer src="/js/medium-zoom.67b71ecf7eecce38673a92244d1ffd93edb5f1aeedd12e725d0f67fe901828fa3562f6a6d64ad290b36b7d7034b8ea16e63486d75d957bcf6a2732923e5d46e6.js" integrity="sha512-Z7cez37szjhnOpIkTR/9k&#43;218a7t0S5yXQ9n/pAYKPo1Yvam1krSkLNrfXA0uOoW5jSG112Ve89qJzKSPl1G5g=="></script>
+  
+  
+  
   
 
   
@@ -164,9 +184,12 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   
   
     
+    
+    
   
   
     
+  
   
   
   
@@ -178,8 +201,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/js/main.bundle.min.0e2e7ce1e319db5369cd4badb8265de52c78d08df54617521bdac9c8cd335eea6133a82c83f9cb19baf67b8133335130e7e8ff7cfeaf7171016648dbf5a0578a.js"
-      integrity="sha512-Di584eMZ21NpzUutuCZd5Sx40I31RhdSG9rJyM0zXuphM6gsg/nLGbr2e4EzM1Ew5&#43;j/fP6vcXEBZkjb9aBXig=="
+      src="/js/main.bundle.min.17b3d3bbe00602f12ed247330588c186dd330147642a44a8aca5159f5905a7a6e0a70abb06315b581aef2c4f6d0e4d4bac82dbc1b0916818b057f9ad42c4aae6.js"
+      integrity="sha512-F7PTu&#43;AGAvEu0kczBYjBht0zAUdkKkSorKUVn1kFp6bgpwq7BjFbWBrvLE9tDk1LrILbwbCRaBiwV/mtQsSq5g=="
       data-copy="Copiar"
       data-copied="Copiado"></script>
   
@@ -187,10 +210,6 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   
   
 
-<script src="/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js" integrity="sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj&#43;KsslFkCOt3TvJrX2AV/Gc3wOqA=="></script>
-
-
-
 
 
 
@@ -223,6 +242,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   
 
   
+
+
+
+
+
 
 
 
@@ -248,11 +272,13 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     "name": "Alterando a versão do BusyBox no ESXi 6.7",
     "headline": "Alterando a versão do BusyBox no ESXi 6.7",
     
-    "inLanguage": "pt-br",
+    "inLanguage": "pt-BR",
     "url" : "http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/",
     "author" : {
       "@type": "Person",
-      "name": "Rodrigo Lira"
+      "name": "Rodrigo Lira",
+      "image": "http://localhost:1313/perfil.jpeg",
+      "sameAs": ["https://github.com/eurodrigolira", "https://linkedin.com/in/eurodrigolira", "https://x.com/eurodrigolira", "https://mastodon.social/@eurodrigolira", "https://youtube.com/@eurodrigolira", "https://rodrigolira.eti.br/index.xml"]
     },
     "copyrightYear": "2018",
     "dateCreated": "2018-07-19T00:00:00\u002b00:00",
@@ -262,15 +288,12 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
     
     
-    "mainEntityOfPage": "true",
-    "wordCount": "660"
+    "mainEntityOfPage": "http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/",
+    "wordCount":  660 
   }]
   </script>
 
 
-
-  
-  
 
   
   
@@ -312,10 +335,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
         Ir para o conteúdo principal
       </a>
     </div>
-    
-    
-      <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 z-100">
+    <header>
+      
+      
+        <div class="min-h-[148px]"></div>
+<div class="fixed top-0 inset-x-0 z-100">
   <div
     id="menu-blur"
     class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl bg-neutral/25 dark:bg-neutral-800/25"></div>
@@ -329,7 +353,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   
   <div class="flex items-center ms-auto">
     <div class="hidden md:flex">
-      <nav class="flex items-center gap-x-5 h-12">
+      <nav aria-label="Menu principal" class="flex items-center gap-x-5 h-12">
   
     
       
@@ -342,7 +366,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       title="RODRIGO LIRA">
       
       
-        <span class="text-base font-medium break-normal">
+        <span class="text-sm font-medium break-normal">
           INÍCIO
         </span>
       
@@ -360,7 +384,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       title="posts">
       
       
-        <span class="text-base font-medium break-normal">
+        <span class="text-sm font-medium break-normal">
           POSTS
         </span>
       
@@ -380,7 +404,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       title="">
       
       
-        <span class="text-base font-medium break-normal">
+        <span class="text-sm font-medium break-normal">
           SLACKBUILDS
         </span>
       
@@ -400,7 +424,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       title="">
       
       
-        <span class="text-base font-medium break-normal">
+        <span class="text-sm font-medium break-normal">
           ISOS
         </span>
       
@@ -418,7 +442,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       title="category">
       
       
-        <span class="text-base font-medium break-normal">
+        <span class="text-sm font-medium break-normal">
           CATEGORIAS
         </span>
       
@@ -433,23 +457,13 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   
 
   
-    <button
-      id="search-button"
-      aria-label="Search"
-      class="text-base bf-icon-color-hover"
-      title="Pesquisar (/)">
-      <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
-</span>
-    </button>
-  
-
-  
     <div class="flex items-center">
       <button
         id="appearance-switcher"
-        aria-label="Dark mode switcher"
+        aria-label="Mudar para modo escuro"
         type="button"
-        class="text-base bf-icon-color-hover">
+        class="text-sm bf-icon-color-hover"
+        title="Mudar para modo escuro">
         <div class="flex items-center justify-center dark:hidden">
           <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
 </span>
@@ -461,29 +475,39 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       </button>
     </div>
   
+
+  
+    <button
+      id="search-button"
+      aria-label="Pesquisar (/)"
+      class="flex items-center gap-2 rounded-lg border bf-border-color bf-border-color-hover bg-neutral-100/50 px-2 py-1 text-sm text-neutral-500 transition-colors hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral-400 dark:hover:text-primary-400"
+      title="Pesquisar (/)">
+      <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+</span>
+      <kbd
+        id="search-shortcut-hint"
+        class="pointer-events-none font-sans text-xs text-neutral-500 dark:text-neutral-400"
+        aria-hidden="true">
+        ⌘K
+      </kbd>
+    </button>
+  
 </nav>
 
 
 
     </div>
     <div class="flex md:hidden">
-      <div class="flex items-center h-14 gap-4">
-  
-    <button
-      id="search-button-mobile"
-      aria-label="Search"
-      class="flex items-center justify-center bf-icon-color-hover"
-      title="Pesquisar (/)">
-      <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
-</span>
-    </button>
+      
+<div class="mobile-header-row relative flex items-center h-14 gap-4">
   
 
   
     <button
       id="appearance-switcher-mobile"
       type="button"
-      aria-label="Dark mode switcher"
+      aria-label="Mudar para modo escuro"
+      title="Mudar para modo escuro"
       class="flex items-center justify-center text-neutral-900 hover:text-primary-600 dark:text-neutral-200 dark:hover:text-primary-400">
       <div class="dark:hidden">
         <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
@@ -497,112 +521,152 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   
 
   
+    <button
+      id="search-button-mobile"
+      aria-label="Pesquisar (/)"
+      class="flex items-center justify-center bf-icon-color-hover"
+      title="Pesquisar (/)">
+      <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+</span>
+    </button>
+  
+
+  
     <input type="checkbox" id="mobile-menu-toggle" autocomplete="off" class="hidden peer">
-    <label for="mobile-menu-toggle" class="flex items-center justify-center cursor-pointer bf-icon-color-hover">
+    <label
+      for="mobile-menu-toggle"
+      tabindex="0"
+      role="button"
+      aria-expanded="false"
+      aria-controls="mobile-menu-dialog"
+      aria-label="Menu principal"
+      class="flex items-center justify-center cursor-pointer bf-icon-color-hover">
       <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"/></svg>
 </span>
     </label>
 
     <div
+      id="mobile-menu-dialog"
       role="dialog"
       aria-modal="true"
+      aria-label="Menu principal"
       style="scrollbar-gutter: stable;"
-      class="fixed inset-0 z-50 invisible overflow-y-auto px-6 py-20 opacity-0 transition-[opacity,visibility] duration-300 peer-checked:visible peer-checked:opacity-100 bg-neutral-50/97 dark:bg-neutral-900/99
+      class="z-50 invisible overflow-y-auto opacity-0 transition-[opacity,visibility] duration-300 peer-checked:visible peer-checked:opacity-100
+      
+        fixed inset-0 px-6 py-20 bg-neutral-50/97 dark:bg-neutral-900/99
+      
       bf-scrollbar">
       <label
         for="mobile-menu-toggle"
-        class="fixed end-8 top-5 flex items-center justify-center z-50 h-12 w-12 cursor-pointer select-none rounded-full bf-icon-color-hover border bf-border-color bf-border-color-hover bg-neutral-50 dark:bg-neutral-900">
+        tabindex="0"
+        role="button"
+        aria-expanded="false"
+        aria-controls="mobile-menu-dialog"
+        class="fixed end-8 top-5 z-50 h-12 w-12 rounded-full flex items-center justify-center cursor-pointer select-none bf-icon-color-hover border bf-border-color bf-border-color-hover bg-neutral-50 dark:bg-neutral-900">
+        <span class="sr-only">Fechar menu</span>
         <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
 </span>
       </label>
-      <nav class="mx-auto max-w-md space-y-6">
+      <nav
+        aria-label="Menu móvel"
+        class="mx-auto max-w-md space-y-6">
         
   
     
     <div class="px-2">
-      <a
-        href="/"
-        aria-label="INÍCIO"
+      <div class="flex items-center gap-4">
+        <a
+          href="/"
+          aria-label="INÍCIO"
+          
+          class="flex grow items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+          
+          <span title="RODRIGO LIRA" class="text-2xl font-bold tracking-tight">
+            INÍCIO
+          </span>
+        </a>
         
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="RODRIGO LIRA" class="text-2xl font-bold tracking-tight">
-          INÍCIO
-        </span>
-        
-      </a>
+      </div>
 
       
     </div>
   
     
     <div class="px-2">
-      <a
-        href="/posts/"
-        aria-label="POSTS"
+      <div class="flex items-center gap-4">
+        <a
+          href="/posts/"
+          aria-label="POSTS"
+          
+          class="flex grow items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+          
+          <span title="posts" class="text-2xl font-bold tracking-tight">
+            POSTS
+          </span>
+        </a>
         
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="posts" class="text-2xl font-bold tracking-tight">
-          POSTS
-        </span>
-        
-      </a>
+      </div>
 
       
     </div>
   
     
     <div class="px-2">
-      <a
-        href="https://github.com/eurodrigolira/slackbuilds"
-        aria-label="SLACKBUILDS"
+      <div class="flex items-center gap-4">
+        <a
+          href="https://github.com/eurodrigolira/slackbuilds"
+          aria-label="SLACKBUILDS"
+          
+            target="_blank"
+          
+          class="flex grow items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+          
+          <span title="" class="text-2xl font-bold tracking-tight">
+            SLACKBUILDS
+          </span>
+        </a>
         
-          target="_blank"
-        
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="" class="text-2xl font-bold tracking-tight">
-          SLACKBUILDS
-        </span>
-        
-      </a>
+      </div>
 
       
     </div>
   
     
     <div class="px-2">
-      <a
-        href="https://drive.google.com/drive/folders/1cDEcISAO-t-P0jh3clw-UPQMAQS5ej3X?usp=drive_link"
-        aria-label="ISOS"
+      <div class="flex items-center gap-4">
+        <a
+          href="https://drive.google.com/drive/folders/1cDEcISAO-t-P0jh3clw-UPQMAQS5ej3X?usp=drive_link"
+          aria-label="ISOS"
+          
+            target="_blank"
+          
+          class="flex grow items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+          
+          <span title="" class="text-2xl font-bold tracking-tight">
+            ISOS
+          </span>
+        </a>
         
-          target="_blank"
-        
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="" class="text-2xl font-bold tracking-tight">
-          ISOS
-        </span>
-        
-      </a>
+      </div>
 
       
     </div>
   
     
     <div class="px-2">
-      <a
-        href="/category/"
-        aria-label="CATEGORIAS"
+      <div class="flex items-center gap-4">
+        <a
+          href="/category/"
+          aria-label="CATEGORIAS"
+          
+          class="flex grow items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+          
+          <span title="category" class="text-2xl font-bold tracking-tight">
+            CATEGORIAS
+          </span>
+        </a>
         
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="category" class="text-2xl font-bold tracking-tight">
-          CATEGORIAS
-        </span>
-        
-      </a>
+      </div>
 
       
     </div>
@@ -639,56 +703,21 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
 
 <script
   type="text/javascript"
-  src="/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js"
-  integrity="sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W&#43;5DcKnbOMMOI&#43;f7IvMGNsVvUfj&#43;ooJ13n6EqqcGEz2FKMVvHLGwWPQ=="
+  src="/js/background-blur.min.2b8477cfbdb6843f33fd6f7c9a9a1343c895e878a7b55c32979586e6c6ba1018372c0c66a011abdbd7bc1a912f98ea249043c82bfae8fb04a0f37f854ee1e920.js"
+  integrity="sha512-K4R3z722hD8z/W98mpoTQ8iV6HintVwyl5WG5sa6EBg3LAxmoBGr29e8GpEvmOokkEPIK/ro&#43;wSg83&#43;FTuHpIA=="
   data-blur-id="menu-blur"></script>
 
-    
+      
+    </header>
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
         
   
+  
+  
+  
   <article>
     
-    
-      
-      
-      
-      
-        
-
-
-
-
-
-
-
-  
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-
-
-  
-  
-
-
-
-
-  
-
-
-
-
-
-      
     
 
     
@@ -812,18 +841,30 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
             
               <a class="relative mt-[0.5rem] me-2" href="/category/linux/">
                 <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
     linux
   </span>
 </span>
 
               </a>
             
+          
+            
               <a class="relative mt-[0.5rem] me-2" href="/category/virtualizacao/">
                 <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
     virtualizacao
   </span>
 </span>
@@ -840,48 +881,81 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
             
               <a class="relative mt-[0.5rem] me-2" href="/tag/busybox/">
                 <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
     busybox
   </span>
 </span>
 
               </a>
             
+          
+            
               <a class="relative mt-[0.5rem] me-2" href="/tag/esxi/">
                 <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
     esxi
   </span>
 </span>
 
               </a>
             
+          
+            
               <a class="relative mt-[0.5rem] me-2" href="/tag/esxi-6-5/">
                 <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
     esxi-6-5
   </span>
 </span>
 
               </a>
             
+          
+            
               <a class="relative mt-[0.5rem] me-2" href="/tag/esxi-6-7/">
                 <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
     esxi-6-7
   </span>
 </span>
 
               </a>
             
+          
+            
               <a class="relative mt-[0.5rem] me-2" href="/tag/vmware/">
                 <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
     vmware
   </span>
 </span>
@@ -893,10 +967,6 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
     </div>
   
-
-  
-  
-
 
 
       </div>
@@ -913,7 +983,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
 
   
     
-    
+      
+      
 <div class="flex author">
   
     
@@ -933,8 +1004,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
         width="96"
         height="96"
         alt="Rodrigo Lira"
-        src="/perfil_hu_3ddca8a5aa5420a1.jpeg"
-        data-zoom-src="/perfil_hu_b36de72828e8f07c.jpeg">
+        src="/perfil_hu_ab9d8379c71608a3.jpeg"
+        data-zoom-src="/perfil_hu_69815ced4f6028f0.jpeg">
     
   
   <div class="place-self-center">
@@ -950,12 +1021,16 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       <div class="text-sm text-neutral-700 dark:text-neutral-400">Linux/BSD SysAdmin</div>
     
     <div class="text-2xl sm:text-lg">
-  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500 space-x-2">
     
       
+        
         <a
-          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
-          href="mailto:eurodrigolira@gmail.com"
+          class="email-link hover:text-primary-700 dark:hover:text-primary-400"
+          href="#"
+          
+            data-email="bWFpbHRvOmV1cm9kcmlnb2xpcmFAZ21haWwuY29t"
+          
           target="_blank"
           aria-label="email"
           title="email"
@@ -966,9 +1041,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
     
       
+        
         <a
-          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          class=" hover:text-primary-700 dark:hover:text-primary-400"
           href="https://github.com/eurodrigolira"
+          
           target="_blank"
           aria-label="github"
           title="github"
@@ -979,9 +1056,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
     
       
+        
         <a
-          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          class=" hover:text-primary-700 dark:hover:text-primary-400"
           href="https://linkedin.com/in/eurodrigolira"
+          
           target="_blank"
           aria-label="linkedin"
           title="linkedin"
@@ -992,9 +1071,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
     
       
+        
         <a
-          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          class=" hover:text-primary-700 dark:hover:text-primary-400"
           href="https://x.com/eurodrigolira"
+          
           target="_blank"
           aria-label="x-twitter"
           title="x-twitter"
@@ -1004,9 +1085,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
     
       
+        
         <a
-          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          class=" hover:text-primary-700 dark:hover:text-primary-400"
           href="https://mastodon.social/@eurodrigolira"
+          
           target="_blank"
           aria-label="mastodon"
           title="mastodon"
@@ -1017,9 +1100,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
     
       
+        
         <a
-          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          class=" hover:text-primary-700 dark:hover:text-primary-400"
           href="https://youtube.com/@eurodrigolira"
+          
           target="_blank"
           aria-label="youtube"
           title="youtube"
@@ -1030,9 +1115,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
     
       
+        
         <a
-          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          class=" hover:text-primary-700 dark:hover:text-primary-400"
           href="https://rodrigolira.eti.br/index.xml"
+          
           target="_blank"
           aria-label="rss"
           title="rss"
@@ -1047,8 +1134,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
   </div>
 </div>
 
-  
-
+    
   
 
   
@@ -1109,8 +1195,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="833"
     height="333"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.49.53_hu_bb16e750610fd36a.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.49.53_hu_bb16e750610fd36a.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.49.53.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.49.53_hu_c3433a20b6d720e2.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.49.53_hu_c3433a20b6d720e2.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.49.53.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.49.53.png"></figure>
 </a></p>
@@ -1142,8 +1228,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="1876"
     height="361"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.58.18_hu_26c725d0f2b28e41.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.58.18_hu_26c725d0f2b28e41.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.58.18_hu_44e5a7e522985e80.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.58.18_hu_42201ed47f4d0bed.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.58.18_hu_42201ed47f4d0bed.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.58.18_hu_e8d62807f3e9d60f.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-11.58.18.png"></figure>
 </a></p>
@@ -1168,8 +1254,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="1715"
     height="922"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.15_hu_4e07c0eca949578b.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.15_hu_4e07c0eca949578b.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.15_hu_5a8dcd9117da8c52.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.15_hu_f49c409f923b7f9b.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.15_hu_f49c409f923b7f9b.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.15_hu_73ce5d27aad34268.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.15.png"></figure>
 </a></p>
@@ -1183,8 +1269,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="1715"
     height="925"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.44_hu_bfade2d372903045.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.44_hu_bfade2d372903045.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.44_hu_e7dfd1e3a1ffa27.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.44_hu_4dd92f8610699f62.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.44_hu_4dd92f8610699f62.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.44_hu_c68027598b6c4908.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.36.44.png"></figure>
 </a></p>
@@ -1197,8 +1283,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="1714"
     height="925"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.13_hu_79eaddea7afe986.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.13_hu_79eaddea7afe986.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.13_hu_9d7dc4476204ffb2.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.13_hu_2348f14a6b1f7f00.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.13_hu_2348f14a6b1f7f00.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.13_hu_92902ad1661a1e64.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.13.png"></figure>
 </a></p>
@@ -1211,8 +1297,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="1715"
     height="921"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.39_hu_2c95ba0d98511aad.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.39_hu_2c95ba0d98511aad.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.39_hu_a67b1c8b7a1d9ca0.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.39_hu_4b01ed30fd97580e.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.39_hu_4b01ed30fd97580e.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.39_hu_5a4af6b8359a1487.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.37.39.png"></figure>
 </a></p>
@@ -1229,8 +1315,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="1715"
     height="924"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.41.11_hu_63b4f76144d9e9cc.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.41.11_hu_63b4f76144d9e9cc.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.41.11_hu_6ba323d1b005cbff.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.41.11_hu_e3b2cf37840dbd40.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.41.11_hu_e3b2cf37840dbd40.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.41.11_hu_be1f9980e5f8850.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/Red-Hat-7-VMware-Workstation-2018-07-19-13.41.11.png"></figure>
 </a></p>
@@ -1248,8 +1334,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     alt=""
     width="1890"
     height="530"
-    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-14.04.31_hu_93f397f33d9d9cef.png"
-    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-14.04.31_hu_93f397f33d9d9cef.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-14.04.31_hu_996fa2721702e1c5.png 1280w"
+    src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-14.04.31_hu_46f7b050812a1d04.png"
+    srcset="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-14.04.31_hu_46f7b050812a1d04.png 800w, /alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-14.04.31_hu_a93d6456fd2f5fae.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/alterando-a-versao-do-busybox-no-esxi-6-7/images/192.168.159.141-PuTTY-2018-07-19-14.04.31.png"></figure>
 </a></p>
@@ -1274,8 +1360,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
       
         <a
-          target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+          target="_blank"
           href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/&amp;title=Alterando%20a%20vers%c3%a3o%20do%20BusyBox%20no%20ESXi%206.7"
           title="Compartilhar pelo LinkedIn"
           aria-label="Compartilhar pelo LinkedIn">
@@ -1286,8 +1372,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
       
         <a
-          target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+          target="_blank"
           href="https://twitter.com/intent/tweet/?url=http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/&amp;text=Alterando%20a%20vers%c3%a3o%20do%20BusyBox%20no%20ESXi%206.7"
           title="Tweet no Twitter"
           aria-label="Tweet no Twitter">
@@ -1297,11 +1383,11 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
       
         <a
-          target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+          target="_blank"
           href="https://api.whatsapp.com/send?text=http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/&amp;resubmit=true&amp;title=Alterando%20a%20vers%c3%a3o%20do%20BusyBox%20no%20ESXi%206.7"
-          title=""
-          aria-label="">
+          title="Compartilhar pelo WhatsApp"
+          aria-label="Compartilhar pelo WhatsApp">
           <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg>
 </span>
         </a>
@@ -1309,8 +1395,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
       
         <a
-          target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+          target="_blank"
           href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/&amp;description=Alterando%20a%20vers%c3%a3o%20do%20BusyBox%20no%20ESXi%206.7"
           title="Pin no Pinterest"
           aria-label="Pin no Pinterest">
@@ -1321,8 +1407,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
       
         <a
-          target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+          target="_blank"
           href="https://reddit.com/submit/?url=http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/&amp;resubmit=true&amp;title=Alterando%20a%20vers%c3%a3o%20do%20BusyBox%20no%20ESXi%206.7"
           title="Postar no Reddit"
           aria-label="Postar no Reddit">
@@ -1333,8 +1419,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
       
         <a
-          target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+          target="_blank"
           href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/&amp;quote=Alterando%20a%20vers%c3%a3o%20do%20BusyBox%20no%20ESXi%206.7"
           title="Compartilhar pelo Facebook"
           aria-label="Compartilhar pelo Facebook">
@@ -1345,8 +1431,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
       
         <a
-          target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+          target="_blank"
           href="mailto:?body=http://localhost:1313/alterando-a-versao-do-busybox-no-esxi-6-7/&amp;subject=Alterando%20a%20vers%c3%a3o%20do%20BusyBox%20no%20ESXi%206.7"
           title="Enviar por email"
           aria-label="Enviar por email">
@@ -1361,23 +1447,6 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
         
 
       </div>
-
-      
-      
-        
-        
-          
-          
-        
-        
-        
-        <script
-          type="text/javascript"
-          src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
-          integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_posts/alterando-a-versao-do-busybox-no-esxi-6-7/index.md"
-          data-oid-likes="likes_posts/alterando-a-versao-do-busybox-no-esxi-6-7/index.md"></script>
-      
     </section>
 
     
@@ -1428,22 +1497,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
 
 
       
-        
-          <div class="pt-3">
-            <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
-            <div class="pt-3">
-              <script src="https://utteranc.es/client.js"
-        repo="eurodrigolira/blog"
-        issue-term="url"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
 
-            </div>
-          </div>
-        
-      
     </footer>
   </article>
 
@@ -1451,6 +1505,10 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
 
 
   
+
+
+
+
 
 
 
@@ -1481,7 +1539,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
       
       
-      <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400 ">
+      <nav aria-label="Menu de rodapé" class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400 ">
         <ul class="flex list-none flex-col sm:flex-row">
           
             <li class=" flex mb-1 text-end sm:mb-0 sm:me-7 sm:last:me-0 ">
@@ -1530,27 +1588,15 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
     
   </div>
   
-    <script>
-      mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
-        margin: 24,
-        background: "rgba(0,0,0,0.5)",
-        scrollOffset: 0,
-      });
-    </script>
-  
-  
-  
-  <script
-    type="text/javascript"
-    src="/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js"
-    integrity="sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh&#43;sCQ0E53ghYrxgYqw&#43;0GCRyIEpA=="></script>
-  
   
 </footer>
 <div
   id="search-wrapper"
+  role="dialog"
+  aria-modal="true"
+  aria-label="Pesquisar"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="http://localhost:1313/">
+  data-url="/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">
@@ -1563,6 +1609,7 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
         <input
           type="search"
           id="search-query"
+          aria-label="Pesquisar"
           class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
           placeholder="Pesquisar"
           tabindex="0">
@@ -1584,6 +1631,8 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
 </div>
 
     </div>
+    
+    
   </body>
   
     <script
@@ -1597,5 +1646,6 @@ Quando acessamos um ESXi via console, vemos que o shell dele tem uma familiarida
       
       data-x_margin="18"
       data-y_margin="18"></script>
+  
   
 </html>

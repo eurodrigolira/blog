@@ -23,6 +23,7 @@ article:
   this_article: "Esse Artigo"
   related_articles: "Relacionados"
   reply_by_email: "Responder por email"
+  reply_to: "Resposta a {{ .Title }}"
 
 a11y:
   title: "Configurações de acessibilidade"
@@ -42,6 +43,7 @@ error:
   404_title: "Página não encontrada :confused:"
   404_error: "Erro 404"
   404_description: "Aparentemente a página requisitada não existe."
+  404_home: "Voltar ao início"
 
 footer:
   dark_appearance: "Mudar para modo escuro"
@@ -53,6 +55,10 @@ list:
   no_articles: "Não tem artigos para listar aqui ainda."
 
 nav:
+  close_menu: "Fechar menu"
+  footer_menu: "Menu de rodapé"
+  main_menu: "Menu principal"
+  mobile_menu: "Menu móvel"
   scroll_to_top_title: "Ir para o topo"
   skip_to_main: "Ir para o conteúdo principal"
 
@@ -69,9 +75,17 @@ sharing:
   pinterest: "Pin no Pinterest"
   reddit: "Postar no Reddit"
   twitter: "Tweet no Twitter"
+  whatsapp: "Compartilhar pelo WhatsApp"
 
 shortcode:
   recent_articles: "Recente"
 
 recent:
   show_more: "Mostrar Mais"
+
+cookie_notice:
+  message_with_link: "Este site usa cookies e tecnologias semelhantes. Leia nossa política de privacidade"
+  message: "Este site usa cookies e tecnologias semelhantes. Ao usar este site, você aceita isso."
+  privacy_policy: "política de privacidade"
+  button: "Entendi"
+  image_alt: "Ícone de cookie"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>okd on RODRIGO LIRA</title>
+    <link>http://localhost:1313/tag/okd/</link>
+    <description>Recent content in okd on RODRIGO LIRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
+    <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
+    <copyright>© 2026 Rodrigo Lira</copyright>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/okd/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Instalação do OKD Single Node</title>
+      <link>http://localhost:1313/instala%C3%A7%C3%A3o-do-okd-single-node/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/instala%C3%A7%C3%A3o-do-okd-single-node/</guid>
+      <description>&lt;p&gt;Salve Salve Pessoal!&lt;/p&gt;&#xA;&lt;p&gt;Neste post, vou demonstrar como podemos instalar o &lt;strong&gt;OKD&lt;/strong&gt; diretamente em uma única máquina física (&lt;strong&gt;bare metal&lt;/strong&gt;). Essa instalação é chamada de &lt;strong&gt;Single Node (SNO)&lt;/strong&gt;. Existem diversas maneiras de realizar a instalação do OKD. Porém, como uso apenas uma máquina em meu homelab, decidi fazer a instalação diretamente nela.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/instala%C3%A7%C3%A3o-do-okd-single-node/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

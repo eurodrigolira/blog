@@ -5,18 +5,68 @@
     <link>http://localhost:1313/tag/</link>
     <description>Recent content in tag on RODRIGO LIRA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>pt-BR</language>
     <managingEditor>eurodrigolira@gmail.com (Rodrigo Lira)</managingEditor>
     <webMaster>eurodrigolira@gmail.com (Rodrigo Lira)</webMaster>
     <copyright>© 2026 Rodrigo Lira</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>containers</title>
       <link>http://localhost:1313/tag/containers/</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/containers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>http://localhost:1313/tag/kubernetes/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>okd</title>
+      <link>http://localhost:1313/tag/okd/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/okd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>openshift</title>
+      <link>http://localhost:1313/tag/openshift/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/openshift/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>podman</title>
+      <link>http://localhost:1313/tag/podman/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/podman/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>redhat</title>
+      <link>http://localhost:1313/tag/redhat/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
+      <guid>http://localhost:1313/tag/redhat/</guid>
       <description></description>
       
     </item>
@@ -27,36 +77,6 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ex188/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>openshift</title>
-      <link>http://localhost:1313/tag/openshift/</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/openshift/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>podman</title>
-      <link>http://localhost:1313/tag/podman/</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/podman/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>redhat</title>
-      <link>http://localhost:1313/tag/redhat/</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/redhat/</guid>
       <description></description>
       
     </item>
@@ -1037,16 +1057,6 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
       <guid>http://localhost:1313/tag/ex316/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>kubernetes</title>
-      <link>http://localhost:1313/tag/kubernetes/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <author>eurodrigolira@gmail.com (Rodrigo Lira)</author>
-      <guid>http://localhost:1313/tag/kubernetes/</guid>
       <description></description>
       
     </item>

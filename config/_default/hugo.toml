@@ -1,6 +1,6 @@
 theme = "blowfish"
 baseURL = "https://rodrigolira.eti.br/"
-defaultContentLanguage = "pt-BR"
+locale = "pt-BR"
 pluralizeListTitles = true
 enableRobotsTXT = true
 summaryLength = 30
@@ -9,6 +9,10 @@ buildFuture = false
 enableEmoji = true
 googleAnalytics = ""
 titleCaseStyle = "none"
+
+[languages.pt-br]
+locale = "pt-BR"
+label = "Português (Brasil)"
 
 [pagination]
 pagerSize = 20

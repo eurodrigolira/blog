@@ -1,16 +1,14 @@
-languageCode = "pt-br"
-languageName = "Português"
 weight = 1
 title = "RODRIGO LIRA"
 
 [params]
 displayName = "Português"
-isoCode = "pb-br"
+isoCode = "pt-BR"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Rodrigo Lira | Linux/BSD SysAdmin"
 
-["params.author"]
+[params.author]
   name = "Rodrigo Lira"
   email = "eurodrigolira@gmail.com"
   bio = "Linux/BSD SysAdmin"

@@ -3,6 +3,7 @@ title: "Shortcodes"
 weight: 6
 draft: false
 description: "All the shortcodes available in Blowfish."
+featureimage: "images/v3/shortcodes.png"
 slug: "shortcodes"
 tags: ["shortcodes", "mermaid", "icon", "lead", "docs"]
 series: ["Documentation"]
@@ -11,6 +12,129 @@ series_order: 8
 
 In addition to all the [default Hugo shortcodes](https://gohugo.io/content-management/shortcodes/), Blowfish adds a few extras for additional functionality.
 
+## Accordion
+
+`accordion` creates a collapsible set of panels. Use the `accordionItem` sub-shortcode to define each item. You can control whether multiple items can be open at the same time using the `mode` parameter.
+
+<!-- prettier-ignore-start -->
+| Parameter | Description                                                                                       |
+| --------- | ------------------------------------------------------------------------------------------------- |
+| `mode`       | **Optional.** `collapse` (single open) or `open` (multiple open). Defaults to `collapse`.      |
+| `separated`  | **Optional.** `true` to show each item as a separate card. Defaults to `false` (joined list).  |
+<!-- prettier-ignore-end -->
+
+`accordionItem` parameters:
+
+<!-- prettier-ignore-start -->
+| Parameter | Description                                                                                         |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| `title`   | **Required.** Title shown in the item header.                                                       |
+| `open`    | **Optional.** Set to `true` to have the item open by default.                                       |
+| `header`  | **Optional.** Alias for `title`, kept for compatibility with other shortcodes.                      |
+| `icon`    | **Optional.** Icon name to display before the title.                                                |
+| `align`   | **Optional.** Align text within the item: `left`, `center`, `right`                                 |
+<!-- prettier-ignore-end -->
+
+**Example 1: `mode="open"` (multiple items can be open) + `separated=true`**
+
+```md
+{{</* accordion mode="open" separated=true */>}}
+  {{</* accordionItem title="Markdown example" icon="code" open=true */>}}
+  This item demonstrates Markdown rendering:
+  - **Bold text**
+  - Lists
+  - `inline code`
+  {{</* /accordionItem */>}}
+
+  {{</* accordionItem title="Shortcode example" md=false */>}}
+  This item demonstrates shortcode rendering with <code>md=false</code>:
+  
+  {{</* alert */>}}This is an inline alert.{{</* /alert */>}}
+  {{</* /accordionItem */>}}
+{{</* /accordion */>}}
+```
+
+{{< accordion mode="open" separated=true >}}
+  {{< accordionItem title="Markdown example" icon="code" open=true >}}
+  This item demonstrates Markdown rendering:
+  - **Bold text**
+  - Lists
+  - `inline code`
+  {{< /accordionItem >}}
+
+  {{< accordionItem title="Shortcode example" md=false >}}
+  This item demonstrates shortcode rendering with <code>md=false</code>:
+  
+  {{< alert >}}This is an inline alert.{{< /alert >}}
+  {{< /accordionItem >}}
+{{< /accordion >}}
+
+**Example 2: `mode="collapse"` (only one item open at a time)**
+
+```md
+{{</* accordion mode="collapse" */>}}
+  {{</* accordionItem title="First item" open=true */>}}
+  This item uses Markdown with a short list:
+  1. One
+  2. Two
+  3. Three
+  {{</* /accordionItem */>}}
+
+  {{</* accordionItem title="Second item" md=false */>}}
+  This item includes another shortcode:
+  {{</* badge */>}}Tip{{</* /badge */>}}
+  {{</* /accordionItem */>}}
+{{</* /accordion */>}}
+```
+
+{{< accordion mode="collapse" >}}
+  {{< accordionItem title="First item" open=true >}}
+  This item uses Markdown with a short list:
+  1. One
+  2. Two
+  3. Three
+  {{< /accordionItem >}}
+
+  {{< accordionItem title="Second item" md=false >}}
+  This item includes another shortcode:
+  {{< badge >}}Tip{{< /badge >}}
+  {{< /accordionItem >}}
+{{< /accordion >}}
+
+<br/><br/><br/>
+
+## Admonition
+
+Admonitions allow you to insert eye-catching callout boxes in your content.
+
+Admonitions serve a similar purpose as the alert shortcode but are implemented via Hugo render hooks. The key difference is syntax: admonitions use Markdown syntax, making them more portable across different platforms, whereas shortcodes are specific to Hugo. The syntax resembles GitHub alerts:
+
+```md
+> [!TIP]
+> A Tip type admonition.
+
+> [!TIP]+ Custom Title + Custom Icon
+> A collapsible admonition with custom title.
+{icon="twitter"}
+```
+
+> [!TIP]
+> A Tip type admonition.
+
+> [!TIP]+ Custom Title + Custom Icon
+> A collapsible admonition with custom title.
+{icon="twitter"}
+
+The alert sign (`+` or `-`) is optional to control whether the admonition is folded or not. Note that alert sign is only compatible in Obsidian.
+
+> [!INFO]- Supported types
+> Valid admonition types include [GitHub alert types](https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/) and [Obsidian callout types](https://help.obsidian.md/callouts). The types are case-insensitive.
+>
+> **GitHub types:** `NOTE`, `TIP`, `IMPORTANT`, `WARNING`, `CAUTION`  
+> **Obsidian types:** `note`, `abstract`, `info`, `todo`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`
+
+> [!INFO]- Customize admonition
+> See the [admonition customization guide](https://github.com/nunocoracao/blowfish/blob/main/layouts/_default/_markup/render-blockquote.html).
 ## Alert
 
 `alert` outputs its contents as a stylised message box within your article. It's useful for drawing attention to important information that you don't want the reader to miss.
@@ -64,38 +188,36 @@ This is an error!
 
 <br/><br/><br/>
 
-## Admonition
+## Ansible Galaxy Card
 
-Admonitions allow you to insert eye-catching callout boxes in your content.
+`ansible` renders a card for an [Ansible Galaxy](https://galaxy.ansible.com/) entry, fetched at build time. It accepts either a `role` or a `collection` parameter, both in `namespace.name` form.
 
-Admonitions serve a similar purpose as the alert shortcode but are implemented via Hugo render hooks. The key difference is syntax: admonitions use Markdown syntax, making them more portable across different platforms, whereas shortcodes are specific to Hugo. The syntax resembles GitHub alerts:
+<!-- prettier-ignore-start -->
+| Parameter    | Description                                                                          |
+| ------------ | ------------------------------------------------------------------------------------ |
+| `role`       | [String] Galaxy role in the format `namespace.name`, e.g. `geerlingguy.docker`       |
+| `collection` | [String] Galaxy collection in the format `namespace.name`, e.g. `community.general`  |
+<!-- prettier-ignore-end -->
+
+Set exactly one of `role` or `collection` per call.
+
+All card values are fetched at build time via Hugo's `resources.GetRemote`. Galaxy does not allow cross-origin requests, so the card is not refreshed in the browser — rebuild the site to update the values.
+
+**Example 1: Role**
 
 ```md
-> [!TIP]
-> A Tip type admonition.
-
-> [!TIP]+ Custom Title + Custom Icon
-> A collapsible admonition with custom title.
-{icon="twitter"}
+{{</* ansible role="geerlingguy.docker" */>}}
 ```
 
-> [!TIP]
-> A Tip type admonition.
+{{< ansible role="geerlingguy.docker" >}}
 
-> [!TIP]+ Custom Title + Custom Icon
-> A collapsible admonition with custom title.
-{icon="twitter"}
+**Example 2: Collection**
 
-The alert sign (`+` or `-`) is optional to control whether the admonition is folded or not. Note that alert sign is only compatible in Obsidian.
+```md
+{{</* ansible collection="community.general" */>}}
+```
 
-> [!INFO]- Supported types
-> Valid admonition types include [GitHub alert types](https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/) and [Obsidian callout types](https://help.obsidian.md/callouts). The types are case-insensitive.
->
-> **GitHub types:** `NOTE`, `TIP`, `IMPORTANT`, `WARNING`, `CAUTION`  
-> **Obsidian types:** `note`, `abstract`, `info`, `todo`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`
-
-> [!INFO]- Customize admonition
-> See the [admonition customization guide](https://github.com/nunocoracao/blowfish/blob/main/layouts/_default/_markup/render-blockquote.html).
+{{< ansible collection="community.general" >}}
 
 <br/><br/><br/>
 
@@ -141,7 +263,7 @@ New article!
 
 ## Button
 
-`button` outputs a styled button component which can be used to highlight a primary action. It has three optional variables `href`, `target` and `rel` which can be used to specify the URL, target and relation of the link.
+`button` outputs a styled button component which can be used to highlight a primary action. It has four optional variables `pageRef`, `href`, `target` and `rel`. `pageRef` resolves an internal page reference using the current page context, producing a language- and trailing-slash-aware URL that is consistent with the theme's navigation menus. `href` accepts any URL or path. When both are set, `pageRef` takes precedence.
 
 **Example:**
 
@@ -155,6 +277,18 @@ Call to action
 Call to action
 {{< /button >}}
 
+**Example using `pageRef`:**
+
+```md
+{{</* button pageRef="docs/getting-started" */>}}
+Get started
+{{</* /button */>}}
+```
+
+{{< button pageRef="docs/getting-started" >}}
+Get started
+{{< /button >}}
+
 <br/><br/><br/>
 
 ## Carousel
@@ -165,9 +299,12 @@ Call to action
 | Parameter | Description |
 | --- | --- |
 | `images` | **Required.** A regex string to match image names or URLs. |
+| `captions` | **Optional.** A list of `key:caption` pairs. Keys can be image filenames (for local images) or full URLs (for remote images). Captions support Markdown. |
 | `aspectRatio` | **Optional.** The aspect ratio for the carousel. It is set to `16-9` by default. |
 | `interval` | **Optional.** The interval for the auto-scrooling, specified in milliseconds. Defaults to `2000` (2s) |
 <!-- prettier-ignore-end -->
+
+Captions are matched by key. For local images, use the filename (e.g. `01.jpg`). For remote images, use the full URL.
 
 **Example 1:** 16:9 aspect ratio and verbose list of images
 
@@ -184,6 +321,14 @@ Call to action
 ```
 
 {{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
+
+**Example 3:** Add captions
+
+```md
+{{</* carousel images="gallery/*" captions="{01.jpg:First image with *formatting*,02.jpg:Second image with a [link](https://example.com)}" */>}}
+```
+
+{{< carousel images="gallery/*" captions="{01.jpg:First image with *formatting*,02.jpg:Second image with a [link](https://example.com)}" >}}
 
 <br/><br/><br/>
 
@@ -277,6 +422,85 @@ This shortcode is for importing code from external sources easily without copyin
 
 <br/><br/><br/>
 
+## CTA button
+
+Use `cta` for a clear, accessible call to action inside documentation, landing pages, or long-form content.
+
+<!-- prettier-ignore-start -->
+| Parameter | Description |
+| --- | --- |
+| `url` | Destination URL. Defaults to `#`. |
+| `label` | Button text. Defaults to `Learn more`. |
+| `style` | `primary` (default) or `outline`. |
+<!-- prettier-ignore-end -->
+
+```md
+{{</* cta url="/docs/installation/" label="Start building" */>}}
+{{</* cta url="/docs/configuration/" label="Explore configuration" style="outline" */>}}
+```
+
+{{< cta url="/docs/installation/" label="Start building" >}}
+&nbsp;
+{{< cta url="/docs/configuration/" label="Explore configuration" style="outline" >}}
+
+<br/><br/><br/>
+
+## Email
+
+Creates an obfuscated mailto link:
+
+```md
+{{</* email email="mailto:hello@test.com" text="text" subject="Reply to awesome article" */>}}
+```
+
+{{< email email="mailto:hello@test.com" text="text" subject="Reply to awesome article" >}}
+
+<br/><br/><br/>
+
+## Feature grid
+
+Build polished, responsive feature sections without repeating presentation markup. Use `feature-grid` as the container, then add one `feature` shortcode for each item. The grid defaults to three columns on large screens and can be set to four.
+
+<!-- prettier-ignore-start -->
+| Parameter | Description |
+| --- | --- |
+| `columns` | Optional number of large-screen columns: `3` (default) or `4`. |
+| `icon` | Icon name for a feature. Defaults to `wand-magic-sparkles`. |
+| `title` | Feature title. Markdown is supported. |
+| `url` | Optional destination for the feature link. |
+| `label` | Link label. Defaults to `Learn more`. |
+<!-- prettier-ignore-end -->
+
+**Example:**
+
+```md
+{{</* feature-grid columns="3" */>}}
+{{</* feature icon="wand-magic-sparkles" title="Make it yours" url="/docs/configuration/" */>}}
+Start from a thoughtful default, then adjust every meaningful detail.
+{{</* /feature */>}}
+{{</* feature icon="file-lines" title="Publish faster" url="/docs/shortcodes/" label="Browse shortcodes" */>}}
+Compose rich content with small, reusable building blocks.
+{{</* /feature */>}}
+{{</* feature icon="heart" title="Built for people" */>}}
+Accessible defaults, responsive layouts, and dark mode included.
+{{</* /feature */>}}
+{{</* /feature-grid */>}}
+```
+
+{{< feature-grid >}}
+{{< feature icon="wand-magic-sparkles" title="Make it yours" url="/docs/configuration/" >}}
+Start from a thoughtful default, then adjust every meaningful detail.
+{{< /feature >}}
+{{< feature icon="file-lines" title="Publish faster" url="/docs/shortcodes/" label="Browse shortcodes" >}}
+Compose rich content with small, reusable building blocks.
+{{< /feature >}}
+{{< feature icon="heart" title="Built for people" >}}
+Accessible defaults, responsive layouts, and dark mode included.
+{{< /feature >}}
+{{< /feature-grid >}}
+
+<br/><br/><br/>
+
 ## Figure
 
 Blowfish includes a `figure` shortcode for adding images to content. The shortcode replaces the base Hugo functionality in order to provide additional performance benefits.
@@ -292,6 +516,7 @@ The `figure` shortcode accepts six parameters:
 | `alt` | [Alternative text description](https://moz.com/learn/seo/alt-text) for the image. |
 | `caption` | Markdown for the image caption, which will be displayed below the image. |
 | `class` | Additional CSS classes to apply to the image. |
+| `figureClass` | Additional CSS classes to apply to the `<figure>` wrapper. Useful for galleries. |
 | `href` | URL that the image should be linked to. |
 | `target` | The target attribute for the `href` URL. |
 | `nozoom` | `nozoom=true` disables the image "zoom" functionality. This is most useful in combination with a `href` link. |
@@ -349,6 +574,8 @@ Blowfish also supports automatic conversion of images included using standard Ma
 
 In order to add images to the gallery, use `img` tags for each image and add `class="grid-wXX"` in order for the gallery to be able to identify the column width for each image. The widths available by default start at 10% and go all the way to 100% in 5% increments. For example, to set the width to 65%, set the class to `grid-w65`. Additionally, widths for 33% and 66% are also available in order to build galleries with 3 cols. You can also leverage tailwind's responsive indicators to have a reponsive grid.
 
+If you need captions, you can use the `figure` shortcode inside the gallery. When doing so, set the grid width on the `figure` using `figureClass`, and use `caption` for the text.
+
 **Example 1: normal gallery**
 
 ```md
@@ -364,13 +591,13 @@ In order to add images to the gallery, use `img` tags for each image and add `cl
 ```
 
 {{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w33" />
-  <img src="gallery/02.jpg" class="grid-w33" />
-  <img src="gallery/03.jpg" class="grid-w33" />
-  <img src="gallery/04.jpg" class="grid-w33" />
-  <img src="gallery/05.jpg" class="grid-w33" />
-  <img src="gallery/06.jpg" class="grid-w33" />
-  <img src="gallery/07.jpg" class="grid-w33" />
+  <img alt="" src="gallery/01.jpg" class="grid-w33" />
+  <img alt="" src="gallery/02.jpg" class="grid-w33" />
+  <img alt="" src="gallery/03.jpg" class="grid-w33" />
+  <img alt="" src="gallery/04.jpg" class="grid-w33" />
+  <img alt="" src="gallery/05.jpg" class="grid-w33" />
+  <img alt="" src="gallery/06.jpg" class="grid-w33" />
+  <img alt="" src="gallery/07.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 <br/><br/><br/>
@@ -390,13 +617,31 @@ In order to add images to the gallery, use `img` tags for each image and add `cl
 ```
 
 {{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
+
+<br/><br/><br/>
+
+**Example 3: gallery with captions (using `figure`)**
+
+```md
+{{</* gallery */>}}
+  {{</* figure src="gallery/01.jpg" alt="Gallery image 1" caption="First caption" figureClass="grid-w33" */>}}
+  {{</* figure src="gallery/02.jpg" alt="Gallery image 2" caption="Second caption" figureClass="grid-w33" */>}}
+  {{</* figure src="gallery/03.jpg" alt="Gallery image 3" caption="Third caption" figureClass="grid-w33" */>}}
+{{</* /gallery */>}}
+```
+
+{{< gallery >}}
+  {{< figure src="gallery/01.jpg" alt="Gallery image 1" caption="First caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/02.jpg" alt="Gallery image 2" caption="Second caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/03.jpg" alt="Gallery image 3" caption="Third caption" figureClass="grid-w33" >}}
 {{< /gallery >}}
 
 <br/><br/><br/>
@@ -734,6 +979,44 @@ You can see some additional Mermaid examples on the [diagrams and flowcharts sam
 
 <br/><br/><br/>
 
+## Stats
+
+Use `stats` and `stat` to present concise, high-signal metrics in a responsive grid. The grid uses three columns on large screens by default, or four with `columns="4"`.
+
+```md
+{{</* stats */>}}
+{{</* stat value="40+" label="Shortcodes" */>}}Compose pages without bespoke templates.{{</* /stat */>}}
+{{</* stat value="100%" label="Portable" */>}}Keep your content in Markdown.{{</* /stat */>}}
+{{</* stat value="0" label="Required plugins" */>}}Start with Hugo and Blowfish.{{</* /stat */>}}
+{{</* /stats */>}}
+```
+
+{{< stats >}}
+{{< stat value="40+" label="Shortcodes" >}}Compose pages without bespoke templates.{{< /stat >}}
+{{< stat value="100%" label="Portable" >}}Keep your content in Markdown.{{< /stat >}}
+{{< stat value="0" label="Required plugins" >}}Start with Hugo and Blowfish.{{< /stat >}}
+{{< /stats >}}
+
+<br/><br/><br/>
+
+## Steps
+
+Use `steps` and `step` for onboarding, processes, roadmaps, and tutorials.
+
+```md
+{{</* steps */>}}
+{{</* step number="1" title="Configure the theme" */>}}Choose a colour scheme and homepage layout.{{</* /step */>}}
+{{</* step number="2" title="Write your content" */>}}Use standard Markdown and shortcodes.{{</* /step */>}}
+{{</* /steps */>}}
+```
+
+{{< steps >}}
+{{< step number="1" title="Configure the theme" >}}Choose a colour scheme and homepage layout.{{< /step >}}
+{{< step number="2" title="Write your content" >}}Use standard Markdown and shortcodes.{{< /step >}}
+{{< /steps >}}
+
+<br/><br/><br/>
+
 ## Swatches
 
 `swatches` outputs a set of up to three different colors to showcase color elements like a color palette. This shortcode takes the `HEX` codes of each color and creates the visual elements for each.
@@ -759,6 +1042,7 @@ The `tabs` shortcode is commonly used to present different variants of a particu
 | `default` | **Optional.** Label of the tab to be active by default. If not set, the first tab will be active. |
 | `label`   | **Required.** The text label displayed on the tab button. |
 | `icon`    | **Optional.** Icon name to display before the label. |
+| `md`      | **Optional.** Render tab content as Markdown (default `true`). Use `md=false` when the content is already HTML. |
 
 **Example 1: Basic Usage**
 
@@ -786,7 +1070,7 @@ The `tabs` shortcode is commonly used to present different variants of a particu
     {{</* /tab */>}}
 
     {{</* tab label="Linux" */>}}
-    See [documentation](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux).
+    {{</* alert */>}}See [documentation](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux).{{</* /alert */>}}
     {{</* /tab */>}}
 
 {{</* /tabs */>}}
@@ -817,9 +1101,35 @@ The `tabs` shortcode is commonly used to present different variants of a particu
     {{< /tab >}}
 
     {{< tab label="Linux" >}}
-    See [documentation](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux).
+    {{< alert >}}See [documentation](https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux).{{< /alert >}}
     {{< /tab >}}
 
+{{< /tabs >}}
+
+Nested shortcodes are supported with the default Markdown behaviour. For example, an accordion can live inside a tab without its generated HTML being rendered as Markdown a second time:
+
+`````md
+{{</* tabs */>}}
+{{</* tab label="Details" */>}}
+{{</* accordion mode="open" */>}}
+{{</* accordionItem title="What is included?" */>}}
+- Responsive behaviour
+- Accessible markup
+{{</* /accordionItem */>}}
+{{</* /accordion */>}}
+{{</* /tab */>}}
+{{</* /tabs */>}}
+`````
+
+{{< tabs >}}
+{{< tab label="Details" >}}
+{{< accordion mode="open" >}}
+{{< accordionItem title="What is included?" >}}
+- Responsive behaviour
+- Accessible markup
+{{< /accordionItem >}}
+{{< /accordion >}}
+{{< /tab >}}
 {{< /tabs >}}
 
 **Example 2: With Group, Default, and Icon**
@@ -984,13 +1294,13 @@ With html code
 {{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
 With other shortcodes
 {{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w33" />
-  <img src="gallery/02.jpg" class="grid-w33" />
-  <img src="gallery/03.jpg" class="grid-w33" />
-  <img src="gallery/04.jpg" class="grid-w33" />
-  <img src="gallery/05.jpg" class="grid-w33" />
-  <img src="gallery/06.jpg" class="grid-w33" />
-  <img src="gallery/07.jpg" class="grid-w33" />
+  <img alt="" src="gallery/01.jpg" class="grid-w33" />
+  <img alt="" src="gallery/02.jpg" class="grid-w33" />
+  <img alt="" src="gallery/03.jpg" class="grid-w33" />
+  <img alt="" src="gallery/04.jpg" class="grid-w33" />
+  <img alt="" src="gallery/05.jpg" class="grid-w33" />
+  <img alt="" src="gallery/06.jpg" class="grid-w33" />
+  <img alt="" src="gallery/07.jpg" class="grid-w33" />
 {{< /gallery >}}
 {{</ timelineItem >}}
 {{< timelineItem icon="code" header="Another Awesome Header">}}
@@ -1170,3 +1480,6 @@ To concatenate multiple options as shown below, you need to add the `&` characte
 {{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" params="start=130&end=10&controls=0" >}}
 
 More informations can be found on the [youtubeLite GitHub repo](https://github.com/paulirish/lite-youtube-embed/blob/master/readme.md#custom-player-parameters) and Youtube's [player parameters](https://developers.google.com/youtube/player_parameters#Parameters) page.
+
+<br/><br/><br/>
+

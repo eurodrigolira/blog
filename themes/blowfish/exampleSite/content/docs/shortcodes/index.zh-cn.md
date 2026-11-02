@@ -11,7 +11,133 @@ series_order: 8
 
 除了所有[默认 Hugo 简码](https://gohugo.io/content-management/shortcodes/) 之外，Blowfish 还添加了一些额外的功能。
 
-## Alert
+## 手风琴
+
+`accordion` 可以创建一组可折叠的面板。使用 `accordionItem` 子简码定义每个条目。您可以通过 `mode` 参数控制是否允许多个条目同时展开。
+
+<!-- prettier-ignore-start -->
+| 参数 | 功能 |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| `mode`       | **可选** `collapse`(单个展开)或 `open`(多个展开)。默认为 `collapse`。 |
+| `separated`  | **可选** `true` 时每个条目显示为独立卡片。默认为 `false`(连接列表)。 |
+<!-- prettier-ignore-end -->
+
+`accordionItem` 参数:
+
+<!-- prettier-ignore-start -->
+| 参数 | 功能 |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| `title`   | **必填** 条目标题栏中显示的标题。 |
+| `open`    | **可选** 设置为 `true` 可使该条目默认展开。 |
+| `header`  | **可选** `title` 的别名,为与其他简码兼容而保留。 |
+| `icon`    | **可选** 显示在标题前的图标名称。 |
+| `align`   | **可选** 条目内文本的对齐方式:`left`、`center`、`right` |
+<!-- prettier-ignore-end -->
+
+**例1:** `mode="open"`(多个条目可同时展开)+ `separated=true`
+
+```md
+{{</* accordion mode="open" separated=true */>}}
+  {{</* accordionItem title="Markdown example" icon="code" open=true */>}}
+  This item demonstrates Markdown rendering:
+  - **Bold text**
+  - Lists
+  - `inline code`
+  {{</* /accordionItem */>}}
+
+  {{</* accordionItem title="Shortcode example" md=false */>}}
+  This item demonstrates shortcode rendering with <code>md=false</code>:
+  
+  {{</* alert */>}}This is an inline alert.{{</* /alert */>}}
+  {{</* /accordionItem */>}}
+{{</* /accordion */>}}
+```
+
+{{< accordion mode="open" separated=true >}}
+  {{< accordionItem title="Markdown example" icon="code" open=true >}}
+  This item demonstrates Markdown rendering:
+  - **Bold text**
+  - Lists
+  - `inline code`
+  {{< /accordionItem >}}
+
+  {{< accordionItem title="Shortcode example" md=false >}}
+  This item demonstrates shortcode rendering with <code>md=false</code>:
+  
+  {{< alert >}}This is an inline alert.{{< /alert >}}
+  {{< /accordionItem >}}
+{{< /accordion >}}
+
+**例2:** `mode="collapse"`(同一时间仅展开一个条目)
+
+```md
+{{</* accordion mode="collapse" */>}}
+  {{</* accordionItem title="First item" open=true */>}}
+  This item uses Markdown with a short list:
+  1. One
+  2. Two
+  3. Three
+  {{</* /accordionItem */>}}
+
+  {{</* accordionItem title="Second item" md=false */>}}
+  This item includes another shortcode:
+  {{</* badge */>}}Tip{{</* /badge */>}}
+  {{</* /accordionItem */>}}
+{{</* /accordion */>}}
+```
+
+{{< accordion mode="collapse" >}}
+  {{< accordionItem title="First item" open=true >}}
+  This item uses Markdown with a short list:
+  1. One
+  2. Two
+  3. Three
+  {{< /accordionItem >}}
+
+  {{< accordionItem title="Second item" md=false >}}
+  This item includes another shortcode:
+  {{< badge >}}Tip{{< /badge >}}
+  {{< /accordionItem >}}
+{{< /accordion >}}
+
+<br/><br/><br/>
+
+## 提示框
+
+Admonition 用于在内容中插入醒目提示。
+
+Admonition 的用途与 alert shortcode 类似，但其实现方式是通过 Hugo 的 render hooks。两者的关键区别在于语法：admonition 使用 Markdown 语法，因此在不同平台之间具有更好的可移植性；而 shortcode 是 Hugo 专有的。其语法类似 GitHub 的 alerts：
+
+```md
+> [!TIP]
+> 一个 Tip 类型的提示块。
+
+> [!TIP]+ 自定义标题
+> 一个带有自定义标题的可折叠提示块。
+{icon="twitter"}
+```
+
+> [!TIP]
+> 一个 Tip 类型的提示块。
+
+> [!TIP]+ 自定义标题
+> 一个带有自定义标题的可折叠提示块。
+{icon="twitter"}
+
+提示符号（`+` 或 `-`）是可选的，用于控制提示块是否默认折叠。请注意，该提示符号仅在 Obsidian 中兼容。
+
+> [!INFO]- 支持的类型
+> 可用的 admonition 类型包括 [GitHub alert 类型](https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/) 和 [Obsidian callout 类型](https://help.obsidian.md/callouts)。类型名称不区分大小写。
+>
+> **GitHub 类型：** `NOTE`, `TIP`, `IMPORTANT`, `WARNING`, `CAUTION`  
+> **Obsidian 类型：** `note`, `abstract`, `info`, `todo`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`
+
+> [!INFO]- 自定义提示框
+> 请参阅 [提示框自定义指南](https://github.com/nunocoracao/blowfish/blob/main/layouts/_default/_markup/render-blockquote.html)。
+
+<br/><br/><br/>
+
+## 醒目框
 
 `alert` 可以将其中内容输出为文章中的风格化消息框。它对于吸引读者注意您不想让读者错过的重要信息很有用。
 
@@ -64,42 +190,40 @@ This is an error!
 
 <br/><br/><br/>
 
-## Admonition
+## Ansible Galaxy 卡片
 
-Admonition 用于在内容中插入醒目提示。
+`ansible` 会为 [Ansible Galaxy](https://galaxy.ansible.com/) 条目渲染一张卡片,数据在构建时获取。它接受 `role` 或 `collection` 参数,两者均为 `namespace.name` 格式。
 
-Admonition 的用途与 alert shortcode 类似，但其实现方式是通过 Hugo 的 render hooks。两者的关键区别在于语法：admonition 使用 Markdown 语法，因此在不同平台之间具有更好的可移植性；而 shortcode 是 Hugo 专有的。其语法类似 GitHub 的 alerts：
+<!-- prettier-ignore-start -->
+| 参数 | 功能 |
+| ------------ | ------------------------------------------------------------------------------------ |
+| `role`       | [String] `namespace.name` 格式的 Galaxy 角色,例如 `geerlingguy.docker` |
+| `collection` | [String] `namespace.name` 格式的 Galaxy 集合,例如 `community.general` |
+<!-- prettier-ignore-end -->
+
+每次调用只能设置 `role` 或 `collection` 中的一个。
+
+卡片的所有值都是在构建时通过 Hugo 的 `resources.GetRemote` 获取的。Galaxy 不允许跨域请求,因此卡片不会在浏览器中刷新——重新构建站点即可更新这些值。
+
+**例1:** 角色
 
 ```md
-> [!TIP]
-> 一个 Tip 类型的提示块。
-
-> [!TIP]+ 自定义标题
-> 一个带有自定义标题的可折叠提示块。
-{icon="twitter"}
+{{</* ansible role="geerlingguy.docker" */>}}
 ```
 
-> [!TIP]
-> 一个 Tip 类型的提示块。
+{{< ansible role="geerlingguy.docker" >}}
 
-> [!TIP]+ 自定义标题
-> 一个带有自定义标题的可折叠提示块。
-{icon="twitter"}
+**例2:** 集合
 
-提示符号（`+` 或 `-`）是可选的，用于控制提示块是否默认折叠。请注意，该提示符号仅在 Obsidian 中兼容。
+```md
+{{</* ansible collection="community.general" */>}}
+```
 
-> [!INFO]- 支持的类型
-> 可用的 admonition 类型包括 [GitHub alert 类型](https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/) 和 [Obsidian callout 类型](https://help.obsidian.md/callouts)。类型名称不区分大小写。
->
-> **GitHub 类型：** `NOTE`, `TIP`, `IMPORTANT`, `WARNING`, `CAUTION`  
-> **Obsidian 类型：** `note`, `abstract`, `info`, `todo`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`
-
-> [!INFO]- 自定义提示框
-> 请参阅 [提示框自定义指南](https://github.com/nunocoracao/blowfish/blob/main/layouts/_default/_markup/render-blockquote.html)。
+{{< ansible collection="community.general" >}}
 
 <br/><br/><br/>
 
-## Article
+## 文章嵌入
 
 `Article` 将把一篇文章嵌入到一个 markdown 文件中。 参数中的 `link`应该是要嵌入的文件的 `.RelPermalink`。请注意，如果简码引用其父级文件，则它不会显示任何内容。 *注意：如果您在 Blowfish（即 /blowfish/）等子文件夹中运行网站，请在链接中包含该路径。*
 
@@ -121,7 +245,7 @@ Admonition 的用途与 alert shortcode 类似，但其实现方式是通过 Hug
 
 <br/><br/><br/>
 
-## Badge
+## 徽章
 
 `badge` 输出一个美观的徽章组件，该组件对于显示元数据很有用。
 
@@ -139,7 +263,7 @@ New article!
 
 <br/><br/><br/>
 
-## Button
+## 按钮
 
 `button` 输出一个样式化的按钮组件，可用于突出显示主要操作。它有三个可选变量 `href`、`target` 和 `rel`，可用于指定链接的 URL、目标和关系。
 
@@ -157,7 +281,7 @@ Call to action
 
 <br/><br/><br/>
 
-## Carousel
+## 滑动画册
 
 `carousel` 用于生成可交互且具有视觉吸引力的方式展示多个图像的画廊。这允许用户滑动浏览多个图像，同时仅占用单个图像的垂直空间。 所有图像均使用父组件的完整宽度并使用预定义的宽高比 `16:9` 、 `21:9` 或 `32:9` 之一显示。
 
@@ -187,7 +311,7 @@ Call to action
 
 <br/><br/><br/>
 
-## Chart
+## 图表
 
 `chart` 使用 Chart.js 库将图表嵌入到使用简单结构化数据的文章中。它支持多种[不同的图表样式](https://www.chartjs.org/docs/latest/samples/)，并且所有内容都可以在简码中进行配置。只需在简码中提供图表参数，Chart.js 将完成剩下的工作。
 
@@ -225,7 +349,7 @@ data: {
 
 <br/><br/><br/>
 
-## Code Importer
+## 导入源码
 
 此短代码用于轻松从外部源导入代码，无需复制和粘贴
 
@@ -279,6 +403,85 @@ data: {
 
 <br/><br/><br/>
 
+## CTA 按钮
+
+使用 `cta` 可以在文档、落地页或长篇内容中添加清晰、无障碍的行动号召按钮。
+
+<!-- prettier-ignore-start -->
+| 参数 | 功能 |
+| --- | --- |
+| `url` | 目标 URL。默认为 `#`。 |
+| `label` | 按钮文字。默认为 `Learn more`。 |
+| `style` | `primary`(默认)或 `outline`。 |
+<!-- prettier-ignore-end -->
+
+```md
+{{</* cta url="/docs/installation/" label="Start building" */>}}
+{{</* cta url="/docs/configuration/" label="Explore configuration" style="outline" */>}}
+```
+
+{{< cta url="/docs/installation/" label="Start building" >}}
+&nbsp;
+{{< cta url="/docs/configuration/" label="Explore configuration" style="outline" >}}
+
+<br/><br/><br/>
+
+## 电子邮件
+
+创建一个经过混淆处理的 mailto 链接:
+
+```md
+{{</* email email="mailto:hello@test.com" text="text" subject="Reply to awesome article" */>}}
+```
+
+{{< email email="mailto:hello@test.com" text="text" subject="Reply to awesome article" >}}
+
+<br/><br/><br/>
+
+## 功能网格
+
+无需重复编写展示用的标记,即可构建精致、响应式的功能介绍区块。使用 `feature-grid` 作为容器,然后为每个条目添加一个 `feature` 简码。网格在大屏幕上默认为三列,也可以设置为四列。
+
+<!-- prettier-ignore-start -->
+| 参数 | 功能 |
+| --- | --- |
+| `columns` | 可选的大屏幕列数:`3`(默认)或 `4`。 |
+| `icon` | 功能的图标名称。默认为 `wand-magic-sparkles`。 |
+| `title` | 功能标题。支持 Markdown。 |
+| `url` | 功能链接的可选目标地址。 |
+| `label` | 链接文字。默认为 `Learn more`。 |
+<!-- prettier-ignore-end -->
+
+**例:**
+
+```md
+{{</* feature-grid columns="3" */>}}
+{{</* feature icon="wand-magic-sparkles" title="Make it yours" url="/docs/configuration/" */>}}
+Start from a thoughtful default, then adjust every meaningful detail.
+{{</* /feature */>}}
+{{</* feature icon="file-lines" title="Publish faster" url="/docs/shortcodes/" label="Browse shortcodes" */>}}
+Compose rich content with small, reusable building blocks.
+{{</* /feature */>}}
+{{</* feature icon="heart" title="Built for people" */>}}
+Accessible defaults, responsive layouts, and dark mode included.
+{{</* /feature */>}}
+{{</* /feature-grid */>}}
+```
+
+{{< feature-grid >}}
+{{< feature icon="wand-magic-sparkles" title="Make it yours" url="/docs/configuration/" >}}
+Start from a thoughtful default, then adjust every meaningful detail.
+{{< /feature >}}
+{{< feature icon="file-lines" title="Publish faster" url="/docs/shortcodes/" label="Browse shortcodes" >}}
+Compose rich content with small, reusable building blocks.
+{{< /feature >}}
+{{< feature icon="heart" title="Built for people" >}}
+Accessible defaults, responsive layouts, and dark mode included.
+{{< /feature >}}
+{{< /feature-grid >}}
+
+<br/><br/><br/>
+
 ## Figure
 
 Blowfish 包含一个 `figure` 简码，用于将图像添加到内容中。该简码取代了基本的 Hugo 功能，且性能更好。
@@ -306,7 +509,7 @@ Blowfish 还支持使用标准 Markdown 语法自动转换图像。只需使用�
 ![Alt text](image.jpg "Image caption")
 ```
 
-## Forgejo Card
+## Forgejo 卡片
 
 `forgejo` allows you to quickly link a Forgejo repository via the forgejo API, providing real-time updates on stats such as stars and forks.
 
@@ -345,7 +548,7 @@ Blowfish 还支持使用标准 Markdown 语法自动转换图像。只需使用�
 
 <br/><br/><br/>
 
-## Gallery
+## 排布画册
 
 `gallery` 允许您以响应式一次展示多个图像，并具有更加多样化和有趣的布局的图库。
 
@@ -366,13 +569,13 @@ Blowfish 还支持使用标准 Markdown 语法自动转换图像。只需使用�
 ```
 
 {{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w33" />
-  <img src="gallery/02.jpg" class="grid-w33" />
-  <img src="gallery/03.jpg" class="grid-w33" />
-  <img src="gallery/04.jpg" class="grid-w33" />
-  <img src="gallery/05.jpg" class="grid-w33" />
-  <img src="gallery/06.jpg" class="grid-w33" />
-  <img src="gallery/07.jpg" class="grid-w33" />
+  <img alt="" src="gallery/01.jpg" class="grid-w33" />
+  <img alt="" src="gallery/02.jpg" class="grid-w33" />
+  <img alt="" src="gallery/03.jpg" class="grid-w33" />
+  <img alt="" src="gallery/04.jpg" class="grid-w33" />
+  <img alt="" src="gallery/05.jpg" class="grid-w33" />
+  <img alt="" src="gallery/06.jpg" class="grid-w33" />
+  <img alt="" src="gallery/07.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 <br/><br/><br/>
@@ -393,13 +596,13 @@ Blowfish 还支持使用标准 Markdown 语法自动转换图像。只需使用�
 ```
 
 {{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery/07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/03.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/04.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/05.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img alt="" src="gallery/07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
 <br/><br/><br/>
@@ -612,7 +815,7 @@ Blowfish 还支持使用标准 Markdown 语法自动转换图像。只需使用�
 
 <br/><br/><br/>
 
-## Lead
+## 开篇语
 
 `lead` 用于强调文章的开头。它可以用来设计介绍的样式，或者指出一条重要的信息。只需将任何 Markdown 内容包装在 `lead` 简码中即可。
 
@@ -741,6 +944,44 @@ B-->C[Profit]
 {{< /mermaid >}}
 
 您可以在[图表和流程图示例]({{< ref "diagrams-flowcharts" >}}) 页面上看到一些其他 Mermaid 示例。
+
+<br/><br/><br/>
+
+## 统计数据
+
+使用 `stats` 和 `stat` 可以在响应式网格中展示简洁、醒目的指标数据。网格在大屏幕上默认为三列,使用 `columns="4"` 可设置为四列。
+
+```md
+{{</* stats */>}}
+{{</* stat value="40+" label="Shortcodes" */>}}Compose pages without bespoke templates.{{</* /stat */>}}
+{{</* stat value="100%" label="Portable" */>}}Keep your content in Markdown.{{</* /stat */>}}
+{{</* stat value="0" label="Required plugins" */>}}Start with Hugo and Blowfish.{{</* /stat */>}}
+{{</* /stats */>}}
+```
+
+{{< stats >}}
+{{< stat value="40+" label="Shortcodes" >}}Compose pages without bespoke templates.{{< /stat >}}
+{{< stat value="100%" label="Portable" >}}Keep your content in Markdown.{{< /stat >}}
+{{< stat value="0" label="Required plugins" >}}Start with Hugo and Blowfish.{{< /stat >}}
+{{< /stats >}}
+
+<br/><br/><br/>
+
+## 步骤
+
+使用 `steps` 和 `step` 来展示入门引导、流程、路线图和教程。
+
+```md
+{{</* steps */>}}
+{{</* step number="1" title="Configure the theme" */>}}Choose a colour scheme and homepage layout.{{</* /step */>}}
+{{</* step number="2" title="Write your content" */>}}Use standard Markdown and shortcodes.{{</* /step */>}}
+{{</* /steps */>}}
+```
+
+{{< steps >}}
+{{< step number="1" title="Configure the theme" >}}Choose a colour scheme and homepage layout.{{< /step >}}
+{{< step number="2" title="Write your content" >}}Use standard Markdown and shortcodes.{{< /step >}}
+{{< /steps >}}
 
 <br/><br/><br/>
 
@@ -996,13 +1237,13 @@ With html code
 {{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
 With other shortcodes
 {{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w33" />
-  <img src="gallery/02.jpg" class="grid-w33" />
-  <img src="gallery/03.jpg" class="grid-w33" />
-  <img src="gallery/04.jpg" class="grid-w33" />
-  <img src="gallery/05.jpg" class="grid-w33" />
-  <img src="gallery/06.jpg" class="grid-w33" />
-  <img src="gallery/07.jpg" class="grid-w33" />
+  <img alt="" src="gallery/01.jpg" class="grid-w33" />
+  <img alt="" src="gallery/02.jpg" class="grid-w33" />
+  <img alt="" src="gallery/03.jpg" class="grid-w33" />
+  <img alt="" src="gallery/04.jpg" class="grid-w33" />
+  <img alt="" src="gallery/05.jpg" class="grid-w33" />
+  <img alt="" src="gallery/06.jpg" class="grid-w33" />
+  <img alt="" src="gallery/07.jpg" class="grid-w33" />
 {{< /gallery >}}
 {{< /timelineItem >}}
 

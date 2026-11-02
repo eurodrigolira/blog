@@ -23,17 +23,13 @@ Para criar, editar, excluir ou pesquisar os objetos que estão marcados com uma 
 
 Clique na aba **Reports and Resources**, e depois clique em **Tags**.
 
-[![](images/tags-01-1024x573.png)](http://rodrigolira.eti.br/wp-content/uploads/2017/03/tags-01.png)
+Para criar uma nova tag, use a opção de criação e preencha os dados.
 
-Para criar uma nova tag clique no ícone ![Create New Repository... icon](images/new_ena.png) e preencha os dados.
+Se já tivermos uma tag criada, podemos editá-la selecionando-a e usando a opção de edição.
 
-Se já tivermos uma tag criada podemos editar a mesma, selecionando a mesma e clicando no ícone ![Edit Access Group icon](images/update_ena.png).
+Podemos excluir a tag selecionando-a e usando a opção de exclusão.
 
-Podemo deletar a tag selecionando e clicando no ícone ![Delete Tag icon](images/delete_ena.png).
-
-Clicando no ícone ![Find Components... icon](images/searchtagitems.png) nós podemos fazer uma pesquisa de um objeto que está usando uma determinada tag, dessa forma podemos refinar a pesquisa por maquinas virtuais por exemplo.
-
-[![](images/tags-02.png)](http://rodrigolira.eti.br/wp-content/uploads/2017/03/tags-02.png)
+Também podemos pesquisar objetos que usam uma determinada tag, refinando a busca por máquinas virtuais, por exemplo.
 
 É isso ai, espero que tenham gostado.
 
