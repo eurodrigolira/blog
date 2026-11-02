@@ -74,6 +74,7 @@ showCategoryOnly = false
 showAuthorsBadges = true
 showWordCount = true
 showZenMode = false
+showComments = true
 heroStyle = "background"
 sharingLinks = [
   "linkedin",
