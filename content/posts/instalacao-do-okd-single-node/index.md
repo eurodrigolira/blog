@@ -1,5 +1,6 @@
 ---
 title: "Instalação do OKD Single Node"
+slug: "instalacao-do-okd-sigle-node"
 date: 2026-11-02
 draft: false
 category: 
