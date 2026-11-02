@@ -1,7 +1,7 @@
 ---
 title: "Instalação do OKD Single Node"
-date: 2026-10-30
-draft: true
+date: 2026-11-02
+draft: false
 category: 
   - "linux"
 tag: 
