@@ -28,7 +28,7 @@ highlightCurrentMenuArea = ""
 #globalWidgetColor = ""
 
 [header]
-layout = "fixed"
+layout = "floating"
 
 [footer]
 showMenu = true
