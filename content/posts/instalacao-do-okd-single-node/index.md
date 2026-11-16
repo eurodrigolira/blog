@@ -69,7 +69,7 @@ export ARCH="x86_64"
 export HOST_ARCH="$(uname -m)"
 ```
 
-Não usei a mesma versão que está disponível na documentação; usei a versão `4.18.0-okd-scos.1`. Caso deseje, você pode selecionar outra na página oficial de releases do projeto:
+Não usei a mesma versão que está disponível na documentação, usei a versão `4.18.0-okd-scos.1`. Caso deseje, você pode selecionar outra na página oficial de releases do projeto:
 
 https://github.com/okd-project/okd/releases
 
@@ -197,11 +197,7 @@ Execute o instalador:
   create single-node-ignition-config
 ```
 
-O instalador gera os arquivos de configuração Ignition:
-
-```text
-sno/bootstrap-in-place-for-live-iso.ign
-```
+O instalador gera os arquivos de configuração Ignition `sno/bootstrap-in-place-for-live-iso.ign`.
 
 Esse arquivo contém as informações necessárias para inicializar o Fedora CoreOS e executar o processo de instalação do OKD.
 
