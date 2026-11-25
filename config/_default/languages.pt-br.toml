@@ -11,8 +11,8 @@ description = "Rodrigo Lira | Linux/BSD SysAdmin"
 [params.author]
   name = "Rodrigo Lira"
   email = "eurodrigolira@gmail.com"
-  bio = "Linux/BSD SysAdmin"
-  headline = "Linux/BSD SysAdmin"
+  bio = "Linux/BSD SysAdmin | RHCA | LPIC-3"
+  headline = "Linux/BSD SysAdmin | RHCA | LPIC-3"
   image = "perfil.jpeg"
   links = [
     { email = "mailto:eurodrigolira@gmail.com" },
